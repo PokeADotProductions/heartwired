@@ -89,7 +89,7 @@ This Software Requirements Specification (SRS) documents the requirements for th
     * The player will be able to select a file to continue with.
     * The player will be able to delete a saved file.
     
-  * 5.2.1.1.4.2 The File selection shall provide the player access back to the Top Level Menu.
+  * 5.3.1.1.4.2 The File selection shall provide the player access back to the Top Level Menu.
 
 * 5.3.1.1.5 World Selection Menu
   * 5.3.1.1.5.1 The World Selection Menu shall provide a set of buttons providing the player to accessible worlds. 
