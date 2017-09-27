@@ -35,11 +35,11 @@ This Software Requirements Specification (SRS) documents the requirements for th
 
 * 5.2.1.1.1 The Main Menu for the application shall provide the user with a way to select what function of the application they want to proceed to. 
 
-There will exist a tree of menus as follows:
-    | Top Level Menu
-      | File Selection Menu
-        | World Selection Menu
-      | Settings Menu
+  There will exist a tree of menus as follows:
+  - Top Level Menu
+    - File Selection Menu
+      - World Selection Menu
+    - Settings Menu
 
 * 5.2.1.1.2 Top Level Menu
   * 5.2.1.1.2.1 The Top Level Menu shall allow the player to access the submenus File Selection and Settings.
