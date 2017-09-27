@@ -29,23 +29,24 @@ This Software Requirements Specification (SRS) documents the requirements for th
 
 # 5.2       CSCI Component Breakdown
 
-* 5.2.1 Top Level Menu
-  * 5.2.1.1 File Selection Menu
-    * 5.2.1.1.1 World Selection Menu
-      * 5.2.1.1.1.1 Core Game
-        * 5.2.1.1.1.1.1 Platforming System
-	* 5.2.1.1.1.1.2 Two Character System (TCS)
-	* 5.2.1.1.1.1.3 Ability System
-	* 5.2.1.1.1.1.4 Enemy System
-	* 5.2.1.1.1.1.5 Terrain System
-	* 5.2.1.1.1.1.6 Health System
-	* 5.2.1.1.1.1.7 Camera System
-      * 5.2.1.1.1.2 HUD
-      * 5.2.1.1.1.3 Pause Menu
-      * 5.2.1.1.1.4 Game Over Screen
-  * 5.2.1.2 Settings Menu
-    * 5.2.1.2.1 Controls
-    * 5.2.1.2.2 Sound
+### 5.2.1 Top Level Menu
+
+* 5.2.1.1 File Selection Menu
+  * 5.2.1.1.1 World Selection Menu
+    * 5.2.1.1.1.1 Core Game
+      * 5.2.1.1.1.1.1 Platforming System
+      * 5.2.1.1.1.1.2 Two Character System (TCS)
+      * 5.2.1.1.1.1.3 Ability System
+      * 5.2.1.1.1.1.4 Enemy System
+      * 5.2.1.1.1.1.5 Terrain System
+      * 5.2.1.1.1.1.6 Health System
+      * 5.2.1.1.1.1.7 Camera System
+    * 5.2.1.1.1.2 HUD
+    * 5.2.1.1.1.3 Pause Menu
+    * 5.2.1.1.1.4 Game Over Screen
+* 5.2.1.2 Settings Menu
+  * 5.2.1.2.1 Controls
+  * 5.2.1.2.2 Sound
       
 
 # 5.3       Functional Requirements
