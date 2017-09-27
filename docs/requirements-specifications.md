@@ -33,19 +33,23 @@ This Software Requirements Specification (SRS) documents the requirements for th
 
 ### 5.2.1.1   Menu
 
-The Main Menu for the application provides the user with a way to select what function of the application they want to proceed to. There will exist a tree of menus as follows:
+* 5.2.1.1.1 The Main Menu for the application shall provide the user with a way to select what function of the application they want to proceed to. 
+
+There will exist a tree of menus as follows:
     | Top Level Menu
       | File Selection Menu
         | World Selection Menu
       | Settings Menu
 
-* 5.2.1.1.1 Top Level Menu
-  * The Top Level Menu shall allow the player to access the submenus File Selection and Settings.
-  * The Top Level Menu shall allow the player to quit the application.
+* 5.2.1.1.2 Top Level Menu
+  * 5.2.1.1.2.1 The Top Level Menu shall allow the player to access the submenus File Selection and Settings.
+  * 5.2.1.1.2.2 The Top Level Menu shall allow the player to quit the application.
 
-* 5.2.1.1.2 Settings Menu
+* 5.2.1.1.3 Settings Menu
 
-  * The Settings Menu shall allow the player to change the buttons for controlling the game. These buttons will include, but not be limited to, the following buttons:
+  * 5.2.1.1.3.1 The Settings Menu shall allow the player to change the buttons for controlling the game. 
+  
+    These buttons will include, but not be limited to, the following buttons:
 
       * Left
       * Right
@@ -55,43 +59,45 @@ The Main Menu for the application provides the user with a way to select what fu
       * Ability 1
       * Ability 2
       
-  * The Settings Menu shall allow the player to edit the sound levels of the application.
-  * The Settings Menu shall provide the player access back to the Top Level Menu.
+  * 5.2.1.1.3.2 The Settings Menu shall allow the player to edit the sound levels of the application.
+  * 5.2.1.1.3.3 The Settings Menu shall provide the player access back to the Top Level Menu.
   
-* 5.2.1.1.3 File Selection Menu
-  * The File Selection Screen shall display a list of saved files.
+* 5.2.1.1.4 File Selection Menu
+  * 5.2.1.1.4.1 The File Selection Screen shall display a list of saved files.
     * The player will be able to select a file to continue with.
     * The player will be able to delete a saved file.
     
-  * The File selection shall provide the player access back to the Top Level Menu.
+  * 5.2.1.1.4.2 The File selection shall provide the player access back to the Top Level Menu.
 
-* 5.2.1.1.4 World Selection Menu
-  * The World Selection Menu shall provide a set of buttons providing the player to accessible worlds. These worlds will include but not be limited to:
+* 5.2.1.1.5 World Selection Menu
+  * 5.2.1.1.5.1 The World Selection Menu shall provide a set of buttons providing the player to accessible worlds. 
+    These worlds will include but not be limited to:
     * Farm
     * Swamp
     * City
 
-  * The World Selection Menu shall provide the player access back to the File Selection Screen.
+  * 5.2.1.1.5.2 The World Selection Menu shall provide the player access back to the File Selection Screen.
   
   
 ###  5.2.1.2   Core Game
-  The Core Game is the screen where the majority of the player's task is completed. The Core Game will display to the user the current game state and respond to the player's input.
+  The Core Game is the screen where the majority of the player's task is completed. 
+  The Core Game will display to the user the current game state and respond to the player's input.
 
 * 5.2.1.1.2 Main Game
-  * The Platforming System shall allow the player to platform with minimum frustration.
+  * 5.2.1.1.2.1 The Platforming System shall allow the player to platform with minimum frustration.
     * The character will be able to move left and right.
     * The character will be able to jump.
     * The character will collide with all platforms desired.
 
-  * The Two Character System (TCS) shall provide the player the ability to seamlessly switch between characters.
+  * 5.2.1.1.2.2 The Two Character System (TCS) shall provide the player the ability to seamlessly switch between characters.
 
     * The TCS will disable the ability to switch when desired. This includes situations including, but not limited to:
       1. During the use of abilities
       2. When only one avatar is available
 
-    * The TCS shall provide an Artificial Intelligence to allow uncontrolled avatars to follow the player to the best of their ability.
+    * The TCS will provide an Artificial Intelligence to allow uncontrolled avatars to follow the player to the best of their ability.
 
-  * The Ability System shall provide the player access to the use of abilities. Each character has their own unique abilities. 
+  * 5.2.1.1.2.3 The Ability System shall provide the player access to the use of abilities. Each character has their own unique abilities. 
     * Hookshot: pull the character to predefined “hookable terrain”
     * Slide: slip underneath low ceiling environments
     * Sneak: avoid enemy vision by hiding in predefined locations  
@@ -100,21 +106,21 @@ The Main Menu for the application provides the user with a way to select what fu
     * Push Button: press a button to affect the level
     * Push Block: move an object
 	
-  * The Enemy System shall provide the player with a variety of obstacles the player will have to overcome.
-    * The Enemy System will control the detection of player characters when in range of enemies.
-    * The Enemy System will handle the attacking of the player by the enemy by:
-      1. Targeting only the active character for attack
-      2. Knocking back the hit character
-      3. Decreasing the health of hit player character
-      4. Blocking player characters from walking through or past the enemy.
+  *  5.2.1.1.2.4 The Enemy System shall provide the player with a variety of obstacles the player will have to overcome.
+      * The Enemy System will control the detection of player characters when in range of enemies.
+      * The Enemy System will handle the attacking of the player by the enemy by:
+        1. Targeting only the active character for attack
+        2. Knocking back the hit character
+        3. Decreasing the health of hit player character
+        4. Blocking player characters from walking through or past the enemy.
 
-  * The Health System shall include control the current status of the characters.
-    * The Health System shall set a maximum health for all characters and enemies (units).
+  * 5.2.1.1.2.5 The Health System shall include control the current status of the characters.
+    * The Health System will set a maximum health for all characters and enemies (units).
     * The Health of a unit will decrease upon being hit by an attack.
     * The Health of a unit will decrease when under a terrain effect.
     * The character will receive temporary invulnerability when experiencing a reduction in health.
 
-  * The Terrain System shall provide the player with varying platforms to interact.
+  * 5.2.1.1.2.6 The Terrain System shall provide the player with varying platforms to interact.
 
     * The Terrain System will provide the player with a platform the serves solely as a platform to stand on.
     * The Terrain System will include platforms that only specific characters can interact with and walk upon.
@@ -125,21 +131,22 @@ The Main Menu for the application provides the user with a way to select what fu
       4. Platforms that move via command of switch or other character interactions with the environment
     * The Terrain System will prevent platforms from falling forever.
 
-  * The Camera System shall control what elements the play can see.
+  * 5.2.1.1.2.7 The Camera System shall control what elements the play can see.
     
     * The Camera System will control transitions between screens by panning.
     * The Camera System will control transitions between levels by fadeout.
     * The Camera System will control camera panning through specific screens.
 
 * 5.2.1.1.3 Pause Menu
-  * The Pause Menu shall halt the game. While the game is halted the following elements shall be displayed on the screen: 
-    * Resume: will return the game to a running state from a halted state
-    * Return to Last Checkpoint: will return the game to a running state starting from the most recent checkpoint
-    * Return to World Select: will return the game to the World Selection Menu
-    * Settings: will open the Settings Menu
+  * 5.2.1.1.3.1 The Pause Menu shall halt the game. While the game is halted the following elements shall be displayed on the screen: 
+    * "Resume" will return the game to a running state from a halted state
+    * "Return to Last Checkpoint" will return the game to a running state starting from the most recent checkpoint
+    * "Return to World Select" will return the game to the World Selection Menu
+    * "Settings" will open the Settings Menu
 
 * 5.2.1.1.4 Game Over Screen
-  The Game Over Screen shall be displayed when the player’s health drops to 0. The Game Over Screen shall allow the player to choose between returning to the last checkpoint, returning to the World Selection Screen.
+  * 5.2.1.1.4.1 The Game Over Screen shall be displayed when the player’s health drops to 0. 
+  * 5.2.1.1.4.2 The Game Over Screen shall allow the player to choose between returning to the last checkpoint, returning to the World Selection Screen.
 
 ## 5.2.2     Game Assets
 
