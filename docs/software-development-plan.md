@@ -1,6 +1,6 @@
 # 4.1   Plan Introduction
 
-This Software Development Plan provides the details of the planned development for the Heartwired application, a 2D puzzle-platformer video game that users will be able to download and play on both Mac/PC. 
+This Software Development Plan provides the details of the planned development for the Heartwired application, a 2D puzzle-platformer video game that users will be able to download and play on both Mac/PC. In developing the game, each member of the team will be programming features in weekly sprints before coming together and consolidating the best possible version of the product. The developers will be using Windows PC computers and Unreal Engine Blueprints throughout the development of the project, in teamwork with assets created and imported from Maya 3D Software. 
 
 ## 4.1.1 Project Deliverables
 
@@ -36,8 +36,9 @@ This Software Development Plan provides the details of the planned development f
 | Unreal Engine Blueprints | ✓  | ✓ |
 | Github | ✓ |  |
 
-
 # 4.3 Project Organization
+
+The way that 
 
 # 4.4 Project Schedule 
 
@@ -46,67 +47,70 @@ Since Heartwired will be built upon in increasing complexity, the development of
 A detailed description of the sprint schedule follows:
 
 Week 1:
-  * Ability to move and jump.
-  * Collision.
-  * Switching.
-  * Camera between screens. (can just jump doesn't need to pan)
-  * Menu system to load into menu.
+  * Ability to move and jump
+  * Collision
+  * Switching
+  * Camera transitioning between screens
+  * Menu system to load into menu
 
 Week 2:
-  * Jump with a platformy feel
-  * Follow at all points.
+  * Platforming: jump
+  * Follow at all points
   * Permanently moving platforms
-  * Camera transition between screens.
-  * Camera transition between Zones
-  * All menus.
+  * Camera transition between screens and levels
+  * All menus
   
 Week 3:
-  * Saving/Loading.
-  * Follow unless told to hold.
-  * Switches.
-  * Enemies present and detecting at a range and moving.
-  * Begin adding in rough animations.
-  * Pause Menu.
+  * Saving/Loading system
+  * Character follows unless told to hold
+  * Character switching
+  * Enemies present and detecting at a range and moving
+  * Begin adding in rough animations
+  * Pause Men
 
 Week 4:
-  * Collision works well.
-  * Animations should be linked.
-  * Switches can be linked to certain types of environments.
-  * Follow AI can sometimes detect when it cannot follow. (Easiest way might be to just have physical indicators)
-  * Health system.
-  * Bear attacking.
-  * Hookshot to some things.
+  * Collision is functional
+  * Linking animations
+  * Switches can be linked to certain types of environments
+  * Follow AI can sometimes detect when it cannot follow
+  * Health system
+  * Bear attacking
+  * Preliminary hookshot
 
 Week 5:
-  * Checkpoints.
-  * HUD system.
-  * All types of hookshot independently.
-  * Bear charge.
-  * Sneak.
-  * Enemy AI done except fine tuning.
+  * Checkpoints
+  * HUD system
+  * All types of hookshot independently
+  * Bear charge
+  * Sneak
+  * Enemy AI complete without fine-tuning
 
 Week 6:
-  * All animations in (still rough though).
-  * All animations smoothly transition.
-  * Hookshot toggling (choosing correct destination).
-  * Hookshot rope and shit.
-  * Menu animations.
-  * Marker when other avatar is on other screen.
-  * Toggling characters when on other screen.
+  * All animations imported
+  * All animations smoothly transition
+  * Hookshot toggling and choosing correct destination
+  * Hookshot rope
+  * Menu animations
+  * Marker when other avatar is on other screen
+  * Toggling characters when on other screen
   
 Week 7: 
-  * Saving completed levels and not reloading them as they are.
-  * Ability cooldowns.
-  * Locking out switching on ability use.
-  * World select.
+  * Saving completed levels and not reloading them as they are
+  * Ability cooldowns
+  * Locking out switching on ability use
+  * World select
 
-Understanding the importance of testing our game early and often, we have allocated time for playtesting throughout the semester. 
+Understanding the importance of testing our game early and often, we have allocated time for playtesting throughout the semester. For more details on the abilities we will be tackling in our sprints, please see our Requirements Specifications Document.  
 
 ## 4.4.1 PERT / GANTT Chart
 
-![GANTT Chart]()
+The GANTT Chart provides a visual representation of the pacing we are expecting to follow in programming each of these unique features into the game. 
+
+![GANTT Chart](https://raw.githubusercontent.com/sashadmitrieva96/cyberwitch/master/docs/ganttchart.JPG)
 
 ## 4.4.2 Task / Resource Table
+
+All of the programming for Heartwired will be done in the Unreal Engine Blueprints system:
 
 | Task | Hardware | Software |   
 |---|---|---|
