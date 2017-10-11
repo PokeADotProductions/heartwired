@@ -5,7 +5,7 @@ This Software Development Plan provides the details of the planned development f
 ## 4.1.1 Project Deliverables
 
 * Project Proposal Document (9/20)
-* Requirements Specification (9/27
+* Requirements Specification (9/27)
 * Software Development Plan Document (10/11)
 * Preliminary Design Review Presentations (11/01)
 * Software Design Description Document (Architecture Section) (11/01) 
@@ -47,7 +47,7 @@ Our method of assigning roles in the development of *Heartwired* is different fr
 
 We approached our development plan with snowballing complexity: Kevin Metelus, Ryan Taus, Sasha Dmitrieva, and Zachary Fitzpatrick will each begin with programming the smallest working version of the game. Once we have finished, we will consolidate our work and determine which approach was the most efficient and satisfying in gameplay. Then, we will each program the next round of features, and so on. This schedule of increasing complexity is detailed in the next section.
 
-Each member also participates in designing puzzles for the game levels. In short, every member of the team has similar responsibilities in the development process. 
+Each member also participates in designing puzzles for the game's levels. In short, every member of the team has similar responsibilities in the development process. 
 
 # 4.4 Project Schedule 
 
@@ -75,7 +75,7 @@ Week 3:
   * Character switching
   * Enemies present and detecting at a range and moving
   * Begin adding in rough animations
-  * Pause Men
+  * Pause Menu
 
 Week 4:
   * Collision is functional
