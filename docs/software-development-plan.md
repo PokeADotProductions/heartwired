@@ -1,6 +1,6 @@
 # 4.1   Plan Introduction
 
-This Software Development Plan provides the details of the planned development for the Heartwired application, a 2D puzzle-platformer video game that users will be able to download and play on both Mac/PC. In developing the game, each member of the team will be programming features in weekly sprints before coming together and consolidating the best possible version of the product. The developers will be using Windows PC computers and Unreal Engine Blueprints throughout the development of the project, in teamwork with assets created and imported from Maya 3D Software. 
+This Software Development Plan provides the details of the planned development for the *Heartwired* application, a 2D puzzle-platformer video game that users will be able to download and play on both Mac/PC. In developing the game, each member of the team will be programming features in weekly sprints before coming together and consolidating the best possible version of the product. The developers will be using Windows PC computers and Unreal Engine Blueprints throughout the development of the project, in teamwork with assets created and imported from Maya 3D Software. 
 
 ## 4.1.1 Project Deliverables
 
@@ -13,11 +13,16 @@ This Software Development Plan provides the details of the planned development f
 * Critical Design Review (CDR) Presentations (11/15)
 * Test Plan Document (11/29)
 * AlphaBeta Project Presentations (11/29)
-  * We will be presenting 
+  * For the Alpha Project Presentation, we will be showing a playable tutorial level and a work in progress first world. 
+  * Both of these levels will be testable.
+  * Many of the assets in these levels may be temporary, as the animation production schedule permits. 
 * User’s Manual (12/06)
 * User’s Manual Final Updates (12/15) 
 * Final Project Presentation (12/16)
-  * We will be presenting 
+  * We will be presenting the game tutorial and first world at the final project presentations. 
+  * Both of these levels will have been rigorously tested.
+  * Most of the assets in these levels will be at their complete stage. 
+  * Users will be able to play through both of these levels at their leisure. 
 * Oral Status Reports
 * Written Status Reports in Project SDF
 
@@ -38,7 +43,11 @@ This Software Development Plan provides the details of the planned development f
 
 # 4.3 Project Organization
 
-The way that 
+Our method of assigning roles in the development of *Heartwired* is different from the typical software development plan. Rather than splitting the programming of each ability by specifc members of the team, every developer will be working concurrently on the features. We recognize that many aspects of the game code rely closely on one another; therefore, every person on the project must be able to understand and create the game from the ground up to avoid confusion and reliance on any one team member. 
+
+We approached our development plan with snowballing complexity: Kevin Metelus, Ryan Taus, Sasha Dmitrieva, and Zachary Fitzpatrick will each begin with programming the smallest working version of the game. Once we have finished, we will consolidate our work and determine which approach was the most efficient and satisfying in gameplay. Then, we will each program the next round of features, and so on. This schedule of increasing complexity is detailed in the next section.
+
+Each member also participates in designing puzzles for the game levels. In short, every member of the team has similar responsibilities in the development process. 
 
 # 4.4 Project Schedule 
 
@@ -100,7 +109,7 @@ Week 7:
   * Locking out switching on ability use
   * World select
 
-Understanding the importance of testing our game early and often, we have allocated time for playtesting throughout the semester. For more details on the abilities we will be tackling in our sprints, please see our Requirements Specifications Document.  
+Understanding the importance of testing our game early and often, we have allocated time for playtesting throughout the semester. For more details on the abilities we will be tackling in our sprints, please see our [Requirements Specifications Document.](requirements-specifications.md)  
 
 ## 4.4.1 PERT / GANTT Chart
 
