@@ -34,6 +34,7 @@ This Software Development Plan provides the details of the planned development f
 | Windows | Intel Xeon | 2.60 GHz | 20 cores | 64.0 GB | NVIDIA Quadro M400 | 8912 MB | Development |
 | Windows | Intel Core i5 | 2.30 GHz | 5 cores | 8.0 GB | Intel HD Graphics 520 | 8060 MB | Development |
 | Windows | Intel Core i7 | 2.70 GHz | 7 cores | 16.0 GB | Intel HD Graphics 620 | 8260 MB | Development |
+| Windows | Intel Core i7 | 2.50 GHz | 7 cores | 8.0 GB | NVIDIA GeForce 940MX  | 6067 MB | Development |
 
 ## 4.2.2 Software Resources 
 
