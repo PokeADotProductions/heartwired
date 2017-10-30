@@ -1,8 +1,8 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 10/16/2017, 16:19:12
-             Machine name: ANM-CA308-HP05
+      Time of this report: 10/29/2017, 15:17:55
+             Machine name: ANM-CA301-HP12
          Operating System: Windows 10 Pro 64-bit (10.0, Build 10586) (10586.th2_release.170904-1742)
                  Language: English (Regional Setting: English)
       System Manufacturer: Hewlett-Packard
@@ -11,7 +11,7 @@ System Information
                 Processor: Intel(R) Xeon(R) CPU E5-2660 v3 @ 2.60GHz (40 CPUs), ~2.6GHz
                    Memory: 65536MB RAM
       Available OS Memory: 65452MB RAM
-                Page File: 11575MB used, 63604MB available
+                Page File: 6066MB used, 69113MB available
               Windows Dir: C:\windows
           DirectX Version: 12
       DX Setup Parameters: Not found
@@ -28,7 +28,6 @@ DxDiag Notes
       Display Tab 1: No problems found.
       Display Tab 2: No problems found.
         Sound Tab 1: No problems found.
-        Sound Tab 2: No problems found.
           Input Tab: No problems found.
 
 --------------------
@@ -51,18 +50,18 @@ Display Devices
            DAC type: Integrated RAMDAC
         Device Type: Full Device
          Device Key: Enum\PCI\VEN_10DE&DEV_13F1&SUBSYS_1153103C&REV_A1
-     Display Memory: 40878 MB
-   Dedicated Memory: 8152 MB
+     Display Memory: 40818 MB
+   Dedicated Memory: 8092 MB
       Shared Memory: 32725 MB
        Current Mode: 1920 x 1200 (32 bit) (59Hz)
-       Monitor Name: HP LP2475w Wide LCD Monitor
-      Monitor Model: HP LP2475w
-         Monitor Id: HWP26F9
+       Monitor Name: HP ZR24w Wide LCD Monitor
+      Monitor Model: HP ZR24w
+         Monitor Id: HWP2869
         Native Mode: 1920 x 1200(p) (59.950Hz)
         Output Type: Displayport External
         Driver Name: nvd3dumx.dll,nvwgf2umx.dll,nvwgf2umx.dll,nvwgf2umx.dll,nvd3dum,nvwgf2um,nvwgf2um,nvwgf2um
-Driver File Version: 21.21.0013.7711 (English)
-     Driver Version: 21.21.13.7711
+Driver File Version: 10.18.0013.6839 (English)
+     Driver Version: 10.18.13.6839
         DDI Version: 12
      Feature Levels: 12.1,12.0,11.1,11.0,10.1,10.0,9.3,9.2,9.1
        Driver Model: WDDM 2.0
@@ -72,15 +71,15 @@ Graphics Preemption: DMA
 Hybrid Graphics GPU: Not Supported
      Power P-states: Not Supported
   Driver Attributes: Final Retail
-   Driver Date/Size: 3/17/2017 12:00:00 AM, 17594232 bytes
+   Driver Date/Size: 6/2/2016 12:00:00 AM, 17432544 bytes
         WHQL Logo'd: Yes
     WHQL Date Stamp: 
-  Device Identifier: {D7B71E3E-50B1-11CF-936D-5E311BC2D835}
+  Device Identifier: {D7B71E3E-50B1-11CF-3B69-5E311CC2C735}
           Vendor ID: 0x10DE
           Device ID: 0x13F1
           SubSys ID: 0x1153103C
         Revision ID: 0x00A1
- Driver Strong Name: oem152.inf:0f066de3ae8508a0:Section091:21.21.13.7711:pci\ven_10de&dev_13f1
+ Driver Strong Name: oem120.inf:0f066de3ae8508a0:Section049:10.18.13.6839:pci\ven_10de&dev_13f1
      Rank Of Driver: 00D12001
         Video Accel: 
         DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
@@ -140,18 +139,18 @@ Hybrid Graphics GPU: Not Supported
            DAC type: Integrated RAMDAC
         Device Type: Full Device
          Device Key: Enum\PCI\VEN_10DE&DEV_13F1&SUBSYS_1153103C&REV_A1
-     Display Memory: 40878 MB
-   Dedicated Memory: 8152 MB
+     Display Memory: 40818 MB
+   Dedicated Memory: 8092 MB
       Shared Memory: 32725 MB
-       Current Mode: 2560 x 1440 (32 bit) (59Hz)
-       Monitor Name: HP DreamColor Z27x Professional Display
-      Monitor Model: HP Z27x
-         Monitor Id: HWP3103
-        Native Mode: 2560 x 1440(p) (59.951Hz)
-        Output Type: Displayport External
+       Current Mode: 1280 x 1024 (32 bit) (60Hz)
+       Monitor Name: Dell 1907FP(Digital)
+      Monitor Model: DELL 1907FP
+         Monitor Id: DEL4015
+        Native Mode: 1280 x 1024(p) (60.020Hz)
+        Output Type: DVI
         Driver Name: nvd3dumx.dll,nvwgf2umx.dll,nvwgf2umx.dll,nvwgf2umx.dll,nvd3dum,nvwgf2um,nvwgf2um,nvwgf2um
-Driver File Version: 21.21.0013.7711 (English)
-     Driver Version: 21.21.13.7711
+Driver File Version: 10.18.0013.6839 (English)
+     Driver Version: 10.18.13.6839
         DDI Version: 12
      Feature Levels: 12.1,12.0,11.1,11.0,10.1,10.0,9.3,9.2,9.1
        Driver Model: WDDM 2.0
@@ -161,15 +160,15 @@ Graphics Preemption: DMA
 Hybrid Graphics GPU: Not Supported
      Power P-states: Not Supported
   Driver Attributes: Final Retail
-   Driver Date/Size: 3/17/2017 12:00:00 AM, 17594232 bytes
+   Driver Date/Size: 6/2/2016 12:00:00 AM, 17432544 bytes
         WHQL Logo'd: Yes
     WHQL Date Stamp: 
-  Device Identifier: {D7B71E3E-50B1-11CF-936D-5E311BC2D835}
+  Device Identifier: {D7B71E3E-50B1-11CF-3B69-5E311CC2C735}
           Vendor ID: 0x10DE
           Device ID: 0x13F1
           SubSys ID: 0x1153103C
         Revision ID: 0x00A1
- Driver Strong Name: oem152.inf:0f066de3ae8508a0:Section091:21.21.13.7711:pci\ven_10de&dev_13f1
+ Driver Strong Name: oem120.inf:0f066de3ae8508a0:Section049:10.18.13.6839:pci\ven_10de&dev_13f1
      Rank Of Driver: 00D12001
         Video Accel: 
         DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
@@ -251,31 +250,6 @@ Static/Strm HW Mix Bufs: 1, 0
    I3DL2(tm) Listen/Src: No, No
 Sensaura(tm) ZoomFX(tm): No
 
-            Description: HP Z27x-4 (NVIDIA High Definition Audio)
- Default Sound Playback: No
- Default Voice Playback: No
-            Hardware ID: HDAUDIO\FUNC_01&VEN_10DE&DEV_0071&SUBSYS_103C1153&REV_1001
-        Manufacturer ID: 1
-             Product ID: 100
-                   Type: WDM
-            Driver Name: nvhda64v.sys
-         Driver Version: 1.03.0034.0017 (English)
-      Driver Attributes: Final Retail
-            WHQL Logo'd: Yes
-          Date and Size: 9/29/2016 12:00:00 AM, 212936 bytes
-            Other Files: 
-        Driver Provider: NVIDIA Corporation
-         HW Accel Level: Basic
-              Cap Flags: 0xF1F
-    Min/Max Sample Rate: 100, 200000
-Static/Strm HW Mix Bufs: 1, 0
- Static/Strm HW 3D Bufs: 0, 0
-              HW Memory: 0
-       Voice Management: No
- EAX(tm) 2.0 Listen/Src: No, No
-   I3DL2(tm) Listen/Src: No, No
-Sensaura(tm) ZoomFX(tm): No
-
 ---------------------
 Sound Capture Devices
 ---------------------
@@ -298,16 +272,34 @@ Vendor/Product ID: n/a
 Vendor/Product ID: n/a
         FF Driver: n/a
 
-      Device Name: HP USB Keyboard
+      Device Name: Wacom Tablet
          Attached: 1
     Controller ID: 0x0
-Vendor/Product ID: 0x03F0, 0x0D4A
+Vendor/Product ID: 0x056A, 0x0026
+        FF Driver: n/a
+
+      Device Name: Wacom Tablet
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x056A, 0x0026
         FF Driver: n/a
 
       Device Name: HP USB Keyboard
          Attached: 1
     Controller ID: 0x0
-Vendor/Product ID: 0x03F0, 0x0D4A
+Vendor/Product ID: 0x03F0, 0x064A
+        FF Driver: n/a
+
+      Device Name: Wacom Tablet
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x056A, 0x0026
+        FF Driver: n/a
+
+      Device Name: HP USB Keyboard
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x03F0, 0x064A
         FF Driver: n/a
 
 Poll w/ Interrupt: No
@@ -321,9 +313,51 @@ USB Devices
 | Service: USBHUB3
 | Driver: USBHUB3.SYS, 4/22/2016 21:56:52, 534872 bytes
 | 
++-+ USB Composite Device
+| | Vendor/Product ID: 0x03F0, 0x064A
+| | Location: Port_#0005.Hub_#0003
+| | Matching Device ID: USB\COMPOSITE
+| | Service: usbccgp
+| | Driver: usbccgp.sys, 10/30/2015 00:17:23, 159072 bytes
+| | 
+| +-+ USB Input Device
+| | | Vendor/Product ID: 0x03F0, 0x064A
+| | | Location: 0000.0014.0000.005.000.000.000.000.000
+| | | Matching Device ID: USB\Class_03&SubClass_01
+| | | Service: HidUsb
+| | | Driver: hidusb.sys, 10/30/2015 00:17:23, 38400 bytes
+| | | Driver: hidclass.sys, 5/27/2016 21:23:26, 155136 bytes
+| | | Driver: hidparse.sys, 10/30/2015 00:17:23, 40448 bytes
+| | | 
+| | +-+ HID Keyboard Device
+| | | | Vendor/Product ID: 0x03F0, 0x064A
+| | | | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
+| | | | Service: kbdhid
+| | | | Driver: kbdhid.sys, 10/30/2015 00:17:23, 36864 bytes
+| | | | Driver: kbdclass.sys, 10/30/2015 00:17:23, 62304 bytes
+| | 
++-+ Wacom Tablet
+| | Vendor/Product ID: 0x056A, 0x0026
+| | Location: Port_#0006.Hub_#0003
+| | Matching Device ID: USB\VID_056A&PID_0026
+| | Upper Filters: mshidkmdf
+| | Service: WacHidRouterPro
+| | Driver: wachidrouter.sys, 4/28/2017 16:21:30, 122512 bytes
+| | Driver: wdfcoinstaller01011.dll, 4/28/2017 16:21:31, 1804688 bytes
+| | 
+| +-+ HID-Compliant Mouse
+| | | Vendor/Product ID: 0x056A, 0x0026
+| | | Matching Device ID: HID\VID_056A&PID_0026&Col01
+| | | Upper Filters: wacomrouterfilter
+| | | Service: mouhid
+| | | Driver: wacomrouterfilter.sys, 4/11/2017 11:23:37, 24040 bytes
+| | | Driver: mouhid.sys, 10/30/2015 00:17:23, 32256 bytes
+| | | Driver: mouclass.sys, 10/30/2015 00:17:23, 59232 bytes
+| | | Driver: wdfcoinstaller01009.dll, 12/11/2012 15:12:00, 1721576 bytes
+| | 
 +-+ USB Input Device
 | | Vendor/Product ID: 0x03F0, 0x134A
-| | Location: Port_#0005.Hub_#0003
+| | Location: Port_#0011.Hub_#0003
 | | Matching Device ID: USB\Class_03&SubClass_01
 | | Service: HidUsb
 | | Driver: hidusb.sys, 10/30/2015 00:17:23, 38400 bytes
@@ -336,29 +370,6 @@ USB Devices
 | | | Service: mouhid
 | | | Driver: mouhid.sys, 10/30/2015 00:17:23, 32256 bytes
 | | | Driver: mouclass.sys, 10/30/2015 00:17:23, 59232 bytes
-| | 
-+-+ USB Composite Device
-| | Vendor/Product ID: 0x03F0, 0x0D4A
-| | Location: Port_#0006.Hub_#0003
-| | Matching Device ID: USB\COMPOSITE
-| | Service: usbccgp
-| | Driver: usbccgp.sys, 10/30/2015 00:17:23, 159072 bytes
-| | 
-| +-+ USB Input Device
-| | | Vendor/Product ID: 0x03F0, 0x0D4A
-| | | Location: 0000.0014.0000.006.000.000.000.000.000
-| | | Matching Device ID: USB\Class_03&SubClass_01
-| | | Service: HidUsb
-| | | Driver: hidusb.sys, 10/30/2015 00:17:23, 38400 bytes
-| | | Driver: hidclass.sys, 5/27/2016 21:23:26, 155136 bytes
-| | | Driver: hidparse.sys, 10/30/2015 00:17:23, 40448 bytes
-| | | 
-| | +-+ HID Keyboard Device
-| | | | Vendor/Product ID: 0x03F0, 0x0D4A
-| | | | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
-| | | | Service: kbdhid
-| | | | Driver: kbdhid.sys, 10/30/2015 00:17:23, 36864 bytes
-| | | | Driver: kbdclass.sys, 10/30/2015 00:17:23, 62304 bytes
 
 ----------------
 Gameport Devices
@@ -395,13 +406,13 @@ File System: NTFS
       Model: NVMe SAMSUNG MZVPV256
 
       Drive: E:
- Free Space: 140.5 GB
+ Free Space: 889.0 GB
 Total Space: 953.7 GB
 File System: NTFS
       Model: WDC WD10EZEX-60WN4A0
 
       Drive: G:
-      Model: hp DVDRW  DU8A6SH
+      Model: hp HLDS DVDRW  GUD0N
      Driver: c:\windows\system32\drivers\cdrom.sys, 10.00.10586.0000 (English), 10/30/2015 00:17:22, 173568 bytes
 
 --------------
@@ -609,72 +620,71 @@ Device ID: PCI\VEN_8086&DEV_2F33&SUBSYS_2F338086&REV_02\3&1C6B4348&0&4A
 
      Name: NVIDIA Quadro M4000
 Device ID: PCI\VEN_10DE&DEV_13F1&SUBSYS_1153103C&REV_A1\4&39804BF4&0&0010
-   Driver: C:\Program Files\NVIDIA Corporation\Drs\dbInstaller.exe, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 458296 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\Drs\nvdrsdb.bin, 3/17/2017 13:57:01, 1362588 bytes
-   Driver: C:\windows\System32\DriverStore\FileRepository\nv_dispwi.inf_amd64_78b6fa1429829a91\NvContainerSetup.exe, 1.00.0007.0000 (English), 3/17/2017 13:57:01, 4116792 bytes
-   Driver: C:\windows\System32\DriverStore\FileRepository\nv_dispwi.inf_amd64_78b6fa1429829a91\NvCplSetupInt.exe, 1.00.0007.0000 (English), 3/17/2017 13:57:01, 100612016 bytes
-   Driver: C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\detoured.dll, 2.01.0000.0207 (English), 3/17/2017 13:57:01, 18880 bytes
-   Driver: C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\nvd3d9wrap.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 187168 bytes
-   Driver: C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\nvdxgiwrap.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 115240 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\coprocmanager\detoured.dll, 2.01.0000.0207 (English), 3/17/2017 13:57:01, 20536 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\coprocmanager\nvd3d9wrapx.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 217592 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\coprocmanager\nvdxgiwrapx.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 135816 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\license.txt, 3/17/2017 13:57:01, 26634 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\MCU.exe, 1.01.5204.20580 (English), 3/17/2017 13:57:01, 848320 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvdebugdump.exe, 6.14.0013.7711 (English), 3/17/2017 13:57:01, 411072 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvidia-smi.1.pdf, 3/17/2017 13:57:01, 77216 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvidia-smi.exe, 8.17.0013.7711 (English), 3/17/2017 13:57:01, 453176 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvml.dll, 8.17.0013.7711 (English), 3/17/2017 13:57:01, 840640 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\OpenCL\OpenCL.dll, 1.02.0011.0000 (English), 3/17/2017 13:57:01, 201664 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\OpenCL\OpenCL64.dll, 1.02.0011.0000 (English), 3/17/2017 13:57:01, 213952 bytes
-   Driver: C:\windows\system32\DRIVERS\nvlddmkm.sys, 21.21.0013.7711 (English), 3/20/2017 11:23:16, 14369720 bytes
-   Driver: C:\windows\system32\NvFBC64.dll, 6.14.0013.7711 (English), 3/17/2017 13:57:01, 1044024 bytes
-   Driver: C:\windows\system32\NvIFR64.dll, 6.14.0013.7711 (English), 3/17/2017 13:57:01, 949816 bytes
-   Driver: C:\windows\system32\NvIFROpenGL.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 438208 bytes
-   Driver: C:\windows\system32\nv-vk64.json, 3/17/2017 13:57:01, 669 bytes
-   Driver: C:\windows\system32\nvDecMFTMjpeg.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 386104 bytes
-   Driver: C:\windows\system32\nvEncMFTH264.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 802584 bytes
-   Driver: C:\windows\system32\nvEncMFThevc.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 801560 bytes
-   Driver: C:\windows\system32\nvEncodeAPI64.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 394704 bytes
-   Driver: C:\windows\system32\nvapi64.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 3937416 bytes
-   Driver: C:\windows\system32\nvcompiler.dll, 3/17/2017 13:57:01, 40123840 bytes
-   Driver: C:\windows\system32\nvcuda.dll, 6.14.0013.7711 (English), 3/17/2017 13:57:01, 10356848 bytes
-   Driver: C:\windows\system32\nvcuvid.dll, 7.17.0013.7711 (English), 3/17/2017 13:57:01, 2949056 bytes
-   Driver: C:\windows\system32\nvd3dumx.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 17594232 bytes
-   Driver: C:\windows\system32\nvfatbinaryLoader.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 684152 bytes
-   Driver: C:\windows\system32\nvinfo.pb, 3/17/2017 13:57:01, 42388 bytes
-   Driver: C:\windows\system32\nvinitx.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 172736 bytes
-   Driver: C:\windows\system32\nvmcumd.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 618232 bytes
-   Driver: C:\windows\system32\nvoglshim64.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 153184 bytes
-   Driver: C:\windows\system32\nvoglv64.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 34745792 bytes
-   Driver: C:\windows\system32\nvopencl.dll, 6.14.0013.7711 (English), 3/17/2017 13:57:01, 10807160 bytes
-   Driver: C:\windows\system32\nvptxJitCompiler.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 10912744 bytes
-   Driver: C:\windows\system32\nvumdshimx.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 572584 bytes
-   Driver: C:\windows\system32\nvwgf2umx.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 24393280 bytes
-   Driver: C:\windows\SysWow64\NvFBC.dll, 6.14.0013.7711 (English), 3/17/2017 13:57:01, 979904 bytes
-   Driver: C:\windows\SysWow64\NvIFR.dll, 6.14.0013.7711 (English), 3/17/2017 13:57:01, 900664 bytes
-   Driver: C:\windows\SysWow64\NvIFROpenGL.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 389056 bytes
-   Driver: C:\windows\SysWow64\nv-vk32.json, 3/17/2017 13:57:01, 669 bytes
-   Driver: C:\windows\SysWow64\nvDecMFTMjpeg.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 348728 bytes
-   Driver: C:\windows\SysWow64\nvEncMFTH264.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 643928 bytes
-   Driver: C:\windows\SysWow64\nvEncMFThevc.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 642576 bytes
-   Driver: C:\windows\SysWow64\nvEncodeAPI.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 327920 bytes
-   Driver: C:\windows\SysWow64\nvapi.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 3477672 bytes
-   Driver: C:\windows\SysWow64\nvcompiler.dll, 3/17/2017 13:57:01, 35222464 bytes
-   Driver: C:\windows\SysWow64\nvcuda.dll, 6.14.0013.7711 (English), 3/17/2017 13:57:01, 8764120 bytes
-   Driver: C:\windows\SysWow64\nvcuvid.dll, 7.17.0013.7711 (English), 3/17/2017 13:57:01, 2587704 bytes
-   Driver: C:\windows\SysWow64\nvd3dum.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 14532720 bytes
-   Driver: C:\windows\SysWow64\nvfatbinaryLoader.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 573400 bytes
-   Driver: C:\windows\SysWow64\nvinit.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 150600 bytes
-   Driver: C:\windows\SysWow64\nvoglshim32.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 131720 bytes
-   Driver: C:\windows\SysWow64\nvoglv32.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 28203456 bytes
-   Driver: C:\windows\SysWow64\nvopencl.dll, 6.14.0013.7711 (English), 3/17/2017 13:57:01, 9161712 bytes
-   Driver: C:\windows\SysWow64\nvptxJitCompiler.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 8914024 bytes
-   Driver: C:\windows\SysWow64\nvumdshim.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 470584 bytes
-   Driver: C:\windows\SysWow64\nvwgf2um.dll, 21.21.0013.7711 (English), 3/17/2017 13:57:01, 20751360 bytes
-   Driver: C:\windows\System32\DriverStore\FileRepository\nv_dispwi.inf_amd64_78b6fa1429829a91\VulkanRT-Installer.exe, 1.00.0026.0000 (English), 3/17/2017 13:57:01, 673400 bytes
-   Driver: C:\windows\system32\nvdispco6437711.dll, 2.00.0047.0004 (English), 3/17/2017 13:57:01, 1983424 bytes
-   Driver: C:\windows\system32\nvdispgenco6437711.dll, 2.00.0023.0002 (English), 3/17/2017 13:57:01, 1591352 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\Drs\dbInstaller.exe, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 459320 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\Drs\nvdrsdb.bin, 6/3/2016 00:22:06, 1333908 bytes
+   Driver: C:\windows\System32\DriverStore\FileRepository\nv_dispwi.inf_amd64_887193dca2a5dc89\NvCplSetupInt.exe, 1.00.0005.0000 (English), 6/3/2016 00:22:06, 96963408 bytes
+   Driver: C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\detoured.dll, 2.01.0000.0207 (English), 6/3/2016 00:22:06, 18880 bytes
+   Driver: C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\nvd3d9wrap.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 186376 bytes
+   Driver: C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\nvdxgiwrap.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 115288 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\coprocmanager\detoured.dll, 2.01.0000.0207 (English), 6/3/2016 00:22:06, 20536 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\coprocmanager\nvd3d9wrapx.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 216592 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\coprocmanager\nvdxgiwrapx.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 135680 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\license.txt, 6/3/2016 00:22:06, 26629 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\MCU.exe, 1.01.5204.20580 (English), 6/3/2016 00:22:06, 848320 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvdebugdump.exe, 6.14.0013.6839 (English), 6/3/2016 00:22:06, 411704 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvidia-smi.1.pdf, 6/3/2016 00:22:06, 74003 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvidia-smi.exe, 8.17.0013.6839 (English), 6/3/2016 00:22:06, 449080 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvml.dll, 8.17.0013.6839 (English), 6/3/2016 00:22:06, 793536 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\OpenCL\OpenCL.dll, 1.02.0011.0000 (English), 6/3/2016 00:22:06, 203320 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\OpenCL\OpenCL64.dll, 1.02.0011.0000 (English), 6/3/2016 00:22:06, 213952 bytes
+   Driver: C:\windows\system32\DRIVERS\nvlddmkm.sys, 10.18.0013.6839 (English), 6/3/2016 14:58:38, 13553088 bytes
+   Driver: C:\windows\system32\NvFBC64.dll, 6.14.0013.6839 (English), 6/3/2016 00:22:06, 983488 bytes
+   Driver: C:\windows\system32\NvIFR64.dll, 6.14.0013.6839 (English), 6/3/2016 00:22:06, 910392 bytes
+   Driver: C:\windows\system32\NvIFROpenGL.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 425016 bytes
+   Driver: C:\windows\system32\nv-vk64.json, 6/3/2016 00:22:06, 594 bytes
+   Driver: C:\windows\system32\nvDecMFTMjpeg.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 385592 bytes
+   Driver: C:\windows\system32\nvEncMFTH264.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 787384 bytes
+   Driver: C:\windows\system32\nvEncMFThevc.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 786176 bytes
+   Driver: C:\windows\system32\nvEncodeAPI64.dll, 6.14.0013.6839 (English), 6/3/2016 00:22:06, 379808 bytes
+   Driver: C:\windows\system32\nvapi64.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 3811256 bytes
+   Driver: C:\windows\system32\nvcompiler.dll, 6/3/2016 00:22:06, 39977920 bytes
+   Driver: C:\windows\system32\nvcuda.dll, 6.14.0013.6839 (English), 6/3/2016 00:22:06, 21355464 bytes
+   Driver: C:\windows\system32\nvcuvid.dll, 7.17.0013.6839 (English), 6/3/2016 00:22:06, 2844608 bytes
+   Driver: C:\windows\system32\nvd3dumx.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 17432544 bytes
+   Driver: C:\windows\system32\nvfatbinaryLoader.dll, 6/3/2016 00:22:06, 669952 bytes
+   Driver: C:\windows\system32\nvinfo.pb, 6/3/2016 00:22:06, 40084 bytes
+   Driver: C:\windows\system32\nvinitx.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 177952 bytes
+   Driver: C:\windows\system32\nvmcumd.dll, 6/3/2016 00:22:06, 601752 bytes
+   Driver: C:\windows\system32\nvoglshim64.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 153232 bytes
+   Driver: C:\windows\system32\nvoglv64.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 31641656 bytes
+   Driver: C:\windows\system32\nvopencl.dll, 6.14.0013.6839 (English), 6/3/2016 00:22:06, 21812056 bytes
+   Driver: C:\windows\system32\nvptxJitCompiler.dll, 6/3/2016 00:22:06, 10643240 bytes
+   Driver: C:\windows\system32\nvumdshimx.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 549240 bytes
+   Driver: C:\windows\system32\nvwgf2umx.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 20375488 bytes
+   Driver: C:\windows\SysWow64\NvFBC.dll, 6.14.0013.6839 (English), 6/3/2016 00:22:06, 769984 bytes
+   Driver: C:\windows\SysWow64\NvIFR.dll, 6.14.0013.6839 (English), 6/3/2016 00:22:06, 707520 bytes
+   Driver: C:\windows\SysWow64\NvIFROpenGL.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 379448 bytes
+   Driver: C:\windows\SysWow64\nv-vk32.json, 6/3/2016 00:22:06, 594 bytes
+   Driver: C:\windows\SysWow64\nvDecMFTMjpeg.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 348216 bytes
+   Driver: C:\windows\SysWow64\nvEncMFTH264.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 632848 bytes
+   Driver: C:\windows\SysWow64\nvEncMFThevc.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 631288 bytes
+   Driver: C:\windows\SysWow64\nvEncodeAPI.dll, 6.14.0013.6839 (English), 6/3/2016 00:22:06, 316632 bytes
+   Driver: C:\windows\SysWow64\nvapi.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 3371624 bytes
+   Driver: C:\windows\SysWow64\nvcompiler.dll, 6/3/2016 00:22:06, 35115968 bytes
+   Driver: C:\windows\SysWow64\nvcuda.dll, 6.14.0013.6839 (English), 6/3/2016 00:22:06, 17746664 bytes
+   Driver: C:\windows\SysWow64\nvcuvid.dll, 7.17.0013.6839 (English), 6/3/2016 00:22:06, 2470336 bytes
+   Driver: C:\windows\SysWow64\nvd3dum.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 14462536 bytes
+   Driver: C:\windows\SysWow64\nvfatbinaryLoader.dll, 6/3/2016 00:22:06, 565208 bytes
+   Driver: C:\windows\SysWow64\nvinit.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 155768 bytes
+   Driver: C:\windows\SysWow64\nvoglshim32.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 131584 bytes
+   Driver: C:\windows\SysWow64\nvoglv32.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 25404864 bytes
+   Driver: C:\windows\SysWow64\nvopencl.dll, 6.14.0013.6839 (English), 6/3/2016 00:22:06, 18151128 bytes
+   Driver: C:\windows\SysWow64\nvptxJitCompiler.dll, 6/3/2016 00:22:06, 8733792 bytes
+   Driver: C:\windows\SysWow64\nvumdshim.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 452616 bytes
+   Driver: C:\windows\SysWow64\nvwgf2um.dll, 10.18.0013.6839 (English), 6/3/2016 00:22:06, 17729184 bytes
+   Driver: C:\windows\System32\DriverStore\FileRepository\nv_dispwi.inf_amd64_887193dca2a5dc89\VulkanRT-Installer.exe, 1.00.0011.0001 (English), 6/3/2016 00:22:06, 13605464 bytes
+   Driver: C:\windows\system32\nvdispco6436839.dll, 2.00.0044.0004 (English), 6/3/2016 00:22:06, 1920960 bytes
+   Driver: C:\windows\system32\nvdispgenco6436839.dll, 2.00.0021.0002 (English), 6/3/2016 00:22:06, 1571776 bytes
 
      Name: High Definition Audio Controller
 Device ID: PCI\VEN_10DE&DEV_0FBB&SUBSYS_1153103C&REV_A1\4&39804BF4&0&0110
@@ -848,25 +858,9 @@ Device ID: PCI\VEN_8086&DEV_2F2C&SUBSYS_00008086&REV_02\3&11583659&1&2C
 Device ID: PCI\VEN_8086&DEV_2F9C&SUBSYS_2F9C8086&REV_02\3&103A9D54&0&F4
    Driver: n/a
 
-     Name: Intel(R) Ethernet Server Adapter X520-T2
-Device ID: PCI\VEN_8086&DEV_151C&SUBSYS_A02C8086&REV_01\4&4A3FA99&0&0118
-   Driver: C:\windows\system32\DRIVERS\ixn65x64.sys, 3.10.0162.0001 (English), 4/21/2015 17:00:44, 401376 bytes
-   Driver: C:\windows\system32\ixnmsg.dll, 10.00.0403.0000 (English), 4/2/2015 04:46:38, 76048 bytes
-   Driver: C:\windows\system32\ixn65x64.din, 4/24/2015 17:28:40, 3066 bytes
-   Driver: C:\windows\system32\NicCo4.dll, 4.02.0003.0000 (English), 4/18/2014 13:17:32, 125728 bytes
-   Driver: C:\windows\system32\NicInIXN.dll, 9.12.0010.0000 (English), 2/25/2015 03:23:58, 89144 bytes
-
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Unicast Registers - 2FE0
 Device ID: PCI\VEN_8086&DEV_2FE0&SUBSYS_2FE08086&REV_02\3&1C6B4348&0&60
    Driver: n/a
-
-     Name: Intel(R) Ethernet Server Adapter X520-T2 #2
-Device ID: PCI\VEN_8086&DEV_151C&SUBSYS_A02C8086&REV_01\4&4A3FA99&0&0018
-   Driver: C:\windows\system32\DRIVERS\ixn65x64.sys, 3.10.0162.0001 (English), 4/21/2015 17:00:44, 401376 bytes
-   Driver: C:\windows\system32\ixnmsg.dll, 10.00.0403.0000 (English), 4/2/2015 04:46:38, 76048 bytes
-   Driver: C:\windows\system32\ixn65x64.din, 4/24/2015 17:28:40, 3066 bytes
-   Driver: C:\windows\system32\NicCo4.dll, 4.02.0003.0000 (English), 4/18/2014 13:17:32, 125728 bytes
-   Driver: C:\windows\system32\NicInIXN.dll, 9.12.0010.0000 (English), 2/25/2015 03:23:58, 89144 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Power Control Unit - 2F9A
 Device ID: PCI\VEN_8086&DEV_2F9A&SUBSYS_2F9A8086&REV_02\3&103A9D54&0&F2
@@ -1322,11 +1316,9 @@ WDM Streaming Capture Devices:
 Realtek HD Audio Line input,0x00200000,1,1,ksproxy.ax,10.00.10586.0063
 Realtek HD Audio Stereo input,0x00200000,1,1,ksproxy.ax,10.00.10586.0063
 Realtek HD Audio Mic input,0x00200000,1,1,ksproxy.ax,10.00.10586.0063
-,0x00000000,0,0,,
 
 WDM Streaming Rendering Devices:
 Realtek HD Audio output,0x00200000,1,1,ksproxy.ax,10.00.10586.0063
-,0x00000000,0,0,,
 
 BDA Network Providers:
 Microsoft ATSC Network Provider,0x00200000,0,1,MSDvbNP.ax,10.00.10586.0000
@@ -1356,8 +1348,6 @@ Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.10586.0
 Default DirectSound Device,0x00800000,1,0,quartz.dll,10.00.10586.0873
 Default WaveOut Device,0x00200000,1,0,quartz.dll,10.00.10586.0873
 DirectSound: Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.10586.0873
-DirectSound: HP Z27x-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.10586.0873
-HP Z27x-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.10586.0873
 
 
 ----------------------------
@@ -1430,7 +1420,7 @@ Media Foundation Transforms
   <transform friendly name>, <transform CLSID>, <flags>, [<merit>, ]<file name>, <file version>
 
 Video Decoders:
-  NVIDIA MJPEG Video Decoder MFT, {70F36578-2741-454F-B494-E8563DDD1CB4}, 0x4, 8, nvDecMFTMjpeg.dll, 21.21.0013.7711
+  NVIDIA MJPEG Video Decoder MFT, {70F36578-2741-454F-B494-E8563DDD1CB4}, 0x4, 8, nvDecMFTMjpeg.dll, 10.18.0013.6839
   Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}, 0x1, msmpeg2vdec.dll, 12.00.10586.0050
   DV Decoder MFT, {404A6DE5-D4D6-4260-9BC7-5A6CBD882432}, 0x1, mfdvdec.dll, 10.00.10586.0000
   Microsoft H265 Video Decoder MFT, {420A51A3-D605-430C-B4FC-45274FA6C562}, 0x1, hevcdecoder.dll, 10.00.10586.0589
@@ -1442,8 +1432,8 @@ Video Decoders:
   Mpeg43 Decoder MFT, CLSID_CMpeg43DecMediaObject, 0x1, mp43decd.dll, 10.00.10586.0000
   Mpeg4 Decoder MFT, CLSID_CMpeg4DecMediaObject, 0x1, mpg4decd.dll, 10.00.10586.0000
 Video Encoders:
-  NVIDIA H.264 Encoder MFT, {60F44560-5A20-4857-BFEF-D29773CB8040}, 0x4, 8, nvEncMFTH264.dll, 21.21.0013.7711
-  NVIDIA HEVC Encoder MFT, {966F107C-8EA2-425D-B822-E4A71BEF01D7}, 0x4, 8, nvEncMFThevc.dll, 21.21.0013.7711
+  NVIDIA H.264 Encoder MFT, {60F44560-5A20-4857-BFEF-D29773CB8040}, 0x4, 8, nvEncMFTH264.dll, 10.18.0013.6839
+  NVIDIA HEVC Encoder MFT, {966F107C-8EA2-425D-B822-E4A71BEF01D7}, 0x4, 8, nvEncMFThevc.dll, 10.18.0013.6839
   H264 Encoder MFT, {6CA50344-051A-4DED-9779-A43305165E35}, 0x1, mfh264enc.dll, 10.00.10586.0000
   WMVideo8 Encoder MFT, CLSID_CWMVXEncMediaObject, 0x1, wmvxencd.dll, 10.00.10586.0000
   H263 Encoder MFT, {BC47FCFE-98A0-4F27-BB07-698AF24F2B38}, 0x1, mfh263enc.dll, 10.00.10586.0000
@@ -1747,59 +1737,59 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
-Fault bucket 120854287432, type 4
-Event Name: APPCRASH
+Fault bucket 127820910531, type 5
+Event Name: AppxDeploymentFailureBlue
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: maya.exe
-P2: 17.4.2743.0
-P3: 59318d1b
-P4: StackHash_4984
-P5: 10.0.10586.1106
-P6: 59ae21d6
-P7: c0000374
-P8: PCH_1F_FROM_ntdll+0x00000000000A5C24
+P1: 80070002
+P2: 15
+P3: 0
+P4: NONE
+P5: 10.0.10586.839
+P6: 401
+P7: 
+P8: 
 P9: 
 P10: 
 
 
 +++ WER1 +++:
-Fault bucket 128046689858, type 5
-Event Name: WindowsUpdateFailure3
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: 10.0.10586.1106
-P2: 80070002
-P3: 56B8D0CA-BEA6-45A8-8B82-BF53C36A2BC1
-P4: Install
-P5: 1
-P6: 0
-P7: 0
-P8: WSAutoUpdate
-P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
-P10: 0
-
-
-+++ WER2 +++:
 Fault bucket , type 0
 Event Name: Ensure
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: UE4-The_Lunchbox
+P1: UE4-RoBox
 P2: 4.13.0
 P3: 57c6052c
 P4: KERNELBASE.dll
 P5: 10.0.10586
-P6: 5632d1de
+P6: 5775e4c5
 P7: 00000001
-P8: 0000000000071F08
-P9: !"J:\Animation\The_Lunchbox\The_Lunchbox_UE_TRAILER\The_Lunchbox.uproject" !AssertLog="Ensure condition failed: TabBeingDraggedPtr.IsValid() [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Runtime\Slate\Private\Framework\Docking\SDockingTabWell.c
+P8: 0000000000071F28
+P9: !"M:\Anim 450 - Adv Interactive (Unreal)\Students\SashaDmitrieva\RoBoxV2\RoBox.uproject" !AssertLog="Ensure condition failed: false [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1
+P10: ++UE4+Release-4.13!C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/!Editor!3106830
+
+
++++ WER2 +++:
+Fault bucket , type 0
+Event Name: Assert
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: UE4-Movement
+P2: 4.13.0
+P3: 57c6052c
+P4: KERNELBASE.dll
+P5: 10.0.10586
+P6: 5775e4c5
+P7: 00000001
+P8: 0000000000071F28
+P9: !"M:\Students\Ryan Taus\Movement\Movement\Movement.uproject" !AssertLog="Assertion failed: Blueprint != nullptr && Blueprint->ParentClass != nullptr [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionFilt
 P10: ++UE4+Release-4.13!C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/!Editor!3106830
 
 
@@ -1810,15 +1800,15 @@ Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: UE4-The_Lunchbox
+P1: UE4-Movement
 P2: 4.13.0
 P3: 57c6052c
 P4: KERNELBASE.dll
 P5: 10.0.10586
-P6: 5632d1de
+P6: 5775e4c5
 P7: 00000001
-P8: 0000000000071F08
-P9: !"J:\Animation\The_Lunchbox\The_Lunchbox_UE_TRAILER\The_Lunchbox.uproject" !AssertLog="Ensure condition failed: Y != 0 [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Runtime\Core\Private\GenericPlatform\GenericPlatformMath.cpp] [Line: 79] #FMath
+P8: 0000000000071F28
+P9: !"M:\Students\Ryan Taus\Movement\Movement\Movement.uproject" !AssertLog="Ensure condition failed: BpClass != nullptr [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionFilter.cpp] [Line: 700] #Unable to r
 P10: ++UE4+Release-4.13!C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/!Editor!3106830
 
 
@@ -1829,54 +1819,54 @@ Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: UE4-The_Lunchbox
+P1: UE4-Movement
 P2: 4.13.0
 P3: 57c6052c
 P4: KERNELBASE.dll
 P5: 10.0.10586
-P6: 5632d1de
+P6: 5775e4c5
 P7: 00000001
-P8: 0000000000071F08
-P9: !"E:\Users\jgamman1\Documents\The_Lunchbox_UE\The_Lunchbox.uproject" !AssertLog="Ensure condition failed: TabBeingDraggedPtr.IsValid() [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Runtime\Slate\Private\Framework\Docking\SDockingTabWell.cpp] [L
+P8: 0000000000071F28
+P9: !"M:\Students\Ryan Taus\Movement\Movement\Movement.uproject" !AssertLog="Ensure condition failed: BpClass != nullptr [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionFilter.cpp] [Line: 601] #Unable to r
 P10: ++UE4+Release-4.13!C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/!Editor!3106830
 
 
 +++ WER5 +++:
 Fault bucket , type 0
-Event Name: Ensure
+Event Name: AppxDeploymentFailureBlue
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: UE4-The_Lunchbox
-P2: 4.13.0
-P3: 57c6052c
-P4: KERNELBASE.dll
-P5: 10.0.10586
-P6: 5632d1de
-P7: 00000001
-P8: 0000000000071F08
-P9: !"E:\Users\jgamman1\Documents\The_Lunchbox_UE\The_Lunchbox.uproject" !AssertLog="Ensure condition failed: Y != 0 [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Runtime\Core\Private\GenericPlatform\GenericPlatformMath.cpp] [Line: 79] #FMath::FMod
-P10: ++UE4+Release-4.13!C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/!Editor!3106830
+P1: 80070002
+P2: 15
+P3: 0
+P4: NONE
+P5: 10.0.10586.839
+P6: 401
+P7: 
+P8: 
+P9: 
+P10: 
 
 
 +++ WER6 +++:
-Fault bucket , type 0
-Event Name: Ensure
+Fault bucket 127820526391, type 5
+Event Name: AppxDeploymentFailureBlue
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: UE4-The_Lunchbox
-P2: 4.13.0
-P3: 57c6052c
-P4: KERNELBASE.dll
-P5: 10.0.10586
-P6: 5632d1de
-P7: 00000001
-P8: 0000000000071F08
-P9: !"\\olympia\lunchbox\GITHUB_REPO\The_Lunchbox_UE\The_Lunchbox.uproject" !AssertLog="Ensure condition failed: Y != 0 [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Runtime\Core\Private\GenericPlatform\GenericPlatformMath.cpp] [Line: 79] #FMath::F
-P10: ++UE4+Release-4.13!C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/!Editor!3106830
+P1: 87AF0813
+P2: 3
+P3: 0
+P4: NONE
+P5: 10.0.10586.839
+P6: 0
+P7: 
+P8: 
+P9: 
+P10: 
 
 
 +++ WER7 +++:
@@ -1886,15 +1876,15 @@ Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: UE4-The_Lunchbox
+P1: UE4-RoBox
 P2: 4.13.0
 P3: 57c6052c
 P4: KERNELBASE.dll
 P5: 10.0.10586
-P6: 5632d1de
+P6: 5775e4c5
 P7: 00000001
-P8: 0000000000071F08
-P9: !"E:\Users\candrad6\Desktop\The_Lunchbox_UE\The_Lunchbox.uproject" !AssertLog="Ensure condition failed: false [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Runtime\Engine\Private\World.cpp] [Line: 1306] #Could not remove actor /Engine/Transient
+P8: 0000000000071F28
+P9: !"M:\Anim 450 - Adv Interactive (Unreal)\Students\SashaDmitrieva\RoBoxV2\RoBox.uproject" !AssertLog="Ensure condition failed: false [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1
 P10: ++UE4+Release-4.13!C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/!Editor!3106830
 
 
@@ -1905,15 +1895,15 @@ Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: UE4-VrColtTest
+P1: UE4-Movement
 P2: 4.13.0
 P3: 57c6052c
 P4: KERNELBASE.dll
 P5: 10.0.10586
-P6: 5632d1de
+P6: 5775e4c5
 P7: 00000001
-P8: 0000000000071F08
-P9: !"E:\Users\candrad6\Documents\Unreal Projects\VrColtTest\VrColtTest.uproject"-EpicPortal !AssertLog="Assertion failed: WidgetMapToItem.Num() == ItemsWithGeneratedWidgets.Num() [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Runtime\Slate\Public\W
+P8: 0000000000071F28
+P9: !"M:\Students\Ryan Taus\Movement\Movement\Movement.uproject" !AssertLog="Assertion failed: Blueprint != nullptr && Blueprint->ParentClass != nullptr [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionFilt
 P10: ++UE4+Release-4.13!C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/!Editor!3106830
 
 
@@ -1924,15 +1914,15 @@ Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: UE4-TwinStickShooter
+P1: UE4-Movement
 P2: 4.13.0
 P3: 57c6052c
 P4: KERNELBASE.dll
 P5: 10.0.10586
-P6: 5632d1de
+P6: 5775e4c5
 P7: 00000001
-P8: 0000000000071F08
-P9: !"E:/Users/hkim50/Desktop/TwinStickShooter/TwinStickShooter.uproject"!AssertLog="Ensure condition failed: TabBeingDraggedPtr.IsValid() [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Runtime\Slate\Private\Framework\Docking\SDockingTabWell.cpp] [L
+P8: 0000000000071F28
+P9: !"M:\Students\Ryan Taus\Movement\Movement\Movement.uproject" !AssertLog="Ensure condition failed: BpClass != nullptr [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionFilter.cpp] [Line: 700] #Unable to r
 P10: ++UE4+Release-4.13!C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/!Editor!3106830
 
 
