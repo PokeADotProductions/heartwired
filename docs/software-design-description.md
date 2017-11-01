@@ -25,7 +25,7 @@ Looking at our [Requirements Specifications Document.](requirements-specificatio
 
 Below, we have an image of the main menu screen.
 
-![Main Menu Screen](https://raw.githubusercontent.com/sashadmitrieva96/cyberwitch/master/docs/heartwired-menu.JPG)
+![Main Menu Screen](https://raw.githubusercontent.com/sashadmitrieva96/cyberwitch/master/docs/heartwired-menu.jpg)
 
 
 ## 6.2.2 Major Software Interactions
@@ -36,15 +36,15 @@ Heartwired does not link multiple softwares, and therefore does not have interac
 
 Use-Case Diagram
 
-![Use-Case Diagram](https://raw.githubusercontent.com/sashadmitrieva96/cyberwitch/master/docs/heartwired-usecase.JPG)
+![Use-Case Diagram](https://raw.githubusercontent.com/sashadmitrieva96/cyberwitch/master/docs/heartwired-usecase.png)
 
 Top-Level Diagram
 
-![Top-Level Diagram](https://raw.githubusercontent.com/sashadmitrieva96/cyberwitch/master/docs/heartwired-toplevel.JPG)
+![Top-Level Diagram](https://raw.githubusercontent.com/sashadmitrieva96/cyberwitch/master/docs/heartwired-toplevel.png)
 
 Game State Diagram
 
-![Game State Diagram](https://raw.githubusercontent.com/sashadmitrieva96/cyberwitch/master/docs/heartwired-gamestate.JPG)
+![Game State Diagram](https://raw.githubusercontent.com/sashadmitrieva96/cyberwitch/master/docs/heartwired-gamestate.png)
 
 
 # 6.3 CSC and CSU Descriptions
