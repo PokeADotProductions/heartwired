@@ -32,21 +32,23 @@ This Software Requirements Specification (SRS) documents the requirements for th
 ### 5.2.1 Top Level Menu
 
 5.2.1.1 File Selection Menu    
-5.2.1.2 World Selection Menu    
-5.2.1.3 Core Game    
-&nbsp;&nbsp;&nbsp;&nbsp;5.2.1.3.1 Platforming System    
-&nbsp;&nbsp;&nbsp;&nbsp;5.2.1.3.2 Two Character System (TCS)    
-&nbsp;&nbsp;&nbsp;&nbsp;5.2.1.3.3 Ability System    
-&nbsp;&nbsp;&nbsp;&nbsp;5.2.1.3.4 Enemy System    
-&nbsp;&nbsp;&nbsp;&nbsp;5.2.1.3.5 Terrain System    
-&nbsp;&nbsp;&nbsp;&nbsp;5.2.1.3.6 Health System    
-&nbsp;&nbsp;&nbsp;&nbsp;5.2.1.3.7 Camera System    
-&nbsp;&nbsp;&nbsp;&nbsp;5.2.1.3.8 HUD    
-&nbsp;&nbsp;&nbsp;&nbsp;5.2.1.3.9 Pause Menu    
-&nbsp;&nbsp;&nbsp;&nbsp;5.2.1.3.10 Game Over Screen    
-5.2.1.4 Settings Menu      
-&nbsp;&nbsp;&nbsp;&nbsp;5.2.1.2.1 Controls     
-&nbsp;&nbsp;&nbsp;&nbsp;5.2.1.2.2 Sound       
+5.2.1.2 World Selection Menu      
+5.2.1.3 Settings Menu      
+&nbsp;&nbsp;&nbsp;&nbsp;5.2.1.3.1 Controls     
+&nbsp;&nbsp;&nbsp;&nbsp;5.2.1.3.2 Sound       
+
+### 5.2.2 Core Game   
+
+5.2.2.1 Platforming System    
+5.2.2.2 Two Character System (TCS)    
+5.2.2.3 Ability System    
+5.2.2.4 Enemy System    
+5.2.2.5 Terrain System    
+5.2.2.6 Health System    
+5.2.2.7 Camera System    
+5.2.2.8 HUD    
+5.2.2.9 Pause Menu    
+5.2.2.10 Game Over Screen  
       
 
 # 5.3       Functional Requirements
