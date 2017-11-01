@@ -23,11 +23,29 @@ The objective of Heartwired is to provide a game client that is both intellectua
 
 Looking at our [Requirements Specifications Document.](requirements-specifications.md) , the major software subsystems are the different menu interfaces and the core game. The Top Level Menu user interface includes the File Selection Menu, the World Selection Menu, and the Settings Menu. The Core Game has an informative HUD interface and Pause/Game Over Menu Screens. The Core Game provides the majority of the application to the user; it is where the user interacts with the game, including but not limited to the Platforming, Two Character, Ability, Enemy, and Health systems. 
 
+Below, we have an image of the main menu screen.
+
+![Main Menu Screen](https://raw.githubusercontent.com/sashadmitrieva96/cyberwitch/master/docs/heartwired-menu.JPG)
+
+
 ## 6.2.2 Major Software Interactions
 
 Heartwired does not link multiple softwares, and therefore does not have interactions between them to list.
 
 ### 6.2.3. Architectural Design Diagrams 
+
+Use-Case Diagram
+
+![Use-Case Diagram](https://raw.githubusercontent.com/sashadmitrieva96/cyberwitch/master/docs/heartwired-usecase.JPG)
+
+Top-Level Diagram
+
+![Top-Level Diagram](https://raw.githubusercontent.com/sashadmitrieva96/cyberwitch/master/docs/heartwired-toplevel.JPG)
+
+Game State Diagram
+
+![Game State Diagram](https://raw.githubusercontent.com/sashadmitrieva96/cyberwitch/master/docs/heartwired-gamestate.JPG)
+
 
 # 6.3 CSC and CSU Descriptions
 
