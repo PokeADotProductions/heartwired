@@ -34,15 +34,20 @@ Heartwired does not link multiple softwares, and therefore does not have interac
 
 ### 6.2.3. Architectural Design Diagrams 
 
-Use-Case Diagram
+#### Use-Case
+The user's interactions with the software are contained within the menu, where they can acccess new or saved game files and change options, and in the game client, where they can manipulate character pawns to solve puzzles. In the Use-Case Diagram below, we show how the user can navigate the two main interfaces of our application.
 
 ![Use-Case Diagram](https://raw.githubusercontent.com/sashadmitrieva96/cyberwitch/master/docs/heartwired-usecase.png)
 
-Top-Level Diagram
+#### Top-Level 
+
+The diagram below describes our system at a top-level. We show how the action interface of character abilities and movements interacts with the AI controller and fits into the overarching game mode, which is present in each stand-alone level.
 
 ![Top-Level Diagram](https://raw.githubusercontent.com/sashadmitrieva96/cyberwitch/master/docs/heartwired-toplevel.png)
 
-Game State Diagram
+#### Game State 
+
+Since Heartwired does not interact with external software and is contained within a package exported from the Unreal Engine, we present a Game State Diagram that describes the different states the user will be in when accessing both the menu and game client.
 
 ![Game State Diagram](https://raw.githubusercontent.com/sashadmitrieva96/cyberwitch/master/docs/heartwired-gamestate.png)
 
