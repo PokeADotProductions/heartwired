@@ -1,0 +1,1433 @@
+﻿Log file open, 10/30/17 01:03:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Cyberwitch_Project
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1621202663) SRandInit(-1621202663).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.149034
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.30-08.03.11:785][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.30-08.03.11:785][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.30-08.03.11:853][  0]LogInit: Computer: DESKTOP-5N34J6U
+[2017.10.30-08.03.11:853][  0]LogInit: User: Kevin
+[2017.10.30-08.03.11:853][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.10.30-08.03.11:853][  0]LogInit: High frequency timer resolution =2.343752 MHz
+[2017.10.30-08.03.11:853][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.10.30-08.03.11:853][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.30-08.03.11:853][  0]LogMemory: Process Physical Memory: 278.26 MB used, 278.26 MB peak
+[2017.10.30-08.03.11:853][  0]LogMemory: Process Virtual Memory: 273.60 MB used, 273.60 MB peak
+[2017.10.30-08.03.11:853][  0]LogMemory: Physical Memory: 5423.52 MB used,  2636.86 MB free, 8060.38 MB total
+[2017.10.30-08.03.11:853][  0]LogMemory: Virtual Memory: 664.93 MB used,  2636.86 MB free, 134217728.00 MB total
+[2017.10.30-08.03.12:101][  0]LogInit: Using OS detected language (en-US).
+[2017.10.30-08.03.12:101][  0]LogInit: Using OS detected locale (en-US).
+[2017.10.30-08.03.12:231][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.10.30-08.03.18:162][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.30-08.03.18:193][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940M' (Feature Level 11_0)
+[2017.10.30-08.03.18:193][  0]LogD3D11RHI:       2019/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.10.30-08.03.18:202][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2017.10.30-08.03.18:202][  0]LogD3D11RHI:       128/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.10.30-08.03.18:204][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.30-08.03.18:204][  0]LogD3D11RHI:       0/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.30-08.03.18:204][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.30-08.03.18:211][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.30-08.03.18:212][  0]LogD3D11RHI:     GPU DeviceId: 0x1347 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.30-08.03.18:212][  0]LogWindows: EnumDisplayDevices:
+[2017.10.30-08.03.18:212][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2017.10.30-08.03.18:212][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.10.30-08.03.18:212][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.10.30-08.03.18:212][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.10.30-08.03.18:213][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940M
+[2017.10.30-08.03.18:213][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.10.30-08.03.18:213][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.10.30-08.03.18:213][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.30-08.03.18:235][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.30-08.03.18:249][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.10.30-08.03.18:250][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Intermediate/Shaders/WorkingDirectory/11912/).
+[2017.10.30-08.03.18:251][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kevin/AppData/Local/Temp/UnrealShaderWorkingDir/0C2CAEB740A311B5D525158391C4987A/'.
+[2017.10.30-08.03.18:251][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.30-08.03.22:968][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.30-08.03.23:044][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.30-08.03.23:120][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.30-08.03.23:197][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.30-08.03.23:297][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.30-08.03.23:373][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.30-08.03.23:450][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.30-08.03.23:528][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.30-08.03.23:595][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.30-08.03.23:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.30-08.03.23:764][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.30-08.03.23:842][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.30-08.03.23:918][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.30-08.03.23:994][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.30-08.03.24:069][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.30-08.03.24:217][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.30-08.03.24:217][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.30-08.03.24:279][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.30-08.03.24:429][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.30-08.03.24:469][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.30-08.03.24:544][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.30-08.03.24:619][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.30-08.03.24:695][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.30-08.03.24:776][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.30-08.03.24:776][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.30-08.03.25:505][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.30-08.03.25:634][  0]LogDerivedDataCache: Loaded boot cache 0.13s 93MB C:/Users/Kevin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.30-08.03.25:634][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kevin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.30-08.03.25:634][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.30-08.03.25:634][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.30-08.03.25:634][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.30-08.03.25:634][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.30-08.03.25:654][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.30-08.03.25:667][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.30-08.03.25:680][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.30-08.03.25:681][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.30-08.03.25:714][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.30-08.03.25:714][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.30-08.03.27:034][  0]LogAssetRegistry: FAssetRegistry took 0.0280 seconds to start up
+[2017.10.30-08.03.27:222][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.30-08.03.27:449][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.30-08.03.27:928][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.30-08.03.27:996][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.30-08.03.27:996][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.30-08.03.27:996][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.30-08.03.27:996][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.30-08.03.27:996][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.30-08.03.28:505][  0]LogNetVersion: Cyberwitch_Project , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 51455869)
+[2017.10.30-08.03.28:885][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.095255 seconds
+[2017.10.30-08.03.28:893][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.30-08.03.28:893][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.10.30-08.03.28:893][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.30-08.03.28:990][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.30-08.04.06:582][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.30-08.04.06:644][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.30-08.04.07:881][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.30-08.04.08:596][  0]SourceControl: Source control is disabled
+[2017.10.30-08.04.08:596][  0]SourceControl: Source control is disabled
+[2017.10.30-08.04.08:686][  0]SourceControl: Source control is disabled
+[2017.10.30-08.04.08:795][  0]SourceControl: Source control is disabled
+[2017.10.30-08.04.10:239][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.30-08.04.10:737][  0]LogOcInput: OculusInput pre-init called
+[2017.10.30-08.04.11:289][  0]LogEngine: Initializing Engine...
+[2017.10.30-08.04.11:293][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.10.30-08.04.11:613][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.30-08.04.11:613][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.30-08.04.11:841][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.30-08.04.11:853][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-08.04.11:903][  0]LogInit: FAudioDevice initialized.
+[2017.10.30-08.04.12:063][  0]LogDerivedDataCache: Saved boot cache 0.16s 93MB C:/Users/Kevin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.30-08.04.12:081][  0]LogInit: Texture streaming: Enabled
+[2017.10.30-08.04.12:259][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.30-08.04.12:791][  0]LogInit: Transaction tracking system initialized
+[2017.10.30-08.04.13:317][  0]BlueprintLog: New page: Editor Load
+[2017.10.30-08.04.14:797][  0]LocalizationService: Localization service is disabled
+[2017.10.30-08.04.16:128][  0]LogConsoleResponse: Display: 
+[2017.10.30-08.04.17:037][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.30-08.04.17:037][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.30-08.04.17:037][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.30-08.04.17:505][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/' took 0.02s
+[2017.10.30-08.04.19:454][  0]SourceControl: Source control is disabled
+[2017.10.30-08.04.19:454][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.30-08.04.19:454][  0]LightingResults: New page: Lighting Build
+[2017.10.30-08.04.19:531][  0]MapCheck: New page: Map Check
+[2017.10.30-08.04.19:531][  0]LightingResults: New page: Lighting Build
+[2017.10.30-08.04.19:724][  0]LogLinker: Warning: Can't find file '/Game/Levels/DemoMap_BuiltData'
+[2017.10.30-08.04.19:724][  0]LogLinker: Warning: Can't find file for asset '/Game/Levels/DemoMap_BuiltData' while loading ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap.
+[2017.10.30-08.04.19:724][  0]LoadErrors: Error: /Game/Levels/DemoMap : Can't find file for asset. /Game/Levels/DemoMap_BuiltData
+[2017.10.30-08.04.19:743][  0]LogLinker: Warning: Can't find file '/Game/Levels/DemoMap_BuiltData'
+[2017.10.30-08.04.19:743][  0]LogLinker: Warning: Can't find file for asset '/Game/Levels/DemoMap_BuiltData' while loading ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap.
+[2017.10.30-08.04.19:743][  0]LoadErrors: Error: /Game/Levels/DemoMap : Can't find file for asset. /Game/Levels/DemoMap_BuiltData
+[2017.10.30-08.04.19:750][  0]LogLinker: Warning: Can't find file '/Game/Levels/DemoMap_BuiltData'
+[2017.10.30-08.04.19:750][  0]LoadErrors: Failed to load /Game/Levels/DemoMap_BuiltData.DemoMap_BuiltData Referenced by PersistentLevel
+[2017.10.30-08.04.19:750][  0]LogLinker: Warning: Can't find file for asset '/Game/Levels/DemoMap_BuiltData' while loading NULL.
+[2017.10.30-08.04.19:750][  0]LoadErrors: Failed to load /Game/Levels/DemoMap_BuiltData.DemoMap_BuiltData Referenced by PersistentLevel
+[2017.10.30-08.04.19:853][  0]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-08.04.19:879][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.30-08.04.19:898][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.30-08.04.19:995][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 96.091ms to complete.
+[2017.10.30-08.04.19:995][  0]LogFileHelpers: Loading map 'DemoMap' took 0.541
+[2017.10.30-08.04.20:251][  0]LogCollectionManager: Loaded 0 collections in 0.002614 seconds
+[2017.10.30-08.04.20:366][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Collections/' took 0.01s
+[2017.10.30-08.04.20:366][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Developers/Kevin/Collections/' took 0.01s
+[2017.10.30-08.04.20:366][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Collections/' took 0.01s
+[2017.10.30-08.04.20:366][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.10.30-08.04.20:378][  0]LogContentBrowser: Native class hierarchy populated in 0.0117 seconds. Added 2386 classes and 500 folders.
+[2017.10.30-08.04.20:485][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.10.30-08.04.21:737][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.10.30-08.04.21:814][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.10.30-08.04.21:959][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.10.30-08.04.21:959][  0]LogLoad: (Engine Initialization) Total time: 74.12 seconds
+[2017.10.30-08.04.21:960][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.30-08.04.21:960][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.10.30-08.04.21:960][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.10.30-08.04.22:317][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.30-08.04.22:330][  0]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.30-08.04.22:332][  0]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.30-08.04.22:356][  0]LogSlate: Took 0.017967 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.30-08.04.22:648][  1]LogAssetRegistry: Asset discovery search completed in 55.6358 seconds
+[2017.10.30-08.04.22:650][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.10.30-08.04.22:650][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000055 seconds (updated 0 objects)
+[2017.10.30-08.04.22:715][  2]LogRenderer: Reallocating scene render targets to support 804x360 Format 10 NumSamples 1 (Frame:1).
+[2017.10.30-08.04.26:756][ 13]LogSlate: Took 0.020728 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.30-08.04.44:333][406]LogRenderer: Reallocating scene render targets to support 916x460 Format 10 NumSamples 1 (Frame:330).
+[2017.10.30-08.04.47:080][563]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-08.04.47:511][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-08.04.47:621][563]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 6:04:47 PM)
+[2017.10.30-08.04.47:639][563]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-08.04.47:706][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066924s)
+[2017.10.30-08.04.47:707][563]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-08.04.47:707][563]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2017.10.30-08.04.47:719][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.083061s)
+[2017.10.30-08.04.47:751][563]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-08.04.47:766][563]LogInit: FAudioDevice initialized.
+[2017.10.30-08.04.47:888][563]LogLinker: Warning: Can't find file '/Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_D'
+[2017.10.30-08.04.47:888][563]LogLinker: Warning: Can't find file for asset '/Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_D' while loading ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Assets/Characters/Taliah/Materials/mat_main.uasset.
+[2017.10.30-08.04.47:888][563]LoadErrors: Error: /Game/Assets/Characters/Taliah/Materials/mat_main : Can't find file for asset. /Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_D
+[2017.10.30-08.04.47:889][563]LogLinker: Warning: Can't find file '/Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_N'
+[2017.10.30-08.04.47:889][563]LogLinker: Warning: Can't find file for asset '/Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_N' while loading ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Assets/Characters/Taliah/Materials/mat_main.uasset.
+[2017.10.30-08.04.47:889][563]LoadErrors: Error: /Game/Assets/Characters/Taliah/Materials/mat_main : Can't find file for asset. /Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_N
+[2017.10.30-08.04.47:889][563]LogLinker: Warning: Can't find file '/Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_S'
+[2017.10.30-08.04.47:889][563]LogLinker: Warning: Can't find file for asset '/Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_S' while loading ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Assets/Characters/Taliah/Materials/mat_main.uasset.
+[2017.10.30-08.04.47:889][563]LoadErrors: Error: /Game/Assets/Characters/Taliah/Materials/mat_main : Can't find file for asset. /Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_S
+[2017.10.30-08.04.47:889][563]LogLinker: Warning: Can't find file '/Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_D'
+[2017.10.30-08.04.47:890][563]LogLinker: Warning: Can't find file for asset '/Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_D' while loading ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Assets/Characters/Taliah/Materials/mat_main.uasset.
+[2017.10.30-08.04.47:890][563]LogLinker: Warning: Can't find file '/Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_N'
+[2017.10.30-08.04.47:890][563]LogLinker: Warning: Can't find file for asset '/Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_N' while loading ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Assets/Characters/Taliah/Materials/mat_main.uasset.
+[2017.10.30-08.04.47:890][563]LogLinker: Warning: Can't find file '/Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_S'
+[2017.10.30-08.04.47:890][563]LogLinker: Warning: Can't find file for asset '/Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_S' while loading ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Assets/Characters/Taliah/Materials/mat_main.uasset.
+[2017.10.30-08.04.47:919][563]LogLinker: Warning: Can't find file '/Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_D'
+[2017.10.30-08.04.47:919][563]LoadErrors: Failed to load /Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_D.TEX_Taliah_D Referenced by MaterialExpressionTextureSample_0
+[2017.10.30-08.04.47:919][563]LogLinker: Warning: Can't find file for asset '/Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_D' while loading NULL.
+[2017.10.30-08.04.47:920][563]LogLinker: Warning: Can't find file '/Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_S'
+[2017.10.30-08.04.47:920][563]LoadErrors: Failed to load /Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_S.TEX_Taliah_S Referenced by MaterialExpressionTextureSample_1
+[2017.10.30-08.04.47:920][563]LogLinker: Warning: Can't find file for asset '/Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_S' while loading NULL.
+[2017.10.30-08.04.47:920][563]LogLinker: Warning: Can't find file '/Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_N'
+[2017.10.30-08.04.47:920][563]LoadErrors: Failed to load /Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_N.TEX_Taliah_N Referenced by MaterialExpressionTextureSample_2
+[2017.10.30-08.04.47:920][563]LogLinker: Warning: Can't find file for asset '/Game/Assets/Characters/Taliah/Meshes/TEX_Taliah_N' while loading NULL.
+[2017.10.30-08.04.48:000][563]LogMaterial: Missing cached shader map for material mat_main, compiling. 
+[2017.10.30-08.04.48:001][563]LogMaterial: Warning: Failed to compile Material /Game/Assets/Characters/Taliah/Materials/mat_main.mat_main for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.30-08.04.48:001][563]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.10.30-08.04.48:155][563]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-08.04.48:294][563]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-01.04.48
+[2017.10.30-08.04.48:335][563]LogWorld: Bringing up level for play took: 0.042524
+[2017.10.30-08.04.48:618][563]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2017.10.30-08.04.48:990][563]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.884
+[2017.10.30-08.05.03:320][396]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.30-08.05.03:953][396]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 113 classes and 0 folders.
+[2017.10.30-08.05.04:737][396]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.30-08.05.04:890][396]LogSlate: Took 0.018900 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.30-08.05.05:093][397]LogSlate: Took 0.022270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.30-08.05.34:516][ 63]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-08.05.35:729][ 87]LogRenderer: Reallocating scene render targets to support 916x724 Format 10 NumSamples 1 (Frame:1).
+[2017.10.30-08.06.24:784][964]LogEditorTransaction: Undo Modify Component(s)
+[2017.10.30-08.06.24:869][964]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.30-08.07.05:060][354]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-08.08.09:841][148]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-08.08.52:371][626]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-08.09.33:113][ 18]LogEditorTransaction: Undo Add Node
+[2017.10.30-08.09.48:196][893]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-08.10.02:038][690]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-08.11.54:478][325]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-08.12.03:644][857]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-08.12.09:055][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.30-08.12.09:558][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.30-08.12.28:074][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameBPs/BP_Camera" FILE="../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/GameBPs/BP_Camera.uasset" SILENT=true
+[2017.10.30-08.12.28:207][216]LogSavePackage: Save=107.80ms
+[2017.10.30-08.12.28:207][216]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/BP_Camera8BAEAD184505A4524C57D8BA0C5EF7D0.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/GameBPs/BP_Camera.uasset'
+[2017.10.30-08.12.28:225][216]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/GameBPs/BP_Camera.uasset
+[2017.10.30-08.12.45:221][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2017.10.30-08.13.03:146][ 84]LogEditorViewport: Clicking on Actor (LMB): BP_Camera_C (BP_Camera)
+[2017.10.30-08.13.16:179][736]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-08.13.16:220][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-08.13.16:220][736]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 6:13:16 PM)
+[2017.10.30-08.13.16:220][736]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-08.13.16:224][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003610s)
+[2017.10.30-08.13.16:225][736]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-08.13.16:226][736]LogPlayLevel: PIE: World Init took: (0.001592s)
+[2017.10.30-08.13.16:226][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.005599s)
+[2017.10.30-08.13.16:287][736]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-08.13.16:301][736]LogInit: FAudioDevice initialized.
+[2017.10.30-08.13.16:342][736]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-08.13.16:345][736]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-01.13.16
+[2017.10.30-08.13.16:353][736]LogWorld: Bringing up level for play took: 0.009747
+[2017.10.30-08.13.16:355][736]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.25
+[2017.10.30-08.14.04:116][344]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-08.14.04:141][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-08.14.04:141][344]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 6:14:04 PM)
+[2017.10.30-08.14.04:141][344]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-08.14.04:145][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003804s)
+[2017.10.30-08.14.04:146][344]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-08.14.04:146][344]LogPlayLevel: PIE: World Init took: (0.001295s)
+[2017.10.30-08.14.04:146][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.005492s)
+[2017.10.30-08.14.04:204][344]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-08.14.04:218][344]LogInit: FAudioDevice initialized.
+[2017.10.30-08.14.04:253][344]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-08.14.04:255][344]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-01.14.04
+[2017.10.30-08.14.04:255][344]LogWorld: Bringing up level for play took: 0.001876
+[2017.10.30-08.14.04:257][344]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.152
+[2017.10.30-08.14.48:913][774]LogSavePackage: Save=69.45ms
+[2017.10.30-08.14.48:914][774]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/DemoMap_Auto1A74C6DE54364E86B8747B290B6173C64.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto1.umap'
+[2017.10.30-08.14.48:917][774]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto1.umap
+[2017.10.30-08.14.48:921][774]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DemoMap' took 0.127
+[2017.10.30-08.14.48:921][774]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.127
+[2017.10.30-08.18.24:651][496]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-08.19.07:063][920]LogEditorTransaction: Undo Create Pin Link
+[2017.10.30-08.21.10:751][258]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-08.23.39:690][ 47]LogEditorTransaction: Undo Move Node
+[2017.10.30-08.24.25:668][798]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-08.25.38:402][ 69]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-08.25.47:391][565]LogEditorTransaction: Undo Create Pin Link
+[2017.10.30-08.25.47:778][585]LogEditorTransaction: Undo Create Pin Link
+[2017.10.30-08.25.48:162][605]LogEditorTransaction: Undo Create Pin Link
+[2017.10.30-08.25.48:506][623]LogEditorTransaction: Undo Create Pin Link
+[2017.10.30-08.25.48:883][643]LogEditorTransaction: Undo Create Pin Link
+[2017.10.30-08.25.49:146][656]LogEditorTransaction: Undo Create Pin Link
+[2017.10.30-08.25.49:474][673]LogEditorTransaction: Undo Create Pin Link
+[2017.10.30-08.25.49:810][690]LogEditorTransaction: Undo Move Node
+[2017.10.30-08.25.50:205][711]LogEditorTransaction: Undo Delete current selection
+[2017.10.30-08.25.50:715][738]LogEditorTransaction: Undo Move Node
+[2017.10.30-08.25.51:264][768]LogEditorTransaction: Undo Add Node
+[2017.10.30-08.27.32:868][837]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-08.27.34:852][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameBPs/BP_Camera" FILE="../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/GameBPs/BP_Camera.uasset" SILENT=true
+[2017.10.30-08.27.34:957][907]LogSavePackage: Save=84.92ms
+[2017.10.30-08.27.34:957][907]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/BP_CameraAE23A4C947427E5026EBF4B1CF57F43D.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/GameBPs/BP_Camera.uasset'
+[2017.10.30-08.27.34:966][907]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/GameBPs/BP_Camera.uasset
+[2017.10.30-08.29.55:489][131]LogEditorTransaction: Undo Move Node
+[2017.10.30-08.29.56:652][197]LogEditorTransaction: Undo Create Pin Link
+[2017.10.30-08.30.46:461][173]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-08.30.47:519][192]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-08.30.47:553][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-08.30.47:553][192]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 6:30:47 PM)
+[2017.10.30-08.30.47:553][192]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-08.30.47:559][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005068s)
+[2017.10.30-08.30.47:560][192]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-08.30.47:560][192]LogPlayLevel: PIE: World Init took: (0.001541s)
+[2017.10.30-08.30.47:560][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.007075s)
+[2017.10.30-08.30.47:617][192]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-08.30.47:634][192]LogInit: FAudioDevice initialized.
+[2017.10.30-08.30.47:677][192]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-08.30.47:679][192]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-01.30.47
+[2017.10.30-08.30.47:680][192]LogWorld: Bringing up level for play took: 0.002027
+[2017.10.30-08.30.47:720][192]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.386
+[2017.10.30-08.30.47:820][192]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.10.30-08.30.50:951][317]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera_94
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0520
+[2017.10.30-08.30.50:973][317]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-08.30.59:161][649]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera2
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0520
+[2017.10.30-08.30.59:162][649]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-08.31.02:931][799]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera_94
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0520
+[2017.10.30-08.31.02:932][799]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-08.32.03:902][392]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-08.32.24:003][545]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-08.35.15:182][705]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-08.35.44:719][422]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-08.35.47:341][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameBPs/BP_Camera" FILE="../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/GameBPs/BP_Camera.uasset" SILENT=true
+[2017.10.30-08.35.47:472][534]LogSavePackage: Save=101.38ms
+[2017.10.30-08.35.47:472][534]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/BP_Camera22B0A39844642D5B3DE757BFD9ECB520.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/GameBPs/BP_Camera.uasset'
+[2017.10.30-08.35.47:480][534]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/GameBPs/BP_Camera.uasset
+[2017.10.30-08.38.11:279][ 55]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-08.38.12:644][ 91]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-08.38.12:680][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-08.38.12:680][ 91]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 6:38:12 PM)
+[2017.10.30-08.38.12:681][ 91]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-08.38.12:685][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004797s)
+[2017.10.30-08.38.12:687][ 91]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-08.38.12:687][ 91]LogPlayLevel: PIE: World Init took: (0.001726s)
+[2017.10.30-08.38.12:687][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.006912s)
+[2017.10.30-08.38.12:745][ 91]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-08.38.12:762][ 91]LogInit: FAudioDevice initialized.
+[2017.10.30-08.38.12:807][ 91]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-08.38.12:811][ 91]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-01.38.12
+[2017.10.30-08.38.12:811][ 91]LogWorld: Bringing up level for play took: 0.003283
+[2017.10.30-08.38.12:815][ 91]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.71
+[2017.10.30-08.38.23:802][530]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera_94
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:026F
+[2017.10.30-08.38.23:802][530]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-08.38.30:256][792]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera2
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:026F
+[2017.10.30-08.38.30:256][792]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-08.38.33:357][918]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera2
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:026F
+[2017.10.30-08.38.33:357][918]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-08.38.36:762][ 57]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera2
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:026F
+[2017.10.30-08.38.36:762][ 57]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-08.38.38:282][119]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera2
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:026F
+[2017.10.30-08.38.38:282][119]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-08.38.40:865][223]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera2
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:026F
+[2017.10.30-08.38.40:865][223]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-08.38.43:779][341]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera2
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:026F
+[2017.10.30-08.38.43:779][341]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-08.38.58:407][940]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera2
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:026F
+[2017.10.30-08.38.58:407][940]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-08.39.07:618][316]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera2
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:026F
+[2017.10.30-08.39.07:618][316]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-08.39.11:071][454]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera_94
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:026F
+[2017.10.30-08.39.11:071][454]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-08.40.53:675][425]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-08.40.55:658][499]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-08.40.55:693][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-08.40.55:693][499]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 6:40:55 PM)
+[2017.10.30-08.40.55:693][499]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-08.40.55:697][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003435s)
+[2017.10.30-08.40.55:698][499]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-08.40.55:699][499]LogPlayLevel: PIE: World Init took: (0.001589s)
+[2017.10.30-08.40.55:699][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.005455s)
+[2017.10.30-08.40.55:755][499]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-08.40.55:770][499]LogInit: FAudioDevice initialized.
+[2017.10.30-08.40.55:814][499]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-08.40.55:816][499]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-01.40.55
+[2017.10.30-08.40.55:817][499]LogWorld: Bringing up level for play took: 0.001946
+[2017.10.30-08.40.55:820][499]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.285
+[2017.10.30-08.41.06:362][925]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera2
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0280
+[2017.10.30-08.41.06:363][925]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-08.41.09:817][ 65]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera_94
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0280
+[2017.10.30-08.41.09:817][ 65]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-08.41.47:661][168]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-08.41.47:685][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-08.41.47:685][168]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 6:41:47 PM)
+[2017.10.30-08.41.47:685][168]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-08.41.47:688][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002991s)
+[2017.10.30-08.41.47:689][168]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-08.41.47:690][168]LogPlayLevel: PIE: World Init took: (0.001341s)
+[2017.10.30-08.41.47:690][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.004748s)
+[2017.10.30-08.41.47:750][168]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-08.41.47:764][168]LogInit: FAudioDevice initialized.
+[2017.10.30-08.41.47:798][168]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-08.41.47:800][168]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-01.41.47
+[2017.10.30-08.41.47:800][168]LogWorld: Bringing up level for play took: 0.001865
+[2017.10.30-08.41.47:803][168]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.303
+[2017.10.30-08.41.58:788][827]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera2
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0280
+[2017.10.30-08.41.58:788][827]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-08.42.02:239][ 34]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera_94
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0280
+[2017.10.30-08.42.02:239][ 34]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-08.42.54:462][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameBPs/BP_Camera" FILE="../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/GameBPs/BP_Camera.uasset" SILENT=true
+[2017.10.30-08.42.54:590][ 81]LogSavePackage: Save=112.06ms
+[2017.10.30-08.42.54:590][ 81]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/BP_Camera588E5B48456A9F5A60554CA4E837D61F.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/GameBPs/BP_Camera.uasset'
+[2017.10.30-08.42.54:598][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/GameBPs/BP_Camera.uasset
+[2017.10.30-08.42.58:229][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DemoMap" FILE="../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.30-08.42.58:324][273]LogSavePackage: Save=52.72ms
+[2017.10.30-08.42.58:324][273]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/DemoMap5C05D5CD4548BEB89C9BEA8E29E13D9B.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap'
+[2017.10.30-08.42.58:331][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap
+[2017.10.30-09.06.37:165][715]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-09.06.37:191][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-09.06.37:191][715]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 7:06:37 PM)
+[2017.10.30-09.06.37:191][715]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-09.06.37:196][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004370s)
+[2017.10.30-09.06.37:198][715]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-09.06.37:198][715]LogPlayLevel: PIE: World Init took: (0.002102s)
+[2017.10.30-09.06.37:198][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.006941s)
+[2017.10.30-09.06.37:269][715]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-09.06.37:285][715]LogInit: FAudioDevice initialized.
+[2017.10.30-09.06.37:317][715]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-09.06.37:319][715]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-02.06.37
+[2017.10.30-09.06.37:320][715]LogWorld: Bringing up level for play took: 0.002053
+[2017.10.30-09.06.37:322][715]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.784
+[2017.10.30-09.06.39:577][850]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera_94
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0280
+[2017.10.30-09.06.39:577][850]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.06.40:943][932]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera_94
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0280
+[2017.10.30-09.06.40:944][932]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.06.42:145][  4]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera_94
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0280
+[2017.10.30-09.06.42:145][  4]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.06.44:145][124]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera_94
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0280
+[2017.10.30-09.06.44:145][124]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.06.46:812][284]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera_94
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0280
+[2017.10.30-09.06.46:812][284]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.06.48:046][358]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera_94
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0280
+[2017.10.30-09.06.48:046][358]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.06.50:162][485]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera_94
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0280
+[2017.10.30-09.06.50:162][485]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.06.51:729][579]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera_94
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0280
+[2017.10.30-09.06.51:729][579]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.06.55:146][784]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera_94
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0280
+[2017.10.30-09.06.55:146][784]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.06.56:529][867]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera_94
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0280
+[2017.10.30-09.06.56:529][867]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.06.59:422][ 40]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera_94
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0280
+[2017.10.30-09.06.59:422][ 40]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.07.02:172][205]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.07.04:822][364]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.07.11:289][752]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.07.13:072][859]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.07.14:173][925]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.07.15:273][991]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.07.17:373][117]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.07.20:192][286]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.07.22:376][417]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.07.23:727][498]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.07.25:426][600]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.07.27:577][729]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.07.31:994][994]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.07.45:924][793]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.07.47:122][821]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-09.07.47:149][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-09.07.47:150][821]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 7:07:47 PM)
+[2017.10.30-09.07.47:150][821]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-09.07.47:153][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003219s)
+[2017.10.30-09.07.47:154][821]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-09.07.47:154][821]LogPlayLevel: PIE: World Init took: (0.001292s)
+[2017.10.30-09.07.47:155][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.004856s)
+[2017.10.30-09.07.47:208][821]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-09.07.47:222][821]LogInit: FAudioDevice initialized.
+[2017.10.30-09.07.47:260][821]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-09.07.47:262][821]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-02.07.47
+[2017.10.30-09.07.47:263][821]LogWorld: Bringing up level for play took: 0.002573
+[2017.10.30-09.07.47:268][821]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.838
+[2017.10.30-09.08.00:219][433]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-09.08.00:241][433]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.30-09.08.00:260][433]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2017.10.30-09.08.00:937][433]LogPlayLevel: PlayLevel: Blueprint regeneration took 696 ms (1 blueprints)
+[2017.10.30-09.08.00:937][433]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 7:08:00 PM)
+[2017.10.30-09.08.00:937][433]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-09.08.00:940][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002632s)
+[2017.10.30-09.08.00:941][433]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-09.08.00:941][433]LogPlayLevel: PIE: World Init took: (0.001486s)
+[2017.10.30-09.08.00:942][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.004448s)
+[2017.10.30-09.08.00:996][433]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-09.08.01:010][433]LogInit: FAudioDevice initialized.
+[2017.10.30-09.08.01:048][433]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-09.08.01:050][433]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-02.08.01
+[2017.10.30-09.08.01:051][433]LogWorld: Bringing up level for play took: 0.002260
+[2017.10.30-09.08.01:055][433]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.949
+[2017.10.30-09.08.03:357][525]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.08.08:455][805]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.08.09:817][843]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-09.08.09:844][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-09.08.09:844][843]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 7:08:09 PM)
+[2017.10.30-09.08.09:844][843]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-09.08.09:846][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002573s)
+[2017.10.30-09.08.09:847][843]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-09.08.09:848][843]LogPlayLevel: PIE: World Init took: (0.001078s)
+[2017.10.30-09.08.09:848][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.003969s)
+[2017.10.30-09.08.09:899][843]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-09.08.09:914][843]LogInit: FAudioDevice initialized.
+[2017.10.30-09.08.09:957][843]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-09.08.09:959][843]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-02.08.09
+[2017.10.30-09.08.09:959][843]LogWorld: Bringing up level for play took: 0.001972
+[2017.10.30-09.08.09:963][843]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.143
+[2017.10.30-09.08.15:335][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-09.08.15:358][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-09.08.15:358][ 70]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 7:08:15 PM)
+[2017.10.30-09.08.15:358][ 70]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-09.08.15:361][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002904s)
+[2017.10.30-09.08.15:362][ 70]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-09.08.15:362][ 70]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2017.10.30-09.08.15:363][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.004375s)
+[2017.10.30-09.08.15:421][ 70]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-09.08.15:435][ 70]LogInit: FAudioDevice initialized.
+[2017.10.30-09.08.15:477][ 70]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-09.08.15:479][ 70]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-02.08.15
+[2017.10.30-09.08.15:479][ 70]LogWorld: Bringing up level for play took: 0.001850
+[2017.10.30-09.08.15:484][ 70]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.621
+[2017.10.30-09.08.18:194][180]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.08.19:339][227]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.08.21:405][313]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.08.28:905][624]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.08.30:236][678]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.08.32:981][791]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.08.34:520][855]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.08.35:615][900]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.08.37:616][983]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.08.38:612][ 24]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.08.39:804][ 73]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.08.41:813][156]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.08.42:858][199]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.08.44:783][279]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.08.45:806][321]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.08.47:388][386]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.08.48:495][432]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.11.10:741][813]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.11.37:674][  6]LogSavePackage: Save=58.92ms
+[2017.10.30-09.11.37:674][  6]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/DemoMap_Auto25ACE91334DF412C7057156B26DA6F32C.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto2.umap'
+[2017.10.30-09.11.37:678][  6]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto2.umap
+[2017.10.30-09.11.37:681][  6]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DemoMap' took 0.114
+[2017.10.30-09.11.37:681][  6]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.114
+[2017.10.30-09.11.37:685][  6]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameBPs/BP_Camera] ([1] browsable assets)...
+[2017.10.30-09.11.37:685][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameBPs/BP_Camera]
+[2017.10.30-09.11.37:814][  6]LogSavePackage: Save=114.02ms
+[2017.10.30-09.11.37:814][  6]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/BP_Camera_Auto2893DF0E046D5D9BDF37FC1B5D5D9E394.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/GameBPs/BP_Camera_Auto2.uasset'
+[2017.10.30-09.11.37:819][  6]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/GameBPs/BP_Camera_Auto2.uasset
+[2017.10.30-09.11.37:819][  6]LogFileHelpers: Auto-saving content packages took 0.136
+[2017.10.30-09.12.37:807][654]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-09.12.37:842][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-09.12.37:842][654]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 7:12:37 PM)
+[2017.10.30-09.12.37:842][654]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-09.12.37:846][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003555s)
+[2017.10.30-09.12.37:847][654]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-09.12.37:847][654]LogPlayLevel: PIE: World Init took: (0.001615s)
+[2017.10.30-09.12.37:848][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.005630s)
+[2017.10.30-09.12.37:902][654]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-09.12.37:917][654]LogInit: FAudioDevice initialized.
+[2017.10.30-09.12.37:949][654]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-09.12.37:951][654]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-02.12.37
+[2017.10.30-09.12.37:951][654]LogWorld: Bringing up level for play took: 0.001997
+[2017.10.30-09.12.37:954][654]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.152
+[2017.10.30-09.12.43:007][957]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.12.51:066][440]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.12.54:416][641]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.12.55:533][708]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.12.56:566][770]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.12.57:483][825]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.12.58:383][879]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.12.59:466][944]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.13.01:416][ 61]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.13.03:133][164]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.13.04:016][217]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.13.05:067][280]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.21.15:407][490]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.21.15:542][490]LogBlueprint: Error: [Compiler BP_Camera] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2017.10.30-09.21.15:542][490]LogBlueprint: Error: [Compiler BP_Camera] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2017.10.30-09.21.16:206][490]LogBlueprint: Warning: [Compiler BP_Camera] [4688.36] Compile of BP_Camera failed. 2 Fatal Issue(s) 0 Warning(s) [in 798 ms] (/Game/Blueprints/GameBPs/BP_Camera.BP_Camera)
+[2017.10.30-09.21.53:862][729]LogSlate: Took 0.020723 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.10.30-09.22.08:358][587]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.22.08:400][587]LogBlueprint: Error: [Compiler BP_Camera] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2017.10.30-09.22.08:400][587]LogBlueprint: Error: [Compiler BP_Camera] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2017.10.30-09.22.09:076][587]LogBlueprint: Warning: [Compiler BP_Camera] [4741.23] Compile of BP_Camera failed. 2 Fatal Issue(s) 0 Warning(s) [in 717 ms] (/Game/Blueprints/GameBPs/BP_Camera.BP_Camera)
+[2017.10.30-09.25.23:141][  8]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.25.25:990][134]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-09.25.26:151][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-09.25.26:151][134]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 7:25:26 PM)
+[2017.10.30-09.25.26:152][134]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-09.25.26:156][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004015s)
+[2017.10.30-09.25.26:157][134]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-09.25.26:157][134]LogPlayLevel: PIE: World Init took: (0.001279s)
+[2017.10.30-09.25.26:157][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.005900s)
+[2017.10.30-09.25.26:211][134]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-09.25.26:229][134]LogInit: FAudioDevice initialized.
+[2017.10.30-09.25.26:269][134]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-09.25.26:271][134]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-02.25.26
+[2017.10.30-09.25.26:272][134]LogWorld: Bringing up level for play took: 0.001986
+[2017.10.30-09.25.26:276][134]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.17
+[2017.10.30-09.25.29:866][277]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.25.32:631][392]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.26.37:494][193]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.26.38:586][215]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-09.26.38:620][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-09.26.38:620][215]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 7:26:38 PM)
+[2017.10.30-09.26.38:621][215]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-09.26.38:624][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002976s)
+[2017.10.30-09.26.38:625][215]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-09.26.38:625][215]LogPlayLevel: PIE: World Init took: (0.001311s)
+[2017.10.30-09.26.38:625][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.004718s)
+[2017.10.30-09.26.38:678][215]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-09.26.38:692][215]LogInit: FAudioDevice initialized.
+[2017.10.30-09.26.38:736][215]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-09.26.38:738][215]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-02.26.38
+[2017.10.30-09.26.38:739][215]LogWorld: Bringing up level for play took: 0.002140
+[2017.10.30-09.26.38:742][215]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.637
+[2017.10.30-09.26.42:029][345]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.26.44:155][431]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.26.45:892][502]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.26.47:445][566]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.26.48:532][610]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.27.39:620][601]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.27.41:087][644]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-09.27.41:123][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-09.27.41:123][644]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 7:27:41 PM)
+[2017.10.30-09.27.41:124][644]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-09.27.41:129][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004704s)
+[2017.10.30-09.27.41:130][644]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-09.27.41:131][644]LogPlayLevel: PIE: World Init took: (0.001809s)
+[2017.10.30-09.27.41:131][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.006912s)
+[2017.10.30-09.27.41:189][644]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-09.27.41:205][644]LogInit: FAudioDevice initialized.
+[2017.10.30-09.27.41:248][644]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-09.27.41:250][644]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-02.27.41
+[2017.10.30-09.27.41:251][644]LogWorld: Bringing up level for play took: 0.002031
+[2017.10.30-09.27.41:254][644]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.852
+[2017.10.30-09.27.43:909][750]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.27.49:605][ 60]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.27.50:668][ 79]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-09.27.50:694][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-09.27.50:694][ 79]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 7:27:50 PM)
+[2017.10.30-09.27.50:694][ 79]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-09.27.50:699][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004306s)
+[2017.10.30-09.27.50:700][ 79]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-09.27.50:700][ 79]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2017.10.30-09.27.50:700][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.005837s)
+[2017.10.30-09.27.50:755][ 79]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-09.27.50:770][ 79]LogInit: FAudioDevice initialized.
+[2017.10.30-09.27.50:808][ 79]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-09.27.50:810][ 79]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-02.27.50
+[2017.10.30-09.27.50:810][ 79]LogWorld: Bringing up level for play took: 0.001991
+[2017.10.30-09.27.50:814][ 79]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.708
+[2017.10.30-09.27.55:780][298]LogEditorTransaction: Undo Delete current selection
+[2017.10.30-09.28.38:182][753]LogEditorTransaction: Undo Add Node
+[2017.10.30-09.29.14:613][523]LogSavePackage: Save=54.76ms
+[2017.10.30-09.29.14:613][523]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/DemoMap_Auto39A35813548C25FF6898A589E5FA0C912.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto3.umap'
+[2017.10.30-09.29.14:618][523]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto3.umap
+[2017.10.30-09.29.14:622][523]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DemoMap' took 0.105
+[2017.10.30-09.29.14:622][523]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.105
+[2017.10.30-09.29.14:630][523]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameBPs/BP_Camera] ([1] browsable assets)...
+[2017.10.30-09.29.14:630][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameBPs/BP_Camera]
+[2017.10.30-09.29.14:769][523]LogSavePackage: Save=124.54ms
+[2017.10.30-09.29.14:769][523]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/BP_Camera_Auto32F737E0B4588C1CCEB647E8D924E872D.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/GameBPs/BP_Camera_Auto3.uasset'
+[2017.10.30-09.29.14:772][523]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/GameBPs/BP_Camera_Auto3.uasset
+[2017.10.30-09.29.14:772][523]LogFileHelpers: Auto-saving content packages took 0.145
+[2017.10.30-09.30.00:579][ 52]LogEditorTransaction: Undo Create Pin Link
+[2017.10.30-09.30.00:963][ 75]LogEditorTransaction: Undo Create Pin Link
+[2017.10.30-09.30.01:761][120]LogEditorTransaction: Undo Move Node
+[2017.10.30-09.30.02:882][185]LogEditorTransaction: Undo Move Node
+[2017.10.30-09.30.03:560][222]LogEditorTransaction: Undo Add Node
+[2017.10.30-09.30.04:030][248]LogEditorTransaction: Undo Delete current selection
+[2017.10.30-09.30.05:321][323]LogEditorTransaction: Undo Create Pin Link
+[2017.10.30-09.30.05:788][351]LogEditorTransaction: Undo Add Node
+[2017.10.30-09.30.06:391][385]LogEditorTransaction: Undo Move Node
+[2017.10.30-09.30.07:694][461]LogEditorTransaction: Undo Create Pin Link
+[2017.10.30-09.30.09:497][567]LogEditorTransaction: Undo Delete current selection
+[2017.10.30-09.30.10:936][651]LogEditorTransaction: Redo Delete current selection
+[2017.10.30-09.30.11:207][665]LogEditorTransaction: Redo Create Pin Link
+[2017.10.30-09.33.17:868][409]LogEditorTransaction: Undo Create Pin Link
+[2017.10.30-09.33.18:901][471]LogEditorTransaction: Redo Create Pin Link
+[2017.10.30-09.33.21:485][626]LogEditorTransaction: Undo Create Pin Link
+[2017.10.30-09.33.21:701][639]LogEditorTransaction: Undo Move Node
+[2017.10.30-09.33.21:889][647]LogEditorTransaction: Undo Move Node
+[2017.10.30-09.33.22:234][665]LogEditorTransaction: Undo Move Node
+[2017.10.30-09.33.22:443][675]LogEditorTransaction: Undo Move Node
+[2017.10.30-09.33.22:638][684]LogEditorTransaction: Undo Move Node
+[2017.10.30-09.33.22:871][695]LogEditorTransaction: Undo Rename Node
+[2017.10.30-09.33.23:111][706]LogEditorTransaction: Undo Add Node
+[2017.10.30-09.33.23:353][717]LogEditorTransaction: Undo Add Node
+[2017.10.30-09.33.23:563][727]LogEditorTransaction: Undo Delete current selection
+[2017.10.30-09.33.23:795][738]LogEditorTransaction: Undo Move Node
+[2017.10.30-09.33.24:062][751]LogEditorTransaction: Undo Add Node
+[2017.10.30-09.33.24:390][768]LogEditorTransaction: Undo Delete current selection
+[2017.10.30-09.33.24:638][780]LogEditorTransaction: Undo Move Node
+[2017.10.30-09.35.58:460][755]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.36.41:686][277]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.36.41:813][277]LogBlueprint: Error: [Compiler BP_Camera] In use pin  Character  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.10.30-09.36.41:813][277]LogBlueprint: Error: [Compiler BP_Camera] In use pin  Character  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.10.30-09.36.41:813][277]LogBlueprint: Error: [Compiler BP_Camera] In use pin  Character  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.10.30-09.36.41:814][277]LogBlueprint: Error: [Compiler BP_Camera] In use pin  Character  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.10.30-09.36.41:814][277]LogBlueprint: Error: [Compiler BP_Camera] In use pin  Character  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.10.30-09.36.41:814][277]LogBlueprint: Error: [Compiler BP_Camera] In use pin  Character  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.10.30-09.36.42:535][277]LogBlueprint: Warning: [Compiler BP_Camera] [5614.69] Compile of BP_Camera failed. 6 Fatal Issue(s) 0 Warning(s) [in 849 ms] (/Game/Blueprints/GameBPs/BP_Camera.BP_Camera)
+[2017.10.30-09.37.11:184][976]LogEditorTransaction: Undo Break Pin Link
+[2017.10.30-09.37.31:014][143]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.39.02:807][260]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.39.04:267][301]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-09.39.04:393][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-09.39.04:393][301]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 7:39:04 PM)
+[2017.10.30-09.39.04:393][301]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-09.39.04:398][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004345s)
+[2017.10.30-09.39.04:399][301]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-09.39.04:399][301]LogPlayLevel: PIE: World Init took: (0.001309s)
+[2017.10.30-09.39.04:399][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.006159s)
+[2017.10.30-09.39.04:455][301]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-09.39.04:474][301]LogInit: FAudioDevice initialized.
+[2017.10.30-09.39.04:514][301]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-09.39.04:518][301]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-02.39.04
+[2017.10.30-09.39.04:518][301]LogWorld: Bringing up level for play took: 0.003218
+[2017.10.30-09.39.04:524][301]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.418
+[2017.10.30-09.39.08:482][457]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.39.10:067][521]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.39.16:950][892]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.39.18:485][937]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-09.39.18:516][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-09.39.18:516][937]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 7:39:18 PM)
+[2017.10.30-09.39.18:516][937]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-09.39.18:521][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004114s)
+[2017.10.30-09.39.18:521][937]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-09.39.18:522][937]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2017.10.30-09.39.18:522][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.005664s)
+[2017.10.30-09.39.18:575][937]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-09.39.18:589][937]LogInit: FAudioDevice initialized.
+[2017.10.30-09.39.18:629][937]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-09.39.18:631][937]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-02.39.18
+[2017.10.30-09.39.18:631][937]LogWorld: Bringing up level for play took: 0.001813
+[2017.10.30-09.39.18:634][937]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.529
+[2017.10.30-09.39.31:530][477]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-09.39.31:553][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-09.39.31:553][477]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 7:39:31 PM)
+[2017.10.30-09.39.31:553][477]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-09.39.31:557][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003482s)
+[2017.10.30-09.39.31:558][477]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-09.39.31:558][477]LogPlayLevel: PIE: World Init took: (0.001388s)
+[2017.10.30-09.39.31:559][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.005225s)
+[2017.10.30-09.39.31:623][477]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-09.39.31:637][477]LogInit: FAudioDevice initialized.
+[2017.10.30-09.39.31:682][477]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-09.39.31:684][477]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-02.39.31
+[2017.10.30-09.39.31:684][477]LogWorld: Bringing up level for play took: 0.002164
+[2017.10.30-09.39.31:691][477]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.414
+[2017.10.30-09.39.59:073][953]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.40.00:111][969]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-09.40.00:143][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-09.40.00:143][969]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 7:40:00 PM)
+[2017.10.30-09.40.00:143][969]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-09.40.00:147][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003116s)
+[2017.10.30-09.40.00:148][969]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-09.40.00:148][969]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2017.10.30-09.40.00:148][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.004630s)
+[2017.10.30-09.40.00:202][969]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-09.40.00:216][969]LogInit: FAudioDevice initialized.
+[2017.10.30-09.40.00:256][969]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-09.40.00:258][969]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-02.40.00
+[2017.10.30-09.40.00:258][969]LogWorld: Bringing up level for play took: 0.002000
+[2017.10.30-09.40.00:262][969]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.157
+[2017.10.30-09.40.17:579][675]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera2
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:0374
+[2017.10.30-09.40.17:579][675]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.40.23:710][926]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.43.46:222][985]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.43.47:244][  0]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-09.43.47:284][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-09.43.47:284][  0]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 7:43:47 PM)
+[2017.10.30-09.43.47:284][  0]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-09.43.47:288][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003520s)
+[2017.10.30-09.43.47:289][  0]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-09.43.47:289][  0]LogPlayLevel: PIE: World Init took: (0.001255s)
+[2017.10.30-09.43.47:290][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.005272s)
+[2017.10.30-09.43.47:348][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-09.43.47:366][  0]LogInit: FAudioDevice initialized.
+[2017.10.30-09.43.47:407][  0]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-09.43.47:409][  0]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-02.43.47
+[2017.10.30-09.43.47:410][  0]LogWorld: Bringing up level for play took: 0.002369
+[2017.10.30-09.43.47:414][  0]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.691
+[2017.10.30-09.43.59:309][479]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.44.37:190][259]LogSavePackage: Save=57.32ms
+[2017.10.30-09.44.37:190][259]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/DemoMap_Auto4A7EFF13445BAD92D346DACBC7025CE7E.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto4.umap'
+[2017.10.30-09.44.37:193][259]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto4.umap
+[2017.10.30-09.44.37:210][259]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DemoMap' took 0.213
+[2017.10.30-09.44.37:210][259]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.213
+[2017.10.30-09.44.37:215][259]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameBPs/BP_Camera] ([1] browsable assets)...
+[2017.10.30-09.44.37:215][259]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameBPs/BP_Camera]
+[2017.10.30-09.44.37:664][259]LogSavePackage: Save=226.23ms
+[2017.10.30-09.44.37:664][259]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/BP_Camera_Auto45DBADA3F4E8BA4215F9D88B0B9E53A0B.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/GameBPs/BP_Camera_Auto4.uasset'
+[2017.10.30-09.44.37:668][259]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/GameBPs/BP_Camera_Auto4.uasset
+[2017.10.30-09.44.37:668][259]LogFileHelpers: Auto-saving content packages took 0.455
+[2017.10.30-09.45.38:953][975]LogEditorTransaction: Undo Break Pin Link
+[2017.10.30-09.45.40:696][ 74]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.47.27:845][141]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.47.55:572][756]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.47.56:927][791]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-09.47.56:963][791]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-09.47.56:964][791]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 7:47:56 PM)
+[2017.10.30-09.47.56:964][791]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-09.47.56:967][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003431s)
+[2017.10.30-09.47.56:968][791]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-09.47.56:969][791]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2017.10.30-09.47.56:969][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.005160s)
+[2017.10.30-09.47.57:027][791]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-09.47.57:045][791]LogInit: FAudioDevice initialized.
+[2017.10.30-09.47.57:086][791]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-09.47.57:089][791]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-02.47.57
+[2017.10.30-09.47.57:089][791]LogWorld: Bringing up level for play took: 0.002278
+[2017.10.30-09.47.57:094][791]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.989
+[2017.10.30-09.48.00:682][936]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.48.07:127][202]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.48.08:293][250]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.48.09:446][297]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.48.10:670][347]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.48.14:916][583]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.48.16:092][607]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-09.48.16:119][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-09.48.16:119][607]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 7:48:16 PM)
+[2017.10.30-09.48.16:120][607]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-09.48.16:123][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003485s)
+[2017.10.30-09.48.16:124][607]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-09.48.16:124][607]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2017.10.30-09.48.16:125][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.005193s)
+[2017.10.30-09.48.16:179][607]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-09.48.16:194][607]LogInit: FAudioDevice initialized.
+[2017.10.30-09.48.16:238][607]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-09.48.16:241][607]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-02.48.16
+[2017.10.30-09.48.16:241][607]LogWorld: Bringing up level for play took: 0.002378
+[2017.10.30-09.48.16:245][607]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.139
+[2017.10.30-09.48.18:602][702]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.48.19:782][751]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.48.20:841][795]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.48.25:325][ 35]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.48.26:605][ 66]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-09.48.26:630][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-09.48.26:631][ 66]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 7:48:26 PM)
+[2017.10.30-09.48.26:631][ 66]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-09.48.26:634][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003035s)
+[2017.10.30-09.48.26:635][ 66]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-09.48.26:636][ 66]LogPlayLevel: PIE: World Init took: (0.001146s)
+[2017.10.30-09.48.26:636][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.004628s)
+[2017.10.30-09.48.26:690][ 66]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-09.48.26:705][ 66]LogInit: FAudioDevice initialized.
+[2017.10.30-09.48.26:741][ 66]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-09.48.26:744][ 66]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-02.48.26
+[2017.10.30-09.48.26:745][ 66]LogWorld: Bringing up level for play took: 0.002929
+[2017.10.30-09.48.26:749][ 66]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.643
+[2017.10.30-09.48.28:136][121]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.48.29:250][167]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.48.30:846][246]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-09.48.30:868][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-09.48.30:868][246]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 7:48:30 PM)
+[2017.10.30-09.48.30:868][246]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-09.48.30:871][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003330s)
+[2017.10.30-09.48.30:873][246]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-09.48.30:873][246]LogPlayLevel: PIE: World Init took: (0.001461s)
+[2017.10.30-09.48.30:873][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.005164s)
+[2017.10.30-09.48.30:937][246]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-09.48.30:952][246]LogInit: FAudioDevice initialized.
+[2017.10.30-09.48.30:995][246]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-09.48.30:997][246]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-02.48.30
+[2017.10.30-09.48.30:997][246]LogWorld: Bringing up level for play took: 0.001908
+[2017.10.30-09.48.31:001][246]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.895
+[2017.10.30-09.48.32:208][294]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.48.33:711][356]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.48.35:835][444]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.48.37:410][510]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.48.38:184][542]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.48.38:733][565]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.48.39:402][593]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.48.39:863][612]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.48.46:008][950]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.48.47:191][975]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-09.48.47:217][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-09.48.47:217][975]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 7:48:47 PM)
+[2017.10.30-09.48.47:218][975]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-09.48.47:221][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003116s)
+[2017.10.30-09.48.47:222][975]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-09.48.47:222][975]LogPlayLevel: PIE: World Init took: (0.001317s)
+[2017.10.30-09.48.47:222][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.004808s)
+[2017.10.30-09.48.47:280][975]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-09.48.47:294][975]LogInit: FAudioDevice initialized.
+[2017.10.30-09.48.47:338][975]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-09.48.47:340][975]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-02.48.47
+[2017.10.30-09.48.47:340][975]LogWorld: Bringing up level for play took: 0.002071
+[2017.10.30-09.48.47:345][975]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.76
+[2017.10.30-09.48.49:059][ 43]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.48.50:900][120]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.48.51:766][156]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.48.52:748][196]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.48.58:740][444]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.49.01:303][549]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.49.02:838][612]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.49.03:999][660]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.49.05:157][708]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.49.06:495][763]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.49.21:713][389]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera2
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:01FF
+[2017.10.30-09.49.21:714][389]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.49.24:928][522]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera2
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:01FF
+[2017.10.30-09.49.24:928][522]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.49.26:152][572]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera2
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:01FF
+[2017.10.30-09.49.26:152][572]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.49.27:318][620]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera2
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:01FF
+[2017.10.30-09.49.27:318][620]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.49.28:998][690]LogScript: Warning: Accessed None trying to read property PreviousCam
+	BP_Camera_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.BP_Camera2
+	Function /Game/Blueprints/GameBPs/BP_Camera.BP_Camera_C:ExecuteUbergraph_BP_Camera:01FF
+[2017.10.30-09.49.28:998][690]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.49.31:888][809]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.50.53:725][153]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.50.56:165][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameBPs/BP_Camera" FILE="../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/GameBPs/BP_Camera.uasset" SILENT=true
+[2017.10.30-09.50.56:305][252]LogSavePackage: Save=119.41ms
+[2017.10.30-09.50.56:305][252]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/BP_Camera9AD31D894C8E8A3B32FC95BA341ABF96.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/GameBPs/BP_Camera.uasset'
+[2017.10.30-09.50.56:317][252]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/GameBPs/BP_Camera.uasset
+[2017.10.30-09.51.31:429][911]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.51.32:654][938]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-09.51.32:679][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-09.51.32:679][938]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 7:51:32 PM)
+[2017.10.30-09.51.32:680][938]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-09.51.32:684][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003193s)
+[2017.10.30-09.51.32:685][938]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-09.51.32:685][938]LogPlayLevel: PIE: World Init took: (0.001396s)
+[2017.10.30-09.51.32:685][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.004995s)
+[2017.10.30-09.51.32:743][938]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-09.51.32:759][938]LogInit: FAudioDevice initialized.
+[2017.10.30-09.51.32:800][938]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-09.51.32:802][938]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-02.51.32
+[2017.10.30-09.51.32:802][938]LogWorld: Bringing up level for play took: 0.001867
+[2017.10.30-09.51.32:806][938]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.701
+[2017.10.30-09.51.35:230][ 34]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.51.36:577][ 89]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.51.37:873][142]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.51.38:939][186]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.51.48:693][590]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.51.50:888][679]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.51.52:100][729]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.51.53:174][773]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.52.13:340][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameBPs/BP_Camera" FILE="../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/GameBPs/BP_Camera.uasset" SILENT=true
+[2017.10.30-09.52.13:466][667]LogSavePackage: Save=116.67ms
+[2017.10.30-09.52.13:466][667]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/BP_Camera23C409C44F87F43F62B5C8937962E193.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/GameBPs/BP_Camera.uasset'
+[2017.10.30-09.52.13:474][667]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/GameBPs/BP_Camera.uasset
+[2017.10.30-09.52.21:888][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DemoMap" FILE="../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.30-09.52.22:005][ 40]LogSavePackage: Save=55.23ms
+[2017.10.30-09.52.22:005][ 40]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/DemoMap8C9ACFED4868AC3A79999A8EF62FBD87.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap'
+[2017.10.30-09.52.22:012][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap
+[2017.10.30-09.54.41:684][290]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.55.39:038][673]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.56.21:163][137]BlueprintLog: New page: Compile BP_Camera
+[2017.10.30-09.56.22:866][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameBPs/BP_Camera" FILE="../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/GameBPs/BP_Camera.uasset" SILENT=true
+[2017.10.30-09.56.23:015][191]LogSavePackage: Save=126.68ms
+[2017.10.30-09.56.23:015][191]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/BP_Camera8BAC56274B0744A11B7752B31C934AF5.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/GameBPs/BP_Camera.uasset'
+[2017.10.30-09.56.23:023][191]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/GameBPs/BP_Camera.uasset
+[2017.10.30-09.56.24:862][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DemoMap" FILE="../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.30-09.56.24:949][283]LogSavePackage: Save=56.14ms
+[2017.10.30-09.56.24:949][283]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/DemoMapF3931FFA40A9FFFD64F7E299FA38C255.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap'
+[2017.10.30-09.56.24:956][283]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap
+[2017.10.30-09.56.38:600][948]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-09.56.38:633][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-09.56.38:633][948]PIE: New page: PIE session: DemoMap (Oct 29, 2017, 7:56:38 PM)
+[2017.10.30-09.56.38:633][948]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.10.30-09.56.38:637][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003942s)
+[2017.10.30-09.56.38:638][948]LogAIModule: Creating AISystem for world DemoMap
+[2017.10.30-09.56.38:639][948]LogPlayLevel: PIE: World Init took: (0.001297s)
+[2017.10.30-09.56.38:639][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.005612s)
+[2017.10.30-09.56.38:711][948]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.30-09.56.38:734][948]LogInit: FAudioDevice initialized.
+[2017.10.30-09.56.38:769][948]LogLoad: Game class is 'MainGameMode_C'
+[2017.10.30-09.56.38:771][948]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.10.30-02.56.38
+[2017.10.30-09.56.38:772][948]LogWorld: Bringing up level for play took: 0.001976
+[2017.10.30-09.56.38:774][948]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.669
+[2017.10.30-09.56.41:711][124]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.56.44:027][263]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.56.45:294][339]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PreviousCam from function: 'ExecuteUbergraph_BP_Camera' from node: Branch in graph: EventGraph in object: BP_Camera with description: Accessed None trying to read property PreviousCam
+[2017.10.30-09.57.01:934][206]Cmd: QUIT_EDITOR
+[2017.10.30-09.57.02:517][206]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.30-09.57.02:654][206]LogExit: Preparing to exit.
+[2017.10.30-09.57.03:378][206]LogDirectoryWatcher: A directory notification for 'C:/Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/' was aborted.
+[2017.10.30-09.57.03:634][206]LogExit: Editor shut down
+[2017.10.30-09.57.03:678][206]LogExit: Transaction tracking system shut down
+[2017.10.30-09.57.03:904][206]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.10.30-09.57.03:904][206]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/' was aborted.
+[2017.10.30-09.57.03:904][206]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.10.30-09.57.03:904][206]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.10.30-09.57.03:904][206]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.10.30-09.57.04:063][206]LogExit: Object subsystem successfully closed.
+[2017.10.30-09.57.04:084][206]LogD3D11RHI: Shutdown
+[2017.10.30-09.57.04:084][206]LogD3D11RHI: CleanupD3DDevice
+[2017.10.30-09.57.04:211][206]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.10.30-09.57.04:311][206]LogModuleManager: Shutting down and abandoning module BlueprintGraph (536)
+[2017.10.30-09.57.04:311][206]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (534)
+[2017.10.30-09.57.04:318][206]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (532)
+[2017.10.30-09.57.04:328][206]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.10.30-09.57.04:328][206]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.10.30-09.57.04:328][206]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.10.30-09.57.04:328][206]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.10.30-09.57.04:335][206]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.10.30-09.57.04:335][206]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.10.30-09.57.04:335][206]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.10.30-09.57.04:335][206]LogDirectoryWatcher: A directory notification for 'C:/Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Collections/' was aborted.
+[2017.10.30-09.57.04:335][206]LogDirectoryWatcher: A directory notification for 'C:/Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Developers/Kevin/Collections/' was aborted.
+[2017.10.30-09.57.04:335][206]LogDirectoryWatcher: A directory notification for 'C:/Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Collections/' was aborted.
+[2017.10.30-09.57.04:335][206]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.10.30-09.57.04:335][206]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.10.30-09.57.04:335][206]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.10.30-09.57.04:335][206]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.10.30-09.57.04:335][206]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.10.30-09.57.04:335][206]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.10.30-09.57.04:335][206]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.10.30-09.57.04:335][206]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.10.30-09.57.04:335][206]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.10.30-09.57.04:335][206]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.10.30-09.57.04:335][206]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.10.30-09.57.04:335][206]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.10.30-09.57.04:336][206]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.10.30-09.57.04:336][206]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.10.30-09.57.04:336][206]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.10.30-09.57.04:336][206]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.10.30-09.57.04:336][206]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.10.30-09.57.04:336][206]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.10.30-09.57.04:336][206]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.10.30-09.57.04:336][206]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.10.30-09.57.04:336][206]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.10.30-09.57.04:336][206]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.10.30-09.57.04:336][206]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.10.30-09.57.04:336][206]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.10.30-09.57.04:336][206]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.10.30-09.57.04:336][206]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.10.30-09.57.04:336][206]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.10.30-09.57.04:336][206]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.10.30-09.57.04:336][206]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.10.30-09.57.04:336][206]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.10.30-09.57.04:336][206]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.10.30-09.57.04:336][206]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.10.30-09.57.04:336][206]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.10.30-09.57.04:337][206]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.10.30-09.57.04:337][206]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.10.30-09.57.04:337][206]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.10.30-09.57.04:337][206]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.10.30-09.57.04:337][206]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.10.30-09.57.05:027][206]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.10.30-09.57.05:027][206]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.10.30-09.57.05:027][206]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.10.30-09.57.05:027][206]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.10.30-09.57.05:027][206]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.10.30-09.57.05:027][206]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.10.30-09.57.05:027][206]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.10.30-09.57.05:028][206]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.10.30-09.57.05:028][206]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.10.30-09.57.05:028][206]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.10.30-09.57.05:028][206]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.10.30-09.57.05:028][206]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.10.30-09.57.05:028][206]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.10.30-09.57.05:028][206]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.10.30-09.57.05:029][206]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.10.30-09.57.05:029][206]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.10.30-09.57.05:029][206]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.10.30-09.57.05:030][206]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.10.30-09.57.05:030][206]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.10.30-09.57.05:031][206]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.10.30-09.57.05:031][206]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.10.30-09.57.05:031][206]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.10.30-09.57.05:031][206]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.10.30-09.57.05:031][206]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.10.30-09.57.05:087][206]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.10.30-09.57.05:087][206]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.10.30-09.57.05:087][206]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.10.30-09.57.05:087][206]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.10.30-09.57.05:087][206]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.10.30-09.57.05:087][206]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.10.30-09.57.05:088][206]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.10.30-09.57.05:088][206]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.10.30-09.57.05:088][206]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.10.30-09.57.05:088][206]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.10.30-09.57.05:119][206]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.10.30-09.57.05:124][206]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.10.30-09.57.05:124][206]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.10.30-09.57.05:124][206]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.10.30-09.57.05:124][206]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.10.30-09.57.05:124][206]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.10.30-09.57.05:124][206]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.10.30-09.57.05:126][206]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.10.30-09.57.05:127][206]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.10.30-09.57.05:127][206]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.10.30-09.57.05:127][206]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.10.30-09.57.05:127][206]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.10.30-09.57.05:127][206]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.10.30-09.57.05:127][206]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.10.30-09.57.05:127][206]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.10.30-09.57.05:127][206]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.10.30-09.57.05:127][206]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.10.30-09.57.05:127][206]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.10.30-09.57.05:127][206]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.10.30-09.57.05:127][206]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.10.30-09.57.05:127][206]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.10.30-09.57.05:325][206]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.10.30-09.57.05:325][206]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.10.30-09.57.05:325][206]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.10.30-09.57.05:325][206]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.10.30-09.57.05:325][206]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.10.30-09.57.05:326][206]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.10.30-09.57.05:326][206]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.10.30-09.57.05:326][206]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.10.30-09.57.05:326][206]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.10.30-09.57.05:326][206]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.10.30-09.57.05:326][206]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.10.30-09.57.05:326][206]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.10.30-09.57.05:326][206]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.10.30-09.57.05:326][206]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.10.30-09.57.05:327][206]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.10.30-09.57.05:327][206]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.10.30-09.57.05:327][206]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.10.30-09.57.05:327][206]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.10.30-09.57.05:327][206]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.10.30-09.57.05:328][206]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.10.30-09.57.05:328][206]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.10.30-09.57.05:328][206]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.10.30-09.57.05:328][206]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.10.30-09.57.05:328][206]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.10.30-09.57.05:329][206]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.10.30-09.57.05:329][206]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.10.30-09.57.05:329][206]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.10.30-09.57.05:329][206]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.10.30-09.57.05:329][206]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.10.30-09.57.05:329][206]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.10.30-09.57.05:330][206]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.10.30-09.57.05:330][206]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.10.30-09.57.05:334][206]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.10.30-09.57.05:334][206]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.10.30-09.57.05:334][206]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.10.30-09.57.05:336][206]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.10.30-09.57.05:336][206]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.10.30-09.57.05:336][206]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.10.30-09.57.05:336][206]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.10.30-09.57.05:336][206]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.10.30-09.57.05:337][206]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.10.30-09.57.05:337][206]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.10.30-09.57.05:337][206]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.10.30-09.57.05:438][206]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.10.30-09.57.05:538][206]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.10.30-09.57.05:538][206]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.10.30-09.57.05:539][206]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.10.30-09.57.05:539][206]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.10.30-09.57.05:539][206]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.10.30-09.57.05:539][206]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.10.30-09.57.05:548][206]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.10.30-09.57.05:548][206]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.10.30-09.57.05:549][206]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.10.30-09.57.05:549][206]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.10.30-09.57.05:550][206]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.10.30-09.57.05:550][206]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.10.30-09.57.05:550][206]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.10.30-09.57.05:550][206]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.10.30-09.57.05:550][206]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.10.30-09.57.05:550][206]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.10.30-09.57.05:550][206]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.10.30-09.57.05:551][206]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.10.30-09.57.05:551][206]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.10.30-09.57.05:551][206]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.10.30-09.57.05:551][206]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.10.30-09.57.05:551][206]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.10.30-09.57.05:551][206]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.10.30-09.57.05:552][206]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.10.30-09.57.05:552][206]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.10.30-09.57.05:552][206]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.10.30-09.57.05:552][206]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.10.30-09.57.05:552][206]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.10.30-09.57.05:553][206]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.10.30-09.57.05:553][206]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.10.30-09.57.05:561][206]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.10.30-09.57.05:561][206]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.10.30-09.57.05:561][206]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.10.30-09.57.05:561][206]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.10.30-09.57.05:561][206]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.10.30-09.57.05:561][206]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.10.30-09.57.05:561][206]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.10.30-09.57.05:561][206]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.10.30-09.57.05:561][206]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.10.30-09.57.05:561][206]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.10.30-09.57.05:561][206]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.10.30-09.57.05:561][206]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.10.30-09.57.05:561][206]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.10.30-09.57.05:561][206]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.10.30-09.57.05:561][206]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.10.30-09.57.05:561][206]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.10.30-09.57.05:571][206]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.10.30-09.57.05:608][206]LogDerivedDataCache: Shutdown
+[2017.10.30-09.57.05:609][206]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.10.30-09.57.05:609][206]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.10.30-09.57.05:609][206]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.10.30-09.57.05:609][206]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.10.30-09.57.05:609][206]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.10.30-09.57.05:609][206]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.10.30-09.57.05:609][206]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.10.30-09.57.05:609][206]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.10.30-09.57.05:609][206]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.10.30-09.57.05:609][206]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.10.30-09.57.05:609][206]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.10.30-09.57.05:609][206]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.10.30-09.57.05:609][206]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.10.30-09.57.05:609][206]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.10.30-09.57.05:609][206]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.10.30-09.57.05:609][206]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.10.30-09.57.05:609][206]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.10.30-09.57.05:609][206]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.10.30-09.57.05:609][206]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.10.30-09.57.05:610][206]LogOnline: Display: Unloading online subsystem: NULL
+[2017.10.30-09.57.05:610][206]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.10.30-09.57.05:611][206]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.10.30-09.57.05:611][206]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2017.10.30-09.57.05:611][206]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEF7EEFD1-4A4D-B484-AFCB-3192FCD22A70%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=c8e7ee694608cab10f554997a5700586%7C17b2c072781c4edebff899eb90fee0af%7Ca3a6d8a0-3031-4cc3-8e30-da165e12830c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.10.30-09.57.05:611][206]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEF7EEFD1-4A4D-B484-AFCB-3192FCD22A70%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=c8e7ee694608cab10f554997a5700586%7C17b2c072781c4edebff899eb90fee0af%7Ca3a6d8a0-3031-4cc3-8e30-da165e12830c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.10.30-09.57.05:639][206]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.10.30-09.57.05:641][206]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.10.30-09.57.05:641][206]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.10.30-09.57.05:642][206]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.10.30-09.57.05:642][206]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.10.30-09.57.05:642][206]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.10.30-09.57.05:642][206]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.10.30-09.57.05:642][206]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.10.30-09.57.05:648][206]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.10.30-09.57.05:648][206]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.10.30-09.57.05:648][206]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.10.30-09.57.05:648][206]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.10.30-09.57.05:648][206]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.10.30-09.57.05:648][206]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.10.30-09.57.05:648][206]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.10.30-09.57.05:648][206]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.10.30-09.57.05:648][206]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.10.30-09.57.05:648][206]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.10.30-09.57.05:648][206]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.10.30-09.57.05:650][206]LogExit: Exiting.
+[2017.10.30-09.57.05:676][206]Log file closed, 10/30/17 02:57:05
