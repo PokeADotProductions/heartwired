@@ -1,0 +1,667 @@
+﻿Log file open, 11/07/17 15:23:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Cyberwitch_Project
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-934906495) SRandInit(-934906495).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.158519
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.07-23.23.11:782][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.07-23.23.11:782][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.07-23.23.11:820][  0]LogInit: Computer: LAPTOP-MG4MMUC0
+[2017.11.07-23.23.11:820][  0]LogInit: User: RyanTaus
+[2017.11.07-23.23.11:820][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.11.07-23.23.11:820][  0]LogInit: High frequency timer resolution =2.531251 MHz
+[2017.11.07-23.23.11:820][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.11.07-23.23.11:820][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.07-23.23.11:820][  0]LogMemory: Process Physical Memory: 277.70 MB used, 277.70 MB peak
+[2017.11.07-23.23.11:820][  0]LogMemory: Process Virtual Memory: 275.93 MB used, 275.93 MB peak
+[2017.11.07-23.23.11:820][  0]LogMemory: Physical Memory: 5154.94 MB used,  2884.46 MB free, 8039.40 MB total
+[2017.11.07-23.23.11:821][  0]LogMemory: Virtual Memory: 666.99 MB used,  2884.46 MB free, 134217728.00 MB total
+[2017.11.07-23.23.12:289][  0]LogInit: Using OS detected language (en-US).
+[2017.11.07-23.23.12:289][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.07-23.23.12:366][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.07-23.23.16:231][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.07-23.23.16:261][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
+[2017.11.07-23.23.16:261][  0]LogD3D11RHI:       2019/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.07-23.23.16:269][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2017.11.07-23.23.16:269][  0]LogD3D11RHI:       128/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.11.07-23.23.16:270][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.07-23.23.16:270][  0]LogD3D11RHI:       0/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.07-23.23.16:270][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.07-23.23.16:277][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.07-23.23.16:277][  0]LogD3D11RHI:     GPU DeviceId: 0x179c (for the marketing name, search the web for "GPU Device Id")
+[2017.11.07-23.23.16:277][  0]LogWindows: EnumDisplayDevices:
+[2017.11.07-23.23.16:278][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2017.11.07-23.23.16:278][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.11.07-23.23.16:278][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.11.07-23.23.16:278][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.11.07-23.23.16:278][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
+[2017.11.07-23.23.16:278][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.11.07-23.23.16:278][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.11.07-23.23.16:278][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.07-23.23.16:294][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.07-23.23.16:312][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.11.07-23.23.16:312][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Intermediate/Shaders/WorkingDirectory/14432/).
+[2017.11.07-23.23.16:312][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ryan Taus/AppData/Local/Temp/UnrealShaderWorkingDir/39E703384C66778883EA5D96DDB604B4/'.
+[2017.11.07-23.23.16:312][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.07-23.23.18:877][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.07-23.23.18:937][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.07-23.23.19:005][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.07-23.23.19:073][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.07-23.23.19:144][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.07-23.23.19:206][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.07-23.23.19:271][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.07-23.23.19:332][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.07-23.23.19:384][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.07-23.23.19:455][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.07-23.23.19:515][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.07-23.23.19:576][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.07-23.23.19:642][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.07-23.23.19:704][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.07-23.23.19:765][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.07-23.23.19:879][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.07-23.23.19:879][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.07-23.23.19:925][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.07-23.23.20:043][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.07-23.23.20:082][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.07-23.23.20:144][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.07-23.23.20:205][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.07-23.23.20:272][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.07-23.23.20:360][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.07-23.23.20:360][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.07-23.23.21:035][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.07-23.23.21:165][  0]LogDerivedDataCache: Loaded boot cache 0.13s 93MB C:/Users/Ryan Taus/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.07-23.23.21:165][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ryan Taus/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.07-23.23.21:165][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.07-23.23.21:165][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.07-23.23.21:165][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.07-23.23.21:165][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.07-23.23.21:194][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.07-23.23.21:206][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ryan Taus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.07-23.23.21:218][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.07-23.23.21:219][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.07-23.23.21:238][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.07-23.23.21:238][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.07-23.23.21:728][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2017.11.07-23.23.21:911][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.07-23.23.22:139][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.07-23.23.22:668][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.07-23.23.22:731][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.07-23.23.22:731][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.07-23.23.22:731][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.07-23.23.22:731][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.07-23.23.22:731][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.07-23.23.23:249][  0]LogNetVersion: Cyberwitch_Project , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 51455869)
+[2017.11.07-23.23.23:572][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.062249 seconds
+[2017.11.07-23.23.23:581][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.07-23.23.23:581][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.11.07-23.23.23:581][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.07-23.23.23:687][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.07-23.23.31:180][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.07-23.23.31:246][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.07-23.23.32:472][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.07-23.23.33:033][  0]SourceControl: Source control is disabled
+[2017.11.07-23.23.33:033][  0]SourceControl: Source control is disabled
+[2017.11.07-23.23.33:088][  0]SourceControl: Source control is disabled
+[2017.11.07-23.23.33:145][  0]SourceControl: Source control is disabled
+[2017.11.07-23.23.33:857][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.07-23.23.34:165][  0]LogOcInput: OculusInput pre-init called
+[2017.11.07-23.23.34:772][  0]LogEngine: Initializing Engine...
+[2017.11.07-23.23.34:775][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.07-23.23.35:126][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.07-23.23.35:126][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.07-23.23.35:308][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-23.23.35:319][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-23.23.35:432][  0]LogInit: FAudioDevice initialized.
+[2017.11.07-23.23.35:569][  0]LogDerivedDataCache: Saved boot cache 0.14s 93MB C:/Users/Ryan Taus/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.07-23.23.35:592][  0]LogInit: Texture streaming: Enabled
+[2017.11.07-23.23.35:762][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.07-23.23.36:116][  0]LogInit: Transaction tracking system initialized
+[2017.11.07-23.23.36:650][  0]BlueprintLog: New page: Editor Load
+[2017.11.07-23.23.37:957][  0]LocalizationService: Localization service is disabled
+[2017.11.07-23.23.39:063][  0]LogConsoleResponse: Display: 
+[2017.11.07-23.23.39:387][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.07-23.23.39:387][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.07-23.23.39:387][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.07-23.23.39:964][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/' took 0.01s
+[2017.11.07-23.23.40:980][  0]SourceControl: Source control is disabled
+[2017.11.07-23.23.40:980][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.07-23.23.40:981][  0]LightingResults: New page: Lighting Build
+[2017.11.07-23.23.41:042][  0]MapCheck: New page: Map Check
+[2017.11.07-23.23.41:042][  0]LightingResults: New page: Lighting Build
+[2017.11.07-23.23.42:660][  0]LogTexture: Display: Building textures: TEX_Taliah_S (AutoDXT, 4096X4096)
+[2017.11.07-23.23.42:660][  0]LogTexture: Display: Building textures: TEX_Taliah_N (BC5, 4096X4096)
+[2017.11.07-23.23.42:660][  0]LogTexture: Display: Building textures: TEX_Taliah_D (AutoDXT, 4096X4096)
+[2017.11.07-23.23.48:444][  0]LogMaterial: Missing cached shader map for material arm_main, compiling. 
+[2017.11.07-23.23.48:897][  0]LogMaterial: Missing cached shader map for material mat_main, compiling. 
+[2017.11.07-23.23.49:053][  0]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.07-23.23.49:174][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.07-23.23.49:225][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.07-23.23.49:336][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 111.409ms to complete.
+[2017.11.07-23.23.49:337][  0]LogFileHelpers: Loading map 'DemoMap' took 8.356
+[2017.11.07-23.23.49:821][  0]LogCollectionManager: Loaded 0 collections in 0.002857 seconds
+[2017.11.07-23.23.50:202][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Collections/' took 0.01s
+[2017.11.07-23.23.50:202][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Developers/RyanTaus/Collections/' took 0.01s
+[2017.11.07-23.23.50:202][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Collections/' took 0.01s
+[2017.11.07-23.23.50:202][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.07-23.23.50:223][  0]LogContentBrowser: Native class hierarchy populated in 0.0182 seconds. Added 2386 classes and 500 folders.
+[2017.11.07-23.23.50:407][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.11.07-23.23.51:188][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.11.07-23.23.51:309][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.11.07-23.23.51:655][  0]LogSlate: Took 0.036662 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.07-23.23.51:671][  0]LogSlate: Took 0.010492 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.07-23.23.51:693][  0]LogSlate: Took 0.011551 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.07-23.23.52:017][  0]LogRenderer: Reallocating scene render targets to support 888x436 Format 10 NumSamples 1 (Frame:1).
+[2017.11.07-23.23.52:426][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.11.07-23.23.52:427][  0]LogLoad: (Engine Initialization) Total time: 44.02 seconds
+[2017.11.07-23.23.52:427][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.07-23.23.52:428][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.07-23.23.52:428][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.07-23.23.52:483][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.07-23.23.52:539][  0]LogSlate: Took 0.011358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.07-23.23.52:702][  2]LogAssetRegistry: Asset discovery search completed in 30.9961 seconds
+[2017.11.07-23.23.52:705][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.07-23.23.52:705][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000090 seconds (updated 0 objects)
+[2017.11.07-23.23.53:536][ 44]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.07-23.23.56:066][173]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-23.23.56:399][173]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.23.56:400][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-23.23.56:409][173]PIE: New page: PIE session: DemoMap (Nov 7, 2017, 7:23:56 AM)
+[2017.11.07-23.23.56:410][173]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.07-23.23.56:418][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008623s)
+[2017.11.07-23.23.56:421][173]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.07-23.23.56:422][173]LogPlayLevel: PIE: World Init took: (0.003282s)
+[2017.11.07-23.23.56:423][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.013941s)
+[2017.11.07-23.23.56:477][173]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-23.23.56:486][173]LogInit: FAudioDevice initialized.
+[2017.11.07-23.23.56:552][173]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.07-23.23.56:568][173]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.07-15.23.56
+[2017.11.07-23.23.56:581][173]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.07-23.23.56:581][173]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.07-23.23.56:586][173]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.07-23.23.56:586][173]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.07-23.23.56:586][173]LogWorld: Bringing up level for play took: 0.023984
+[2017.11.07-23.23.56:732][173]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0039 seconds. Added 11 classes and 0 folders.
+[2017.11.07-23.23.56:751][173]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 1.07
+[2017.11.07-23.23.56:751][173]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.24.28:106][769]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.24.28:144][769]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.25.37:536][637]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.07-23.25.38:111][637]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 113 classes and 0 folders.
+[2017.11.07-23.25.38:981][637]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.07-23.25.39:154][637]LogSlate: Took 0.007228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.07-23.25.39:380][638]LogSlate: Took 0.007112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.07-23.25.43:112][855]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-23.25.43:152][855]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.25.43:152][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-23.25.43:152][855]PIE: New page: PIE session: DemoMap (Nov 7, 2017, 7:25:43 AM)
+[2017.11.07-23.25.43:152][855]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.07-23.25.43:158][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005584s)
+[2017.11.07-23.25.43:159][855]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.07-23.25.43:159][855]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2017.11.07-23.25.43:159][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.006889s)
+[2017.11.07-23.25.43:187][855]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-23.25.43:192][855]LogInit: FAudioDevice initialized.
+[2017.11.07-23.25.43:240][855]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.07-23.25.43:246][855]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.07-15.25.43
+[2017.11.07-23.25.43:247][855]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.07-23.25.43:247][855]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.07-23.25.43:247][855]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.07-23.25.43:248][855]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.07-23.25.43:248][855]LogWorld: Bringing up level for play took: 0.007281
+[2017.11.07-23.25.43:248][855]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.07-23.25.43:252][855]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.429
+[2017.11.07-23.25.43:253][855]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.25.43:285][855]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.11.07-23.25.45:635][945]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.25.45:719][945]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.26.21:072][992]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.07-23.26.22:778][ 12]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-23.26.22:819][ 12]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.26.22:819][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-23.26.22:819][ 12]PIE: New page: PIE session: DemoMap (Nov 7, 2017, 7:26:22 AM)
+[2017.11.07-23.26.22:819][ 12]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.07-23.26.22:824][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004388s)
+[2017.11.07-23.26.22:825][ 12]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.07-23.26.22:825][ 12]LogPlayLevel: PIE: World Init took: (0.001199s)
+[2017.11.07-23.26.22:825][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.005959s)
+[2017.11.07-23.26.22:854][ 12]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-23.26.22:858][ 12]LogInit: FAudioDevice initialized.
+[2017.11.07-23.26.22:897][ 12]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.07-23.26.22:904][ 12]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.07-15.26.22
+[2017.11.07-23.26.22:905][ 12]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.07-23.26.22:905][ 12]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.07-23.26.22:905][ 12]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.07-23.26.22:905][ 12]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.07-23.26.22:905][ 12]LogWorld: Bringing up level for play took: 0.005791
+[2017.11.07-23.26.22:906][ 12]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.07-23.26.22:910][ 12]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.771
+[2017.11.07-23.26.22:911][ 12]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.26.38:046][619]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.26.38:137][619]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.27.11:404][587]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.07-23.27.12:590][587]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-23.27.12:624][587]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.27.12:624][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-23.27.12:624][587]PIE: New page: PIE session: DemoMap (Nov 7, 2017, 7:27:12 AM)
+[2017.11.07-23.27.12:624][587]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.07-23.27.12:630][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005028s)
+[2017.11.07-23.27.12:630][587]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.07-23.27.12:631][587]LogPlayLevel: PIE: World Init took: (0.001135s)
+[2017.11.07-23.27.12:631][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.006524s)
+[2017.11.07-23.27.12:654][587]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-23.27.12:658][587]LogInit: FAudioDevice initialized.
+[2017.11.07-23.27.12:700][587]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.07-23.27.12:705][587]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.07-15.27.12
+[2017.11.07-23.27.12:707][587]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.07-23.27.12:707][587]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.07-23.27.12:707][587]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.07-23.27.12:708][587]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.07-23.27.12:708][587]LogWorld: Bringing up level for play took: 0.007420
+[2017.11.07-23.27.12:708][587]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.07-23.27.12:710][587]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 1.029
+[2017.11.07-23.27.12:711][587]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.27.15:012][675]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.27.15:098][675]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.27.22:196][ 95]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.07-23.27.23:800][118]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-23.27.23:836][118]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.27.23:837][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-23.27.23:837][118]PIE: New page: PIE session: DemoMap (Nov 7, 2017, 7:27:23 AM)
+[2017.11.07-23.27.23:837][118]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.07-23.27.23:841][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004202s)
+[2017.11.07-23.27.23:842][118]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.07-23.27.23:843][118]LogPlayLevel: PIE: World Init took: (0.001668s)
+[2017.11.07-23.27.23:843][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.006340s)
+[2017.11.07-23.27.23:868][118]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-23.27.23:874][118]LogInit: FAudioDevice initialized.
+[2017.11.07-23.27.23:916][118]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.07-23.27.23:923][118]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.07-15.27.23
+[2017.11.07-23.27.23:924][118]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.07-23.27.23:924][118]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.07-23.27.23:924][118]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.07-23.27.23:925][118]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.07-23.27.23:925][118]LogWorld: Bringing up level for play took: 0.007612
+[2017.11.07-23.27.23:925][118]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.07-23.27.23:927][118]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.246
+[2017.11.07-23.27.23:928][118]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.27.45:032][965]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.27.45:116][965]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.35.07:774][721]LogSavePackage: Save=116.59ms
+[2017.11.07-23.35.07:774][721]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/DemoMap_Auto1B1A40F874624699AFA71739D85D1726B.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto1.umap'
+[2017.11.07-23.35.07:777][721]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto1.umap
+[2017.11.07-23.35.07:780][721]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DemoMap' took 0.187
+[2017.11.07-23.35.07:780][721]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.187
+[2017.11.07-23.35.07:784][721]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/Player/BaseCharacter] ([1] browsable assets)...
+[2017.11.07-23.35.07:843][721]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/Player/BaseCharacter.BaseCharacter]
+[2017.11.07-23.35.07:843][721]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Player/BaseCharacter]
+[2017.11.07-23.35.07:947][721]LogSavePackage: Save=86.98ms
+[2017.11.07-23.35.07:947][721]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/BaseCharacter_Auto12F5E706647D6EF9B4DF28E9F77AF5CA7.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BaseCharacter_Auto1.uasset'
+[2017.11.07-23.35.07:950][721]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BaseCharacter_Auto1.uasset
+[2017.11.07-23.35.07:950][721]LogFileHelpers: Auto-saving content packages took 0.168
+[2017.11.07-23.53.18:779][588]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.07-23.53.33:905][394]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-23.53.33:956][394]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.53.33:956][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-23.53.33:956][394]PIE: New page: PIE session: DemoMap (Nov 7, 2017, 7:53:33 AM)
+[2017.11.07-23.53.33:956][394]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.07-23.53.33:961][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004535s)
+[2017.11.07-23.53.33:962][394]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.07-23.53.33:962][394]LogPlayLevel: PIE: World Init took: (0.001559s)
+[2017.11.07-23.53.33:962][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.006507s)
+[2017.11.07-23.53.33:995][394]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-23.53.34:001][394]LogInit: FAudioDevice initialized.
+[2017.11.07-23.53.34:037][394]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.07-23.53.34:040][394]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.07-15.53.34
+[2017.11.07-23.53.34:041][394]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.07-23.53.34:041][394]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.07-23.53.34:042][394]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.07-23.53.34:042][394]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.07-23.53.34:042][394]LogWorld: Bringing up level for play took: 0.004034
+[2017.11.07-23.53.34:044][394]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.363
+[2017.11.07-23.53.34:044][394]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.53.51:964][450]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.53.52:004][450]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.53.53:991][550]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-23.53.54:023][550]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.53.54:023][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-23.53.54:023][550]PIE: New page: PIE session: DemoMap (Nov 7, 2017, 7:53:54 AM)
+[2017.11.07-23.53.54:023][550]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.07-23.53.54:030][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006129s)
+[2017.11.07-23.53.54:031][550]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.07-23.53.54:031][550]LogPlayLevel: PIE: World Init took: (0.001256s)
+[2017.11.07-23.53.54:031][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.007939s)
+[2017.11.07-23.53.54:064][550]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-23.53.54:068][550]LogInit: FAudioDevice initialized.
+[2017.11.07-23.53.54:100][550]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.07-23.53.54:102][550]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.07-15.53.54
+[2017.11.07-23.53.54:103][550]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.07-23.53.54:103][550]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.07-23.53.54:103][550]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.07-23.53.54:104][550]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.07-23.53.54:104][550]LogWorld: Bringing up level for play took: 0.003519
+[2017.11.07-23.53.54:105][550]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.424
+[2017.11.07-23.53.54:105][550]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.54.17:141][909]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.54.17:181][909]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.55.13:812][843]LogSavePackage: Save=102.26ms
+[2017.11.07-23.55.13:812][843]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/DemoMap_Auto2BFE417744F8FD5E8C5C955A5264D2F44.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto2.umap'
+[2017.11.07-23.55.13:815][843]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto2.umap
+[2017.11.07-23.55.13:817][843]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DemoMap' took 0.163
+[2017.11.07-23.55.13:817][843]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.163
+[2017.11.07-23.55.13:820][843]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/Player/BaseCharacter] ([1] browsable assets)...
+[2017.11.07-23.55.13:847][843]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/Player/BaseCharacter.BaseCharacter]
+[2017.11.07-23.55.13:847][843]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Player/BaseCharacter]
+[2017.11.07-23.55.13:955][843]LogSavePackage: Save=89.00ms
+[2017.11.07-23.55.13:955][843]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/BaseCharacter_Auto2AD2DA4FC439C2BC07F3690A64AB6C656.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BaseCharacter_Auto2.uasset'
+[2017.11.07-23.55.13:957][843]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BaseCharacter_Auto2.uasset
+[2017.11.07-23.55.13:957][843]LogFileHelpers: Auto-saving content packages took 0.138
+[2017.11.07-23.55.36:888][188]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2017.11.07-23.55.41:270][434]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2017.11.07-23.55.41:362][437]LogEditorViewport: Clicking on Component (LMB): DirectionalLightComponent (LightComponent0)
+[2017.11.07-23.55.42:113][478]LogEditorViewport: Clicking on Component (LMB): DirectionalLightComponent (LightComponent0)
+[2017.11.07-23.55.42:198][481]LogEditorViewport: Clicking on Actor (double click): DirectionalLight (Light Source)
+[2017.11.07-23.55.46:879][717]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2017.11.07-23.55.54:355][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DemoMap" FILE="../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.07-23.55.54:497][119]LogSavePackage: Save=103.32ms
+[2017.11.07-23.55.54:497][119]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/DemoMap2F52B3D0414B1FF02F7494AE66E47950.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap'
+[2017.11.07-23.55.54:507][119]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap
+[2017.11.07-23.55.55:720][183]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-23.55.55:747][183]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.55.55:747][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-23.55.55:747][183]PIE: New page: PIE session: DemoMap (Nov 7, 2017, 7:55:55 AM)
+[2017.11.07-23.55.55:747][183]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.07-23.55.55:753][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005637s)
+[2017.11.07-23.55.55:754][183]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.07-23.55.55:754][183]LogPlayLevel: PIE: World Init took: (0.001343s)
+[2017.11.07-23.55.55:754][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.007386s)
+[2017.11.07-23.55.55:783][183]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-23.55.55:787][183]LogInit: FAudioDevice initialized.
+[2017.11.07-23.55.55:821][183]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.07-23.55.55:824][183]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.07-15.55.55
+[2017.11.07-23.55.55:824][183]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.07-23.55.55:825][183]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.07-23.55.55:825][183]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.07-23.55.55:825][183]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.07-23.55.55:825][183]LogWorld: Bringing up level for play took: 0.003544
+[2017.11.07-23.55.55:827][183]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.146
+[2017.11.07-23.55.55:827][183]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.56.26:436][988]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.56.26:496][988]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.07-23.56.32:440][292]LogEditorViewport: Clicking on Actor (LMB): Bear_C (Bear)
+[2017.11.07-23.56.41:865][673]LogEditorViewport: Clicking on Actor (LMB): screen_C (screen5)
+[2017.11.07-23.59.00:294][578]BlueprintLog: New page: Compile Skill
+[2017.11.07-23.59.43:497][ 97]BlueprintLog: New page: Compile Skill
+[2017.11.07-23.59.50:317][335]LogSavePackage: Save=15.05ms
+[2017.11.07-23.59.50:318][335]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Skill7EE79E0E410C3224590A369E7374F319.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Skills/Skill.uasset'
+[2017.11.07-23.59.50:322][335]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Skills/Skill.uasset
+[2017.11.08-00.01.53:418][387]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.08-00.01.58:327][558]BlueprintLog: New page: Compile Slide
+[2017.11.08-00.01.58:331][558]LogBlueprint: Error: [Compiler Slide] Cannot order parameters bReset in function Activate.
+[2017.11.08-00.01.58:331][558]LogBlueprint: Error: [Compiler Slide] Cannot override 'Skill_C::Activate' at  <None>  which was declared in a parent with a different signature
+[2017.11.08-00.01.58:366][558]LogBlueprint: Warning: [Compiler Slide] [2329.96] Compile of Slide failed. 2 Fatal Issue(s) 0 Warning(s) [in 38 ms] (/Game/Blueprints/Character/Player/Skills/Slide.Slide)
+[2017.11.08-00.03.07:246][950]BlueprintLog: New page: Compile Slide
+[2017.11.08-00.03.07:251][950]LogBlueprint: Error: [Compiler Slide] Cannot order parameters bReset in function Activate.
+[2017.11.08-00.03.07:251][950]LogBlueprint: Error: [Compiler Slide] Cannot override 'Skill_C::Activate' at  <None>  which was declared in a parent with a different signature
+[2017.11.08-00.03.07:299][950]LogBlueprint: Warning: [Compiler Slide] [2398.89] Compile of Slide failed. 2 Fatal Issue(s) 0 Warning(s) [in 51 ms] (/Game/Blueprints/Character/Player/Skills/Slide.Slide)
+[2017.11.08-00.03.34:450][308]LogSavePackage: Save=19.39ms
+[2017.11.08-00.03.34:450][308]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/SlideA51B57734A1CCE8B07301D90F507D67E.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Skills/Slide.uasset'
+[2017.11.08-00.03.34:458][308]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Skills/Slide.uasset
+[2017.11.08-00.04.01:787][900]BlueprintLog: New page: Compile Slide
+[2017.11.08-00.04.01:792][900]LogBlueprint: Error: [Compiler Slide] Cannot order parameters bReset in function Activate.
+[2017.11.08-00.04.01:792][900]LogBlueprint: Error: [Compiler Slide] Cannot override 'Skill_C::Activate' at  <None>  which was declared in a parent with a different signature
+[2017.11.08-00.04.01:820][900]LogBlueprint: Warning: [Compiler Slide] [2453.41] Compile of Slide failed. 2 Fatal Issue(s) 0 Warning(s) [in 32 ms] (/Game/Blueprints/Character/Player/Skills/Slide.Slide)
+[2017.11.08-00.04.44:725][409]BlueprintLog: New page: Compile Slide
+[2017.11.08-00.04.44:730][409]LogBlueprint: Error: [Compiler Slide] Cannot order parameters bReset in function Activate.
+[2017.11.08-00.04.44:730][409]LogBlueprint: Error: [Compiler Slide] Cannot override 'Skill_C::Activate' at  <None>  which was declared in a parent with a different signature
+[2017.11.08-00.04.44:763][409]LogBlueprint: Warning: [Compiler Slide] [2496.35] Compile of Slide failed. 2 Fatal Issue(s) 0 Warning(s) [in 37 ms] (/Game/Blueprints/Character/Player/Skills/Slide.Slide)
+[2017.11.08-00.05.55:942][609]BlueprintLog: New page: Compile Slide
+[2017.11.08-00.05.55:947][609]LogBlueprint: Error: [Compiler Slide] Cannot order parameters bReset in function Activate.
+[2017.11.08-00.05.55:947][609]LogBlueprint: Error: [Compiler Slide] Cannot override 'Skill_C::Activate' at  <None>  which was declared in a parent with a different signature
+[2017.11.08-00.05.55:975][609]LogBlueprint: Warning: [Compiler Slide] [2567.57] Compile of Slide failed. 2 Fatal Issue(s) 0 Warning(s) [in 32 ms] (/Game/Blueprints/Character/Player/Skills/Slide.Slide)
+[2017.11.08-00.06.02:872][ 10]BlueprintLog: New page: Compile Skill
+[2017.11.08-00.06.03:398][ 37]LogSavePackage: Save=11.52ms
+[2017.11.08-00.06.03:398][ 37]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Skill612C13234B6A9F113FEDA99F06BB4245.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Skills/Skill.uasset'
+[2017.11.08-00.06.03:403][ 37]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Skills/Skill.uasset
+[2017.11.08-00.06.04:578][106]BlueprintLog: New page: Compile Slide
+[2017.11.08-00.06.04:587][106]LogBlueprint: Error: [Compiler Slide] Found more than one function with the same name ActivateSkill; second occurance at  <None>
+[2017.11.08-00.06.04:619][106]LogBlueprint: Warning: [Compiler Slide] [2576.21] Compile of Slide failed. 1 Fatal Issue(s) 0 Warning(s) [in 40 ms] (/Game/Blueprints/Character/Player/Skills/Slide.Slide)
+[2017.11.08-00.06.53:922][ 40]BlueprintLog: New page: Compile Slide
+[2017.11.08-00.07.22:026][344]LogSavePackage: Save=155.00ms
+[2017.11.08-00.07.22:026][344]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/DemoMap_Auto33185501945D93267877921B91342022B.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto3.umap'
+[2017.11.08-00.07.22:034][344]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto3.umap
+[2017.11.08-00.07.22:038][344]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DemoMap' took 0.272
+[2017.11.08-00.07.22:038][344]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.272
+[2017.11.08-00.07.22:041][344]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/Player/Skills/Slide] ([1] browsable assets)...
+[2017.11.08-00.07.22:041][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Player/Skills/Slide]
+[2017.11.08-00.07.22:084][344]LogSavePackage: Save=15.54ms
+[2017.11.08-00.07.22:084][344]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Slide_Auto3E2D558C844A3B8150314CDAFEAAA8D4A.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/Skills/Slide_Auto3.uasset'
+[2017.11.08-00.07.22:086][344]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/Skills/Slide_Auto3.uasset
+[2017.11.08-00.07.22:086][344]LogFileHelpers: Auto-saving content packages took 0.046
+[2017.11.08-00.07.48:366][748]BlueprintLog: New page: Compile Slide
+[2017.11.08-00.07.54:523][112]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-00.07.54:557][112]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.08-00.07.54:557][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-00.07.54:557][112]PIE: New page: PIE session: DemoMap (Nov 7, 2017, 8:07:54 AM)
+[2017.11.08-00.07.54:557][112]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.08-00.07.54:563][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005370s)
+[2017.11.08-00.07.54:564][112]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.08-00.07.54:565][112]LogPlayLevel: PIE: World Init took: (0.001564s)
+[2017.11.08-00.07.54:565][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.007212s)
+[2017.11.08-00.07.54:624][112]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.08-00.07.54:628][112]LogInit: FAudioDevice initialized.
+[2017.11.08-00.07.54:670][112]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.08-00.07.54:676][112]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.07-16.07.54
+[2017.11.08-00.07.54:677][112]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.08-00.07.54:678][112]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.08-00.07.54:678][112]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.08-00.07.54:678][112]LogWorld: Bringing up level for play took: 0.007825
+[2017.11.08-00.07.54:679][112]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.08-00.07.54:682][112]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 1.001
+[2017.11.08-00.07.54:683][112]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.08-00.07.59:003][284]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.08-00.07.59:104][284]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.08-00.08.09:062][862]LogSlate: Took 0.007551 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.11.08-00.08.13:909][147]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.08-00.08.52:038][885]LogSavePackage: Save=23.35ms
+[2017.11.08-00.08.52:038][885]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/SlideBE121D574138D97E016FED9C139A9E25.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Skills/Slide.uasset'
+[2017.11.08-00.08.52:048][885]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Skills/Slide.uasset
+[2017.11.08-00.08.53:683][981]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.08-00.08.55:885][ 19]LogSavePackage: Save=91.41ms
+[2017.11.08-00.08.55:886][ 19]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/BaseCharacterA9D655E848BF360FFF7193873B07084F.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/BaseCharacter.uasset'
+[2017.11.08-00.08.55:894][ 19]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/BaseCharacter.uasset
+[2017.11.08-00.12.36:261][697]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.08-00.13.39:706][335]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2017.11.08-00.13.41:120][335]LogWindows: Error: === Critical error: ===
+[2017.11.08-00.13.41:120][335]LogWindows: Error: 
+[2017.11.08-00.13.41:120][335]LogWindows: Error: Fatal error: [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\Obj.cpp] [Line: 198] 
+[2017.11.08-00.13.41:120][335]LogWindows: Error: Renaming an object (Slide_C /Engine/Transient.Slide_C_1) on top of an existing object (Slide_C /Game/Blueprints/Character/Player/Talia.Talia_C:Slide_GEN_VARIABLE) is not allowed
+[2017.11.08-00.13.41:120][335]LogWindows: Error: 
+[2017.11.08-00.13.41:120][335]LogWindows: Error: 
+[2017.11.08-00.13.41:120][335]LogWindows: Error: KERNELBASE.dll!0x00000000793C9E08
+[2017.11.08-00.13.41:120][335]LogWindows: Error: UE4Editor-Core.dll!0x0000000021571CE4
+[2017.11.08-00.13.41:120][335]LogWindows: Error: UE4Editor-Core.dll!0x000000002135AD5B
+[2017.11.08-00.13.41:120][335]LogWindows: Error: UE4Editor-Core.dll!0x00000000212F0179
+[2017.11.08-00.13.41:120][335]LogWindows: Error: UE4Editor-CoreUObject.dll!0x00000000493C3BB9
+[2017.11.08-00.13.41:120][335]LogWindows: Error: UE4Editor-Engine.dll!0x000000001E16D2E8
+[2017.11.08-00.13.41:120][335]LogWindows: Error: UE4Editor-Engine.dll!0x000000001EB1961F
+[2017.11.08-00.13.41:120][335]LogWindows: Error: UE4Editor-Kismet.dll!0x000000002F13641E
+[2017.11.08-00.13.41:120][335]LogWindows: Error: UE4Editor-Kismet.dll!0x000000002F1D188A
+[2017.11.08-00.13.41:120][335]LogWindows: Error: UE4Editor-Kismet.dll!0x000000002F171E20
+[2017.11.08-00.13.41:120][335]LogWindows: Error: UE4Editor-UnrealEd.dll!0x000000001CDB17EE
+[2017.11.08-00.13.41:120][335]LogWindows: Error: UE4Editor-UnrealEd.dll!0x000000001CD79C0B
+[2017.11.08-00.13.41:120][335]LogWindows: Error: UE4Editor-UnrealEd.dll!0x000000001CD7CC2A
+[2017.11.08-00.13.41:120][335]LogWindows: Error: UE4Editor-UnrealEd.dll!0x000000001CD7B207
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor-UnrealEd.dll!0x000000001CDD8DCC
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor-UnrealEd.dll!0x000000001CDEAD4F
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor-UnrealEd.dll!0x000000001CDEBA86
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor-UnrealEd.dll!0x000000001CDBAEA8
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor-UnrealEd.dll!0x000000001CD00562
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor-UnrealEd.dll!0x000000001CD01694
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor-UnrealEd.dll!0x000000001CD78DAA
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor-Slate.dll!0x0000000040ADB9A5
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor-Slate.dll!0x0000000040B026C9
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor-Slate.dll!0x0000000040924761
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor-Slate.dll!0x00000000408F60BE
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor-Slate.dll!0x00000000408F7CC6
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor-Slate.dll!0x00000000409780B7
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor-Slate.dll!0x0000000040969B18
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor-Core.dll!0x000000002154B498
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor-Core.dll!0x0000000021533EE1
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor-Core.dll!0x000000002154D5BB
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor-Core.dll!0x000000002152F042
+[2017.11.08-00.13.41:121][335]LogWindows: Error: USER32.dll!0x000000007B1CBC50
+[2017.11.08-00.13.41:121][335]LogWindows: Error: USER32.dll!0x000000007B1CB5CF
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor-Core.dll!0x000000002154DCC6
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor.exe!0x00000000BE974BE2
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor.exe!0x00000000BE983970
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor.exe!0x00000000BE9839EA
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor.exe!0x00000000BE9902D9
+[2017.11.08-00.13.41:121][335]LogWindows: Error: UE4Editor.exe!0x00000000BE991C47
+[2017.11.08-00.13.41:121][335]LogWindows: Error: KERNEL32.DLL!0x000000007CDA2774
+[2017.11.08-00.13.41:121][335]LogWindows: Error: ntdll.dll!0x000000007CEB0D51
+[2017.11.08-00.13.41:121][335]LogWindows: Error: ntdll.dll!0x000000007CEB0D51
+[2017.11.08-00.13.41:121][335]LogWindows: Error: 
+[2017.11.08-00.13.41:142][335]LogExit: Executing StaticShutdownAfterError
+[2017.11.08-00.13.41:183][335]LogWindows: FPlatformMisc::RequestExit(1)
+[2017.11.08-00.13.41:184][335]Log file closed, 11/07/17 16:13:41
