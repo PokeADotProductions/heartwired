@@ -886,3 +886,154 @@ LogInit: Object subsystem initialized
 [2017.11.10-23.31.32:346][104]LogSavePackage: Save=15.61ms
 [2017.11.10-23.31.32:346][104]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/ControllerFC28036346F17FBDB1B2F193C77B594E.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Controller.uasset'
 [2017.11.10-23.31.32:350][104]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Controller.uasset
+[2017.11.10-23.32.48:852][656]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.10-23.33.12:754][ 53]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.10-23.33.12:802][ 53]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.33.12:802][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.10-23.33.12:802][ 53]PIE: New page: PIE session: DemoMap (Nov 10, 2017, 7:33:12 AM)
+[2017.11.10-23.33.12:802][ 53]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.10-23.33.12:807][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005062s)
+[2017.11.10-23.33.12:808][ 53]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.10-23.33.12:808][ 53]LogPlayLevel: PIE: World Init took: (0.001119s)
+[2017.11.10-23.33.12:809][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.006615s)
+[2017.11.10-23.33.12:850][ 53]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.10-23.33.12:855][ 53]LogInit: FAudioDevice initialized.
+[2017.11.10-23.33.12:890][ 53]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.10-23.33.12:894][ 53]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.10-15.33.12
+[2017.11.10-23.33.12:895][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.10-23.33.12:895][ 53]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.33.12:896][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.10-23.33.12:896][ 53]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.33.12:896][ 53]LogWorld: Bringing up level for play took: 0.006401
+[2017.11.10-23.33.12:898][ 53]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.358
+[2017.11.10-23.33.12:899][ 53]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.33.57:961][712]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.33.58:019][712]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.34.23:196][181]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.10-23.34.23:239][181]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.34.23:239][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.10-23.34.23:239][181]PIE: New page: PIE session: DemoMap (Nov 10, 2017, 7:34:23 AM)
+[2017.11.10-23.34.23:239][181]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.10-23.34.23:245][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006054s)
+[2017.11.10-23.34.23:247][181]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.10-23.34.23:247][181]LogPlayLevel: PIE: World Init took: (0.001912s)
+[2017.11.10-23.34.23:247][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.008497s)
+[2017.11.10-23.34.23:281][181]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.10-23.34.23:285][181]LogInit: FAudioDevice initialized.
+[2017.11.10-23.34.23:317][181]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.10-23.34.23:320][181]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.10-15.34.23
+[2017.11.10-23.34.23:321][181]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.10-23.34.23:321][181]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.34.23:321][181]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.34.23:322][181]LogWorld: Bringing up level for play took: 0.003825
+[2017.11.10-23.34.23:324][181]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.068
+[2017.11.10-23.34.23:325][181]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.34.36:697][970]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.34.36:757][970]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.38.14:780][691]BlueprintLog: New page: Compile BaseController
+[2017.11.10-23.38.16:709][750]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.10-23.40.10:516][551]LogClass: Warning: Type mismatch in PawnClass of SKEL_BaseController_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2017.11.10-23.40.10:518][551]LogClass: Warning: Type mismatch in PawnClass of SKEL_BearController_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2017.11.10-23.40.10:525][551]LogClass: Warning: Type mismatch in PawnClass of SKEL_TaliaController_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2017.11.10-23.40.32:986][846]BlueprintLog: New page: Compile BaseController
+[2017.11.10-23.40.33:050][846]LogClass: Warning: Type mismatch in PawnClass of BaseController_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2017.11.10-23.40.33:050][846]LogClass: Warning: Type mismatch in PawnClass of BearController_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2017.11.10-23.40.33:051][846]LogClass: Warning: Type mismatch in PawnClass of TaliaController_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2017.11.10-23.42.30:347][750]LogSavePackage: Save=127.31ms
+[2017.11.10-23.42.30:347][750]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/DemoMap_Auto202F19D0B405C3CC6558450862037CE04.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto2.umap'
+[2017.11.10-23.42.30:349][750]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto2.umap
+[2017.11.10-23.42.30:354][750]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DemoMap' took 0.194
+[2017.11.10-23.42.30:354][750]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.194
+[2017.11.10-23.42.30:356][750]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/Player/TaliaController] ([1] browsable assets)...
+[2017.11.10-23.42.30:356][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Player/TaliaController]
+[2017.11.10-23.42.30:422][750]LogSavePackage: Save=37.96ms
+[2017.11.10-23.42.30:422][750]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/TaliaController_Auto29CFAADEA41B6EC20A5CCF5921EDEEB70.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/TaliaController_Auto2.uasset'
+[2017.11.10-23.42.30:423][750]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/TaliaController_Auto2.uasset
+[2017.11.10-23.42.30:424][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/Player/Talia/Talia] ([1] browsable assets)...
+[2017.11.10-23.42.30:482][750]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/Player/Talia/Talia.Talia]
+[2017.11.10-23.42.30:482][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Player/Talia/Talia]
+[2017.11.10-23.42.30:669][750]LogSavePackage: Save=164.02ms
+[2017.11.10-23.42.30:669][750]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Talia_Auto28DB6A3AA42E803DF773C529B1AE31501.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/Talia/Talia_Auto2.uasset'
+[2017.11.10-23.42.30:671][750]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/Talia/Talia_Auto2.uasset
+[2017.11.10-23.42.30:672][750]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/Player/BaseController] ([1] browsable assets)...
+[2017.11.10-23.42.30:672][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Player/BaseController]
+[2017.11.10-23.42.30:720][750]LogSavePackage: Save=25.62ms
+[2017.11.10-23.42.30:720][750]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/BaseController_Auto2F3CB9B6A4174C932C543A4B974AD51FD.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BaseController_Auto2.uasset'
+[2017.11.10-23.42.30:722][750]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BaseController_Auto2.uasset
+[2017.11.10-23.42.30:723][750]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/Player/BearController] ([1] browsable assets)...
+[2017.11.10-23.42.30:723][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Player/BearController]
+[2017.11.10-23.42.30:786][750]LogSavePackage: Save=37.85ms
+[2017.11.10-23.42.30:787][750]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/BearController_Auto2DBF58F0B476ABABC909B01B13DC675AF.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BearController_Auto2.uasset'
+[2017.11.10-23.42.30:789][750]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BearController_Auto2.uasset
+[2017.11.10-23.42.30:789][750]LogFileHelpers: Auto-saving content packages took 0.434
+[2017.11.10-23.48.14:241][622]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.10-23.48.14:287][622]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.48.14:287][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.10-23.48.14:287][622]PIE: New page: PIE session: DemoMap (Nov 10, 2017, 7:48:14 AM)
+[2017.11.10-23.48.14:287][622]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.10-23.48.14:293][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006221s)
+[2017.11.10-23.48.14:294][622]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.10-23.48.14:295][622]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2017.11.10-23.48.14:295][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.007862s)
+[2017.11.10-23.48.14:336][622]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.10-23.48.14:340][622]LogInit: FAudioDevice initialized.
+[2017.11.10-23.48.14:374][622]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.10-23.48.14:378][622]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.10-15.48.14
+[2017.11.10-23.48.14:379][622]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.48.14:380][622]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.48.14:380][622]LogWorld: Bringing up level for play took: 0.005513
+[2017.11.10-23.48.14:381][622]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.875
+[2017.11.10-23.48.14:382][622]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.48.21:890][ 65]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.48.21:953][ 65]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.48.30:279][519]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.10-23.48.30:317][519]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.48.30:317][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.10-23.48.30:317][519]PIE: New page: PIE session: DemoMap (Nov 10, 2017, 7:48:30 AM)
+[2017.11.10-23.48.30:317][519]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.10-23.48.30:322][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004878s)
+[2017.11.10-23.48.30:323][519]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.10-23.48.30:323][519]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2017.11.10-23.48.30:324][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.006250s)
+[2017.11.10-23.48.30:356][519]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.10-23.48.30:360][519]LogInit: FAudioDevice initialized.
+[2017.11.10-23.48.30:392][519]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.10-23.48.30:397][519]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.10-15.48.30
+[2017.11.10-23.48.30:398][519]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.48.30:398][519]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.48.30:399][519]LogWorld: Bringing up level for play took: 0.006348
+[2017.11.10-23.48.30:400][519]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.855
+[2017.11.10-23.48.30:401][519]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.48.39:193][ 38]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.48.39:248][ 38]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.49.06:581][647]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_22:PersistentLevel.Bear_C_14.CollisionCylinder) Not currently registered. Aborting.
+[2017.11.10-23.49.06:581][647]LogActorComponent: ReregisterComponent: (/Game/Levels/DemoMap.DemoMap:PersistentLevel.Bear_438.CollisionCylinder) Not currently registered. Aborting.
+[2017.11.10-23.49.06:581][647]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_2:PersistentLevel.Bear_C_10.CollisionCylinder) Not currently registered. Aborting.
+[2017.11.10-23.49.08:305][740]BlueprintLog: New page: Compile Bear
+[2017.11.10-23.49.09:545][749]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.10-23.49.09:590][749]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.49.09:590][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.10-23.49.09:591][749]PIE: New page: PIE session: DemoMap (Nov 10, 2017, 7:49:09 AM)
+[2017.11.10-23.49.09:591][749]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.10-23.49.09:597][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006764s)
+[2017.11.10-23.49.09:598][749]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.10-23.49.09:599][749]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2017.11.10-23.49.09:599][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.008203s)
+[2017.11.10-23.49.09:630][749]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.10-23.49.09:633][749]LogInit: FAudioDevice initialized.
+[2017.11.10-23.49.09:672][749]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.10-23.49.09:676][749]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.10-15.49.09
+[2017.11.10-23.49.09:677][749]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.49.09:677][749]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.49.09:677][749]LogWorld: Bringing up level for play took: 0.005288
+[2017.11.10-23.49.09:678][749]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.10-23.49.09:680][749]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.424
+[2017.11.10-23.49.09:681][749]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.49.42:280][252]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.49.42:369][252]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
