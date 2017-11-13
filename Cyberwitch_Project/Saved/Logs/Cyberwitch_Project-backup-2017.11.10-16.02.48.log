@@ -1,0 +1,1039 @@
+﻿Log file open, 11/10/17 14:42:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Cyberwitch_Project
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(550444883) SRandInit(550444883).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.104332
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.10-22.42.45:906][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.10-22.42.45:906][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.10-22.42.45:930][  0]LogInit: Computer: LAPTOP-MG4MMUC0
+[2017.11.10-22.42.45:930][  0]LogInit: User: RyanTaus
+[2017.11.10-22.42.45:931][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.11.10-22.42.45:931][  0]LogInit: High frequency timer resolution =2.531251 MHz
+[2017.11.10-22.42.45:931][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.11.10-22.42.45:931][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.10-22.42.45:931][  0]LogMemory: Process Physical Memory: 278.69 MB used, 278.69 MB peak
+[2017.11.10-22.42.45:931][  0]LogMemory: Process Virtual Memory: 275.82 MB used, 275.82 MB peak
+[2017.11.10-22.42.45:931][  0]LogMemory: Physical Memory: 4135.58 MB used,  3903.82 MB free, 8039.40 MB total
+[2017.11.10-22.42.45:931][  0]LogMemory: Virtual Memory: 666.99 MB used,  3903.82 MB free, 134217728.00 MB total
+[2017.11.10-22.42.46:401][  0]LogInit: Using OS detected language (en-US).
+[2017.11.10-22.42.46:401][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.10-22.42.46:406][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.10-22.42.47:161][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.10-22.42.47:188][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
+[2017.11.10-22.42.47:188][  0]LogD3D11RHI:       2019/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.10-22.42.47:196][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2017.11.10-22.42.47:196][  0]LogD3D11RHI:       128/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.11.10-22.42.47:197][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.10-22.42.47:197][  0]LogD3D11RHI:       0/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.10-22.42.47:197][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.10-22.42.47:204][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.10-22.42.47:204][  0]LogD3D11RHI:     GPU DeviceId: 0x179c (for the marketing name, search the web for "GPU Device Id")
+[2017.11.10-22.42.47:204][  0]LogWindows: EnumDisplayDevices:
+[2017.11.10-22.42.47:204][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2017.11.10-22.42.47:204][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.11.10-22.42.47:204][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.11.10-22.42.47:204][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.11.10-22.42.47:204][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
+[2017.11.10-22.42.47:204][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.11.10-22.42.47:204][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.11.10-22.42.47:204][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.10-22.42.47:220][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.10-22.42.47:239][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.11.10-22.42.47:239][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Intermediate/Shaders/WorkingDirectory/4808/).
+[2017.11.10-22.42.47:239][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ryan Taus/AppData/Local/Temp/UnrealShaderWorkingDir/4EDC27C44DDB4535EBC55D821C9FFBE5/'.
+[2017.11.10-22.42.47:239][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.10-22.42.48:177][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.10-22.42.48:231][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.10-22.42.48:286][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.10-22.42.48:342][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.10-22.42.48:398][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.10-22.42.48:453][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.10-22.42.48:508][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.10-22.42.48:564][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.10-22.42.48:612][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.10-22.42.48:667][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.10-22.42.48:722][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.10-22.42.48:775][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.10-22.42.48:827][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.10-22.42.48:882][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.10-22.42.48:934][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.10-22.42.49:035][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.10-22.42.49:035][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.10-22.42.49:078][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.10-22.42.49:179][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.10-22.42.49:210][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.10-22.42.49:260][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.10-22.42.49:312][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.10-22.42.49:362][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.10-22.42.49:413][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.10-22.42.49:413][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.10-22.42.49:916][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.10-22.42.50:032][  0]LogDerivedDataCache: Loaded boot cache 0.12s 93MB C:/Users/Ryan Taus/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.10-22.42.50:032][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ryan Taus/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.10-22.42.50:032][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.10-22.42.50:032][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.10-22.42.50:032][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.10-22.42.50:032][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.10-22.42.50:048][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.10-22.42.50:060][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ryan Taus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.10-22.42.50:071][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.10-22.42.50:071][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.10-22.42.50:072][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.10-22.42.50:072][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.10-22.42.50:340][  0]LogAssetRegistry: FAssetRegistry took 0.0269 seconds to start up
+[2017.11.10-22.42.50:467][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.10-22.42.50:646][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.10-22.42.50:955][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.10-22.42.50:996][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.10-22.42.50:996][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.10-22.42.50:996][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.10-22.42.50:996][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.10-22.42.50:996][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.10-22.42.51:397][  0]LogNetVersion: Cyberwitch_Project , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 51455869)
+[2017.11.10-22.42.51:670][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.069250 seconds
+[2017.11.10-22.42.51:675][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.10-22.42.51:676][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.11.10-22.42.51:676][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.10-22.42.51:753][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.10-22.42.54:400][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.10-22.42.54:441][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.10-22.42.55:142][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.10-22.42.55:567][  0]SourceControl: Source control is disabled
+[2017.11.10-22.42.55:567][  0]SourceControl: Source control is disabled
+[2017.11.10-22.42.55:617][  0]SourceControl: Source control is disabled
+[2017.11.10-22.42.55:666][  0]SourceControl: Source control is disabled
+[2017.11.10-22.42.56:289][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.10-22.42.56:546][  0]LogOcInput: OculusInput pre-init called
+[2017.11.10-22.42.56:816][  0]LogEngine: Initializing Engine...
+[2017.11.10-22.42.56:817][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.10-22.42.57:073][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.10-22.42.57:073][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.10-22.42.57:212][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.10-22.42.57:220][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.10-22.42.57:348][  0]LogInit: FAudioDevice initialized.
+[2017.11.10-22.42.57:488][  0]LogDerivedDataCache: Saved boot cache 0.14s 93MB C:/Users/Ryan Taus/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.10-22.42.57:509][  0]LogInit: Texture streaming: Enabled
+[2017.11.10-22.42.57:660][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.10-22.42.57:952][  0]LogInit: Transaction tracking system initialized
+[2017.11.10-22.42.58:347][  0]BlueprintLog: New page: Editor Load
+[2017.11.10-22.42.59:446][  0]LocalizationService: Localization service is disabled
+[2017.11.10-22.43.00:302][  0]LogConsoleResponse: Display: 
+[2017.11.10-22.43.00:541][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.10-22.43.00:541][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.10-22.43.00:541][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.10-22.43.01:416][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/' took 0.02s
+[2017.11.10-22.43.01:870][  0]SourceControl: Source control is disabled
+[2017.11.10-22.43.01:870][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.10-22.43.01:870][  0]LightingResults: New page: Lighting Build
+[2017.11.10-22.43.01:920][  0]MapCheck: New page: Map Check
+[2017.11.10-22.43.01:920][  0]LightingResults: New page: Lighting Build
+[2017.11.10-22.43.02:692][  0]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.10-22.43.02:713][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.10-22.43.02:732][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.10-22.43.02:794][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.59ms to complete.
+[2017.11.10-22.43.02:794][  0]LogFileHelpers: Loading map 'DemoMap' took 0.924
+[2017.11.10-22.43.02:980][  0]LogCollectionManager: Loaded 0 collections in 0.003043 seconds
+[2017.11.10-22.43.03:070][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Collections/' took 0.01s
+[2017.11.10-22.43.03:070][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Developers/RyanTaus/Collections/' took 0.01s
+[2017.11.10-22.43.03:070][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Collections/' took 0.01s
+[2017.11.10-22.43.03:070][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.11.10-22.43.03:081][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2386 classes and 500 folders.
+[2017.11.10-22.43.03:162][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.11.10-22.43.03:217][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2017.11.10-22.43.03:280][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.11.10-22.43.03:364][  0]LogSlate: Took 0.000580 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.10-22.43.03:368][  0]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.10-22.43.03:380][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.10-22.43.03:570][  0]LogRenderer: Reallocating scene render targets to support 888x436 Format 10 NumSamples 1 (Frame:1).
+[2017.11.10-22.43.03:790][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.11.10-22.43.03:790][  0]LogLoad: (Engine Initialization) Total time: 19.69 seconds
+[2017.11.10-22.43.03:790][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.10-22.43.03:790][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.10-22.43.03:790][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.10-22.43.03:819][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.10-22.43.03:839][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.10-22.43.03:889][  0]LogSlate: Took 0.000345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.10-22.43.03:925][  1]LogAssetRegistry: Asset discovery search completed in 13.6074 seconds
+[2017.11.10-22.43.03:927][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.10-22.43.03:927][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000083 seconds (updated 0 objects)
+[2017.11.10-22.43.04:864][ 43]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.10-22.43.22:575][ 42]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.10-22.43.22:638][ 42]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-22.43.22:639][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.10-22.43.22:639][ 42]PIE: New page: PIE session: DemoMap (Nov 10, 2017, 6:43:22 AM)
+[2017.11.10-22.43.22:639][ 42]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.10-22.43.22:644][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005352s)
+[2017.11.10-22.43.22:646][ 42]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.10-22.43.22:646][ 42]LogPlayLevel: PIE: World Init took: (0.001731s)
+[2017.11.10-22.43.22:647][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.007581s)
+[2017.11.10-22.43.22:660][ 42]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.10-22.43.22:664][ 42]LogInit: FAudioDevice initialized.
+[2017.11.10-22.43.22:716][ 42]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.10-22.43.22:721][ 42]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.10-14.43.22
+[2017.11.10-22.43.22:722][ 42]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.10-22.43.22:722][ 42]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-22.43.22:723][ 42]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.10-22.43.22:723][ 42]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-22.43.22:723][ 42]LogWorld: Bringing up level for play took: 0.005348
+[2017.11.10-22.43.22:771][ 42]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.11.10-22.43.22:773][ 42]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.483
+[2017.11.10-22.43.22:773][ 42]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-22.43.51:618][746]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-22.43.51:657][746]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-22.43.59:666][ 76]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.10-22.44.00:118][ 76]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 113 classes and 0 folders.
+[2017.11.10-22.44.00:900][ 76]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.10-22.44.00:997][ 76]LogSlate: Took 0.000459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.10-22.44.01:116][ 77]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.10-22.45.14:576][876]BlueprintLog: New page: Compile Talia
+[2017.11.10-22.45.14:747][876]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2017.11.10-22.45.14:747][876]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2017.11.10-22.45.27:968][411]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.10-22.45.44:348][986]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.11.10-22.45.44:861][987]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.11.10-22.45.47:673][105]BlueprintLog: New page: Compile Talia
+[2017.11.10-22.45.47:791][105]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2017.11.10-22.45.47:791][105]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2017.11.10-22.45.58:695][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DemoMap" FILE="../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.10-22.45.58:886][690]LogSavePackage: Save=139.36ms
+[2017.11.10-22.45.58:886][690]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/DemoMap8EF272564E257217F286508B8908ACB5.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap'
+[2017.11.10-22.45.58:891][690]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap
+[2017.11.10-22.45.58:944][690]LogFileHelpers: Saving map 'DemoMap' took 0.320
+[2017.11.10-22.45.59:091][690]LogSavePackage: Save=60.51ms
+[2017.11.10-22.45.59:091][690]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/BearE15B57C74466963ECC837BAAA821E395.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Bear.uasset'
+[2017.11.10-22.45.59:095][690]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Bear.uasset
+[2017.11.10-22.45.59:268][690]LogSavePackage: Save=81.78ms
+[2017.11.10-22.45.59:268][690]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/BaseCharacter5D59F74C406E347982CBA7B59733FD90.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/BaseCharacter.uasset'
+[2017.11.10-22.45.59:272][690]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/BaseCharacter.uasset
+[2017.11.10-22.45.59:508][690]LogSavePackage: Save=156.52ms
+[2017.11.10-22.45.59:508][690]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/TaliaAA697859429BF98BDECC31B5175CB527.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Talia/Talia.uasset'
+[2017.11.10-22.45.59:512][690]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Talia/Talia.uasset
+[2017.11.10-22.51.20:200][381]BlueprintLog: New page: Compile Controller
+[2017.11.10-22.51.40:053][170]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.10-22.51.40:186][170]LogBlueprint: Warning: [Compiler ] Pasted node  Skill1_1   conflicted with  Event Skill 1  and was replaced as a Custom Event!
+[2017.11.10-22.51.40:189][170]LogBlueprint: Warning: [Compiler ] Pasted node  Skill1_1   conflicted with  Event Skill 1  and was replaced as a Custom Event!
+[2017.11.10-22.51.40:252][170]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2017.11.10-22.51.40:252][170]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2017.11.10-22.52.15:262][654]BlueprintLog: New page: Compile Talia
+[2017.11.10-22.52.15:384][654]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2017.11.10-22.52.15:384][654]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2017.11.10-22.52.27:396][229]BlueprintLog: New page: Compile Bear
+[2017.11.10-22.52.47:171][847]BlueprintLog: New page: Compile MainController
+[2017.11.10-22.52.55:303][219]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.10-22.52.55:369][219]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-22.52.55:369][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.10-22.52.55:369][219]PIE: New page: PIE session: DemoMap (Nov 10, 2017, 6:52:55 AM)
+[2017.11.10-22.52.55:369][219]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.10-22.52.55:376][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006662s)
+[2017.11.10-22.52.55:378][219]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.10-22.52.55:378][219]LogPlayLevel: PIE: World Init took: (0.001948s)
+[2017.11.10-22.52.55:378][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.009111s)
+[2017.11.10-22.52.55:405][219]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.10-22.52.55:410][219]LogInit: FAudioDevice initialized.
+[2017.11.10-22.52.55:443][219]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.10-22.52.55:446][219]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.10-14.52.55
+[2017.11.10-22.52.55:447][219]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.10-22.52.55:447][219]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-22.52.55:447][219]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.10-22.52.55:448][219]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-22.52.55:448][219]LogWorld: Bringing up level for play took: 0.004380
+[2017.11.10-22.52.55:450][219]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.194
+[2017.11.10-22.52.55:450][219]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-22.53.03:237][678]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-22.53.03:289][678]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-22.53.28:302][304]BlueprintLog: New page: Compile Talia
+[2017.11.10-22.53.45:418][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DemoMap" FILE="../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.10-22.53.45:605][791]LogSavePackage: Save=136.59ms
+[2017.11.10-22.53.45:605][791]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/DemoMap14190AAD4DEF6B39525C5BBB8B8D9B66.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap'
+[2017.11.10-22.53.45:611][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap
+[2017.11.10-22.53.45:662][791]LogFileHelpers: Saving map 'DemoMap' took 0.332
+[2017.11.10-22.53.45:780][791]LogSavePackage: Save=61.23ms
+[2017.11.10-22.53.45:780][791]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/BearD1949DA347D179A0E26E418DA958EB00.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Bear.uasset'
+[2017.11.10-22.53.45:784][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Bear.uasset
+[2017.11.10-22.53.45:919][791]LogSavePackage: Save=83.46ms
+[2017.11.10-22.53.45:919][791]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/BaseCharacterC40006E54277819A91B1269A2E3CF805.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/BaseCharacter.uasset'
+[2017.11.10-22.53.45:922][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/BaseCharacter.uasset
+[2017.11.10-22.53.46:041][791]LogSavePackage: Save=91.42ms
+[2017.11.10-22.53.46:042][791]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/MainController69D9B45145CC13A2400659A6C4302D99.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/MainController.uasset'
+[2017.11.10-22.53.46:045][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/MainController.uasset
+[2017.11.10-22.53.46:239][791]LogSavePackage: Save=144.90ms
+[2017.11.10-22.53.46:239][791]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/TaliaC58FAFE1484BC6550BD72FB9A64C6A2D.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Talia/Talia.uasset'
+[2017.11.10-22.53.46:243][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Talia/Talia.uasset
+[2017.11.10-22.53.46:266][791]LogSavePackage: Save=17.20ms
+[2017.11.10-22.53.46:266][791]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/TaliaControllerB9514DF945A3B22786BDE480B6770A8C.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/TaliaController.uasset'
+[2017.11.10-22.53.46:270][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/TaliaController.uasset
+[2017.11.10-22.53.46:292][791]LogSavePackage: Save=15.16ms
+[2017.11.10-22.53.46:292][791]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/ControllerA854D0C142B9EA014D96649580F6F5D3.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Controller.uasset'
+[2017.11.10-22.53.46:295][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Controller.uasset
+[2017.11.10-22.53.49:727][847]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.10-22.53.49:816][847]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.10-22.53.49:900][847]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.10-22.54.08:828][379]LogRenderer: Reallocating scene render targets to support 912x540 Format 10 NumSamples 1 (Frame:1).
+[2017.11.10-22.55.13:089][387]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.10-22.55.21:394][735]BlueprintLog: New page: Compile BearController
+[2017.11.10-22.55.35:568][417]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.10-22.55.40:278][697]BlueprintLog: New page: Compile TaliaController
+[2017.11.10-22.55.40:622][705]BlueprintLog: New page: Compile TaliaController
+[2017.11.10-22.55.56:201][271]BlueprintLog: New page: Compile BearController
+[2017.11.10-22.56.00:486][450]BlueprintLog: New page: Compile TaliaController
+[2017.11.10-22.56.14:280][ 52]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.10-22.57.13:264][411]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.10-22.57.20:071][816]BlueprintLog: New page: Compile BearController
+[2017.11.10-22.57.23:184][983]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.10-22.57.27:665][248]BlueprintLog: New page: Compile TaliaController
+[2017.11.10-22.57.49:094][488]BlueprintLog: New page: Compile TaliaController
+[2017.11.10-22.59.45:265][ 79]LogSlate: Took 0.011284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.11.10-23.00.21:040][182]BlueprintLog: New page: Compile TaliaController
+[2017.11.10-23.00.34:454][966]BlueprintLog: New page: Compile TaliaController
+[2017.11.10-23.01.06:015][795]LogEditorTransaction: Undo Move Node
+[2017.11.10-23.01.11:697][127]BlueprintLog: New page: Compile TaliaController
+[2017.11.10-23.01.24:171][833]BlueprintLog: New page: Compile TaliaController
+[2017.11.10-23.01.40:637][751]BlueprintLog: New page: Compile TaliaController
+[2017.11.10-23.02.01:930][975]BlueprintLog: New page: Compile TaliaController
+[2017.11.10-23.02.57:805][941]BlueprintLog: New page: Compile MainController
+[2017.11.10-23.02.57:908][941]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.02.57:908][941]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.02.57:908][941]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.02.57:909][941]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.02.57:910][941]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.02.57:910][941]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.02.57:910][941]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.02.57:919][941]LogBlueprint: Warning: [Compiler BaseCharacter] Could not find the function 'SetUpInitialCamera' called from  Set Up Initial Camera
+[2017.11.10-23.02.57:929][941]LogClass: Warning: Type mismatch in Active of MainController_C - Previous (ObjectProperty) Current(InterfaceProperty) for package:  FObjectReader
+[2017.11.10-23.02.57:965][941]LogBlueprint: Warning: [Compiler BaseCharacter] [1213.87] Compile of BaseCharacter successful, but with 1 Warning(s) [in 143 ms] (/Game/Blueprints/Character/Player/BaseCharacter.BaseCharacter)
+[2017.11.10-23.02.59:077][941]LogBlueprint: Warning: [Compiler MainController] [1214.98] Compile of MainController failed. 7 Fatal Issue(s) 0 Warning(s) [in 1,271 ms] (/Game/Blueprints/Character/Player/MainController.MainController)
+[2017.11.10-23.03.12:939][753]LogEditorTransaction: Undo Change Parameter Type
+[2017.11.10-23.03.14:186][823]BlueprintLog: New page: Compile MainController
+[2017.11.10-23.03.14:309][823]LogClass: Warning: Type mismatch in Active of MainController_C - Previous (InterfaceProperty) Current(ObjectProperty) for package:  FObjectReader
+[2017.11.10-23.03.58:989][387]BlueprintLog: New page: Compile BearController
+[2017.11.10-23.04.28:064][103]BlueprintLog: New page: Compile BearController
+[2017.11.10-23.05.08:471][468]BlueprintLog: New page: Compile BearController
+[2017.11.10-23.05.24:668][406]BlueprintLog: New page: Compile BearController
+[2017.11.10-23.05.49:342][634]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.10-23.05.53:863][895]BlueprintLog: New page: Compile Talia
+[2017.11.10-23.06.01:030][231]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.10-23.06.03:825][377]BlueprintLog: New page: Compile Talia
+[2017.11.10-23.06.07:222][485]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.10-23.06.09:637][624]BlueprintLog: New page: Compile Bear
+[2017.11.10-23.08.33:441][315]LogSavePackage: Save=131.94ms
+[2017.11.10-23.08.33:441][315]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/DemoMap_Auto16041FAF54D720A0BBBD790BD31971889.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto1.umap'
+[2017.11.10-23.08.33:445][315]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto1.umap
+[2017.11.10-23.08.33:447][315]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DemoMap' took 0.199
+[2017.11.10-23.08.33:447][315]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.199
+[2017.11.10-23.08.33:450][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/Player/Bear] ([1] browsable assets)...
+[2017.11.10-23.08.33:507][315]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/Player/Bear.Bear]
+[2017.11.10-23.08.33:507][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Player/Bear]
+[2017.11.10-23.08.33:590][315]LogSavePackage: Save=59.29ms
+[2017.11.10-23.08.33:590][315]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Bear_Auto1AD140F6043F630D5167FB9A15E95B430.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/Bear_Auto1.uasset'
+[2017.11.10-23.08.33:592][315]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/Bear_Auto1.uasset
+[2017.11.10-23.08.33:593][315]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/Player/MainController] ([1] browsable assets)...
+[2017.11.10-23.08.33:593][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Player/MainController]
+[2017.11.10-23.08.33:712][315]LogSavePackage: Save=94.93ms
+[2017.11.10-23.08.33:712][315]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/MainController_Auto1DC59F63A458DBA9F3427CD8902D8A776.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/MainController_Auto1.uasset'
+[2017.11.10-23.08.33:714][315]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/MainController_Auto1.uasset
+[2017.11.10-23.08.33:715][315]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/Player/TaliaController] ([1] browsable assets)...
+[2017.11.10-23.08.33:715][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Player/TaliaController]
+[2017.11.10-23.08.33:755][315]LogSavePackage: Save=37.43ms
+[2017.11.10-23.08.33:756][315]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/TaliaController_Auto161F13DBC4540DF1D90E746B13EDB72F2.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/TaliaController_Auto1.uasset'
+[2017.11.10-23.08.33:758][315]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/TaliaController_Auto1.uasset
+[2017.11.10-23.08.33:759][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/Player/Talia/Talia] ([1] browsable assets)...
+[2017.11.10-23.08.33:816][315]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/Player/Talia/Talia.Talia]
+[2017.11.10-23.08.33:816][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Player/Talia/Talia]
+[2017.11.10-23.08.33:985][315]LogSavePackage: Save=145.35ms
+[2017.11.10-23.08.33:985][315]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Talia_Auto113DD20624EEB17B849BDA9A9E1C0273A.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/Talia/Talia_Auto1.uasset'
+[2017.11.10-23.08.33:987][315]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/Talia/Talia_Auto1.uasset
+[2017.11.10-23.08.33:988][315]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/Player/BearController] ([1] browsable assets)...
+[2017.11.10-23.08.33:988][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Player/BearController]
+[2017.11.10-23.08.34:032][315]LogSavePackage: Save=41.64ms
+[2017.11.10-23.08.34:033][315]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/BearController_Auto1B5D7F6DF46AAA6D3CAFBDE8AEFAC7F33.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BearController_Auto1.uasset'
+[2017.11.10-23.08.34:034][315]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BearController_Auto1.uasset
+[2017.11.10-23.08.34:034][315]LogFileHelpers: Auto-saving content packages took 0.585
+[2017.11.10-23.10.55:621][817]BlueprintLog: New page: Compile MainController
+[2017.11.10-23.10.55:728][817]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.10.55:728][817]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.10.55:729][817]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.10.55:729][817]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.10.55:729][817]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.10.55:729][817]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.10.55:729][817]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.10.55:729][817]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.10.55:729][817]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.10.55:737][817]LogBlueprint: Warning: [Compiler BaseCharacter] Could not find the function 'SetUpInitialCamera' called from  Set Up Initial Camera
+[2017.11.10-23.10.55:749][817]LogClass: Warning: Type mismatch in Active of MainController_C - Previous (ObjectProperty) Current(InterfaceProperty) for package:  FObjectReader
+[2017.11.10-23.10.55:749][817]LogClass: Warning: Type mismatch in Inactive of MainController_C - Previous (ObjectProperty) Current(InterfaceProperty) for package:  FObjectReader
+[2017.11.10-23.10.55:836][817]LogBlueprint: Warning: [Compiler BaseCharacter] [1691.74] Compile of BaseCharacter successful, but with 1 Warning(s) [in 197 ms] (/Game/Blueprints/Character/Player/BaseCharacter.BaseCharacter)
+[2017.11.10-23.10.56:977][817]LogBlueprint: Warning: [Compiler MainController] [1692.88] Compile of MainController failed. 9 Fatal Issue(s) 0 Warning(s) [in 1,356 ms] (/Game/Blueprints/Character/Player/MainController.MainController)
+[2017.11.10-23.11.18:448][918]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.10-23.11.18:521][919]Cmd: SELECT NONE
+[2017.11.10-23.11.23:787][231]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.10-23.11.55:379][318]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.10-23.11.59:578][561]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Blueprints/Character/Player/BearController.BearController from AIController to BaseController_C...
+[2017.11.10-23.11.59:592][561]BlueprintLog: New page: Compile BearController
+[2017.11.10-23.12.07:252][812]BlueprintLog: New page: Compile BearController
+[2017.11.10-23.12.18:186][428]LogSavePackage: Save=35.94ms
+[2017.11.10-23.12.18:186][428]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/BearController1658E386453A5482B84D938594DA152A.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/BearController.uasset'
+[2017.11.10-23.12.18:199][428]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/BearController.uasset
+[2017.11.10-23.12.34:295][289]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.10-23.12.38:808][555]BlueprintLog: New page: Compile BaseController
+[2017.11.10-23.13.08:770][235]BlueprintLog: New page: Compile BearController
+[2017.11.10-23.13.18:138][647]BlueprintLog: New page: Compile TaliaController
+[2017.11.10-23.13.27:120][134]LogSavePackage: Save=33.95ms
+[2017.11.10-23.13.27:120][134]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/TaliaController1C5FF15640DCAF9264AD8DA81A4C3782.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/TaliaController.uasset'
+[2017.11.10-23.13.27:131][134]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/TaliaController.uasset
+[2017.11.10-23.13.31:465][389]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.10-23.13.34:490][567]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Blueprints/Character/Player/TaliaController.TaliaController from AIController to BaseController_C...
+[2017.11.10-23.13.34:500][567]BlueprintLog: New page: Compile TaliaController
+[2017.11.10-23.13.36:022][636]LogSavePackage: Save=34.43ms
+[2017.11.10-23.13.36:023][636]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/TaliaController49B0238F485E8D8A08368D9FFCF461B8.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/TaliaController.uasset'
+[2017.11.10-23.13.36:027][636]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/TaliaController.uasset
+[2017.11.10-23.14.05:619][331]BlueprintLog: New page: Compile TaliaController
+[2017.11.10-23.15.18:422][311]BlueprintLog: New page: Compile MainController
+[2017.11.10-23.15.18:521][311]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.15.18:521][311]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.15.18:522][311]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.15.18:523][311]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.15.18:523][311]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.15.18:523][311]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.15.18:523][311]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.15.18:523][311]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.15.18:523][311]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.15.18:531][311]LogBlueprint: Warning: [Compiler BaseCharacter] Could not find the function 'SetUpInitialCamera' called from  Set Up Initial Camera
+[2017.11.10-23.15.18:542][311]LogClass: Warning: Type mismatch in Active of MainController_C - Previous (InterfaceProperty) Current(ObjectProperty) for package:  FObjectReader
+[2017.11.10-23.15.18:542][311]LogClass: Warning: Type mismatch in Inactive of MainController_C - Previous (InterfaceProperty) Current(ObjectProperty) for package:  FObjectReader
+[2017.11.10-23.15.18:596][311]LogBlueprint: Warning: [Compiler BaseCharacter] [1954.50] Compile of BaseCharacter successful, but with 1 Warning(s) [in 156 ms] (/Game/Blueprints/Character/Player/BaseCharacter.BaseCharacter)
+[2017.11.10-23.15.19:786][311]LogBlueprint: Warning: [Compiler MainController] [1955.69] Compile of MainController failed. 9 Fatal Issue(s) 0 Warning(s) [in 1,364 ms] (/Game/Blueprints/Character/Player/MainController.MainController)
+[2017.11.10-23.15.59:650][523]BlueprintLog: New page: Compile MainController
+[2017.11.10-23.15.59:777][523]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.15.59:777][523]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.15.59:778][523]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.15.59:778][523]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.15.59:778][523]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.15.59:778][523]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.15.59:778][523]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.15.59:779][523]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.15.59:779][523]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.15.59:789][523]LogBlueprint: Warning: [Compiler BaseCharacter] Could not find the function 'SetUpInitialCamera' called from  Set Up Initial Camera
+[2017.11.10-23.15.59:863][523]LogBlueprint: Warning: [Compiler BaseCharacter] [1995.76] Compile of BaseCharacter successful, but with 1 Warning(s) [in 184 ms] (/Game/Blueprints/Character/Player/BaseCharacter.BaseCharacter)
+[2017.11.10-23.16.01:070][523]LogBlueprint: Warning: [Compiler MainController] [1996.97] Compile of MainController failed. 9 Fatal Issue(s) 0 Warning(s) [in 1,420 ms] (/Game/Blueprints/Character/Player/MainController.MainController)
+[2017.11.10-23.16.47:669][185]BlueprintLog: New page: Compile MainController
+[2017.11.10-23.16.47:762][185]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.16.47:763][185]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.16.47:764][185]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.16.47:764][185]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.16.47:764][185]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.16.47:764][185]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.16.47:764][185]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.16.47:764][185]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.16.47:764][185]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.16.47:772][185]LogBlueprint: Warning: [Compiler BaseCharacter] Could not find the function 'SetUpInitialCamera' called from  Set Up Initial Camera
+[2017.11.10-23.16.47:831][185]LogBlueprint: Warning: [Compiler BaseCharacter] [2043.73] Compile of BaseCharacter successful, but with 1 Warning(s) [in 146 ms] (/Game/Blueprints/Character/Player/BaseCharacter.BaseCharacter)
+[2017.11.10-23.16.48:987][185]LogBlueprint: Warning: [Compiler MainController] [2044.89] Compile of MainController failed. 9 Fatal Issue(s) 0 Warning(s) [in 1,317 ms] (/Game/Blueprints/Character/Player/MainController.MainController)
+[2017.11.10-23.17.36:871][894]BlueprintLog: New page: Compile Controller
+[2017.11.10-23.17.44:137][322]BlueprintLog: New page: Compile MainController
+[2017.11.10-23.17.44:227][322]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.17.44:227][322]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.17.44:228][322]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.17.44:228][322]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.17.44:228][322]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.17.44:228][322]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.17.44:228][322]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.17.44:228][322]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.17.44:229][322]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.17.44:237][322]LogBlueprint: Warning: [Compiler BaseCharacter] Could not find the function 'SetUpInitialCamera' called from  Set Up Initial Camera
+[2017.11.10-23.17.44:297][322]LogBlueprint: Warning: [Compiler BaseCharacter] [2100.20] Compile of BaseCharacter successful, but with 1 Warning(s) [in 143 ms] (/Game/Blueprints/Character/Player/BaseCharacter.BaseCharacter)
+[2017.11.10-23.17.45:483][322]LogBlueprint: Warning: [Compiler MainController] [2101.38] Compile of MainController failed. 9 Fatal Issue(s) 0 Warning(s) [in 1,345 ms] (/Game/Blueprints/Character/Player/MainController.MainController)
+[2017.11.10-23.18.02:072][233]BlueprintLog: New page: Compile MainController
+[2017.11.10-23.18.02:172][233]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.02:172][233]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.02:173][233]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.02:173][233]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.02:173][233]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.02:173][233]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.02:173][233]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.02:173][233]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.02:174][233]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.02:182][233]LogBlueprint: Warning: [Compiler BaseCharacter] Could not find the function 'SetUpInitialCamera' called from  Set Up Initial Camera
+[2017.11.10-23.18.02:241][233]LogBlueprint: Warning: [Compiler BaseCharacter] [2118.14] Compile of BaseCharacter successful, but with 1 Warning(s) [in 151 ms] (/Game/Blueprints/Character/Player/BaseCharacter.BaseCharacter)
+[2017.11.10-23.18.03:430][233]LogBlueprint: Warning: [Compiler MainController] [2119.33] Compile of MainController failed. 9 Fatal Issue(s) 0 Warning(s) [in 1,357 ms] (/Game/Blueprints/Character/Player/MainController.MainController)
+[2017.11.10-23.18.48:837][831]BlueprintLog: New page: Compile MainController
+[2017.11.10-23.18.48:943][831]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.48:943][831]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.48:944][831]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.48:945][831]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.48:945][831]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.48:945][831]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.48:945][831]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.48:945][831]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.48:945][831]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.48:953][831]LogBlueprint: Warning: [Compiler BaseCharacter] Could not find the function 'SetUpInitialCamera' called from  Set Up Initial Camera
+[2017.11.10-23.18.49:020][831]LogBlueprint: Warning: [Compiler BaseCharacter] [2164.92] Compile of BaseCharacter successful, but with 1 Warning(s) [in 164 ms] (/Game/Blueprints/Character/Player/BaseCharacter.BaseCharacter)
+[2017.11.10-23.18.50:190][831]LogBlueprint: Warning: [Compiler MainController] [2166.09] Compile of MainController failed. 9 Fatal Issue(s) 0 Warning(s) [in 1,352 ms] (/Game/Blueprints/Character/Player/MainController.MainController)
+[2017.11.10-23.18.52:960][962]BlueprintLog: New page: Compile MainController
+[2017.11.10-23.18.53:060][962]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.53:060][962]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.53:061][962]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.53:061][962]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.53:061][962]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.53:061][962]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.53:061][962]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.53:061][962]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.53:062][962]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.18.53:070][962]LogBlueprint: Warning: [Compiler BaseCharacter] Could not find the function 'SetUpInitialCamera' called from  Set Up Initial Camera
+[2017.11.10-23.18.53:128][962]LogBlueprint: Warning: [Compiler BaseCharacter] [2169.03] Compile of BaseCharacter successful, but with 1 Warning(s) [in 148 ms] (/Game/Blueprints/Character/Player/BaseCharacter.BaseCharacter)
+[2017.11.10-23.18.54:330][962]LogBlueprint: Warning: [Compiler MainController] [2170.23] Compile of MainController failed. 9 Fatal Issue(s) 0 Warning(s) [in 1,369 ms] (/Game/Blueprints/Character/Player/MainController.MainController)
+[2017.11.10-23.18.54:924][965]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.11.10-23.19.17:704][294]BlueprintLog: New page: Compile MainController
+[2017.11.10-23.19.17:802][294]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.17:802][294]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.17:803][294]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.17:803][294]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.17:803][294]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.17:803][294]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.17:803][294]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.17:803][294]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.17:803][294]LogBlueprint: Error: [Compiler MainController] This blueprint (self) is not a BaseCharacter_C, therefore ' Target ' must have a connection.
+[2017.11.10-23.19.17:811][294]LogBlueprint: Warning: [Compiler BaseCharacter] Could not find the function 'SetUpInitialCamera' called from  Set Up Initial Camera
+[2017.11.10-23.19.17:812][294]LogBlueprint: Error: [Compiler MainController] Variable node  Get CurrentScreen  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2017.11.10-23.19.17:871][294]LogBlueprint: Warning: [Compiler BaseCharacter] [2193.77] Compile of BaseCharacter successful, but with 1 Warning(s) [in 146 ms] (/Game/Blueprints/Character/Player/BaseCharacter.BaseCharacter)
+[2017.11.10-23.19.19:040][294]LogBlueprint: Warning: [Compiler MainController] [2194.94] Compile of MainController failed. 10 Fatal Issue(s) 0 Warning(s) [in 1,336 ms] (/Game/Blueprints/Character/Player/MainController.MainController)
+[2017.11.10-23.19.35:612][253]LogBlueprint: Warning: Blueprint TaliaController (child of/implements BaseController) has a function graph with a conflicting name (getPawn). Changing to getPawn_0.
+[2017.11.10-23.19.35:619][253]LogBlueprint: Warning: Blueprint BearController (child of/implements BaseController) has a function graph with a conflicting name (getPawn). Changing to getPawn_0.
+[2017.11.10-23.19.37:810][383]BlueprintLog: New page: Compile BaseController
+[2017.11.10-23.19.37:856][383]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.37:858][383]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.37:858][383]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.37:858][383]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.37:858][383]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.37:858][383]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.37:858][383]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.37:858][383]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.37:858][383]LogBlueprint: Error: [Compiler MainController] This blueprint (self) is not a BaseCharacter_C, therefore ' Target ' must have a connection.
+[2017.11.10-23.19.37:859][383]LogBlueprint: Error: [Compiler BearController] Missing Event 'Right' for  Event Right
+[2017.11.10-23.19.37:859][383]LogBlueprint: Error: [Compiler BearController] Missing Event 'Left' for  Event Left
+[2017.11.10-23.19.37:861][383]LogBlueprint: Error: [Compiler TaliaController] Missing Event 'Right' for  Event Right
+[2017.11.10-23.19.37:861][383]LogBlueprint: Error: [Compiler TaliaController] Missing Event 'Left' for  Event Left
+[2017.11.10-23.19.37:862][383]LogBlueprint: Error: [Compiler MainController] Variable node  Get CurrentScreen  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2017.11.10-23.19.37:889][383]LogBlueprint: Warning: [Compiler MainController] [2213.79] Compile of MainController failed. 10 Fatal Issue(s) 0 Warning(s) [in 77 ms] (/Game/Blueprints/Character/Player/MainController.MainController)
+[2017.11.10-23.19.37:889][383]LogBlueprint: Warning: [Compiler BearController] [2213.79] Compile of BearController failed. 2 Fatal Issue(s) 0 Warning(s) [in 77 ms] (/Game/Blueprints/Character/Player/BearController.BearController)
+[2017.11.10-23.19.37:889][383]LogBlueprint: Warning: [Compiler TaliaController] [2213.79] Compile of TaliaController failed. 2 Fatal Issue(s) 0 Warning(s) [in 77 ms] (/Game/Blueprints/Character/Player/TaliaController.TaliaController)
+[2017.11.10-23.19.50:918][107]BlueprintLog: New page: Compile BaseController
+[2017.11.10-23.19.50:960][107]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.50:960][107]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.50:961][107]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.50:961][107]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.50:961][107]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.50:961][107]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.50:961][107]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.50:961][107]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.19.50:961][107]LogBlueprint: Error: [Compiler MainController] This blueprint (self) is not a BaseCharacter_C, therefore ' Target ' must have a connection.
+[2017.11.10-23.19.50:962][107]LogBlueprint: Error: [Compiler BearController] Missing Event 'Right' for  Event Right
+[2017.11.10-23.19.50:962][107]LogBlueprint: Error: [Compiler BearController] Missing Event 'Left' for  Event Left
+[2017.11.10-23.19.50:964][107]LogBlueprint: Error: [Compiler TaliaController] Missing Event 'Right' for  Event Right
+[2017.11.10-23.19.50:964][107]LogBlueprint: Error: [Compiler TaliaController] Missing Event 'Left' for  Event Left
+[2017.11.10-23.19.50:965][107]LogBlueprint: Error: [Compiler MainController] Variable node  Get CurrentScreen  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2017.11.10-23.19.50:991][107]LogBlueprint: Warning: [Compiler MainController] [2226.89] Compile of MainController failed. 10 Fatal Issue(s) 0 Warning(s) [in 71 ms] (/Game/Blueprints/Character/Player/MainController.MainController)
+[2017.11.10-23.19.50:991][107]LogBlueprint: Warning: [Compiler BearController] [2226.89] Compile of BearController failed. 2 Fatal Issue(s) 0 Warning(s) [in 71 ms] (/Game/Blueprints/Character/Player/BearController.BearController)
+[2017.11.10-23.19.50:991][107]LogBlueprint: Warning: [Compiler TaliaController] [2226.89] Compile of TaliaController failed. 2 Fatal Issue(s) 0 Warning(s) [in 71 ms] (/Game/Blueprints/Character/Player/TaliaController.TaliaController)
+[2017.11.10-23.20.28:722][287]BlueprintLog: New page: Compile BaseController
+[2017.11.10-23.20.28:773][287]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.20.28:775][287]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.20.28:775][287]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.20.28:775][287]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.20.28:775][287]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.20.28:776][287]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.20.28:776][287]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.20.28:776][287]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.20.28:776][287]LogBlueprint: Error: [Compiler MainController] This blueprint (self) is not a BaseCharacter_C, therefore ' Target ' must have a connection.
+[2017.11.10-23.20.28:778][287]LogBlueprint: Error: [Compiler BearController] Missing Event 'Right' for  Event Right
+[2017.11.10-23.20.28:778][287]LogBlueprint: Error: [Compiler BearController] Missing Event 'Left' for  Event Left
+[2017.11.10-23.20.28:780][287]LogBlueprint: Error: [Compiler TaliaController] Missing Event 'Right' for  Event Right
+[2017.11.10-23.20.28:780][287]LogBlueprint: Error: [Compiler TaliaController] Missing Event 'Left' for  Event Left
+[2017.11.10-23.20.28:781][287]LogBlueprint: Error: [Compiler MainController] Variable node  Get CurrentScreen  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2017.11.10-23.20.28:812][287]LogBlueprint: Warning: [Compiler MainController] [2264.71] Compile of MainController failed. 10 Fatal Issue(s) 0 Warning(s) [in 86 ms] (/Game/Blueprints/Character/Player/MainController.MainController)
+[2017.11.10-23.20.28:812][287]LogBlueprint: Warning: [Compiler BearController] [2264.71] Compile of BearController failed. 2 Fatal Issue(s) 0 Warning(s) [in 86 ms] (/Game/Blueprints/Character/Player/BearController.BearController)
+[2017.11.10-23.20.28:812][287]LogBlueprint: Warning: [Compiler TaliaController] [2264.71] Compile of TaliaController failed. 2 Fatal Issue(s) 0 Warning(s) [in 86 ms] (/Game/Blueprints/Character/Player/TaliaController.TaliaController)
+[2017.11.10-23.21.27:213][647]BlueprintLog: New page: Compile MainController
+[2017.11.10-23.21.27:312][647]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.21.27:312][647]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.21.27:312][647]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.21.27:312][647]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.21.27:312][647]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.21.27:312][647]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.21.27:312][647]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.21.27:312][647]LogBlueprint: Error: [Compiler MainController] This blueprint (self) is not a screen_C, therefore ' Target ' must have a connection.
+[2017.11.10-23.21.27:312][647]LogBlueprint: Error: [Compiler MainController] This blueprint (self) is not a screen_C, therefore ' Target ' must have a connection.
+[2017.11.10-23.21.27:320][647]LogBlueprint: Warning: [Compiler BaseCharacter] Could not find the function 'SetUpInitialCamera' called from  Set Up Initial Camera
+[2017.11.10-23.21.27:389][647]LogBlueprint: Warning: [Compiler BaseCharacter] [2323.29] Compile of BaseCharacter successful, but with 1 Warning(s) [in 158 ms] (/Game/Blueprints/Character/Player/BaseCharacter.BaseCharacter)
+[2017.11.10-23.21.28:578][647]LogBlueprint: Warning: [Compiler MainController] [2324.48] Compile of MainController failed. 9 Fatal Issue(s) 0 Warning(s) [in 1,363 ms] (/Game/Blueprints/Character/Player/MainController.MainController)
+[2017.11.10-23.22.03:708][679]BlueprintLog: New page: Compile MainController
+[2017.11.10-23.22.03:810][679]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.22.03:811][679]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.22.03:811][679]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.22.03:811][679]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.22.03:811][679]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.22.03:811][679]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.22.03:811][679]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.22.03:820][679]LogBlueprint: Warning: [Compiler BaseCharacter] Could not find the function 'SetUpInitialCamera' called from  Set Up Initial Camera
+[2017.11.10-23.22.03:895][679]LogBlueprint: Warning: [Compiler BaseCharacter] [2359.80] Compile of BaseCharacter successful, but with 1 Warning(s) [in 166 ms] (/Game/Blueprints/Character/Player/BaseCharacter.BaseCharacter)
+[2017.11.10-23.22.05:108][679]LogBlueprint: Warning: [Compiler MainController] [2361.01] Compile of MainController failed. 7 Fatal Issue(s) 0 Warning(s) [in 1,399 ms] (/Game/Blueprints/Character/Player/MainController.MainController)
+[2017.11.10-23.22.56:843][681]BlueprintLog: New page: Compile MainController
+[2017.11.10-23.22.56:953][681]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.22.56:953][681]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.22.56:953][681]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.22.56:953][681]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.22.56:953][681]LogBlueprint: Error: [Compiler MainController] In use pin  Active  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.22.56:954][681]LogBlueprint: Error: [Compiler MainController] In use pin  Inactive  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.10-23.22.58:225][681]LogBlueprint: Warning: [Compiler MainController] [2414.13] Compile of MainController failed. 6 Fatal Issue(s) 0 Warning(s) [in 1,381 ms] (/Game/Blueprints/Character/Player/MainController.MainController)
+[2017.11.10-23.24.03:264][345]BlueprintLog: New page: Compile MainController
+[2017.11.10-23.24.16:968][ 47]BlueprintLog: New page: Compile MainController
+[2017.11.10-23.24.23:907][348]BlueprintLog: New page: Compile MainController
+[2017.11.10-23.24.25:869][351]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.11.10-23.24.26:458][381]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.10-23.24.26:508][381]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.24.26:508][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.10-23.24.58:064][ 89]BlueprintLog: New page: Compile TaliaController
+[2017.11.10-23.25.23:288][530]BlueprintLog: New page: Compile BearController
+[2017.11.10-23.25.35:803][244]BlueprintLog: New page: Compile BearController
+[2017.11.10-23.25.37:042][302]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.10-23.25.37:084][302]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.25.37:084][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.10-23.25.37:084][302]PIE: New page: PIE session: DemoMap (Nov 10, 2017, 7:25:37 AM)
+[2017.11.10-23.25.37:084][302]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.10-23.25.37:090][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005796s)
+[2017.11.10-23.25.37:091][302]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.10-23.25.37:091][302]LogPlayLevel: PIE: World Init took: (0.001498s)
+[2017.11.10-23.25.37:092][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.007744s)
+[2017.11.10-23.25.37:126][302]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.10-23.25.37:131][302]LogInit: FAudioDevice initialized.
+[2017.11.10-23.25.37:176][302]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.10-23.25.37:184][302]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.10-15.25.37
+[2017.11.10-23.25.37:185][302]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.10-23.25.37:185][302]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.25.37:186][302]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.10-23.25.37:186][302]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.25.37:187][302]LogWorld: Bringing up level for play took: 0.010453
+[2017.11.10-23.25.37:187][302]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.10-23.25.37:190][302]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.066
+[2017.11.10-23.25.37:191][302]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.25.37:215][302]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.11.10-23.25.47:683][781]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.25.47:764][781]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.26.23:961][907]BlueprintLog: New page: Compile MainController
+[2017.11.10-23.26.50:967][359]BlueprintLog: New page: Compile BearController
+[2017.11.10-23.27.16:178][805]BlueprintLog: New page: Compile Bear
+[2017.11.10-23.27.30:974][606]BlueprintLog: New page: Compile BearController
+[2017.11.10-23.27.31:949][648]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.10-23.27.32:000][648]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.27.32:001][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.10-23.27.32:001][648]PIE: New page: PIE session: DemoMap (Nov 10, 2017, 7:27:32 AM)
+[2017.11.10-23.27.32:001][648]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.10-23.27.32:007][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006553s)
+[2017.11.10-23.27.32:008][648]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.10-23.27.32:009][648]LogPlayLevel: PIE: World Init took: (0.000999s)
+[2017.11.10-23.27.32:009][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.008045s)
+[2017.11.10-23.27.32:038][648]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.10-23.27.32:042][648]LogInit: FAudioDevice initialized.
+[2017.11.10-23.27.32:085][648]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.10-23.27.32:091][648]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.10-15.27.32
+[2017.11.10-23.27.32:092][648]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.10-23.27.32:092][648]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.27.32:092][648]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.10-23.27.32:092][648]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.27.32:092][648]LogWorld: Bringing up level for play took: 0.004918
+[2017.11.10-23.27.32:093][648]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.10-23.27.32:096][648]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.84
+[2017.11.10-23.27.32:096][648]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.27.40:684][ 41]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.27.40:768][ 41]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.27.59:333][108]BlueprintLog: New page: Compile TaliaController
+[2017.11.10-23.28.26:335][653]BlueprintLog: New page: Compile Talia
+[2017.11.10-23.28.36:034][125]BlueprintLog: New page: Compile TaliaController
+[2017.11.10-23.28.36:993][165]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.10-23.28.37:049][165]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.28.37:049][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.10-23.28.37:049][165]PIE: New page: PIE session: DemoMap (Nov 10, 2017, 7:28:37 AM)
+[2017.11.10-23.28.37:050][165]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.10-23.28.37:056][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006856s)
+[2017.11.10-23.28.37:057][165]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.10-23.28.37:057][165]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2017.11.10-23.28.37:058][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.008297s)
+[2017.11.10-23.28.37:088][165]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.10-23.28.37:092][165]LogInit: FAudioDevice initialized.
+[2017.11.10-23.28.37:135][165]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.10-23.28.37:142][165]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.10-15.28.37
+[2017.11.10-23.28.37:142][165]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.10-23.28.37:142][165]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.28.37:143][165]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.10-23.28.37:143][165]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.28.37:143][165]LogWorld: Bringing up level for play took: 0.007582
+[2017.11.10-23.28.37:144][165]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.10-23.28.37:148][165]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.108
+[2017.11.10-23.28.37:148][165]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.28.45:687][553]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.28.45:773][553]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.29.28:177][ 71]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.10-23.29.28:217][ 71]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.29.28:217][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.10-23.29.28:217][ 71]PIE: New page: PIE session: DemoMap (Nov 10, 2017, 7:29:28 AM)
+[2017.11.10-23.29.28:217][ 71]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.10-23.29.28:223][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006072s)
+[2017.11.10-23.29.28:225][ 71]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.10-23.29.28:226][ 71]LogPlayLevel: PIE: World Init took: (0.002321s)
+[2017.11.10-23.29.28:226][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.009407s)
+[2017.11.10-23.29.28:259][ 71]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.10-23.29.28:263][ 71]LogInit: FAudioDevice initialized.
+[2017.11.10-23.29.28:306][ 71]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.10-23.29.28:312][ 71]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.10-15.29.28
+[2017.11.10-23.29.28:312][ 71]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.10-23.29.28:312][ 71]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.29.28:313][ 71]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.10-23.29.28:313][ 71]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.29.28:313][ 71]LogWorld: Bringing up level for play took: 0.005439
+[2017.11.10-23.29.28:314][ 71]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.10-23.29.28:317][ 71]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 1.062
+[2017.11.10-23.29.28:318][ 71]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.29.34:877][366]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/Blueprints/Character/Player/Talia/Talia.Talia_C:GetHookshotTarget'!
+[2017.11.10-23.30.09:591][998]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.30.09:682][998]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.30.29:458][ 55]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.11.10-23.30.29:968][ 56]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.11.10-23.30.32:746][172]BlueprintLog: New page: Compile Talia
+[2017.11.10-23.30.53:292][269]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.11.10-23.30.53:795][270]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.11.10-23.31.04:597][881]BlueprintLog: New page: Compile Talia
+[2017.11.10-23.31.07:726][982]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.10-23.31.07:782][982]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.31.07:782][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.10-23.31.07:782][982]PIE: New page: PIE session: DemoMap (Nov 10, 2017, 7:31:07 AM)
+[2017.11.10-23.31.07:782][982]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.10-23.31.07:788][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006356s)
+[2017.11.10-23.31.07:789][982]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.10-23.31.07:790][982]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2017.11.10-23.31.07:790][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.007784s)
+[2017.11.10-23.31.07:822][982]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.10-23.31.07:828][982]LogInit: FAudioDevice initialized.
+[2017.11.10-23.31.07:867][982]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.10-23.31.07:871][982]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.10-15.31.07
+[2017.11.10-23.31.07:872][982]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.10-23.31.07:872][982]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.31.07:873][982]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.10-23.31.07:873][982]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.31.07:873][982]LogWorld: Bringing up level for play took: 0.005446
+[2017.11.10-23.31.07:874][982]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.10-23.31.07:877][982]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.621
+[2017.11.10-23.31.07:878][982]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.31.27:080][880]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.31.27:156][880]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.31.31:332][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DemoMap" FILE="../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.10-23.31.31:528][104]LogSavePackage: Save=132.90ms
+[2017.11.10-23.31.31:528][104]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/DemoMapDFFA27F74CCCE02B2E10CFB240E2860B.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap'
+[2017.11.10-23.31.31:540][104]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap
+[2017.11.10-23.31.31:594][104]LogFileHelpers: Saving map 'DemoMap' took 0.343
+[2017.11.10-23.31.31:751][104]LogSavePackage: Save=71.45ms
+[2017.11.10-23.31.31:751][104]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Bear880B9A1346F9E28B1D9C12B0E6887DF2.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Bear.uasset'
+[2017.11.10-23.31.31:761][104]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Bear.uasset
+[2017.11.10-23.31.31:883][104]LogSavePackage: Save=95.38ms
+[2017.11.10-23.31.31:883][104]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/MainController6AC5E02F4BB1FA3612ED6085DDD0F807.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/MainController.uasset'
+[2017.11.10-23.31.31:890][104]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/MainController.uasset
+[2017.11.10-23.31.31:957][104]LogSavePackage: Save=39.19ms
+[2017.11.10-23.31.31:957][104]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/TaliaController4E47C63847E3AE7990CD25B78FDD4018.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/TaliaController.uasset'
+[2017.11.10-23.31.31:961][104]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/TaliaController.uasset
+[2017.11.10-23.31.32:191][104]LogSavePackage: Save=144.66ms
+[2017.11.10-23.31.32:191][104]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/TaliaEEA1F8B3457E079B4B374BAEFEAFCF5C.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Talia/Talia.uasset'
+[2017.11.10-23.31.32:196][104]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Talia/Talia.uasset
+[2017.11.10-23.31.32:230][104]LogSavePackage: Save=27.35ms
+[2017.11.10-23.31.32:231][104]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/BaseController3D8217F7495DC7D9D8547E860106469E.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/BaseController.uasset'
+[2017.11.10-23.31.32:233][104]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/BaseController.uasset
+[2017.11.10-23.31.32:300][104]LogSavePackage: Save=36.57ms
+[2017.11.10-23.31.32:300][104]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/BearController8EBC85ED484A1C0129AFEF9F4FBED582.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/BearController.uasset'
+[2017.11.10-23.31.32:304][104]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/BearController.uasset
+[2017.11.10-23.31.32:346][104]LogSavePackage: Save=15.61ms
+[2017.11.10-23.31.32:346][104]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/ControllerFC28036346F17FBDB1B2F193C77B594E.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Controller.uasset'
+[2017.11.10-23.31.32:350][104]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Controller.uasset
+[2017.11.10-23.32.48:852][656]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.10-23.33.12:754][ 53]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.10-23.33.12:802][ 53]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.33.12:802][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.10-23.33.12:802][ 53]PIE: New page: PIE session: DemoMap (Nov 10, 2017, 7:33:12 AM)
+[2017.11.10-23.33.12:802][ 53]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.10-23.33.12:807][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005062s)
+[2017.11.10-23.33.12:808][ 53]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.10-23.33.12:808][ 53]LogPlayLevel: PIE: World Init took: (0.001119s)
+[2017.11.10-23.33.12:809][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.006615s)
+[2017.11.10-23.33.12:850][ 53]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.10-23.33.12:855][ 53]LogInit: FAudioDevice initialized.
+[2017.11.10-23.33.12:890][ 53]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.10-23.33.12:894][ 53]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.10-15.33.12
+[2017.11.10-23.33.12:895][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.10-23.33.12:895][ 53]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.33.12:896][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.10-23.33.12:896][ 53]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.33.12:896][ 53]LogWorld: Bringing up level for play took: 0.006401
+[2017.11.10-23.33.12:898][ 53]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.358
+[2017.11.10-23.33.12:899][ 53]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.33.57:961][712]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.33.58:019][712]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.34.23:196][181]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.10-23.34.23:239][181]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.34.23:239][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.10-23.34.23:239][181]PIE: New page: PIE session: DemoMap (Nov 10, 2017, 7:34:23 AM)
+[2017.11.10-23.34.23:239][181]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.10-23.34.23:245][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006054s)
+[2017.11.10-23.34.23:247][181]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.10-23.34.23:247][181]LogPlayLevel: PIE: World Init took: (0.001912s)
+[2017.11.10-23.34.23:247][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.008497s)
+[2017.11.10-23.34.23:281][181]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.10-23.34.23:285][181]LogInit: FAudioDevice initialized.
+[2017.11.10-23.34.23:317][181]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.10-23.34.23:320][181]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.10-15.34.23
+[2017.11.10-23.34.23:321][181]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.10-23.34.23:321][181]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.34.23:321][181]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.34.23:322][181]LogWorld: Bringing up level for play took: 0.003825
+[2017.11.10-23.34.23:324][181]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.068
+[2017.11.10-23.34.23:325][181]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.34.36:697][970]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.34.36:757][970]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.38.14:780][691]BlueprintLog: New page: Compile BaseController
+[2017.11.10-23.38.16:709][750]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.10-23.40.10:516][551]LogClass: Warning: Type mismatch in PawnClass of SKEL_BaseController_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2017.11.10-23.40.10:518][551]LogClass: Warning: Type mismatch in PawnClass of SKEL_BearController_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2017.11.10-23.40.10:525][551]LogClass: Warning: Type mismatch in PawnClass of SKEL_TaliaController_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2017.11.10-23.40.32:986][846]BlueprintLog: New page: Compile BaseController
+[2017.11.10-23.40.33:050][846]LogClass: Warning: Type mismatch in PawnClass of BaseController_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2017.11.10-23.40.33:050][846]LogClass: Warning: Type mismatch in PawnClass of BearController_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2017.11.10-23.40.33:051][846]LogClass: Warning: Type mismatch in PawnClass of TaliaController_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2017.11.10-23.42.30:347][750]LogSavePackage: Save=127.31ms
+[2017.11.10-23.42.30:347][750]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/DemoMap_Auto202F19D0B405C3CC6558450862037CE04.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto2.umap'
+[2017.11.10-23.42.30:349][750]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto2.umap
+[2017.11.10-23.42.30:354][750]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DemoMap' took 0.194
+[2017.11.10-23.42.30:354][750]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.194
+[2017.11.10-23.42.30:356][750]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/Player/TaliaController] ([1] browsable assets)...
+[2017.11.10-23.42.30:356][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Player/TaliaController]
+[2017.11.10-23.42.30:422][750]LogSavePackage: Save=37.96ms
+[2017.11.10-23.42.30:422][750]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/TaliaController_Auto29CFAADEA41B6EC20A5CCF5921EDEEB70.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/TaliaController_Auto2.uasset'
+[2017.11.10-23.42.30:423][750]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/TaliaController_Auto2.uasset
+[2017.11.10-23.42.30:424][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/Player/Talia/Talia] ([1] browsable assets)...
+[2017.11.10-23.42.30:482][750]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/Player/Talia/Talia.Talia]
+[2017.11.10-23.42.30:482][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Player/Talia/Talia]
+[2017.11.10-23.42.30:669][750]LogSavePackage: Save=164.02ms
+[2017.11.10-23.42.30:669][750]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Talia_Auto28DB6A3AA42E803DF773C529B1AE31501.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/Talia/Talia_Auto2.uasset'
+[2017.11.10-23.42.30:671][750]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/Talia/Talia_Auto2.uasset
+[2017.11.10-23.42.30:672][750]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/Player/BaseController] ([1] browsable assets)...
+[2017.11.10-23.42.30:672][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Player/BaseController]
+[2017.11.10-23.42.30:720][750]LogSavePackage: Save=25.62ms
+[2017.11.10-23.42.30:720][750]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/BaseController_Auto2F3CB9B6A4174C932C543A4B974AD51FD.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BaseController_Auto2.uasset'
+[2017.11.10-23.42.30:722][750]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BaseController_Auto2.uasset
+[2017.11.10-23.42.30:723][750]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/Player/BearController] ([1] browsable assets)...
+[2017.11.10-23.42.30:723][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Player/BearController]
+[2017.11.10-23.42.30:786][750]LogSavePackage: Save=37.85ms
+[2017.11.10-23.42.30:787][750]LogSavePackage: Moving '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/BearController_Auto2DBF58F0B476ABABC909B01B13DC675AF.tmp' to '../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BearController_Auto2.uasset'
+[2017.11.10-23.42.30:789][750]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan Taus/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BearController_Auto2.uasset
+[2017.11.10-23.42.30:789][750]LogFileHelpers: Auto-saving content packages took 0.434
+[2017.11.10-23.48.14:241][622]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.10-23.48.14:287][622]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.48.14:287][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.10-23.48.14:287][622]PIE: New page: PIE session: DemoMap (Nov 10, 2017, 7:48:14 AM)
+[2017.11.10-23.48.14:287][622]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.10-23.48.14:293][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006221s)
+[2017.11.10-23.48.14:294][622]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.10-23.48.14:295][622]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2017.11.10-23.48.14:295][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.007862s)
+[2017.11.10-23.48.14:336][622]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.10-23.48.14:340][622]LogInit: FAudioDevice initialized.
+[2017.11.10-23.48.14:374][622]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.10-23.48.14:378][622]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.10-15.48.14
+[2017.11.10-23.48.14:379][622]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.48.14:380][622]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.48.14:380][622]LogWorld: Bringing up level for play took: 0.005513
+[2017.11.10-23.48.14:381][622]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.875
+[2017.11.10-23.48.14:382][622]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.48.21:890][ 65]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.48.21:953][ 65]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.48.30:279][519]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.10-23.48.30:317][519]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.48.30:317][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.10-23.48.30:317][519]PIE: New page: PIE session: DemoMap (Nov 10, 2017, 7:48:30 AM)
+[2017.11.10-23.48.30:317][519]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.10-23.48.30:322][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004878s)
+[2017.11.10-23.48.30:323][519]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.10-23.48.30:323][519]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2017.11.10-23.48.30:324][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.006250s)
+[2017.11.10-23.48.30:356][519]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.10-23.48.30:360][519]LogInit: FAudioDevice initialized.
+[2017.11.10-23.48.30:392][519]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.10-23.48.30:397][519]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.10-15.48.30
+[2017.11.10-23.48.30:398][519]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.48.30:398][519]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.48.30:399][519]LogWorld: Bringing up level for play took: 0.006348
+[2017.11.10-23.48.30:400][519]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.855
+[2017.11.10-23.48.30:401][519]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.48.39:193][ 38]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.48.39:248][ 38]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.49.06:581][647]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_22:PersistentLevel.Bear_C_14.CollisionCylinder) Not currently registered. Aborting.
+[2017.11.10-23.49.06:581][647]LogActorComponent: ReregisterComponent: (/Game/Levels/DemoMap.DemoMap:PersistentLevel.Bear_438.CollisionCylinder) Not currently registered. Aborting.
+[2017.11.10-23.49.06:581][647]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_2:PersistentLevel.Bear_C_10.CollisionCylinder) Not currently registered. Aborting.
+[2017.11.10-23.49.08:305][740]BlueprintLog: New page: Compile Bear
+[2017.11.10-23.49.09:545][749]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.10-23.49.09:590][749]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.49.09:590][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.10-23.49.09:591][749]PIE: New page: PIE session: DemoMap (Nov 10, 2017, 7:49:09 AM)
+[2017.11.10-23.49.09:591][749]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.10-23.49.09:597][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006764s)
+[2017.11.10-23.49.09:598][749]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.10-23.49.09:599][749]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2017.11.10-23.49.09:599][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.008203s)
+[2017.11.10-23.49.09:630][749]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.10-23.49.09:633][749]LogInit: FAudioDevice initialized.
+[2017.11.10-23.49.09:672][749]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.10-23.49.09:676][749]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.10-15.49.09
+[2017.11.10-23.49.09:677][749]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.49.09:677][749]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.10-23.49.09:677][749]LogWorld: Bringing up level for play took: 0.005288
+[2017.11.10-23.49.09:678][749]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.10-23.49.09:680][749]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.424
+[2017.11.10-23.49.09:681][749]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.49.42:280][252]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.10-23.49.42:369][252]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
