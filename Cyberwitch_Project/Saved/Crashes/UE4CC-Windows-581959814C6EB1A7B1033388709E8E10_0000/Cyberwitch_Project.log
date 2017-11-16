@@ -1,0 +1,620 @@
+﻿Log file open, 11/13/17 02:47:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Cyberwitch_Project
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1851220041) SRandInit(-1851220041).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.139857
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.13-10.48.01:333][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.13-10.48.01:333][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.13-10.48.01:508][  0]LogInit: Computer: DESKTOP-5N34J6U
+[2017.11.13-10.48.01:508][  0]LogInit: User: Kevin
+[2017.11.13-10.48.01:508][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.11.13-10.48.01:508][  0]LogInit: High frequency timer resolution =2.343754 MHz
+[2017.11.13-10.48.01:508][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.11.13-10.48.01:508][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.13-10.48.01:508][  0]LogMemory: Process Physical Memory: 278.68 MB used, 278.68 MB peak
+[2017.11.13-10.48.01:508][  0]LogMemory: Process Virtual Memory: 275.54 MB used, 275.54 MB peak
+[2017.11.13-10.48.01:508][  0]LogMemory: Physical Memory: 6201.66 MB used,  1858.72 MB free, 8060.38 MB total
+[2017.11.13-10.48.01:508][  0]LogMemory: Virtual Memory: 666.99 MB used,  1858.72 MB free, 134217728.00 MB total
+[2017.11.13-10.48.02:528][  0]LogInit: Using OS detected language (en-US).
+[2017.11.13-10.48.02:528][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.13-10.48.02:686][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.13-10.48.12:982][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.13-10.48.13:121][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940M' (Feature Level 11_0)
+[2017.11.13-10.48.13:121][  0]LogD3D11RHI:       2019/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.13-10.48.13:130][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2017.11.13-10.48.13:130][  0]LogD3D11RHI:       128/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.11.13-10.48.13:132][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.13-10.48.13:132][  0]LogD3D11RHI:       0/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.13-10.48.13:132][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.13-10.48.13:140][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.13-10.48.13:140][  0]LogD3D11RHI:     GPU DeviceId: 0x1347 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.13-10.48.13:140][  0]LogWindows: EnumDisplayDevices:
+[2017.11.13-10.48.13:140][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2017.11.13-10.48.13:140][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.11.13-10.48.13:140][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.11.13-10.48.13:141][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.11.13-10.48.13:141][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940M
+[2017.11.13-10.48.13:141][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.11.13-10.48.13:141][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.11.13-10.48.13:141][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.13-10.48.13:162][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.13-10.48.13:177][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.13-10.48.13:181][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Intermediate/Shaders/WorkingDirectory/12608/).
+[2017.11.13-10.48.13:182][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kevin/AppData/Local/Temp/UnrealShaderWorkingDir/AAED5BCB4B62EECB5A9566B5156F15C8/'.
+[2017.11.13-10.48.13:182][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.13-10.48.17:821][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.13-10.48.17:923][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.13-10.48.18:017][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.13-10.48.18:100][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.13-10.48.18:211][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.13-10.48.18:293][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.13-10.48.18:358][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.13-10.48.18:425][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.13-10.48.18:493][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.13-10.48.18:578][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.13-10.48.18:649][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.13-10.48.18:734][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.13-10.48.18:807][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.13-10.48.18:879][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.13-10.48.18:969][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.13-10.48.19:109][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.13-10.48.19:109][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.13-10.48.19:166][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.13-10.48.19:330][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.13-10.48.19:365][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.13-10.48.19:441][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.13-10.48.19:507][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.13-10.48.19:574][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.13-10.48.19:651][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.13-10.48.19:651][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.13-10.48.20:578][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.13-10.48.21:006][  0]LogDerivedDataCache: Loaded boot cache 0.43s 93MB C:/Users/Kevin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.13-10.48.21:006][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kevin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.13-10.48.21:006][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.13-10.48.21:006][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.13-10.48.21:006][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.13-10.48.21:006][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.13-10.48.21:052][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.13-10.48.21:065][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.13-10.48.21:078][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.13-10.48.21:078][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.13-10.48.21:136][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.13-10.48.21:136][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.13-10.48.22:798][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2017.11.13-10.48.22:976][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.13-10.48.23:506][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.13-10.48.24:138][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.13-10.48.24:201][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.13-10.48.24:201][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.13-10.48.24:201][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.13-10.48.24:201][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.13-10.48.24:201][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.13-10.48.25:091][  0]LogNetVersion: Cyberwitch_Project , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 51455869)
+[2017.11.13-10.48.26:126][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.556784 seconds
+[2017.11.13-10.48.26:133][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.13-10.48.26:134][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.11.13-10.48.26:134][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.13-10.48.26:223][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.13-10.49.07:534][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.13-10.49.07:597][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.13-10.49.09:088][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.13-10.49.09:795][  0]SourceControl: Source control is disabled
+[2017.11.13-10.49.09:795][  0]SourceControl: Source control is disabled
+[2017.11.13-10.49.09:873][  0]SourceControl: Source control is disabled
+[2017.11.13-10.49.09:957][  0]SourceControl: Source control is disabled
+[2017.11.13-10.49.11:195][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.13-10.49.11:593][  0]LogOcInput: OculusInput pre-init called
+[2017.11.13-10.49.12:038][  0]LogEngine: Initializing Engine...
+[2017.11.13-10.49.12:043][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.13-10.49.12:343][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.13-10.49.12:343][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.13-10.49.12:559][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.13-10.49.12:573][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.13-10.49.12:596][  0]LogInit: FAudioDevice initialized.
+[2017.11.13-10.49.12:791][  0]LogDerivedDataCache: Saved boot cache 0.19s 93MB C:/Users/Kevin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.13-10.49.12:810][  0]LogInit: Texture streaming: Enabled
+[2017.11.13-10.49.12:962][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.13-10.49.13:478][  0]LogInit: Transaction tracking system initialized
+[2017.11.13-10.49.13:973][  0]BlueprintLog: New page: Editor Load
+[2017.11.13-10.49.15:351][  0]LocalizationService: Localization service is disabled
+[2017.11.13-10.49.16:442][  0]LogConsoleResponse: Display: 
+[2017.11.13-10.49.16:799][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/' took 0.03s
+[2017.11.13-10.49.16:799][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.13-10.49.16:799][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.13-10.49.16:799][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.13-10.49.19:009][  0]SourceControl: Source control is disabled
+[2017.11.13-10.49.19:009][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.13-10.49.19:010][  0]LightingResults: New page: Lighting Build
+[2017.11.13-10.49.19:074][  0]MapCheck: New page: Map Check
+[2017.11.13-10.49.19:074][  0]LightingResults: New page: Lighting Build
+[2017.11.13-10.49.21:221][  0]LogTexture: Display: Building textures: TEX_Taliah_S (AutoDXT, 4096X4096)
+[2017.11.13-10.49.22:345][  0]LogTexture: Display: Building textures: TEX_Taliah_N (BC5, 4096X4096)
+[2017.11.13-10.49.31:574][  0]LogTexture: Display: Building textures: TEX_Taliah_D (AutoDXT, 4096X4096)
+[2017.11.13-10.49.31:574][  0]LogMaterial: Missing cached shader map for material mat_main, compiling. 
+[2017.11.13-10.49.32:359][  0]LogMaterial: Missing cached shader map for material arm_main, compiling. 
+[2017.11.13-10.49.32:650][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/BEAR/Animations/ANIM_Bear_idle.ANIM_Bear_idle
+[2017.11.13-10.49.32:924][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/BEAR/Animations/ANIM_Bear_run.ANIM_Bear_run
+[2017.11.13-10.49.33:006][  0]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.13-10.49.34:571][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.13-10.49.34:752][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.13-10.49.34:924][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 172.548ms to complete.
+[2017.11.13-10.49.34:925][  0]LogFileHelpers: Loading map 'DemoMap' took 15.916
+[2017.11.13-10.49.37:302][  0]LogCollectionManager: Loaded 0 collections in 0.015985 seconds
+[2017.11.13-10.49.37:653][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Collections/' took 0.01s
+[2017.11.13-10.49.37:654][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Developers/Kevin/Collections/' took 0.01s
+[2017.11.13-10.49.37:654][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Collections/' took 0.01s
+[2017.11.13-10.49.37:654][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.11.13-10.49.37:673][  0]LogContentBrowser: Native class hierarchy populated in 0.0179 seconds. Added 2386 classes and 500 folders.
+[2017.11.13-10.49.37:917][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2017.11.13-10.49.40:296][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2017.11.13-10.49.40:492][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2017.11.13-10.49.41:205][  0]LogSlate: Took 0.060711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.13-10.49.41:238][  0]LogSlate: Took 0.018746 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.13-10.49.41:353][  0]LogSlate: Took 0.022423 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.13-10.49.42:472][  0]LogRenderer: Reallocating scene render targets to support 916x460 Format 10 NumSamples 1 (Frame:1).
+[2017.11.13-10.49.46:139][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2017.11.13-10.49.46:139][  0]LogLoad: (Engine Initialization) Total time: 114.45 seconds
+[2017.11.13-10.49.46:139][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.13-10.49.46:140][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.13-10.49.46:140][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.13-10.49.46:600][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.13-10.49.46:843][  0]LogSlate: Took 0.026737 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.13-10.49.47:544][  3]LogAssetRegistry: Asset discovery search completed in 84.7677 seconds
+[2017.11.13-10.49.47:547][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.13-10.49.47:548][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000094 seconds (updated 0 objects)
+[2017.11.13-10.49.47:682][  3]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.13-10.50.35:839][298]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.13-10.50.36:467][298]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.13-10.50.36:477][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.13-10.50.36:597][298]PIE: New page: PIE session: DemoMap (Nov 12, 2017, 6:50:36 PM)
+[2017.11.13-10.50.36:619][298]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.13-10.50.36:723][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.104143s)
+[2017.11.13-10.50.36:725][298]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.13-10.50.36:726][298]LogPlayLevel: PIE: World Init took: (0.002407s)
+[2017.11.13-10.50.36:736][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.122839s)
+[2017.11.13-10.50.36:807][298]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.13-10.50.36:851][298]LogInit: FAudioDevice initialized.
+[2017.11.13-10.50.37:063][298]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.13-10.50.37:231][298]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.13-02.50.37
+[2017.11.13-10.50.37:413][298]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.13-10.50.37:424][298]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.13-10.50.37:462][298]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.13-10.50.37:463][298]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.13-10.50.37:465][298]LogWorld: Bringing up level for play took: 0.267932
+[2017.11.13-10.50.37:811][298]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 11 classes and 0 folders.
+[2017.11.13-10.50.37:964][298]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.859
+[2017.11.13-10.50.37:966][298]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.13-10.51.04:072][727]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.13-10.51.04:182][727]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.13-10.51.22:367][307]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.CyberwitchProject
+[2017.11.13-10.51.22:367][307]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.11.13-10.51.22:367][307]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2017.11.13-10.51.22:367][307]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.11.13-10.51.22:387][307]LogTemp: BranchPath = DESKTOP-5N34J6U/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = DESKTOP-5N34J6U/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2017.11.13-10.51.22:699][316]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Kevin\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.11.13-10.51.40:085][345]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.13-10.51.40:125][345]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.13-10.51.40:125][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.13-10.51.40:126][345]PIE: New page: PIE session: DemoMap (Nov 12, 2017, 6:51:40 PM)
+[2017.11.13-10.51.40:126][345]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.13-10.51.40:135][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009283s)
+[2017.11.13-10.51.40:136][345]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.13-10.51.40:136][345]LogPlayLevel: PIE: World Init took: (0.001313s)
+[2017.11.13-10.51.40:137][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.010990s)
+[2017.11.13-10.51.40:159][345]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.13-10.51.40:178][345]LogInit: FAudioDevice initialized.
+[2017.11.13-10.51.40:224][345]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.13-10.51.40:228][345]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.13-02.51.40
+[2017.11.13-10.51.40:228][345]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.13-10.51.40:229][345]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.13-10.51.40:229][345]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.13-10.51.40:229][345]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.13-10.51.40:229][345]LogWorld: Bringing up level for play took: 0.005353
+[2017.11.13-10.51.40:231][345]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.873
+[2017.11.13-10.51.40:232][345]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.13-10.51.43:920][564]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/Blueprints/Character/Player/Talia/Talia.Talia_C:GetHookshotTarget'!
+[2017.11.13-10.51.44:112][576]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/Blueprints/Character/Player/Talia/Talia.Talia_C:GetHookshotTarget'!
+[2017.11.13-10.52.13:376][281]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.13-10.52.13:422][281]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.13-10.52.15:358][379]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.13-10.52.15:392][379]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.13-10.52.15:392][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.13-10.52.15:392][379]PIE: New page: PIE session: DemoMap (Nov 12, 2017, 6:52:15 PM)
+[2017.11.13-10.52.15:392][379]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.13-10.52.15:401][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007984s)
+[2017.11.13-10.52.15:402][379]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.13-10.52.15:402][379]LogPlayLevel: PIE: World Init took: (0.001327s)
+[2017.11.13-10.52.15:402][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.009706s)
+[2017.11.13-10.52.15:427][379]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.13-10.52.15:443][379]LogInit: FAudioDevice initialized.
+[2017.11.13-10.52.15:477][379]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.13-10.52.15:480][379]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.13-02.52.15
+[2017.11.13-10.52.15:481][379]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.13-10.52.15:481][379]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.13-10.52.15:482][379]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.13-10.52.15:482][379]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.13-10.52.15:482][379]LogWorld: Bringing up level for play took: 0.005134
+[2017.11.13-10.52.15:484][379]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 0.379
+[2017.11.13-10.52.15:484][379]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.13-10.52.27:384][ 55]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.13-10.52.27:420][ 55]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.13-10.52.30:097][210]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.13-10.52.30:133][210]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.13-10.52.30:133][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.13-10.52.30:133][210]PIE: New page: PIE session: DemoMap (Nov 12, 2017, 6:52:30 PM)
+[2017.11.13-10.52.30:133][210]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.13-10.52.30:141][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007621s)
+[2017.11.13-10.52.30:142][210]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.13-10.52.30:142][210]LogPlayLevel: PIE: World Init took: (0.001352s)
+[2017.11.13-10.52.30:142][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.009376s)
+[2017.11.13-10.52.30:166][210]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.13-10.52.30:181][210]LogInit: FAudioDevice initialized.
+[2017.11.13-10.52.30:213][210]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.13-10.52.30:218][210]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 60) at 2017.11.13-02.52.30
+[2017.11.13-10.52.30:219][210]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.13-10.52.30:219][210]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.13-10.52.30:219][210]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.13-10.52.30:220][210]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.13-10.52.30:220][210]LogWorld: Bringing up level for play took: 0.005789
+[2017.11.13-10.52.30:222][210]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap -0.883
+[2017.11.13-10.52.30:222][210]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.13-10.53.01:695][954]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.13-10.53.01:738][954]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.13-10.53.38:774][793]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.13-10.54.18:342][252]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0030 seconds. Added 113 classes and 0 folders.
+[2017.11.13-10.54.19:810][252]LogSlate: Took 0.022156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.13-10.54.25:451][497]BlueprintLog: New page: Compile Damageable
+[2017.11.13-10.55.30:542][ 32]BlueprintLog: New page: Compile Damageable
+[2017.11.13-10.56.11:866][101]LogMetaData: Removing '/Game/Blueprints/Character/Damage.SKEL_Damage_C' ref from Metadata '/Game/Blueprints/Character/Damageable.PackageMetaData'
+[2017.11.13-10.56.11:866][101]LogMetaData: Removing '/Game/Blueprints/Character/Damage.Damage_C' ref from Metadata '/Game/Blueprints/Character/Damageable.PackageMetaData'
+[2017.11.13-10.56.11:866][101]LogMetaData: Removing '/Game/Blueprints/Character/Damage.Damage:TakeDamage.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Character/Damageable.PackageMetaData'
+[2017.11.13-10.56.11:866][101]LogMetaData: Removing '/Game/Blueprints/Character/Damage.Damage:RestoreHealth.K2Node_FunctionEntry_1' ref from Metadata '/Game/Blueprints/Character/Damageable.PackageMetaData'
+[2017.11.13-10.56.11:935][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Damage" FILE="../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Damage.uasset" SILENT=true
+[2017.11.13-10.56.12:007][101]LogSavePackage: Save=56.99ms
+[2017.11.13-10.56.12:007][101]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Damage30ED520B41FCB51A651DDD84A7227CB6.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Damage.uasset'
+[2017.11.13-10.56.12:018][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Damage.uasset
+[2017.11.13-10.56.19:536][504]LogMetaData: Removing '/Game/Blueprints/Character/Damageable.Damageable:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Character/NewBlueprint.PackageMetaData'
+[2017.11.13-10.56.19:536][504]LogMetaData: Removing '/Game/Blueprints/Character/Damageable.SKEL_Damageable_C' ref from Metadata '/Game/Blueprints/Character/NewBlueprint.PackageMetaData'
+[2017.11.13-10.56.19:536][504]LogMetaData: Removing '/Game/Blueprints/Character/Damageable.Damageable_C' ref from Metadata '/Game/Blueprints/Character/NewBlueprint.PackageMetaData'
+[2017.11.13-10.56.19:537][504]LogMetaData: Removing '/Game/Blueprints/Character/Damageable.Damageable:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Character/NewBlueprint.PackageMetaData'
+[2017.11.13-10.56.19:537][504]LogMetaData: Removing '/Game/Blueprints/Character/Damageable.Damageable:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Character/NewBlueprint.PackageMetaData'
+[2017.11.13-10.56.19:537][504]LogMetaData: Removing '/Game/Blueprints/Character/Damageable.Damageable:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Character/NewBlueprint.PackageMetaData'
+[2017.11.13-10.56.19:554][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Damageable" FILE="../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Damageable.uasset" SILENT=true
+[2017.11.13-10.56.19:666][504]LogSavePackage: Save=109.36ms
+[2017.11.13-10.56.19:667][504]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/DamageableEF17EB8D4DF4124EE08BCB908CC0C881.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Damageable.uasset'
+[2017.11.13-10.56.19:681][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Damageable.uasset
+[2017.11.13-10.56.26:172][765]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.13-10.56.26:873][766]LogSlate: Took 0.016270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.13-10.56.41:076][614]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.13-10.56.58:383][621]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.13-10.57.15:883][567]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.13-10.57.54:444][365]LogSlate: Took 0.017379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.11.13-10.58.59:011][ 70]BlueprintLog: New page: Compile Damage
+[2017.11.13-10.59.03:128][552]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.13-10.59.03:288][552]LogBlueprint: Error: [Compiler BaseCharacter] Cannot order parameters DamageDealt in function TakeDamage.
+[2017.11.13-10.59.04:416][552]LogBlueprint: Warning: [Compiler BaseCharacter] [0672.72] Compile of BaseCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 1,287 ms] (/Game/Blueprints/Character/Player/BaseCharacter.BaseCharacter)
+[2017.11.13-10.59.42:787][ 83]BlueprintLog: New page: Compile Damage
+[2017.11.13-10.59.44:691][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Damage" FILE="../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Damage.uasset" SILENT=true
+[2017.11.13-10.59.45:355][304]LogSavePackage: Save=15.85ms
+[2017.11.13-10.59.45:355][304]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Damage7FAF940B41121200974070BD8B04F3AC.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Damage.uasset'
+[2017.11.13-10.59.45:362][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Damage.uasset
+[2017.11.13-10.59.48:525][668]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.13-11.00.09:932][991]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.13-11.01.10:988][486]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.13-11.02.29:589][759]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.13-11.03.56:658][726]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.13-11.04.15:275][762]LogEditorTransaction: Undo Add New Function
+[2017.11.13-11.04.25:342][946]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.13-11.04.54:545][248]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.13-11.05.24:060][596]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.13-11.05.33:509][538]LogRenderer: Reallocating scene render targets to support 916x572 Format 10 NumSamples 1 (Frame:1).
+[2017.11.13-11.06.30:910][323]LogSavePackage: Save=163.05ms
+[2017.11.13-11.06.30:910][323]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/DemoMap_Auto13FC608034EB9ACFB32B3659BEB8CA6A9.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto1.umap'
+[2017.11.13-11.06.30:930][323]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto1.umap
+[2017.11.13-11.06.30:934][323]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DemoMap' took 0.289
+[2017.11.13-11.06.30:934][323]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.289
+[2017.11.13-11.06.30:956][323]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/Player/BEAR/Bear] ([1] browsable assets)...
+[2017.11.13-11.06.31:110][323]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/Player/BEAR/Bear.Bear]
+[2017.11.13-11.06.31:110][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Player/BEAR/Bear]
+[2017.11.13-11.06.31:290][323]LogSavePackage: Save=126.29ms
+[2017.11.13-11.06.31:291][323]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Bear_Auto12FB1037F4706A4553770B390B0057AEC.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BEAR/Bear_Auto1.uasset'
+[2017.11.13-11.06.31:315][323]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BEAR/Bear_Auto1.uasset
+[2017.11.13-11.06.31:317][323]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/Player/BaseCharacter] ([1] browsable assets)...
+[2017.11.13-11.06.31:390][323]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/Player/BaseCharacter.BaseCharacter]
+[2017.11.13-11.06.31:390][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Player/BaseCharacter]
+[2017.11.13-11.06.31:527][323]LogSavePackage: Save=95.36ms
+[2017.11.13-11.06.31:527][323]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/BaseCharacter_Auto19F04289142326EE77F2AD78AE1ACE0E6.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BaseCharacter_Auto1.uasset'
+[2017.11.13-11.06.31:531][323]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BaseCharacter_Auto1.uasset
+[2017.11.13-11.06.31:533][323]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/Player/Talia/Talia] ([1] browsable assets)...
+[2017.11.13-11.06.31:652][323]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/Player/Talia/Talia.Talia]
+[2017.11.13-11.06.31:652][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Player/Talia/Talia]
+[2017.11.13-11.06.31:899][323]LogSavePackage: Save=193.71ms
+[2017.11.13-11.06.31:899][323]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Talia_Auto16DFD16FB4E079855B04D5E86AE4AA70B.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/Talia/Talia_Auto1.uasset'
+[2017.11.13-11.06.31:912][323]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/Talia/Talia_Auto1.uasset
+[2017.11.13-11.06.31:912][323]LogFileHelpers: Auto-saving content packages took 0.966
+[2017.11.13-11.07.29:108][447]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.13-11.08.03:840][332]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.13-11.09.11:571][ 18]BlueprintLog: New page: Compile Damage
+[2017.11.13-11.09.15:024][423]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.13-11.10.08:136][585]BlueprintLog: New page: Compile Damage
+[2017.11.13-11.10.17:138][656]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.13-11.10.51:810][562]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.13-11.11.20:598][706]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.13-11.11.24:909][974]LogSavePackage: Save=161.24ms
+[2017.11.13-11.11.24:909][974]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/BaseCharacter9A9A4CC64F3F43372ACC9C8D37B59D52.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/BaseCharacter.uasset'
+[2017.11.13-11.11.24:929][974]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/BaseCharacter.uasset
+[2017.11.13-11.11.26:557][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Damage" FILE="../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Damage.uasset" SILENT=true
+[2017.11.13-11.11.26:655][153]LogSavePackage: Save=59.67ms
+[2017.11.13-11.11.26:655][153]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Damage8C4D36D747B6A83B75E3B19FC671686D.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Damage.uasset'
+[2017.11.13-11.11.26:663][153]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Damage.uasset
+[2017.11.13-11.12.17:751][447]BlueprintLog: New page: Compile Talia
+[2017.11.13-11.13.26:058][499]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.13-11.13.31:057][872]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.13-11.13.39:016][602]BlueprintLog: New page: Compile Talia
+[2017.11.13-11.15.45:780][660]LogBlueprint: Warning: Blueprint Talia (child of/implements BaseCharacter) has a member variable with a conflicting name (NewVar_0). Changing to NewVar_0_0.
+[2017.11.13-11.15.56:987][989]LogEditorTransaction: Undo Move Node
+[2017.11.13-11.15.57:940][ 94]LogEditorTransaction: Undo Promote To Variable
+[2017.11.13-11.16.34:122][381]LogSavePackage: Save=132.01ms
+[2017.11.13-11.16.34:123][381]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/DemoMap_Auto2BA1331604F850981E23D36B298DA1645.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto2.umap'
+[2017.11.13-11.16.34:165][381]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto2.umap
+[2017.11.13-11.16.34:170][381]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DemoMap' took 0.257
+[2017.11.13-11.16.34:170][381]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.257
+[2017.11.13-11.16.34:174][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/Player/BEAR/Bear] ([1] browsable assets)...
+[2017.11.13-11.16.34:259][381]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/Player/BEAR/Bear.Bear]
+[2017.11.13-11.16.34:259][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Player/BEAR/Bear]
+[2017.11.13-11.16.34:392][381]LogSavePackage: Save=81.26ms
+[2017.11.13-11.16.34:392][381]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Bear_Auto2E858EFB247ACF8FEA04B069C33804324.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BEAR/Bear_Auto2.uasset'
+[2017.11.13-11.16.34:395][381]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BEAR/Bear_Auto2.uasset
+[2017.11.13-11.16.34:397][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/Player/BaseCharacter] ([1] browsable assets)...
+[2017.11.13-11.16.34:481][381]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/Player/BaseCharacter.BaseCharacter]
+[2017.11.13-11.16.34:481][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Player/BaseCharacter]
+[2017.11.13-11.16.34:655][381]LogSavePackage: Save=105.23ms
+[2017.11.13-11.16.34:656][381]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/BaseCharacter_Auto272D6AE0449FEEFDDE6F4EF9B56C7545D.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BaseCharacter_Auto2.uasset'
+[2017.11.13-11.16.34:659][381]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BaseCharacter_Auto2.uasset
+[2017.11.13-11.16.34:660][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/Player/Talia/Talia] ([1] browsable assets)...
+[2017.11.13-11.16.34:740][381]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/Player/Talia/Talia.Talia]
+[2017.11.13-11.16.34:741][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Player/Talia/Talia]
+[2017.11.13-11.16.34:945][381]LogSavePackage: Save=152.21ms
+[2017.11.13-11.16.34:945][381]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Talia_Auto28E61BAC149DCB9E21362798C03F669E1.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/Talia/Talia_Auto2.uasset'
+[2017.11.13-11.16.34:949][381]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/Talia/Talia_Auto2.uasset
+[2017.11.13-11.16.34:949][381]LogFileHelpers: Auto-saving content packages took 0.776
+[2017.11.13-11.17.48:057][100]LogEditorTransaction: Undo Rename Variable
+[2017.11.13-11.17.49:237][241]LogEditorTransaction: Undo Change Parameter Type
+[2017.11.13-11.18.53:896][954]Cmd: TRANSACTION UNDO
+[2017.11.13-11.18.53:896][954]LogEditorTransaction: Undo Change Parameter Type
+[2017.11.13-11.18.54:288][970]Cmd: TRANSACTION UNDO
+[2017.11.13-11.18.54:288][970]LogEditorTransaction: Undo Add Out Parameter
+[2017.11.13-11.19.02:925][965]LogEditorTransaction: Undo Add In Parameter
+[2017.11.13-11.19.37:477][ 66]BlueprintLog: New page: Compile Damage
+[2017.11.13-11.19.42:025][600]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.13-11.19.42:185][600]LogBlueprint: Error: [Compiler BaseCharacter] Cannot order parameters CurrentHealth in function TakeDamage.
+[2017.11.13-11.19.42:224][600]LogClass: Warning: Type mismatch in NewVar_0 of Talia_C - Previous (FloatProperty) Current(BoolProperty) for package:  FObjectReader
+[2017.11.13-11.19.43:639][600]LogBlueprint: Warning: [Compiler BaseCharacter] [1911.95] Compile of BaseCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 1,614 ms] (/Game/Blueprints/Character/Player/BaseCharacter.BaseCharacter)
+[2017.11.13-11.20.58:787][818]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.13-11.21.14:964][671]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.13-11.22.07:553][373]BlueprintLog: New page: Compile BaseCharacter
+[2017.11.13-11.23.59:575][934]BlueprintLog: New page: Compile Talia
+[2017.11.13-11.25.11:907][183]BlueprintLog: New page: Compile Talia
+[2017.11.13-11.25.28:409][104]LogSavePackage: Save=166.92ms
+[2017.11.13-11.25.28:409][104]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/TaliaFFAA49704E86002A9141919C929B5B7E.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Talia/Talia.uasset'
+[2017.11.13-11.25.28:422][104]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Talia/Talia.uasset
+[2017.11.13-11.26.11:038][648]LogSavePackage: Save=94.50ms
+[2017.11.13-11.26.11:038][648]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/BaseCharacterC7B0FE7B45C42CB71F1A309107E60591.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/BaseCharacter.uasset'
+[2017.11.13-11.26.11:048][648]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/BaseCharacter.uasset
+[2017.11.13-11.27.25:207][ 70]BlueprintLog: New page: Compile Talia
+[2017.11.13-11.27.26:708][ 95]LogSavePackage: Save=144.04ms
+[2017.11.13-11.27.26:708][ 95]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/TaliaD490AFF74F8521A698CE81BED11228A6.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Talia/Talia.uasset'
+[2017.11.13-11.27.26:716][ 95]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Talia/Talia.uasset
+[2017.11.13-11.27.38:610][802]BlueprintLog: New page: Compile Talia
+[2017.11.13-11.27.43:742][ 46]LogSavePackage: Save=148.24ms
+[2017.11.13-11.27.43:742][ 46]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/TaliaF482C5534B24EACED834159C6248D3B1.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Talia/Talia.uasset'
+[2017.11.13-11.27.43:748][ 46]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/Talia/Talia.uasset
+[2017.11.13-11.28.19:936][882]BlueprintLog: New page: Compile Bear
+[2017.11.13-11.28.36:435][821]BlueprintLog: New page: Compile Bear
+[2017.11.13-11.28.36:504][821]LogClass: Warning: Type mismatch in CurrentHealth of Bear_C - Previous (BoolProperty) Current(FloatProperty) for package:  FObjectReader
+[2017.11.13-11.28.36:504][821]LogBlueprint: Warning: [Compiler Bear] Can't parse default value 'False' for  <None> . Property: CurrentHealth.
+[2017.11.13-11.28.36:985][821]LogBlueprint: Warning: [Compiler Bear] [2445.29] Compile of Bear successful, but with 1 Warning(s) [in 549 ms] (/Game/Blueprints/Character/Player/BEAR/Bear.Bear)
+[2017.11.13-11.29.03:514][393]LogSavePackage: Save=128.17ms
+[2017.11.13-11.29.03:515][393]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/DemoMap_Auto33D44462A4C0F36D282A79BBDD18F373A.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto3.umap'
+[2017.11.13-11.29.03:518][393]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto3.umap
+[2017.11.13-11.29.03:522][393]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DemoMap' took 0.207
+[2017.11.13-11.29.03:522][393]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.207
+[2017.11.13-11.29.03:526][393]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/Player/BEAR/Bear] ([1] browsable assets)...
+[2017.11.13-11.29.03:599][393]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/Player/BEAR/Bear.Bear]
+[2017.11.13-11.29.03:599][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Player/BEAR/Bear]
+[2017.11.13-11.29.03:726][393]LogSavePackage: Save=68.32ms
+[2017.11.13-11.29.03:727][393]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Bear_Auto3A0AE670A4DB85A842C44299A3000ABD4.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BEAR/Bear_Auto3.uasset'
+[2017.11.13-11.29.03:730][393]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Player/BEAR/Bear_Auto3.uasset
+[2017.11.13-11.29.03:732][393]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/Damage] ([1] browsable assets)...
+[2017.11.13-11.29.03:732][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Damage]
+[2017.11.13-11.29.03:801][393]LogSavePackage: Save=16.15ms
+[2017.11.13-11.29.03:801][393]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Damage_Auto37C7524394DFA338EC6A9CC8353618349.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Damage_Auto3.uasset'
+[2017.11.13-11.29.03:803][393]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Blueprints/Character/Damage_Auto3.uasset
+[2017.11.13-11.29.03:803][393]LogFileHelpers: Auto-saving content packages took 0.280
+[2017.11.13-11.30.58:592][276]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.13-11.31.23:243][744]LogSavePackage: Save=62.36ms
+[2017.11.13-11.31.23:243][744]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Bear77FDDFE14532D17AB77AFFBE42423AF3.tmp' to '../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/BEAR/Bear.uasset'
+[2017.11.13-11.31.23:262][744]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Blueprints/Character/Player/BEAR/Bear.uasset
+[2017.11.13-11.31.24:211][800]BlueprintLog: New page: Compile Bear
+[2017.11.13-11.31.25:126][816]BlueprintLog: New page: Compile Bear
+[2017.11.13-11.31.42:616][822]LogEditorTransaction: Undo Add New Function
+[2017.11.13-11.32.18:439][959]BlueprintLog: New page: Compile Bear
+[2017.11.13-11.33.04:715][690]BlueprintLog: New page: Compile Bear
+[2017.11.13-11.33.28:631][ 76]BlueprintLog: New page: Compile Bear
+[2017.11.13-11.37.10:651][862]BlueprintLog: New page: Compile DamageBlock
+[2017.11.13-11.37.10:659][862]LogBlueprint: Error: [Compiler DamageBlock] This blueprint (self) is not a Damage_C, therefore ' Target ' must have a connection.
+[2017.11.13-11.37.10:836][862]LogBlueprint: Warning: [Compiler DamageBlock] [2959.14] Compile of DamageBlock failed. 1 Fatal Issue(s) 0 Warning(s) [in 184 ms] (/Game/Blueprints/Character/DamageBlock.DamageBlock)
+[2017.11.13-11.37.28:347][908]BlueprintLog: New page: Compile DamageBlock
+[2017.11.13-11.37.28:355][908]LogBlueprint: Error: [Compiler DamageBlock] This blueprint (self) is not a Damage_C, therefore ' Target ' must have a connection.
+[2017.11.13-11.37.28:485][908]LogBlueprint: Warning: [Compiler DamageBlock] [2976.79] Compile of DamageBlock failed. 1 Fatal Issue(s) 0 Warning(s) [in 137 ms] (/Game/Blueprints/Character/DamageBlock.DamageBlock)
+[2017.11.13-11.38.10:023][380]BlueprintLog: New page: Compile DamageBlock
+[2017.11.13-11.40.09:865][482]BlueprintLog: New page: Compile DamageBlock
+[2017.11.13-11.41.33:020][430]BlueprintLog: New page: Compile Talia
+[2017.11.13-11.41.54:760][679]BlueprintLog: New page: Compile Talia
+[2017.11.13-11.42.09:960][470]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.130 s
+[2017.11.13-11.42.09:960][470]LogOutputDevice: Error: === Handled ensure: ===
+[2017.11.13-11.42.09:960][470]LogOutputDevice: Error: 
+[2017.11.13-11.42.09:960][470]LogOutputDevice: Error: Ensure condition failed: !ExistingGraph [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\BlueprintEditorUtils.cpp] [Line: 2295]
+[2017.11.13-11.42.09:960][470]LogOutputDevice: Error: Graph TakeDamage already exists: EdGraph /Game/Blueprints/Character/Player/Talia/Talia.Talia:TakeDamage
+[2017.11.13-11.42.09:961][470]LogOutputDevice: Error: Stack: 
+[2017.11.13-11.42.09:961][470]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000963C3E36
+[2017.11.13-11.42.09:961][470]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000009614C2D2
+[2017.11.13-11.42.09:961][470]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000096164746
+[2017.11.13-11.42.09:961][470]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000093C9BFD7
+[2017.11.13-11.42.09:961][470]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x00000000919EDAA0
+[2017.11.13-11.42.09:961][470]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x00000000919EDBEE
+[2017.11.13-11.42.09:961][470]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x00000000919C09C7
+[2017.11.13-11.42.09:961][470]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x00000000919C4C66
+[2017.11.13-11.42.09:961][470]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000094EA9008
+[2017.11.13-11.42.09:962][470]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000094EAF368
+[2017.11.13-11.42.09:962][470]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000094E06522
+[2017.11.13-11.42.09:962][470]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000094E079B9
+[2017.11.13-11.42.09:962][470]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000094E86265
+[2017.11.13-11.42.09:962][470]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000094F3B967
+[2017.11.13-11.42.09:962][470]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000094F674D4
+[2017.11.13-11.42.09:962][470]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000094EB153D
+[2017.11.13-11.42.09:962][470]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000094D842BC
+[2017.11.13-11.42.09:962][470]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000094D57145
+[2017.11.13-11.42.09:962][470]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000094DF1452
+[2017.11.13-11.42.09:962][470]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000094DD9C92
+[2017.11.13-11.42.09:962][470]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000094DCB68F
+[2017.11.13-11.42.09:962][470]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000009639B759
+[2017.11.13-11.42.09:962][470]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000096383EE1
+[2017.11.13-11.42.09:963][470]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000009639D5BB
+[2017.11.13-11.42.09:963][470]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000009637F042
+[2017.11.13-11.42.09:963][470]LogOutputDevice: Error: USER32.dll!0x00000000DAD6BC50
+[2017.11.13-11.42.09:963][470]LogOutputDevice: Error: USER32.dll!0x00000000DAD6B5CF
+[2017.11.13-11.42.09:963][470]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000009639DCC6
+[2017.11.13-11.42.09:963][470]LogOutputDevice: Error: UE4Editor.exe!0x000000007AF24BE2
+[2017.11.13-11.42.09:963][470]LogOutputDevice: Error: UE4Editor.exe!0x000000007AF33970
+[2017.11.13-11.42.09:963][470]LogOutputDevice: Error: UE4Editor.exe!0x000000007AF339EA
+[2017.11.13-11.42.09:963][470]LogOutputDevice: Error: UE4Editor.exe!0x000000007AF402D9
+[2017.11.13-11.42.09:963][470]LogOutputDevice: Error: UE4Editor.exe!0x000000007AF41C47
+[2017.11.13-11.42.09:963][470]LogOutputDevice: Error: KERNEL32.DLL!0x00000000DCD92774
+[2017.11.13-11.42.09:963][470]LogOutputDevice: Error: ntdll.dll!0x00000000DD870D51
+[2017.11.13-11.42.09:963][470]LogOutputDevice: Error: 
+[2017.11.13-11.42.09:967][470]LogStats:                SubmitErrorReport -  0.000 s

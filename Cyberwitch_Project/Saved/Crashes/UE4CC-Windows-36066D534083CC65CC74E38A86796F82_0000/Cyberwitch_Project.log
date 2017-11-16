@@ -1,0 +1,510 @@
+﻿Log file open, 11/15/17 14:36:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Cyberwitch_Project
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1316854855) SRandInit(1316854855).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.160333
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.15-22.36.59:754][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.15-22.36.59:754][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.15-22.36.59:842][  0]LogInit: Computer: DESKTOP-5N34J6U
+[2017.11.15-22.36.59:842][  0]LogInit: User: Kevin
+[2017.11.15-22.36.59:842][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.11.15-22.36.59:842][  0]LogInit: High frequency timer resolution =2.343753 MHz
+[2017.11.15-22.36.59:842][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.11.15-22.36.59:842][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.15-22.36.59:842][  0]LogMemory: Process Physical Memory: 278.00 MB used, 278.00 MB peak
+[2017.11.15-22.36.59:842][  0]LogMemory: Process Virtual Memory: 275.79 MB used, 275.79 MB peak
+[2017.11.15-22.36.59:842][  0]LogMemory: Physical Memory: 5202.00 MB used,  2858.38 MB free, 8060.38 MB total
+[2017.11.15-22.36.59:843][  0]LogMemory: Virtual Memory: 666.99 MB used,  2858.38 MB free, 134217728.00 MB total
+[2017.11.15-22.37.00:120][  0]LogInit: Using OS detected language (en-US).
+[2017.11.15-22.37.00:120][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.15-22.37.00:306][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.15-22.37.01:729][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.15-22.37.01:781][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940M' (Feature Level 11_0)
+[2017.11.15-22.37.01:781][  0]LogD3D11RHI:       2019/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.15-22.37.01:790][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2017.11.15-22.37.01:790][  0]LogD3D11RHI:       128/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.11.15-22.37.01:792][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.15-22.37.01:792][  0]LogD3D11RHI:       0/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.15-22.37.01:792][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.15-22.37.01:802][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.15-22.37.01:802][  0]LogD3D11RHI:     GPU DeviceId: 0x1347 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.15-22.37.01:802][  0]LogWindows: EnumDisplayDevices:
+[2017.11.15-22.37.01:802][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2017.11.15-22.37.01:803][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.11.15-22.37.01:803][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.11.15-22.37.01:804][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.11.15-22.37.01:804][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940M
+[2017.11.15-22.37.01:804][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.11.15-22.37.01:804][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.11.15-22.37.01:804][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.15-22.37.01:828][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.15-22.37.01:852][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.11.15-22.37.01:853][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Intermediate/Shaders/WorkingDirectory/19612/).
+[2017.11.15-22.37.01:854][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kevin/AppData/Local/Temp/UnrealShaderWorkingDir/FEAD3F1A4F08FE34DB014292EEB04A6F/'.
+[2017.11.15-22.37.01:854][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.15-22.37.07:537][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.15-22.37.07:634][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.15-22.37.07:724][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.15-22.37.07:805][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.15-22.37.08:064][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.15-22.37.08:232][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.15-22.37.08:486][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.15-22.37.08:598][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.15-22.37.08:697][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.15-22.37.08:823][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.15-22.37.08:958][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.15-22.37.09:133][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.15-22.37.09:228][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.15-22.37.09:303][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.15-22.37.09:476][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.15-22.37.09:634][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.15-22.37.09:634][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.15-22.37.09:698][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.15-22.37.09:844][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.15-22.37.09:883][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.15-22.37.09:967][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.15-22.37.10:045][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.15-22.37.10:120][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.15-22.37.10:240][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.15-22.37.10:240][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.15-22.37.10:989][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.15-22.37.11:372][  0]LogDerivedDataCache: Loaded boot cache 0.38s 93MB C:/Users/Kevin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.15-22.37.11:372][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kevin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.15-22.37.11:372][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.15-22.37.11:373][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.15-22.37.11:373][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.15-22.37.11:373][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.15-22.37.11:394][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.15-22.37.11:408][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.15-22.37.11:422][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.15-22.37.11:422][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.15-22.37.11:476][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.15-22.37.11:476][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.15-22.37.13:138][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2017.11.15-22.37.13:328][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.15-22.37.14:008][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.15-22.37.14:078][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.15-22.37.14:078][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.15-22.37.14:078][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.15-22.37.14:078][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.15-22.37.14:078][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.15-22.37.14:080][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.15-22.37.14:816][  0]LogNetVersion: Cyberwitch_Project , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 51455869)
+[2017.11.15-22.37.16:383][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 1.298263 seconds
+[2017.11.15-22.37.16:406][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.15-22.37.16:406][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.11.15-22.37.16:406][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.15-22.37.16:502][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.15-22.38.00:303][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.15-22.38.00:371][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.15-22.38.01:907][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.15-22.38.02:850][  0]SourceControl: Source control is disabled
+[2017.11.15-22.38.02:850][  0]SourceControl: Source control is disabled
+[2017.11.15-22.38.02:931][  0]SourceControl: Source control is disabled
+[2017.11.15-22.38.03:004][  0]SourceControl: Source control is disabled
+[2017.11.15-22.38.04:467][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.15-22.38.04:838][  0]LogOcInput: OculusInput pre-init called
+[2017.11.15-22.38.05:304][  0]LogEngine: Initializing Engine...
+[2017.11.15-22.38.05:307][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.15-22.38.05:722][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.15-22.38.05:722][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.15-22.38.05:964][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.15-22.38.05:976][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.15-22.38.06:203][  0]LogInit: FAudioDevice initialized.
+[2017.11.15-22.38.06:950][  0]LogDerivedDataCache: Saved boot cache 0.75s 93MB C:/Users/Kevin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.15-22.38.07:068][  0]LogInit: Texture streaming: Enabled
+[2017.11.15-22.38.07:290][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.15-22.38.08:774][  0]LogInit: Transaction tracking system initialized
+[2017.11.15-22.38.09:266][  0]BlueprintLog: New page: Editor Load
+[2017.11.15-22.38.11:097][  0]LocalizationService: Localization service is disabled
+[2017.11.15-22.38.12:449][  0]LogConsoleResponse: Display: 
+[2017.11.15-22.38.13:656][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.15-22.38.13:656][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.15-22.38.13:656][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.15-22.38.14:552][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/' took 0.02s
+[2017.11.15-22.38.16:225][  0]SourceControl: Source control is disabled
+[2017.11.15-22.38.16:225][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.15-22.38.16:242][  0]LightingResults: New page: Lighting Build
+[2017.11.15-22.38.16:313][  0]MapCheck: New page: Map Check
+[2017.11.15-22.38.16:313][  0]LightingResults: New page: Lighting Build
+[2017.11.15-22.38.21:672][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/BEAR/Animations/ANIM_Bear_fall.ANIM_Bear_fall
+[2017.11.15-22.38.21:811][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/BEAR/Animations/ANIM_Bear_jumpend.ANIM_Bear_jumpend
+[2017.11.15-22.38.21:841][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/BEAR/Animations/ANIM_Bear_jumpstart.ANIM_Bear_jumpstart
+[2017.11.15-22.38.21:879][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/BEAR/Animations/ANIM_Bear_run.ANIM_Bear_run
+[2017.11.15-22.38.21:880][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/BEAR/Animations/ANIM_Bear_idle.ANIM_Bear_idle
+[2017.11.15-22.38.23:419][  0]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.15-22.38.24:684][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.15-22.38.24:895][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.15-22.38.24:989][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 93.771ms to complete.
+[2017.11.15-22.38.24:989][  0]LogFileHelpers: Loading map 'DemoMap' took 8.763
+[2017.11.15-22.38.27:976][  0]LogCollectionManager: Loaded 0 collections in 0.016945 seconds
+[2017.11.15-22.38.28:493][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Saved/Collections/' took 0.01s
+[2017.11.15-22.38.28:494][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Developers/Kevin/Collections/' took 0.01s
+[2017.11.15-22.38.28:494][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kevin/Desktop/cyberwitch/Cyberwitch_Project/Content/Collections/' took 0.01s
+[2017.11.15-22.38.28:494][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.15-22.38.28:544][  0]LogContentBrowser: Native class hierarchy populated in 0.0317 seconds. Added 2386 classes and 500 folders.
+[2017.11.15-22.38.28:990][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.11.15-22.38.32:926][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2017.11.15-22.38.33:137][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.11.15-22.38.34:759][  0]LogSlate: Took 0.000670 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.15-22.38.34:800][  0]LogSlate: Took 0.000442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.15-22.38.35:039][  0]LogSlate: Took 0.026900 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.15-22.38.36:414][  0]LogRenderer: Reallocating scene render targets to support 916x460 Format 10 NumSamples 1 (Frame:1).
+[2017.11.15-22.38.39:330][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.11.15-22.38.39:331][  0]LogLoad: (Engine Initialization) Total time: 103.20 seconds
+[2017.11.15-22.38.39:331][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.15-22.38.39:331][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.15-22.38.39:331][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.15-22.38.39:939][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.15-22.38.40:742][  1]LogSlate: Took 0.060927 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.15-22.38.41:612][  3]LogAssetRegistry: Asset discovery search completed in 88.4959 seconds
+[2017.11.15-22.38.41:614][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.15-22.38.41:614][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2017.11.15-22.45.19:654][240]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.15-22.45.20:425][240]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.15-22.45.20:433][240]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.15-22.45.20:574][240]PIE: New page: PIE session: DemoMap (Nov 15, 2017, 6:45:20 AM)
+[2017.11.15-22.45.20:596][240]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2017.11.15-22.45.20:727][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.131022s)
+[2017.11.15-22.45.20:728][240]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.15-22.45.20:729][240]LogPlayLevel: PIE: World Init took: (0.001335s)
+[2017.11.15-22.45.20:743][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.152113s)
+[2017.11.15-22.45.20:784][240]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.15-22.45.20:802][240]LogInit: FAudioDevice initialized.
+[2017.11.15-22.45.21:010][240]LogLoad: Game class is 'MainGameMode_C'
+[2017.11.15-22.45.21:204][240]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 0) at 2017.11.15-14.45.21
+[2017.11.15-22.45.21:409][240]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.15-22.45.21:423][240]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.15-22.45.21:463][240]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	screen_C /Game/Levels/UEDPIE_0_DemoMap.DemoMap:PersistentLevel.screen5
+	Function /Game/Blueprints/Camera/screen.screen_C:SetCamera:00C3
+[2017.11.15-22.45.21:463][240]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'SetCamera' from node: Set View Target with Blend in graph: SetCamera in object: screen with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.15-22.45.21:463][240]LogWorld: Bringing up level for play took: 0.286027
+[2017.11.15-22.45.21:659][240]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2017.11.15-22.45.21:987][240]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DemoMap 1.428
+[2017.11.15-22.45.21:988][240]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.15-22.46.56:945][129]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.15-22.46.57:116][129]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2017.11.15-23.23.26:271][344]LogBlueprint: Warning: [DamageBlock] 'IsInvicible' variable not found. Base class was probably changed.
+[2017.11.15-23.23.26:271][344]LogBlueprint: Warning: [DamageBlock] 'IsInvicible' variable not found. Base class was probably changed.
+[2017.11.15-23.23.26:271][344]LogBlueprint: Warning: [DamageBlock] 'IsInvincible' variable not found. Base class was probably changed.
+[2017.11.15-23.23.26:271][344]LogBlueprint: Warning: [DamageBlock] 'IsInvincible' variable not found. Base class was probably changed.
+[2017.11.15-23.23.26:271][344]LogBlueprint: Warning: [DamageBlock] 'IsInvicible' variable not found. Base class was probably changed.
+[2017.11.15-23.23.26:272][344]LogBlueprint: Warning: [DamageBlock] 'IsInvicible' variable not found. Base class was probably changed.
+[2017.11.15-23.23.26:272][344]LogBlueprint: Warning: [DamageBlock] 'IsInvincible' variable not found. Base class was probably changed.
+[2017.11.15-23.23.26:272][344]LogBlueprint: Warning: [DamageBlock] 'IsInvincible' variable not found. Base class was probably changed.
+[2017.11.15-23.23.26:272][344]LogBlueprint: Warning: [DamageBlock] 'IsInvicible' variable not found. Base class was probably changed.
+[2017.11.15-23.23.26:272][344]LogBlueprint: Warning: [DamageBlock] 'IsInvincible' variable not found. Base class was probably changed.
+[2017.11.15-23.23.26:297][344]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvincible" in 'Bear_C'.
+Make sure 'Bear_C' has been compiled for  Get IsInvincible
+[2017.11.15-23.23.26:298][344]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvicible" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Get IsInvicible
+[2017.11.15-23.23.26:298][344]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvincible" in 'Bear_C'.
+Make sure 'Bear_C' has been compiled for  Set IsInvincible
+[2017.11.15-23.23.26:298][344]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvicible" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Set IsInvicible
+[2017.11.15-23.23.26:298][344]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvincible" in 'Bear_C'.
+Make sure 'Bear_C' has been compiled for  Set IsInvincible
+[2017.11.15-23.23.26:298][344]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvicible" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Set IsInvicible
+[2017.11.15-23.23.26:300][344]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.23.26:300][344]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.23.26:300][344]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Target  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.23.26:300][344]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Damage to be Dealt  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.23.26:306][344]LogBlueprint: Error: [Compiler DamageBlock] Could not find a function named "TakeDamage" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Take Damage
+[2017.11.15-23.23.26:306][344]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.23.26:306][344]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.23.26:306][344]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Target  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.23.26:306][344]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Damage to be Dealt  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.23.26:306][344]LogBlueprint: Error: [Compiler DamageBlock] Could not find a function named "TakeDamage" in 'Bear_C'.
+Make sure 'Bear_C' has been compiled for  Take Damage
+[2017.11.15-23.23.26:317][344]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invincible  could not be found
+[2017.11.15-23.23.26:317][344]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invicible  could not be found
+[2017.11.15-23.23.26:317][344]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invicible  could not be found
+[2017.11.15-23.23.26:317][344]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invincible  could not be found
+[2017.11.15-23.23.26:318][344]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invicible  could not be found
+[2017.11.15-23.23.26:318][344]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invincible  could not be found
+[2017.11.15-23.23.26:319][344]LogBlueprint: Warning: [Compiler DamageBlock] [2790.18] Compile of DamageBlock failed. 16 Fatal Issue(s) 6 Warning(s) [in 67 ms] (/Game/Blueprints/Character/DamageBlock.DamageBlock)
+[2017.11.15-23.23.30:129][502]Cmd: TRANSACTION UNDO
+[2017.11.15-23.23.30:129][502]LogEditorTransaction: Undo Create Actors
+[2017.11.15-23.23.30:218][502]LogSlate: Took 0.016656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.15-23.23.31:226][545]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.15-23.23.31:884][545]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.15-23.23.32:210][545]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 113 classes and 0 folders.
+[2017.11.15-23.23.34:132][545]LogSlate: Took 0.016976 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.15-23.23.34:801][546]LogSlate: Took 0.024142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.15-23.23.36:797][628]LogRenderer: Reallocating scene render targets to support 916x572 Format 10 NumSamples 1 (Frame:1).
+[2017.11.15-23.23.39:958][738]BlueprintLog: New page: Compile DamageBlock
+[2017.11.15-23.23.39:993][738]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvincible" in 'Bear_C'.
+Make sure 'Bear_C' has been compiled for  Get IsInvincible
+[2017.11.15-23.23.39:993][738]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvicible" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Get IsInvicible
+[2017.11.15-23.23.39:993][738]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvincible" in 'Bear_C'.
+Make sure 'Bear_C' has been compiled for  Set IsInvincible
+[2017.11.15-23.23.39:993][738]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvicible" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Set IsInvicible
+[2017.11.15-23.23.39:994][738]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvincible" in 'Bear_C'.
+Make sure 'Bear_C' has been compiled for  Set IsInvincible
+[2017.11.15-23.23.39:994][738]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvicible" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Set IsInvicible
+[2017.11.15-23.23.39:994][738]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.23.39:995][738]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.23.39:995][738]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Target  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.23.39:995][738]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Damage to be Dealt  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.23.39:995][738]LogBlueprint: Error: [Compiler DamageBlock] Could not find a function named "TakeDamage" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Take Damage
+[2017.11.15-23.23.39:995][738]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.23.39:995][738]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.23.39:995][738]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Target  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.23.39:995][738]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Damage to be Dealt  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.23.39:995][738]LogBlueprint: Error: [Compiler DamageBlock] Could not find a function named "TakeDamage" in 'Bear_C'.
+Make sure 'Bear_C' has been compiled for  Take Damage
+[2017.11.15-23.23.39:996][738]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invincible  could not be found
+[2017.11.15-23.23.39:996][738]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invicible  could not be found
+[2017.11.15-23.23.39:996][738]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invicible  could not be found
+[2017.11.15-23.23.39:996][738]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invincible  could not be found
+[2017.11.15-23.23.39:996][738]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invicible  could not be found
+[2017.11.15-23.23.39:996][738]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invincible  could not be found
+[2017.11.15-23.23.40:281][738]LogBlueprint: Warning: [Compiler DamageBlock] [2804.15] Compile of DamageBlock failed. 16 Fatal Issue(s) 6 Warning(s) [in 322 ms] (/Game/Blueprints/Character/DamageBlock.DamageBlock)
+[2017.11.15-23.24.05:128][179]BlueprintLog: New page: Compile Bear
+[2017.11.15-23.24.05:267][179]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvicible" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Get IsInvicible
+[2017.11.15-23.24.05:267][179]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvicible" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Set IsInvicible
+[2017.11.15-23.24.05:267][179]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvicible" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Set IsInvicible
+[2017.11.15-23.24.05:268][179]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.05:268][179]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.05:268][179]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Target  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.05:268][179]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Damage to be Dealt  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.05:268][179]LogBlueprint: Error: [Compiler DamageBlock] Could not find a function named "TakeDamage" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Take Damage
+[2017.11.15-23.24.05:268][179]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.05:268][179]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.05:268][179]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Target  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.05:268][179]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Damage to be Dealt  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.05:268][179]LogBlueprint: Error: [Compiler DamageBlock] Could not find a function named "TakeDamage" in 'Bear_C'.
+Make sure 'Bear_C' has been compiled for  Take Damage
+[2017.11.15-23.24.05:278][179]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invicible  could not be found
+[2017.11.15-23.24.05:278][179]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invicible  could not be found
+[2017.11.15-23.24.05:278][179]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invicible  could not be found
+[2017.11.15-23.24.05:295][179]LogBlueprint: Warning: [Compiler DamageBlock] [2829.16] Compile of DamageBlock failed. 13 Fatal Issue(s) 3 Warning(s) [in 160 ms] (/Game/Blueprints/Character/DamageBlock.DamageBlock)
+[2017.11.15-23.24.07:558][377]BlueprintLog: New page: Compile Bear
+[2017.11.15-23.24.07:632][377]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvicible" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Get IsInvicible
+[2017.11.15-23.24.07:633][377]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvicible" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Set IsInvicible
+[2017.11.15-23.24.07:633][377]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvicible" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Set IsInvicible
+[2017.11.15-23.24.07:634][377]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.07:634][377]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.07:634][377]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Target  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.07:634][377]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Damage to be Dealt  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.07:634][377]LogBlueprint: Error: [Compiler DamageBlock] Could not find a function named "TakeDamage" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Take Damage
+[2017.11.15-23.24.07:635][377]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.07:635][377]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.07:635][377]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Target  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.07:635][377]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Damage to be Dealt  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.07:635][377]LogBlueprint: Error: [Compiler DamageBlock] Could not find a function named "TakeDamage" in 'Bear_C'.
+Make sure 'Bear_C' has been compiled for  Take Damage
+[2017.11.15-23.24.07:646][377]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invicible  could not be found
+[2017.11.15-23.24.07:647][377]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invicible  could not be found
+[2017.11.15-23.24.07:647][377]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invicible  could not be found
+[2017.11.15-23.24.07:665][377]LogBlueprint: Warning: [Compiler DamageBlock] [2831.53] Compile of DamageBlock failed. 13 Fatal Issue(s) 3 Warning(s) [in 101 ms] (/Game/Blueprints/Character/DamageBlock.DamageBlock)
+[2017.11.15-23.24.12:653][878]LogSlate: Took 0.017958 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.11.15-23.24.25:988][404]BlueprintLog: New page: Compile Bear
+[2017.11.15-23.24.26:063][404]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvicible" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Get IsInvicible
+[2017.11.15-23.24.26:064][404]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvicible" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Set IsInvicible
+[2017.11.15-23.24.26:064][404]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvicible" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Set IsInvicible
+[2017.11.15-23.24.26:065][404]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.26:065][404]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.26:065][404]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Target  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.26:065][404]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Damage to be Dealt  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.26:065][404]LogBlueprint: Error: [Compiler DamageBlock] Could not find a function named "TakeDamage" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Take Damage
+[2017.11.15-23.24.26:065][404]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.26:065][404]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.26:065][404]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Target  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.26:065][404]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Damage to be Dealt  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.26:065][404]LogBlueprint: Error: [Compiler DamageBlock] Could not find a function named "TakeDamage" in 'Bear_C'.
+Make sure 'Bear_C' has been compiled for  Take Damage
+[2017.11.15-23.24.26:075][404]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invicible  could not be found
+[2017.11.15-23.24.26:075][404]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invicible  could not be found
+[2017.11.15-23.24.26:075][404]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invicible  could not be found
+[2017.11.15-23.24.26:089][404]LogBlueprint: Warning: [Compiler DamageBlock] [2849.95] Compile of DamageBlock failed. 13 Fatal Issue(s) 3 Warning(s) [in 94 ms] (/Game/Blueprints/Character/DamageBlock.DamageBlock)
+[2017.11.15-23.24.29:681][741]BlueprintLog: New page: Compile Bear
+[2017.11.15-23.24.29:760][741]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvicible" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Get IsInvicible
+[2017.11.15-23.24.29:760][741]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvicible" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Set IsInvicible
+[2017.11.15-23.24.29:760][741]LogBlueprint: Warning: [Compiler DamageBlock] Could not find a variable named "IsInvicible" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Set IsInvicible
+[2017.11.15-23.24.29:761][741]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.29:761][741]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.29:761][741]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Target  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.29:761][741]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Damage to be Dealt  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.29:762][741]LogBlueprint: Error: [Compiler DamageBlock] Could not find a function named "TakeDamage" in 'Talia_C'.
+Make sure 'Talia_C' has been compiled for  Take Damage
+[2017.11.15-23.24.29:762][741]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.29:762][741]LogBlueprint: Error: [Compiler DamageBlock] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.29:762][741]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Target  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.29:762][741]LogBlueprint: Error: [Compiler DamageBlock] In use pin  Damage to be Dealt  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-23.24.29:762][741]LogBlueprint: Error: [Compiler DamageBlock] Could not find a function named "TakeDamage" in 'Bear_C'.
+Make sure 'Bear_C' has been compiled for  Take Damage
+[2017.11.15-23.24.29:773][741]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invicible  could not be found
+[2017.11.15-23.24.29:773][741]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invicible  could not be found
+[2017.11.15-23.24.29:773][741]LogBlueprint: Error: [Compiler DamageBlock] The property associated with  Is Invicible  could not be found
+[2017.11.15-23.24.29:798][741]LogBlueprint: Warning: [Compiler DamageBlock] [2853.66] Compile of DamageBlock failed. 13 Fatal Issue(s) 3 Warning(s) [in 110 ms] (/Game/Blueprints/Character/DamageBlock.DamageBlock)
+[2017.11.15-23.24.55:644][ 85]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.15-23.24.56:628][ 85]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.984 s
+[2017.11.15-23.24.56:628][ 85]LogOutputDevice: Error: === Handled ensure: ===
+[2017.11.15-23.24.56:628][ 85]LogOutputDevice: Error: 
+[2017.11.15-23.24.56:628][ 85]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1037]
+[2017.11.15-23.24.56:628][ 85]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2017.11.15-23.24.56:628][ 85]LogOutputDevice: Error: Stack: 
+[2017.11.15-23.24.56:628][ 85]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000005053E36
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000004DDC2D2
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000004DF4746
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000FFB2D3E6
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000FE16FB2B
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x00000000FD1B259A
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x00000000FD04737C
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x00000000FD04A8E9
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x00000000FD176C25
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000000B64A47
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000000B6AC21
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000000DA03A3
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000000BC1E65
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000000B9A28C
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000000B8B444
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000000502B5AC
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000005013EE1
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000000502D5BB
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000000500F042
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: USER32.dll!0x000000005F52BC50
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: USER32.dll!0x000000005F52B5CF
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000000502DCC6
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor.exe!0x000000001E1D4BE2
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor.exe!0x000000001E1E3970
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor.exe!0x000000001E1E39EA
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor.exe!0x000000001E1F02D9
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: UE4Editor.exe!0x000000001E1F1C47
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: KERNEL32.DLL!0x000000005EE52774
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: ntdll.dll!0x0000000061740D51
+[2017.11.15-23.24.56:629][ 85]LogOutputDevice: Error: 
+[2017.11.15-23.24.56:632][ 85]LogStats:                SubmitErrorReport -  0.000 s
