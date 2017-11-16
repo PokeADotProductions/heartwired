@@ -62,7 +62,7 @@ The following section provides the details of all the classes used in the Heartw
 
 ### 6.3.1.1 Main Game Mode CSC Description
 
-The Main Game Mode, or known as the “Core Game” in our Requirements Specification Document, is a Class that implements other classes and interfaces to provide the user with a playable game. The Main Game Mode Class comprises the 
+The Main Game Mode, or known as the “Core Game” in our Requirements Specification Document, is a Class that implements other classes and interfaces to provide the user with a playable game. The Main Game Mode Class comprises the majority of the application, with the exception of the Main Menu.
 
 #### 6.3.1.1.1 Platforming System CSU Description 
 
@@ -76,30 +76,30 @@ The Two Character System contains the blueprints of our player character and def
 
 * Base Controller Class: The default class for our player characters. Defines what both players can do.
 * Taliah Class: Defines what abilities and unique characteristics Taliah has.
-    * Taliah Animation Blueprint 
+    * Taliah Animation Blueprint: Plays and blends Taliah animation states together when corresponding actions are taken.
 * BEAR Class: Defines what abilities and unique characteristics Bear has. 
-    * BEAR Animation Blueprint 		
+    * BEAR Animation Blueprint: Plays and blends BEAR animation states together when corresponding actions are taken.
 
 #### 6.3.1.1.3 Enemy System CSU Description
 
 The Enemy System defines the enemies in our game as well as the AI that control them.
 
-* AI Controller Class
-    * Pig Class: Contains the Pig’s AI
-    * Grunt Class: Contains the Grunt AI
+* AI Controller Class: Defines the basic movement and action characteristics that all AI units share.
+    * Pig Class: Contains the Pig’s AI which each instance of the Pig inherits.
+    * Grunt Class: Contains the Grunt AI which each instance of the Grunt inherits. 
 
 #### 6.3.1.1.4 Terrain System CSU Description
 
 The Terrain System defines the various different terrains we have in our game.
-
 * Interactive Environment Class: Defines unique environment interactables that the player can affect to solve puzzles
+    * Breakable Environment Class: Defines environment objects whose mesh can be destroyed with character abilities. 
 
 #### 6.3.1.1.5 Camera System CSU Description
 
 The Camera System defines how we control the various different cameras in our game and how we switch between them.
 
 * Moving Camera Class: The Moving Camera Class defines a camera that can follow the player character.
-* Levels/Screens: The Levels/Screens camera is placed within certain sections of the game and left there
+* Levels/Screens: The Levels/Screens camera is placed within certain sections of the game and left there.
 
 ## 6.3.2. Detailed Interface Descriptions Section
 
@@ -115,7 +115,7 @@ The File Selection Menu allows user to load a file previously saved by the user
 The World Selection Menu allows the user to change which world the user is currently in
 
 #### 6.3.2.1.3 Settings Menu CSU Description
-The Settings Menu allows the user to change the settings of the game:
+The Settings Menu allows the user to change the settings of the game. Methods include:
 * Change game controls
 * Change sound volume
 
@@ -128,7 +128,6 @@ The Pause Menu displays after the user pauses the game, giving the user these op
 * Change world
 
 ### 6.3.2.2 Core Game Interfaces CSC Descriptions 
-
 The Core Game Interface describes the interfaces that appear in game to the user while in play.
 
 #### 6.3.2.2.1 Platforming System CSU Description
@@ -144,12 +143,10 @@ BEAR: Attack, Break, Roll
 Health/Damage Interface
 	
 ## 6.3.3 Detailed Data Structures Description Section
-
 The following section provides the details of all the data structures used in the Heartwired application. 
 
-
-
-## 6.3.4 Detailed Design Diagrams Section
+* Data structure 1
+* Data structure 2
 
 
 # 6.4 Database Design and Description
