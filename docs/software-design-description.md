@@ -131,22 +131,28 @@ The Pause Menu displays after the user pauses the game, giving the user these op
 The Core Game Interface describes the interfaces that appear in game to the user while in play.
 
 #### 6.3.2.2.1 Platforming System CSU Description
-Action Interface 
-Movement, Jumping, Switching 
+
+The Platforming System of the Core Game is mainly informed by the Action Interface, which is a controller that details basic actions that all characters can take, including:
+* Idle
+* Movement
+* Jumping
+* Switching
 
 #### 6.3.2.2.2 Two Character System (TCS) CSU Description
-Character Ability Interface
-Taliah: Hookshot, Slide, Sneak
-BEAR: Attack, Break, Roll 
+The Two Character System encompasses the abilities of our characters in the Character Ability Interface, a controller that each character has.
+* Taliah abilities: Hookshot, Slide, Sneak
+* BEAR abilities: Attack, Break, Roll 
+
 
 #### 6.3.2.2.3 Health System CSU Description
-Health/Damage Interface
+The Health System contains our Health/Damage Interface.
+* Describes the user interface displaying the health bar. 
+* Informs the character's lives system with dying and respawning in a level.
 	
 ## 6.3.3 Detailed Data Structures Description Section
-The following section provides the details of all the data structures used in the Heartwired application. 
+The following section provides the details of all the data structures used in the Heartwired application. (NOTE: This section is still subject to change.)
 
-* Data structure 1
-* Data structure 2
+The only data structure of note will be the combinations of data structures we may have to use when designing the Follow AI for our two characters. Since the Follow AI is still in testing changes, currently nothing is solidified under this section.
 
 
 # 6.4 Database Design and Description
