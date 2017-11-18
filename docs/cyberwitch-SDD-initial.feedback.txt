@@ -1,0 +1,28 @@
+
+Hi, CyberWitch team ----
+
+Good job on the Preliminary SDD!
+
+You're changing the name of the game?  If that's a "yes", make sure you also
+update the name of your git...  We don't want Dr. Toal getting lost!
+
+Good idea to provide soft links to the SRS.  Also, your menu screen is very
+pretty!
+
+Just a couple of things to address:
+1) is this complete?  I'm not sure that everything is there, even at the
+   preliminary level...
+2) the use case diagram doesn't show any use cases.  Maybe think in terms of
+   operations that the game will perform, or pick one scenario and put ovals
+   for all the operations that are involved with that.
+3) the state diagram should be more a set of game states, with the lines labeled
+   to show the actions that move the game from state to state
+
+Very nice work.
+
+Fix these items in the next release for full credit on the document.
+
+You have 10% out of 10% which is an A-plus.
+
+Regards,
+Prof. Johnson
