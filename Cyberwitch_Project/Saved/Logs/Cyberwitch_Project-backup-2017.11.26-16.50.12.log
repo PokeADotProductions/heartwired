@@ -1,0 +1,1077 @@
+﻿Log file open, 11/26/17 16:04:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Cyberwitch_Project
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(396777842) SRandInit(396777842).
+LogTaskGraph: Started task graph with 5 named threads and 53 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.630861
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: E:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.27-00.04.40:715][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.27-00.04.40:715][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.27-00.04.40:795][  0]LogInit: Computer: ANM-CA308-HP04
+[2017.11.27-00.04.40:795][  0]LogInit: User: bho2
+[2017.11.27-00.04.40:795][  0]LogInit: CPU Page size=4096, Cores=20
+[2017.11.27-00.04.40:795][  0]LogInit: High frequency timer resolution =2.533198 MHz
+[2017.11.27-00.04.40:795][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2017.11.27-00.04.40:795][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.27-00.04.40:795][  0]LogMemory: Process Physical Memory: 286.88 MB used, 286.88 MB peak
+[2017.11.27-00.04.40:795][  0]LogMemory: Process Virtual Memory: 287.82 MB used, 287.82 MB peak
+[2017.11.27-00.04.40:795][  0]LogMemory: Physical Memory: 6969.06 MB used,  58482.84 MB free, 65451.91 MB total
+[2017.11.27-00.04.40:795][  0]LogMemory: Virtual Memory: 716.72 MB used,  58482.84 MB free, 134217728.00 MB total
+[2017.11.27-00.04.41:030][  0]LogInit: Using OS detected language (en-US).
+[2017.11.27-00.04.41:030][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.27-00.04.41:034][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.27-00.04.41:846][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.27-00.04.41:887][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M4000' (Feature Level 11_0)
+[2017.11.27-00.04.41:887][  0]LogD3D11RHI:       8152/0/32725 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.27-00.04.41:889][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.27-00.04.41:889][  0]LogD3D11RHI:       0/0/32725 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.27-00.04.41:889][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.27-00.04.41:896][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.27-00.04.41:896][  0]LogD3D11RHI:     GPU DeviceId: 0x13f1 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.27-00.04.41:896][  0]LogWindows: EnumDisplayDevices:
+[2017.11.27-00.04.41:896][  0]LogWindows:    0. 'NVIDIA Quadro M4000' (P:1 D:1)
+[2017.11.27-00.04.41:896][  0]LogWindows:    1. 'NVIDIA Quadro M4000' (P:0 D:0)
+[2017.11.27-00.04.41:896][  0]LogWindows:    2. 'NVIDIA Quadro M4000' (P:0 D:0)
+[2017.11.27-00.04.41:897][  0]LogWindows:    3. 'NVIDIA Quadro M4000' (P:0 D:0)
+[2017.11.27-00.04.41:897][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.11.27-00.04.41:897][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M4000
+[2017.11.27-00.04.41:897][  0]LogD3D11RHI:   Driver Version: 385.90 (internal:22.21.13.8590, unified:385.90)
+[2017.11.27-00.04.41:897][  0]LogD3D11RHI:      Driver Date: 10-30-2017
+[2017.11.27-00.04.41:897][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.27-00.04.41:914][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.27-00.04.41:927][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.27-00.04.41:970][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Intermediate/Shaders/WorkingDirectory/15760/).
+[2017.11.27-00.04.41:970][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'E:/Users/bho2/AppData/Local/Temp/UnrealShaderWorkingDir/5C9B2A56428345D30D3E3BAAC65E5DFC/'.
+[2017.11.27-00.04.41:970][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.27-00.04.43:185][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.27-00.04.43:264][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.27-00.04.43:343][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.27-00.04.43:424][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.27-00.04.43:507][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.27-00.04.43:581][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.27-00.04.43:658][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.27-00.04.43:731][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.27-00.04.43:794][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.27-00.04.43:869][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.27-00.04.43:941][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.27-00.04.44:012][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.27-00.04.44:084][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.27-00.04.44:155][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.27-00.04.44:230][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.27-00.04.44:378][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.27-00.04.44:378][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.27-00.04.44:426][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.27-00.04.44:547][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.27-00.04.44:623][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.27-00.04.44:694][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.27-00.04.44:766][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.27-00.04.44:837][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.27-00.04.44:907][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.27-00.04.44:907][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.27-00.04.45:494][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.27-00.04.45:676][  0]LogDerivedDataCache: Loaded boot cache 0.18s 93MB E:/Users/bho2/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.27-00.04.45:677][  0]LogDerivedDataCache: Display: Loaded Boot cache: E:/Users/bho2/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.27-00.04.45:678][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.27-00.04.45:678][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.27-00.04.45:680][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.27-00.04.45:680][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.27-00.04.45:716][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.27-00.04.45:729][  0]LogDerivedDataCache: Using Local data cache path E:/Users/bho2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.27-00.04.45:743][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.27-00.04.45:744][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.27-00.04.45:745][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.27-00.04.45:745][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.27-00.04.46:135][  0]LogAssetRegistry: FAssetRegistry took 0.0429 seconds to start up
+[2017.11.27-00.04.46:605][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.27-00.04.47:218][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.27-00.04.47:269][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.27-00.04.47:269][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.27-00.04.47:269][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.27-00.04.47:269][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.27-00.04.47:269][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.27-00.04.47:271][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.27-00.04.47:901][  0]LogNetVersion: Cyberwitch_Project , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 51455869)
+[2017.11.27-00.04.48:847][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.731376 seconds
+[2017.11.27-00.04.48:854][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.27-00.04.48:854][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.11.27-00.04.48:854][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.27-00.04.48:940][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.27-00.04.52:425][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.27-00.04.52:483][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.27-00.04.52:484][  0]LogDirectoryWatcher: A directory notification failed for '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2017.11.27-00.04.53:400][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.27-00.04.53:922][  0]SourceControl: Source control is disabled
+[2017.11.27-00.04.53:922][  0]SourceControl: Source control is disabled
+[2017.11.27-00.04.53:976][  0]SourceControl: Source control is disabled
+[2017.11.27-00.04.54:028][  0]SourceControl: Source control is disabled
+[2017.11.27-00.04.54:836][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.27-00.04.55:138][  0]LogOcInput: OculusInput pre-init called
+[2017.11.27-00.04.55:447][  0]LogEngine: Initializing Engine...
+[2017.11.27-00.04.55:449][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.27-00.04.55:772][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.27-00.04.55:773][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.27-00.04.55:927][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.27-00.04.55:935][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.27-00.04.55:970][  0]LogInit: FAudioDevice initialized.
+[2017.11.27-00.04.56:171][  0]LogDerivedDataCache: Saved boot cache 0.20s 93MB E:/Users/bho2/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.27-00.04.56:204][  0]LogInit: Texture streaming: Enabled
+[2017.11.27-00.04.56:363][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.27-00.04.56:715][  0]LogInit: Transaction tracking system initialized
+[2017.11.27-00.04.57:149][  0]BlueprintLog: New page: Editor Load
+[2017.11.27-00.04.58:406][  0]LocalizationService: Localization service is disabled
+[2017.11.27-00.04.59:313][  0]LogConsoleResponse: Display: 
+[2017.11.27-00.04.59:538][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.27-00.04.59:538][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.27-00.04.59:538][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.27-00.05.00:219][  0]LogFileCache: Scanning file cache for directory '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/' took 0.21s
+[2017.11.27-00.05.00:958][  0]SourceControl: Source control is disabled
+[2017.11.27-00.05.00:958][  0]Cmd: MAP LOAD FILE="//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.27-00.05.00:980][  0]LightingResults: New page: Lighting Build
+[2017.11.27-00.05.01:046][  0]MapCheck: New page: Map Check
+[2017.11.27-00.05.01:046][  0]LightingResults: New page: Lighting Build
+[2017.11.27-00.05.09:211][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Pig/Animations/ANIM_Pig_run.ANIM_Pig_run
+[2017.11.27-00.05.09:248][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Pig/Animations/ANIM_Pig_walk.ANIM_Pig_walk
+[2017.11.27-00.05.09:249][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Pig/Animations/ANIM_Pig_idle.ANIM_Pig_idle
+[2017.11.27-00.05.09:348][  0]LogMaterial: Missing cached shader map for material mat_main, compiling. 
+[2017.11.27-00.05.09:476][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/BEAR/Animations/ANIM_Bear_run.ANIM_Bear_run
+[2017.11.27-00.05.09:477][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/BEAR/Animations/ANIM_Bear_idle.ANIM_Bear_idle
+[2017.11.27-00.05.09:483][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/BEAR/Animations/ANIM_Bear_jumpstart.ANIM_Bear_jumpstart
+[2017.11.27-00.05.09:483][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/BEAR/Animations/ANIM_Bear_jumpend.ANIM_Bear_jumpend
+[2017.11.27-00.05.09:484][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/BEAR/Animations/ANIM_Bear_fall.ANIM_Bear_fall
+[2017.11.27-00.05.09:623][  0]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2017.11.27-00.05.09:674][  0]LogMaterial: Missing cached shader map for material blinn1, compiling. 
+[2017.11.27-00.05.09:736][  0]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.27-00.05.09:768][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.27-00.05.09:971][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.27-00.05.10:413][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 442.835ms to complete.
+[2017.11.27-00.05.10:414][  0]LogFileHelpers: Loading map 'DemoMap' took 9.456
+[2017.11.27-00.05.10:645][  0]LogCollectionManager: Loaded 0 collections in 0.010069 seconds
+[2017.11.27-00.05.10:797][  0]LogFileCache: Scanning file cache for directory '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Collections/' took 0.02s
+[2017.11.27-00.05.10:798][  0]LogFileCache: Scanning file cache for directory '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Developers/bho2/Collections/' took 0.02s
+[2017.11.27-00.05.10:798][  0]LogFileCache: Scanning file cache for directory '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Collections/' took 0.02s
+[2017.11.27-00.05.10:798][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.11.27-00.05.10:817][  0]LogContentBrowser: Native class hierarchy populated in 0.0189 seconds. Added 2386 classes and 500 folders.
+[2017.11.27-00.05.10:929][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0016 seconds. Added 0 classes and 0 folders.
+[2017.11.27-00.05.10:998][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0018 seconds. Added 0 classes and 0 folders.
+[2017.11.27-00.05.11:067][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0016 seconds. Added 1 classes and 2 folders.
+[2017.11.27-00.05.11:109][  0]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.27-00.05.11:113][  0]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.27-00.05.11:122][  0]LogSlate: Took 0.000306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.27-00.05.11:271][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2017.11.27-00.05.11:593][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0020 seconds. Added 1 classes and 2 folders.
+[2017.11.27-00.05.11:593][  0]LogLoad: (Engine Initialization) Total time: 37.74 seconds
+[2017.11.27-00.05.11:593][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.27-00.05.11:594][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.27-00.05.11:594][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.27-00.05.11:984][  0]LogDirectoryWatcher: A directory notification failed for '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2017.11.27-00.05.11:985][  0]LogDirectoryWatcher: A directory notification failed for '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/', and we were unable to create a new request.
+[2017.11.27-00.05.11:985][  0]LogDirectoryWatcher: A directory notification failed for '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2017.11.27-00.05.11:985][  0]LogDirectoryWatcher: A directory notification failed for '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Developers/bho2/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2017.11.27-00.05.11:985][  0]LogDirectoryWatcher: A directory notification failed for '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2017.11.27-00.05.11:989][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.27-00.05.12:280][  1]LogFileCache: Retrieving MD5 hashes for directory '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/' took 0.33s
+[2017.11.27-00.05.12:308][  1]LogAssetRegistry: Asset discovery search completed in 26.1958 seconds
+[2017.11.27-00.05.12:310][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.27-00.05.12:310][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2017.11.27-00.05.12:310][  1]LogDirectoryWatcher: A directory notification failed for '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2017.11.27-00.05.12:311][  1]LogDirectoryWatcher: A directory notification failed for '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Collections/', and we were unable to create a new request.
+[2017.11.27-00.05.12:311][  1]LogDirectoryWatcher: A directory notification failed for '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Developers/bho2/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2017.11.27-00.05.12:311][  1]LogDirectoryWatcher: A directory notification failed for '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Developers/bho2/Collections/', and we were unable to create a new request.
+[2017.11.27-00.05.12:311][  1]LogDirectoryWatcher: A directory notification failed for '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2017.11.27-00.05.12:312][  1]LogDirectoryWatcher: A directory notification failed for '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Collections/', and we were unable to create a new request.
+[2017.11.27-00.05.15:009][  9]LogSlate: Took 0.000419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.27-00.05.56:654][716]AssetReimport: New page: Outstanding source content changes 8:05:56 AM
+[2017.11.27-00.05.56:845][717]LogEditorFactories: Performing atomic reimport of [//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Middle.png]
+[2017.11.27-00.05.56:876][717]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Middle.png)
+[2017.11.27-00.06.04:883][717]LogEditorFactories: -- imported successfully
+[2017.11.27-00.06.05:035][718]LogEditorFactories: Performing atomic reimport of [//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Front.png]
+[2017.11.27-00.06.05:062][718]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Front.png)
+[2017.11.27-00.06.11:762][718]LogEditorFactories: -- imported successfully
+[2017.11.27-00.06.11:892][719]LogEditorFactories: Performing atomic reimport of [//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Back.png]
+[2017.11.27-00.06.11:923][719]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Back.png)
+[2017.11.27-00.06.13:803][719]LogEditorFactories: -- imported successfully
+[2017.11.27-00.06.13:868][720]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.27-00.06.13:906][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Images/BG/Background_Middle" FILE="//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Middle.uasset" SILENT=true
+[2017.11.27-00.06.17:882][720]LogSavePackage: Save=734.74ms
+[2017.11.27-00.06.17:882][720]LogSavePackage: Moving '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Background_Middle63CAF81648C37074C27F269FA5D709F4.tmp' to '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Middle.uasset'
+[2017.11.27-00.06.17:988][720]LogSavePackage: Display: Finished SavePackage //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Middle.uasset
+[2017.11.27-00.06.18:007][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Images/BG/Background_Front" FILE="//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Front.uasset" SILENT=true
+[2017.11.27-00.06.21:807][720]LogSavePackage: Save=652.91ms
+[2017.11.27-00.06.21:807][720]LogSavePackage: Moving '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Background_Front0E76FF5B4F87C25EE2C7F3A136CED012.tmp' to '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Front.uasset'
+[2017.11.27-00.06.21:908][720]LogSavePackage: Display: Finished SavePackage //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Front.uasset
+[2017.11.27-00.06.21:929][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Images/BG/Background_Back" FILE="//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Back.uasset" SILENT=true
+[2017.11.27-00.06.25:615][720]LogSavePackage: Save=729.39ms
+[2017.11.27-00.06.25:615][720]LogSavePackage: Moving '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Background_BackF5AE83A240299691FEBDA08701F8CD83.tmp' to '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Back.uasset'
+[2017.11.27-00.06.25:717][720]LogSavePackage: Display: Finished SavePackage //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Back.uasset
+[2017.11.27-00.06.28:745][730]AssetReimport: Reimported asset Background_Middle from //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Middle.png.
+[2017.11.27-00.06.28:745][730]AssetReimport: Reimported asset Background_Front from //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Front.png.
+[2017.11.27-00.06.28:745][730]AssetReimport: Reimported asset Background_Back from //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Back.png.
+[2017.11.27-00.06.30:828][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.27-00.06.33:098][ 44]Cmd: EDIT PASTE
+[2017.11.27-00.06.33:162][ 44]LogLinker: Can't find file '/Game/Assets/Characters/BEAR/Shade2M'
+[2017.11.27-00.06.33:163][ 44]LogLinker: Can't find file '/Game/Assets/Characters/BEAR/Shade2M'
+[2017.11.27-00.06.33:163][ 44]LogProperty: Warning: ObjectProperty /Script/Engine.WeightedBlendable:Object: unresolved reference to 'Material'/Game/Assets/Characters/BEAR/Shade2M.Shade2M'))))'
+[2017.11.27-00.07.37:626][444]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2017.11.27-00.07.37:705][451]LogEditorViewport: Clicking on Actor (double click): PostProcessVolume (PostProcessVolume)
+[2017.11.27-00.09.01:324][ 78]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2017.11.27-00.09.01:742][118]LogEditorViewport: Clicking on Actor (double click): PostProcessVolume (PostProcessVolume)
+[2017.11.27-00.10.20:510][456]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.27-00.10.30:964][921]LogSlate: Took 0.000486 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.27-00.12.02:711][360]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 //olympia/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Cel_Clut.psd)
+[2017.11.27-00.12.05:402][360]LogTexture: Display: Building textures: Cel_Clut (BGRA8, 1X1024)
+[2017.11.27-00.12.13:201][876]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0024 seconds. Added 1 classes and 2 folders.
+[2017.11.27-00.12.29:436][182]LogTexture: Display: Building textures: Cel_Clut (BGRA8, 1X1024)
+[2017.11.27-00.13.18:730][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Images/BG/Cel_Clut" FILE="//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Cel_Clut.uasset" SILENT=true
+[2017.11.27-00.13.21:935][ 29]LogSavePackage: Save=45.68ms
+[2017.11.27-00.13.21:935][ 29]LogSavePackage: Moving '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Cel_Clut19DADBB04F594F977C289384AB5E318C.tmp' to '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Cel_Clut.uasset'
+[2017.11.27-00.13.22:022][ 29]LogSavePackage: Display: Finished SavePackage //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Cel_Clut.uasset
+[2017.11.27-00.15.17:531][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DemoMap" FILE="//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.27-00.15.21:059][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.27-00.15.45:209][495]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.27-00.15.46:311][495]LogSavePackage: Save=1323.55ms
+[2017.11.27-00.15.46:311][495]LogSavePackage: Moving '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/DemoMap_Auto116D453064DD3B56B7543409E29482B74.tmp' to '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto1.umap'
+[2017.11.27-00.15.46:390][495]LogSavePackage: Display: Finished SavePackage //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto1.umap
+[2017.11.27-00.15.46:408][495]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DemoMap' took 5.008
+[2017.11.27-00.15.46:408][495]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.008
+[2017.11.27-00.16.19:108][205]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0025 seconds. Added 1 classes and 0 folders.
+[2017.11.27-00.16.19:112][205]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.16.19:187][205]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.16.19:205][205]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.16.19:255][205]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.27-00.16.20:203][261]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.11.27-00.16.20:203][261]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.16.20:203][261]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.16.23:783][486]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.16.23:797][486]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.16.24:067][505]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2017.11.27-00.16.24:067][505]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.16.24:067][505]MaterialEditorStats: Texture samplers: 0/16
+[2017.11.27-00.16.37:400][694]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.16.37:407][694]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.16.37:674][715]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2017.11.27-00.16.37:674][715]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.16.37:674][715]MaterialEditorStats: Texture samplers: 0/16
+[2017.11.27-00.16.44:350][239]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.16.44:356][239]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-00.16.44:392][239]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-00.16.44:600][250]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2017.11.27-00.16.44:600][250]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.16.44:600][250]MaterialEditorStats: Texture samplers: 0/16
+[2017.11.27-00.16.48:140][515]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.16.48:154][515]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-00.16.48:374][531]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.16.48:374][531]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-00.16.48:374][531]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.16.48:374][531]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-00.16.59:753][664]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.17.00:008][682]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.17.00:008][682]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-00.17.00:008][682]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.17.00:008][682]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-00.17.03:762][ 32]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.17.04:012][ 47]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.17.04:012][ 47]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-00.17.04:012][ 47]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.17.04:012][ 47]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-00.17.08:206][467]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.17.08:457][486]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.17.08:457][486]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-00.17.08:457][486]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.17.08:457][486]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-00.17.10:120][650]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.17.10:388][669]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.17.10:388][669]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-00.17.10:388][669]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.17.10:388][669]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-00.17.17:763][457]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.17.17:830][458]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.11.27-00.17.18:019][471]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.17.18:019][471]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-00.17.18:019][471]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.17.18:019][471]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-00.17.19:675][620]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.17.19:921][637]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.17.19:921][637]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-00.17.19:921][637]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.17.19:921][637]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-00.17.24:880][147]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.17.25:154][169]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.17.25:154][169]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-00.17.25:154][169]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.17.25:154][169]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-00.17.27:862][430]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.17.27:862][430]LogMaterial: Warning: Failed to compile Material /Engine/Transient.ShadeM2 for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-00.17.27:862][430]LogMaterial: Warning: 	(Node ComponentMask) Missing ComponentMask input
+[2017.11.27-00.17.27:870][430]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-00.17.27:894][430]MaterialEditorStats: Error: [SM5] (Node ComponentMask) Missing ComponentMask input
+[2017.11.27-00.17.30:151][638]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.17.30:151][638]LogMaterial: Warning: Failed to compile Material /Engine/Transient.ShadeM2 for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-00.17.30:151][638]LogMaterial: Warning: 	(Node ComponentMask) Missing ComponentMask input
+[2017.11.27-00.17.35:788][213]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.17.35:788][213]LogMaterial: Warning: Failed to compile Material /Engine/Transient.ShadeM2 for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-00.17.35:788][213]LogMaterial: Warning: 	(Node ComponentMask) Missing ComponentMask input
+[2017.11.27-00.17.35:791][213]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.17.35:791][213]LogMaterial: Warning: Failed to compile Material /Engine/Transient.ShadeM2 for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-00.17.35:791][213]LogMaterial: Warning: 	(Node Clamp) Missing Clamp input
+[2017.11.27-00.17.35:794][213]MaterialEditorStats: Error: [SM5] (Node Clamp) Missing Clamp input
+[2017.11.27-00.17.42:164][848]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.17.42:164][848]LogMaterial: Warning: Failed to compile Material /Engine/Transient.ShadeM2 for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-00.17.42:164][848]LogMaterial: Warning: 	(Node Clamp) Missing Clamp input
+[2017.11.27-00.17.42:167][848]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.17.42:446][870]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.17.42:446][870]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.17.42:446][870]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.18.12:873][628]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.18.13:663][693]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.18.13:663][693]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.18.13:663][693]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.18.28:875][285]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.18.29:087][303]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.18.29:087][303]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.18.29:087][303]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.18.31:408][535]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.18.31:633][554]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.18.31:633][554]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.18.31:633][554]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.18.35:415][914]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.18.35:665][933]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.18.35:665][933]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.18.35:665][933]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.18.42:560][519]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.18.42:809][535]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.18.42:809][535]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.18.42:809][535]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.18.44:137][646]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.18.44:391][662]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.18.44:391][662]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.18.44:391][662]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.18.47:227][933]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.18.47:468][953]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.18.47:468][953]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.18.47:468][953]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.18.49:222][113]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.18.49:475][134]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.18.49:475][134]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.18.49:475][134]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.18.54:230][585]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.18.54:237][585]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.18.54:486][599]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.18.54:486][599]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.18.54:486][599]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.18.56:318][759]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-00.18.57:149][824]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.18.57:451][840]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.18.57:451][840]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.18.57:451][840]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.19.02:714][342]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.19.02:721][342]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.19.02:977][359]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.19.02:977][359]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.19.02:977][359]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.19.04:077][447]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.19.04:345][462]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.19.04:345][462]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.19.04:345][462]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.19.08:757][847]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.19.09:012][863]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.19.09:012][863]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.19.09:012][863]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.19.11:253][ 68]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.19.11:513][ 89]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.19.11:513][ 89]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.19.11:513][ 89]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.19.12:050][134]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.19.12:280][152]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.19.12:280][152]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.19.12:280][152]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.19.12:466][168]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.19.12:742][191]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.11.27-00.19.12:742][191]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.19.12:742][191]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.19.18:234][530]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.19.18:472][549]MaterialEditorStats: Base pass shader without light map: 60 instructions
+[2017.11.27-00.19.18:472][549]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.19.18:472][549]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.27-00.19.19:248][612]LogMaterialEditor: Applying material ShadeM2
+[2017.11.27-00.19.19:867][612]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.19.19:921][612]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.19.19:940][612]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.11.27-00.19.20:015][612]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2017.11.27-00.19.21:916][632]MaterialEditorStats: Base pass shader without light map: 60 instructions
+[2017.11.27-00.19.21:917][632]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.19.21:917][632]MaterialEditorStats: Texture samplers: 4/16
+[2017.11.27-00.20.18:641][629]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.27-00.20.33:732][394]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-00.22.43:136][679]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.27-00.23.04:708][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Paper2D/MaskedUnlitSpriteMaterial" FILE="../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" SILENT=true
+[2017.11.27-00.23.04:796][872]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaskedUnlitSpriteMaterial, compiling. 
+[2017.11.27-00.23.05:485][872]TextureStreamingBuild: Display: Compiling optional shaders took 0.702 seconds.
+[2017.11.27-00.23.08:722][872]LogSavePackage: Save=60.80ms
+[2017.11.27-00.23.08:722][872]LogSavePackage: Moving '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/MaskedUnlitSpriteMaterial03CD2CDD4F63D62F3A4FC088C69B1486.tmp' to '../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset'
+[2017.11.27-00.23.08:726][872]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset', retrying in .5s...
+[2017.11.27-00.23.09:227][872]LogFileManager: Error: Error deleting file '../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset'.
+[2017.11.27-00.23.09:227][872]LogSavePackage: Error: Error saving '../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset'
+[2017.11.27-00.23.09:256][872]LogSavePackage: Display: Finished SavePackage ../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset
+[2017.11.27-00.23.12:121][872]EditorErrors: New page: Save Output
+[2017.11.27-00.23.12:121][872]EditorErrors: Warning: Error saving '../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset'
+[2017.11.27-00.23.40:928][464]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.11.27-00.23.40:988][464]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2017.11.27-00.23.50:759][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.11.27-00.23.53:028][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.11.27-00.23.53:574][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.27-00.23.54:641][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.11.27-00.23.55:421][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2017.11.27-00.23.56:307][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.11.27-00.24.17:538][283]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.27-00.24.20:315][595]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.27-00.24.44:271][769]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.27-00.25.27:930][979]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.27-00.25.44:846][  3]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2017.11.27-00.26.40:120][379]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2017.11.27-00.26.45:059][412]LogSavePackage: Save=1381.41ms
+[2017.11.27-00.26.45:059][412]LogSavePackage: Moving '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/DemoMap_Auto218E637644267D8E927D2459C202C910B.tmp' to '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto2.umap'
+[2017.11.27-00.26.45:140][412]LogSavePackage: Display: Finished SavePackage //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto2.umap
+[2017.11.27-00.26.45:157][412]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DemoMap' took 4.673
+[2017.11.27-00.26.45:157][412]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.673
+[2017.11.27-00.26.45:180][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Images/BG/ShadeM2] ([1] browsable assets)...
+[2017.11.27-00.26.45:208][412]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Images/BG/ShadeM2.ShadeM2]
+[2017.11.27-00.26.45:208][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Images/BG/ShadeM2]
+[2017.11.27-00.26.45:460][412]LogSavePackage: Save=204.77ms
+[2017.11.27-00.26.45:460][412]LogSavePackage: Moving '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/ShadeM2_Auto2F124F0A6453ED453B01035877429BB81.tmp' to '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Assets/Images/BG/ShadeM2_Auto2.uasset'
+[2017.11.27-00.26.45:512][412]LogSavePackage: Display: Finished SavePackage //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Assets/Images/BG/ShadeM2_Auto2.uasset
+[2017.11.27-00.26.45:535][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Images/BG/Background_Front_Sprite] ([1] browsable assets)...
+[2017.11.27-00.26.45:557][412]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Images/BG/Background_Front_Sprite.Background_Front_Sprite]
+[2017.11.27-00.26.45:557][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Images/BG/Background_Front_Sprite]
+[2017.11.27-00.26.45:679][412]LogSavePackage: Save=65.53ms
+[2017.11.27-00.26.45:679][412]LogSavePackage: Moving '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Background_Front_Sprite_Auto203816086408F00912BA549A6A6ED7304.tmp' to '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Assets/Images/BG/Background_Front_Sprite_Auto2.uasset'
+[2017.11.27-00.26.45:727][412]LogSavePackage: Display: Finished SavePackage //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Assets/Images/BG/Background_Front_Sprite_Auto2.uasset
+[2017.11.27-00.26.45:745][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Images/BG/Background_Middle_Sprite] ([1] browsable assets)...
+[2017.11.27-00.26.45:756][412]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Images/BG/Background_Middle_Sprite.Background_Middle_Sprite]
+[2017.11.27-00.26.45:756][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Images/BG/Background_Middle_Sprite]
+[2017.11.27-00.26.45:888][412]LogSavePackage: Save=87.10ms
+[2017.11.27-00.26.45:888][412]LogSavePackage: Moving '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Background_Middle_Sprite_Auto22F1E12454B08AA58316F19B4FC136584.tmp' to '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Assets/Images/BG/Background_Middle_Sprite_Auto2.uasset'
+[2017.11.27-00.26.45:943][412]LogSavePackage: Display: Finished SavePackage //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Assets/Images/BG/Background_Middle_Sprite_Auto2.uasset
+[2017.11.27-00.26.45:961][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Images/BG/Background_Back_Sprite] ([1] browsable assets)...
+[2017.11.27-00.26.45:978][412]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Images/BG/Background_Back_Sprite.Background_Back_Sprite]
+[2017.11.27-00.26.45:978][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Images/BG/Background_Back_Sprite]
+[2017.11.27-00.26.46:082][412]LogSavePackage: Save=58.16ms
+[2017.11.27-00.26.46:082][412]LogSavePackage: Moving '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Background_Back_Sprite_Auto28013D7B841FCF9184C19CB8AE473A4FD.tmp' to '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Assets/Images/BG/Background_Back_Sprite_Auto2.uasset'
+[2017.11.27-00.26.46:127][412]LogSavePackage: Display: Finished SavePackage //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Assets/Images/BG/Background_Back_Sprite_Auto2.uasset
+[2017.11.27-00.26.46:127][412]LogFileHelpers: Auto-saving content packages took 0.967
+[2017.11.27-00.26.56:304][517]LogMaterial: Missing cached shader map for material PlatformMat, compiling. 
+[2017.11.27-00.26.56:387][517]LogMaterial: Missing cached shader map for material PlatformMat, compiling. 
+[2017.11.27-00.26.56:404][517]LogMaterial: Missing cached shader map for material PlatformMat, compiling. 
+[2017.11.27-00.26.57:644][587]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.11.27-00.26.57:644][587]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.26.57:644][587]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.26.58:739][667]LogMaterial: Missing cached shader map for material PlatformMat, compiling. 
+[2017.11.27-00.26.58:756][667]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-00.26.58:763][667]LogMaterial: Missing cached shader map for material PlatformMat, compiling. 
+[2017.11.27-00.26.58:810][667]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-00.26.59:883][729]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.27-00.26.59:883][729]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.26.59:883][729]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.27.01:390][820]LogMaterial: Missing cached shader map for material PlatformMat, compiling. 
+[2017.11.27-00.27.01:409][820]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-00.27.01:847][844]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.27-00.27.01:847][844]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.27.01:847][844]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.27.01:945][851]LogMaterial: Missing cached shader map for material PlatformMat, compiling. 
+[2017.11.27-00.27.01:964][851]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-00.27.02:397][873]LogMaterial: Missing cached shader map for material PlatformMat, compiling. 
+[2017.11.27-00.27.02:417][873]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-00.27.02:879][898]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.27-00.27.02:879][898]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.27.02:879][898]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.27.06:611][988]LogMaterial: Missing cached shader map for material PlatformMat, compiling. 
+[2017.11.27-00.27.06:635][988]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-00.27.07:050][ 10]LogMaterial: Missing cached shader map for material PlatformMat, compiling. 
+[2017.11.27-00.27.07:070][ 10]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-00.27.07:508][ 33]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.27-00.27.07:509][ 33]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.27.07:509][ 33]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.27.07:752][ 47]LogMaterial: Missing cached shader map for material PlatformMat, compiling. 
+[2017.11.27-00.27.07:775][ 47]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-00.27.08:063][ 62]LogMaterial: Missing cached shader map for material PlatformMat, compiling. 
+[2017.11.27-00.27.08:086][ 62]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-00.27.08:508][ 85]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.27-00.27.08:508][ 85]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.27.08:508][ 85]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.27.08:777][102]LogMaterial: Missing cached shader map for material PlatformMat, compiling. 
+[2017.11.27-00.27.08:799][102]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-00.27.09:255][126]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.27-00.27.09:255][126]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.27.09:255][126]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.27.09:680][148]LogMaterial: Missing cached shader map for material PlatformMat, compiling. 
+[2017.11.27-00.27.09:704][148]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-00.27.10:152][172]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.27-00.27.10:152][172]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.27.10:152][172]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.27.13:948][242]LogMaterial: Missing cached shader map for material PlatformMat, compiling. 
+[2017.11.27-00.27.14:010][242]LogMaterial: Missing cached shader map for material PlatformMat, compiling. 
+[2017.11.27-00.27.14:088][242]LogMaterial: Missing cached shader map for material PlatformMat, compiling. 
+[2017.11.27-00.27.14:193][242]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy PlatformMat, compiling. 
+[2017.11.27-00.27.14:350][242]TextureStreamingBuild: Display: Compiling optional shaders took 0.165 seconds.
+[2017.11.27-00.27.26:209][ 99]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-00.27.26:336][ 99]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-00.27.26:355][ 99]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-00.27.26:399][ 99]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-00.27.26:841][115]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.27-00.27.26:841][115]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.27.26:841][115]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.27.29:231][273]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-00.27.29:253][273]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-00.27.29:649][296]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.27-00.27.29:649][296]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.27.29:649][296]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.27.29:771][306]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-00.27.29:794][306]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-00.27.30:122][324]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-00.27.30:142][324]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-00.27.30:459][343]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-00.27.30:481][343]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-00.27.30:898][365]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.27-00.27.30:898][365]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.27.30:898][365]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.27.31:019][374]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-00.27.31:038][374]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-00.27.31:466][398]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.27-00.27.31:466][398]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.27.31:466][398]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.27.32:241][452]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-00.27.32:261][452]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-00.27.32:705][477]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.27-00.27.32:705][477]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.27.32:705][477]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.27.33:294][515]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-00.27.33:313][515]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-00.27.33:585][528]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-00.27.33:610][528]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-00.27.34:030][552]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.27-00.27.34:030][552]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.27.34:030][552]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.27.34:558][587]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-00.27.34:582][587]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-00.27.35:054][613]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.27-00.27.35:054][613]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.27.35:054][613]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.27.35:738][657]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-00.27.35:762][657]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-00.27.36:185][679]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.27-00.27.36:185][679]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-00.27.36:185][679]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.27-00.27.38:300][822]LogMaterialEditor: Applying material PlatformMat
+[2017.11.27-00.27.38:907][822]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-00.27.38:980][822]LogMaterial: Missing cached shader map for material PlatformMat, compiling. 
+[2017.11.27-00.27.39:052][822]LogMaterial: Missing cached shader map for material PlatformMat, compiling. 
+[2017.11.27-00.27.39:159][822]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy PlatformMat, compiling. 
+[2017.11.27-00.27.39:305][822]TextureStreamingBuild: Display: Compiling optional shaders took 0.155 seconds.
+[2017.11.27-00.29.03:637][755]MapCheck: New page: Map Check
+[2017.11.27-00.29.03:722][755]Cmd: MAP REBUILD ALLVISIBLE
+[2017.11.27-00.29.03:722][755]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.11.27-00.29.04:061][755]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.11.27-00.29.04:074][755]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy PlatformMat, compiling. 
+[2017.11.27-00.29.04:082][755]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2017.11.27-00.29.04:092][755]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2017.11.27-00.29.04:102][755]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2017.11.27-00.29.04:111][755]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2017.11.27-00.29.04:120][755]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy blinn1, compiling. 
+[2017.11.27-00.29.04:129][755]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2017.11.27-00.29.04:138][755]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy mat_main, compiling. 
+[2017.11.27-00.29.04:148][755]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy arm_main, compiling. 
+[2017.11.27-00.29.04:159][755]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy mat_arm_r, compiling. 
+[2017.11.27-00.29.04:168][755]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2017.11.27-00.29.04:178][755]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy dark_grey, compiling. 
+[2017.11.27-00.29.04:187][755]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy light_grey, compiling. 
+[2017.11.27-00.29.04:196][755]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy mat_black, compiling. 
+[2017.11.27-00.29.04:205][755]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy mat_white, compiling. 
+[2017.11.27-00.29.04:216][755]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy TranslucentUnlitSpriteMaterial, compiling. 
+[2017.11.27-00.29.04:927][755]TextureStreamingBuild: Display: Compiling optional shaders took 0.921 seconds.
+[2017.11.27-00.29.04:958][755]LogLevel: Display: Export Material TexCoord Scales took 0.031 seconds.
+[2017.11.27-00.29.04:970][755]TextureStreamingBuild: Display: Build Texture Streaming took 0.012 seconds.
+[2017.11.27-00.29.05:044][755]LightingResults: New page: Lighting Build - Nov 26, 2017, 8:29:05 AM
+[2017.11.27-00.29.05:366][755]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.27-00.29.05:550][755]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.27-00.29.05:573][755]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.27-00.29.06:594][755]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.27-00.29.06:594][755]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15760
+[2017.11.27-00.29.18:644][755]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.11.27-00.29.18:645][755]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.27-00.29.18:645][755]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.27-00.29.18:645][755]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.27-00.29.18:645][755]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.27-00.29.18:645][755]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.27-00.29.18:943][755]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.11.27-00.29.18:943][755]MapCheck: New page: DemoMap - Nov 26, 2017, 8:29:18 AM
+[2017.11.27-00.29.18:948][755]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2017.11.27-00.29.21:289][755]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 2,346.194ms to complete.
+[2017.11.27-00.29.21:312][755]LogEditorBuildUtils: Build time 0:17
+[2017.11.27-00.29.21:351][755]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer PlatformMat, compiling. 
+[2017.11.27-00.29.21:362][755]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer PlatformMat, compiling. 
+[2017.11.27-00.29.21:585][756]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2017.11.27-00.29.21:599][756]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2017.11.27-00.29.21:643][757]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2017.11.27-00.29.21:660][757]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2017.11.27-00.29.21:694][758]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2017.11.27-00.29.21:706][758]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2017.11.27-00.29.27:424][983]Job is a success!
+[2017.11.27-00.29.27:555][984]LogMaterial: Warning: Material /Game/Assets/Images/BG/PlatformMat.PlatformMat needed to have new flag set bUsedWithStaticLighting !
+[2017.11.27-00.29.27:558][984]LogMaterial: Missing cached shader map for material PlatformMat, compiling. 
+[2017.11.27-00.29.27:730][984]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2017.11.27-00.29.27:730][984]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2017.11.27-00.29.27:730][984]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2017.11.27-00.29.27:730][984]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2017.11.27-00.29.27:730][984]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2017.11.27-00.29.27:730][984]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X128)
+[2017.11.27-00.29.27:779][984]Lightmass on ANM-CA308-HP04: 2.96 sec total, 183 ms importing, 33 ms setup, 1.57 sec photons, 1.14 sec processing, 0 ms extra exporting [9/9 mappings]. Threads: 30.9 sec total, 1.45 sec processing.
+[2017.11.27-00.29.27:854][984]LogStaticLightingSystem: Illumination: 22.7 sec (86 ms encoding lightmaps, 43 ms encoding shadowmaps)
+[2017.11.27-00.29.27:854][984]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.27-00.29.27:854][984]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.11.27-00.29.28:633][984]DumpUnbuiltLightIteractions
+[2017.11.27-00.29.28:633][984]Lights with unbuilt interactions: 0
+[2017.11.27-00.29.28:633][984]
+[2017.11.27-00.29.28:633][984]Primitives with unbuilt interactions: 0
+[2017.11.27-00.29.28:648][985]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.27-00.29.28:648][985]MapCheck: New page: DemoMap - Nov 26, 2017, 8:29:28 AM
+[2017.11.27-00.29.29:252][985]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 603.878ms to complete.
+[2017.11.27-00.35.07:572][716]LogEditorViewport: Clicking on Actor (LMB): Bear_C (Bear)
+[2017.11.27-00.35.09:640][909]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-00.35.28:265][720]LogEditorViewport: Clicking on Actor (LMB): Bear_C (Bear)
+[2017.11.27-00.35.33:385][246]LogEditorViewport: Clicking on Actor (LMB): Bear_C (Bear)
+[2017.11.27-00.37.28:923][236]LogEditorViewport: Clicking on Actor (LMB): Bear_C (Bear)
+[2017.11.27-00.37.34:152][762]Cmd: TRANSACTION UNDO
+[2017.11.27-00.37.34:152][762]LogEditorTransaction: Undo Move Actors
+[2017.11.27-00.37.41:589][531]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-00.38.16:814][511]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-00.39.00:562][938]LogSavePackage: Save=1578.10ms
+[2017.11.27-00.39.00:562][938]LogSavePackage: Moving '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/DemoMap_Auto31A0703634601EB2E14A85A9E9240B626.tmp' to '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto3.umap'
+[2017.11.27-00.39.00:674][938]LogSavePackage: Display: Finished SavePackage //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_Auto3.umap
+[2017.11.27-00.39.00:698][938]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DemoMap' took 5.103
+[2017.11.27-00.39.00:698][938]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.103
+[2017.11.27-00.39.00:726][938]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Images/BG/PlatformMat] ([1] browsable assets)...
+[2017.11.27-00.39.00:752][938]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Images/BG/PlatformMat.PlatformMat]
+[2017.11.27-00.39.00:752][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Images/BG/PlatformMat]
+[2017.11.27-00.39.00:876][938]LogSavePackage: Save=76.33ms
+[2017.11.27-00.39.00:877][938]LogSavePackage: Moving '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/PlatformMat_Auto3F24C74274E9EEA3E7F8150BC81D80C6E.tmp' to '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Assets/Images/BG/PlatformMat_Auto3.uasset'
+[2017.11.27-00.39.00:931][938]LogSavePackage: Display: Finished SavePackage //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Assets/Images/BG/PlatformMat_Auto3.uasset
+[2017.11.27-00.39.00:951][938]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/DemoMap_BuiltData] ([1] browsable assets)...
+[2017.11.27-00.39.00:951][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/DemoMap_BuiltData]
+[2017.11.27-00.39.01:149][938]LogSavePackage: Save=155.26ms
+[2017.11.27-00.39.01:149][938]LogSavePackage: Moving '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/DemoMap_BuiltData_Auto3413D2CB74D5F1C70582807B4456EA12E.tmp' to '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_BuiltData_Auto3.uasset'
+[2017.11.27-00.39.01:195][938]LogSavePackage: Display: Finished SavePackage //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Autosaves/Game/Levels/DemoMap_BuiltData_Auto3.uasset
+[2017.11.27-00.39.01:195][938]LogFileHelpers: Auto-saving content packages took 0.487
+[2017.11.27-00.49.52:766][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DemoMap" FILE="//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.27-00.49.57:400][640]LogSavePackage: Save=1361.05ms
+[2017.11.27-00.49.57:400][640]LogSavePackage: Moving '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/DemoMap247C59CB43960087DB2556BAAB8E5D01.tmp' to '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap'
+[2017.11.27-00.49.57:515][640]LogSavePackage: Display: Finished SavePackage //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap
+[2017.11.27-00.49.57:678][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DemoMap_BuiltData" FILE="//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap_BuiltData.uasset" SILENT=true
+[2017.11.27-00.49.57:885][640]LogSavePackage: Save=167.56ms
+[2017.11.27-00.49.57:885][640]LogSavePackage: Moving '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/DemoMap_BuiltDataA25D37364629D8432038D0BAB60945F5.tmp' to '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap_BuiltData.uasset'
+[2017.11.27-00.49.57:953][640]LogSavePackage: Display: Finished SavePackage //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap_BuiltData.uasset
+[2017.11.27-00.50.00:470][738]LogSavePackage: Save=66.26ms
+[2017.11.27-00.50.00:470][738]LogSavePackage: Moving '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Background_Back_Sprite8173584E4E05C3054221BDB7804D4120.tmp' to '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Back_Sprite.uasset'
+[2017.11.27-00.50.00:544][738]LogSavePackage: Display: Finished SavePackage //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Back_Sprite.uasset
+[2017.11.27-00.50.00:681][738]LogSavePackage: Save=66.70ms
+[2017.11.27-00.50.00:681][738]LogSavePackage: Moving '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Background_Front_SpriteA90A96494911EB51EC2012B6F4AB4E4C.tmp' to '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Front_Sprite.uasset'
+[2017.11.27-00.50.00:755][738]LogSavePackage: Display: Finished SavePackage //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Front_Sprite.uasset
+[2017.11.27-00.50.00:894][738]LogSavePackage: Save=66.04ms
+[2017.11.27-00.50.00:894][738]LogSavePackage: Moving '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/Background_Middle_Sprite8783C34746B467F82364F2951404A2D8.tmp' to '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Middle_Sprite.uasset'
+[2017.11.27-00.50.00:966][738]LogSavePackage: Display: Finished SavePackage //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/Background_Middle_Sprite.uasset
+[2017.11.27-00.50.00:993][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Images/BG/PlatformMat" FILE="//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/PlatformMat.uasset" SILENT=true
+[2017.11.27-00.50.01:118][738]LogSavePackage: Save=76.58ms
+[2017.11.27-00.50.01:118][738]LogSavePackage: Moving '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/PlatformMatEA71755B4C452ED70F9583A51B3FB436.tmp' to '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/PlatformMat.uasset'
+[2017.11.27-00.50.01:190][738]LogSavePackage: Display: Finished SavePackage //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/PlatformMat.uasset
+[2017.11.27-00.50.01:220][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Images/BG/ShadeM2" FILE="//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/ShadeM2.uasset" SILENT=true
+[2017.11.27-00.50.01:375][738]LogSavePackage: Save=98.45ms
+[2017.11.27-00.50.01:375][738]LogSavePackage: Moving '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Saved/ShadeM20C5AF5074A3476A181E1D1B15911BDB8.tmp' to '//medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/ShadeM2.uasset'
+[2017.11.27-00.50.01:479][738]LogSavePackage: Display: Finished SavePackage //medusa/cyberwitch/unreal/github/cyberwitch/Cyberwitch_Project/Content/Assets/Images/BG/ShadeM2.uasset
+[2017.11.27-00.50.02:105][739]Cmd: QUIT_EDITOR
+[2017.11.27-00.50.02:142][739]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.27-00.50.02:142][739]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.27-00.50.02:176][739]LogExit: Preparing to exit.
+[2017.11.27-00.50.03:356][739]LogExit: Editor shut down
+[2017.11.27-00.50.03:368][739]LogExit: Transaction tracking system shut down
+[2017.11.27-00.50.04:089][739]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.27-00.50.04:089][739]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.27-00.50.04:089][739]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.27-00.50.04:089][739]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.27-00.50.04:192][739]LogExit: Object subsystem successfully closed.
+[2017.11.27-00.50.04:271][739]LogD3D11RHI: Shutdown
+[2017.11.27-00.50.04:271][739]LogD3D11RHI: CleanupD3DDevice
+[2017.11.27-00.50.04:277][739]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.27-00.50.04:289][739]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (536)
+[2017.11.27-00.50.04:289][739]LogModuleManager: Shutting down and abandoning module MaterialEditor (534)
+[2017.11.27-00.50.04:289][739]LogModuleManager: Shutting down and abandoning module TextureEditor (532)
+[2017.11.27-00.50.04:289][739]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.11.27-00.50.04:289][739]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.11.27-00.50.04:289][739]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.11.27-00.50.04:289][739]LogDirectoryWatcher: A directory notification for 'E:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.11.27-00.50.04:292][739]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.11.27-00.50.04:292][739]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.11.27-00.50.04:292][739]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.11.27-00.50.04:292][739]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.11.27-00.50.04:292][739]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.11.27-00.50.04:292][739]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.11.27-00.50.04:292][739]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.11.27-00.50.04:292][739]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.11.27-00.50.04:292][739]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.11.27-00.50.04:292][739]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.11.27-00.50.04:292][739]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.11.27-00.50.04:292][739]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.11.27-00.50.04:292][739]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.11.27-00.50.04:292][739]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.11.27-00.50.04:292][739]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.11.27-00.50.04:292][739]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.11.27-00.50.04:292][739]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.11.27-00.50.04:292][739]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.11.27-00.50.04:292][739]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.11.27-00.50.04:292][739]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.11.27-00.50.04:292][739]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.11.27-00.50.04:292][739]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.11.27-00.50.04:293][739]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.11.27-00.50.04:293][739]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.11.27-00.50.04:293][739]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.11.27-00.50.04:293][739]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.11.27-00.50.04:293][739]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.11.27-00.50.04:293][739]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.11.27-00.50.04:293][739]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.11.27-00.50.04:293][739]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.11.27-00.50.04:293][739]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.11.27-00.50.04:293][739]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.11.27-00.50.04:293][739]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.11.27-00.50.04:293][739]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.11.27-00.50.04:293][739]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.11.27-00.50.04:293][739]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.11.27-00.50.04:293][739]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.11.27-00.50.04:293][739]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.11.27-00.50.04:293][739]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.11.27-00.50.04:293][739]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.11.27-00.50.04:293][739]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.11.27-00.50.04:684][739]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.11.27-00.50.04:684][739]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.11.27-00.50.04:684][739]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.11.27-00.50.04:684][739]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.11.27-00.50.04:684][739]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.11.27-00.50.04:684][739]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.11.27-00.50.04:684][739]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.11.27-00.50.04:684][739]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.11.27-00.50.04:684][739]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.11.27-00.50.04:685][739]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.11.27-00.50.04:685][739]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.11.27-00.50.04:685][739]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.11.27-00.50.04:685][739]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.11.27-00.50.04:685][739]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.11.27-00.50.04:685][739]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.11.27-00.50.04:685][739]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.11.27-00.50.04:685][739]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.11.27-00.50.04:685][739]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.11.27-00.50.04:686][739]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.11.27-00.50.04:686][739]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.11.27-00.50.04:686][739]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.11.27-00.50.04:686][739]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.11.27-00.50.04:686][739]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.11.27-00.50.04:686][739]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.11.27-00.50.04:738][739]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.11.27-00.50.04:738][739]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.11.27-00.50.04:738][739]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.11.27-00.50.04:738][739]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.11.27-00.50.04:738][739]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.11.27-00.50.04:738][739]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.11.27-00.50.04:739][739]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.11.27-00.50.04:739][739]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.11.27-00.50.04:739][739]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.11.27-00.50.04:739][739]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.11.27-00.50.04:741][739]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.11.27-00.50.04:741][739]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.11.27-00.50.04:741][739]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.11.27-00.50.04:741][739]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.11.27-00.50.04:741][739]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.11.27-00.50.04:741][739]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.11.27-00.50.04:741][739]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.11.27-00.50.04:741][739]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.11.27-00.50.04:741][739]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.11.27-00.50.04:741][739]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.11.27-00.50.04:741][739]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.11.27-00.50.04:741][739]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.11.27-00.50.04:741][739]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.11.27-00.50.04:741][739]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.11.27-00.50.04:741][739]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.11.27-00.50.04:742][739]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.11.27-00.50.04:742][739]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.11.27-00.50.04:742][739]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.11.27-00.50.04:742][739]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.11.27-00.50.04:742][739]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.11.27-00.50.04:742][739]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.11.27-00.50.04:893][739]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.11.27-00.50.04:893][739]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.11.27-00.50.04:893][739]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.11.27-00.50.04:894][739]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.11.27-00.50.04:894][739]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.11.27-00.50.04:894][739]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.11.27-00.50.04:894][739]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.11.27-00.50.04:894][739]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.11.27-00.50.04:894][739]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.11.27-00.50.04:894][739]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.11.27-00.50.04:894][739]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.11.27-00.50.04:894][739]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.11.27-00.50.04:894][739]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.11.27-00.50.04:894][739]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.11.27-00.50.04:894][739]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.11.27-00.50.04:894][739]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.11.27-00.50.04:894][739]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.11.27-00.50.04:894][739]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.11.27-00.50.04:894][739]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.11.27-00.50.04:894][739]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.11.27-00.50.04:894][739]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.11.27-00.50.04:894][739]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.11.27-00.50.04:894][739]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.11.27-00.50.04:894][739]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.11.27-00.50.04:895][739]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.11.27-00.50.04:895][739]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.11.27-00.50.04:895][739]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.11.27-00.50.04:895][739]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.11.27-00.50.04:895][739]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.11.27-00.50.04:895][739]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.11.27-00.50.04:895][739]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.11.27-00.50.04:895][739]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.11.27-00.50.04:895][739]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.11.27-00.50.04:895][739]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.11.27-00.50.04:896][739]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.11.27-00.50.04:896][739]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.11.27-00.50.04:896][739]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.11.27-00.50.04:896][739]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.11.27-00.50.04:896][739]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.11.27-00.50.04:896][739]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.11.27-00.50.04:896][739]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.11.27-00.50.04:896][739]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.11.27-00.50.04:896][739]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.11.27-00.50.04:997][739]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.11.27-00.50.05:097][739]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.11.27-00.50.05:097][739]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.11.27-00.50.05:097][739]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.11.27-00.50.05:097][739]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.11.27-00.50.05:097][739]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.11.27-00.50.05:097][739]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.11.27-00.50.05:099][739]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.11.27-00.50.05:099][739]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.11.27-00.50.05:099][739]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.11.27-00.50.05:100][739]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.11.27-00.50.05:100][739]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.11.27-00.50.05:100][739]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.11.27-00.50.05:100][739]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.11.27-00.50.05:100][739]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.11.27-00.50.05:100][739]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.11.27-00.50.05:100][739]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.11.27-00.50.05:100][739]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.11.27-00.50.05:100][739]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.11.27-00.50.05:100][739]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.11.27-00.50.05:100][739]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.11.27-00.50.05:100][739]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.11.27-00.50.05:100][739]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.11.27-00.50.05:100][739]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.11.27-00.50.05:100][739]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.11.27-00.50.05:100][739]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.11.27-00.50.05:101][739]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.11.27-00.50.05:101][739]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.11.27-00.50.05:101][739]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.11.27-00.50.05:101][739]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.11.27-00.50.05:101][739]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.11.27-00.50.05:104][739]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.11.27-00.50.05:104][739]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.11.27-00.50.05:104][739]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.11.27-00.50.05:104][739]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.11.27-00.50.05:104][739]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.11.27-00.50.05:104][739]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.11.27-00.50.05:104][739]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.27-00.50.05:104][739]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.11.27-00.50.05:104][739]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.11.27-00.50.05:105][739]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.11.27-00.50.05:105][739]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.11.27-00.50.05:105][739]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.11.27-00.50.05:105][739]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.11.27-00.50.05:105][739]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.11.27-00.50.05:105][739]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.11.27-00.50.05:105][739]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.11.27-00.50.05:106][739]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.11.27-00.50.05:189][739]LogDerivedDataCache: Shutdown
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.11.27-00.50.05:189][739]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.11.27-00.50.05:190][739]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.11.27-00.50.05:190][739]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.11.27-00.50.05:190][739]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.11.27-00.50.05:190][739]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.11.27-00.50.05:190][739]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.11.27-00.50.05:190][739]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.11.27-00.50.05:190][739]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.11.27-00.50.05:190][739]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.11.27-00.50.05:190][739]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.11.27-00.50.05:190][739]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.11.27-00.50.05:190][739]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.11.27-00.50.05:190][739]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.11.27-00.50.05:190][739]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.11.27-00.50.05:190][739]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.11.27-00.50.05:190][739]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.11.27-00.50.05:190][739]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.11.27-00.50.05:190][739]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.11.27-00.50.05:190][739]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.27-00.50.05:190][739]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.27-00.50.05:190][739]LogOnline: Display: Unloading online subsystem: NULL
+[2017.11.27-00.50.05:190][739]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.27-00.50.05:190][739]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.27-00.50.05:190][739]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.27-00.50.05:190][739]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF3AED290-4AF2-2C52-D193-A3A748A1F241%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=573503e44da4967194696e8ad488360f%7C7f4b86a6a64e4f8ea5df33ec6f3f1682%7Cf75cc6c7-e916-4ae8-a63f-19c12e30397d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.27-00.50.05:200][739]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.27-00.50.05:202][739]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.27-00.50.05:202][739]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.27-00.50.05:202][739]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.27-00.50.05:202][739]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.27-00.50.05:202][739]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.27-00.50.05:202][739]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.27-00.50.05:202][739]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.27-00.50.05:205][739]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.27-00.50.05:205][739]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.27-00.50.05:205][739]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.27-00.50.05:205][739]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.27-00.50.05:205][739]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.27-00.50.05:205][739]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.27-00.50.05:205][739]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.27-00.50.05:206][739]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.27-00.50.05:206][739]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.27-00.50.05:206][739]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.27-00.50.05:206][739]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.27-00.50.05:235][739]LogExit: Exiting.
+[2017.11.27-00.50.05:304][739]Log file closed, 11/26/17 16:50:05
