@@ -6,7 +6,7 @@ This Software Requirements Specification (SRS) documents the requirements for th
 
 ## 5.1.1   Outline
 
-* 5.2.     CSCI Component Breakdown
+* 5.2     CSCI Component Breakdown
 * 5.3      Functional Requirements by CSC
 * 5.4      Performance Requirements by CSC
 * 5.5      Project Environment Requirements
