@@ -1,4 +1,4 @@
-# 7.0  Testing Intergration
+# 7.0  Testing Integration
 # 7.1   Introduction
 
 Rather than a formal set of test suites, the testing for Heartwired is very visual based. Once any member runs the game, he/she is quickly able to see what assets or pawns are working and which are not. The game is in need of play constant play testing to determine which of our mechanics is performing adequately and which part of the game is in need of debugging. After we having sufficiently debugged our game, we will follow a list of testing procedures to ensure that our game is running to our standards and the functionality of our game as been implemented sufficiently. The list of procedures we will test our game on is list below.
