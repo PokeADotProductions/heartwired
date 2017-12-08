@@ -1,0 +1,436 @@
+﻿Log file open, 12/08/17 00:09:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Cyberwitch_Project
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1467156671) SRandInit(-1467156671).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.098358
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.08-08.09.02:783][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.08-08.09.02:783][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.08-08.09.02:800][  0]LogInit: Computer: HECTOR
+[2017.12.08-08.09.02:800][  0]LogInit: User: PokeADotProductions
+[2017.12.08-08.09.02:800][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.12.08-08.09.02:800][  0]LogInit: High frequency timer resolution =2.835939 MHz
+[2017.12.08-08.09.02:800][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.12.08-08.09.02:800][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.08-08.09.02:800][  0]LogMemory: Process Physical Memory: 281.26 MB used, 281.26 MB peak
+[2017.12.08-08.09.02:800][  0]LogMemory: Process Virtual Memory: 277.94 MB used, 277.94 MB peak
+[2017.12.08-08.09.02:800][  0]LogMemory: Physical Memory: 6934.68 MB used,  9329.51 MB free, 16264.18 MB total
+[2017.12.08-08.09.02:800][  0]LogMemory: Virtual Memory: 702.12 MB used,  9329.51 MB free, 134217728.00 MB total
+[2017.12.08-08.09.02:932][  0]LogInit: Using OS detected language (en-US).
+[2017.12.08-08.09.02:932][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.08-08.09.02:935][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.08-08.09.03:583][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.08-08.09.03:613][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
+[2017.12.08-08.09.03:613][  0]LogD3D11RHI:       2018/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.12.08-08.09.03:619][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2017.12.08-08.09.03:619][  0]LogD3D11RHI:       128/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.12.08-08.09.03:620][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.08-08.09.03:620][  0]LogD3D11RHI:       0/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.08-08.09.03:620][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.08-08.09.03:625][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.08-08.09.03:625][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
+[2017.12.08-08.09.03:625][  0]LogWindows: EnumDisplayDevices:
+[2017.12.08-08.09.03:625][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2017.12.08-08.09.03:626][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:1)
+[2017.12.08-08.09.03:626][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2017.12.08-08.09.03:626][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.12.08-08.09.03:626][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
+[2017.12.08-08.09.03:626][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.12.08-08.09.03:626][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.12.08-08.09.03:626][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.12.08-08.09.03:640][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.08-08.09.03:653][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.08-08.09.03:659][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/PokeADotProductions/Documents/Programs/cyberwitch/Cyberwitch_Project/Intermediate/Shaders/WorkingDirectory/2848/).
+[2017.12.08-08.09.03:659][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/PokeADotProductions/AppData/Local/Temp/UnrealShaderWorkingDir/FCA3281A4763F79A87CB9492D6B2CE0E/'.
+[2017.12.08-08.09.03:659][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.08-08.09.04:458][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.08-08.09.04:502][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.08-08.09.04:546][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.08-08.09.04:589][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.08-08.09.04:634][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.08-08.09.04:678][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.08-08.09.04:721][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.08-08.09.04:764][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.08-08.09.04:800][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.08-08.09.04:842][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.08-08.09.04:888][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.08-08.09.04:930][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.08-08.09.04:974][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.08-08.09.05:015][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.08-08.09.05:058][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.08-08.09.05:143][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.08-08.09.05:143][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.08-08.09.05:175][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.08-08.09.05:258][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.08-08.09.05:283][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.08-08.09.05:324][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.08-08.09.05:367][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.08-08.09.05:410][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.08-08.09.05:452][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.08-08.09.05:452][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.08-08.09.05:844][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.08-08.09.05:920][  0]LogDerivedDataCache: Loaded boot cache 0.08s 93MB C:/Users/PokeADotProductions/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.08-08.09.05:920][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/PokeADotProductions/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.12.08-08.09.05:921][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/PokeADotProductions/Documents/Programs/cyberwitch/Cyberwitch_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.08-08.09.05:921][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.08-08.09.05:921][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/PokeADotProductions/Documents/Programs/cyberwitch/Cyberwitch_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.08-08.09.05:921][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.08-08.09.05:935][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.08-08.09.05:946][  0]LogDerivedDataCache: Using Local data cache path C:/Users/PokeADotProductions/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.08-08.09.05:956][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.08-08.09.05:956][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.08-08.09.05:956][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.08-08.09.05:957][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.08-08.09.06:185][  0]LogAssetRegistry: FAssetRegistry took 0.0252 seconds to start up
+[2017.12.08-08.09.06:309][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.08-08.09.06:656][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.08-08.09.06:694][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.08-08.09.06:694][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.08-08.09.06:694][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.08-08.09.06:694][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.08-08.09.06:694][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.08-08.09.06:715][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.12.08-08.09.07:140][  0]LogNetVersion: Cyberwitch_Project , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 51455869)
+[2017.12.08-08.09.07:383][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.065171 seconds
+[2017.12.08-08.09.07:389][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.12.08-08.09.07:389][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.12.08-08.09.07:389][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.08-08.09.07:446][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.08-08.09.09:853][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.08-08.09.09:892][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.08-08.09.10:491][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.08-08.09.10:875][  0]SourceControl: Source control is disabled
+[2017.12.08-08.09.10:875][  0]SourceControl: Source control is disabled
+[2017.12.08-08.09.10:920][  0]SourceControl: Source control is disabled
+[2017.12.08-08.09.10:962][  0]SourceControl: Source control is disabled
+[2017.12.08-08.09.11:489][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.08-08.09.11:711][  0]LogOcInput: OculusInput pre-init called
+[2017.12.08-08.09.11:950][  0]LogEngine: Initializing Engine...
+[2017.12.08-08.09.11:952][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.08-08.09.12:164][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.08-08.09.12:164][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.08-08.09.12:311][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.08-08.09.12:318][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.08-08.09.12:352][  0]LogInit: FAudioDevice initialized.
+[2017.12.08-08.09.12:449][  0]LogDerivedDataCache: Saved boot cache 0.10s 93MB C:/Users/PokeADotProductions/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.08-08.09.12:459][  0]LogInit: Texture streaming: Enabled
+[2017.12.08-08.09.12:571][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.08-08.09.12:783][  0]LogInit: Transaction tracking system initialized
+[2017.12.08-08.09.13:075][  0]BlueprintLog: New page: Editor Load
+[2017.12.08-08.09.13:918][  0]LocalizationService: Localization service is disabled
+[2017.12.08-08.09.14:487][  0]LogConsoleResponse: Display: 
+[2017.12.08-08.09.14:675][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.08-08.09.14:675][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.08-08.09.14:675][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.08-08.09.15:009][  0]LogFileCache: Scanning file cache for directory 'C:/Users/PokeADotProductions/Documents/Programs/cyberwitch/Cyberwitch_Project/Content/' took 0.02s
+[2017.12.08-08.09.15:517][  0]SourceControl: Source control is disabled
+[2017.12.08-08.09.15:518][  0]Cmd: MAP LOAD FILE="../../../../../../Users/PokeADotProductions/Documents/Programs/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.08-08.09.15:518][  0]LightingResults: New page: Lighting Build
+[2017.12.08-08.09.15:554][  0]MapCheck: New page: Map Check
+[2017.12.08-08.09.15:554][  0]LightingResults: New page: Lighting Build
+[2017.12.08-08.09.16:764][  0]LogLinker: Warning: Can't find file '/Game/Levels/DemoMap_BuiltData'
+[2017.12.08-08.09.16:764][  0]LogLinker: Warning: Can't find file for asset '/Game/Levels/DemoMap_BuiltData' while loading ../../../../../../Users/PokeADotProductions/Documents/Programs/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap.
+[2017.12.08-08.09.16:764][  0]LoadErrors: Error: /Game/Levels/DemoMap : Can't find file for asset. /Game/Levels/DemoMap_BuiltData
+[2017.12.08-08.09.16:795][  0]LogLinker: Warning: Can't find file '/Game/Levels/DemoMap_BuiltData'
+[2017.12.08-08.09.16:795][  0]LogLinker: Warning: Can't find file for asset '/Game/Levels/DemoMap_BuiltData' while loading ../../../../../../Users/PokeADotProductions/Documents/Programs/cyberwitch/Cyberwitch_Project/Content/Levels/DemoMap.umap.
+[2017.12.08-08.09.16:795][  0]LoadErrors: Error: /Game/Levels/DemoMap : Can't find file for asset. /Game/Levels/DemoMap_BuiltData
+[2017.12.08-08.09.16:800][  0]LogLinker: Warning: Can't find file '/Game/Levels/DemoMap_BuiltData'
+[2017.12.08-08.09.16:800][  0]LogLinker: Warning: Can't find file for asset '/Game/Levels/DemoMap_BuiltData' while loading NULL.
+[2017.12.08-08.09.16:801][  0]LogLinker: Warning: Can't find file '/Game/Levels/DemoMap_BuiltData'
+[2017.12.08-08.09.16:801][  0]LogLinker: Warning: Can't find file for asset '/Game/Levels/DemoMap_BuiltData' while loading NULL.
+[2017.12.08-08.09.16:858][  0]LogLinker: Warning: Can't find file '/Game/Levels/DemoMap_BuiltData'
+[2017.12.08-08.09.16:858][  0]LoadErrors: Failed to load /Game/Levels/DemoMap_BuiltData.DemoMap_BuiltData Referenced by PersistentLevel
+[2017.12.08-08.09.16:858][  0]LogLinker: Warning: Can't find file for asset '/Game/Levels/DemoMap_BuiltData' while loading NULL.
+[2017.12.08-08.09.16:858][  0]LoadErrors: Failed to load /Game/Levels/DemoMap_BuiltData.DemoMap_BuiltData Referenced by PersistentLevel
+[2017.12.08-08.09.17:002][  0]LogTexture: Display: Building textures: TEX_Taliah_S (AutoDXT, 4096X4096)
+[2017.12.08-08.09.17:002][  0]LogMaterial: Missing cached shader map for material mat_white, compiling. 
+[2017.12.08-08.09.20:379][  0]LogTexture: Display: Building textures: TEX_Taliah_N (BC5, 4096X4096)
+[2017.12.08-08.09.25:489][  0]LogTexture: Display: Building textures: HealthBar_Portrait_Taliah (AutoDXT, 464X508)
+[2017.12.08-08.09.25:490][  0]LogTexture: Display: Building textures: HealthBar_Portrait_Bear (AutoDXT, 464X508)
+[2017.12.08-08.09.25:490][  0]LogTexture: Display: Building textures: TEX_Taliah_D (AutoDXT, 4096X4096)
+[2017.12.08-08.09.25:490][  0]LogTexture: Display: Building textures: HealthBar_Heart_Full (AutoDXT, 496X508)
+[2017.12.08-08.09.25:490][  0]LogTexture: Display: Building textures: HealthBar_Heart_Empty (AutoDXT, 440X508)
+[2017.12.08-08.09.25:490][  0]LogTexture: Display: Building textures: HealthBar_Backing (AutoDXT, 2000X404)
+[2017.12.08-08.09.25:490][  0]LogTexture: Display: Building textures: HealthBar_PortraitFrame (AutoDXT, 640X508)
+[2017.12.08-08.09.25:490][  0]LogTexture: Display: Building textures: DialoguePortrait_Taliah_Neutral (BGRA8, 890X1322)
+[2017.12.08-08.09.25:490][  0]LogTexture: Display: Building textures: DialogueBoxDark (BGRA8, 1664X378)
+[2017.12.08-08.09.25:490][  0]LogTexture: Display: Building textures: Arrow_Static (BGRA8, 58X39)
+[2017.12.08-08.09.25:490][  0]LogTexture: Display: Building textures: Arrow_Hover (BGRA8, 58X39)
+[2017.12.08-08.09.25:490][  0]LogTexture: Display: Building textures: Background_Middle (AutoDXT, 5000X2000)
+[2017.12.08-08.09.25:490][  0]LogMaterial: Missing cached shader map for material mat_main, compiling. 
+[2017.12.08-08.09.25:611][  0]LogStaticMesh: Building static mesh MDL_rock...
+[2017.12.08-08.09.25:668][  0]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Environment/Interactables/Meshes/MDL_rock.MDL_rock
+[2017.12.08-08.09.25:682][  0]LogMaterial: Missing cached shader map for material rock_texture_temp, compiling. 
+[2017.12.08-08.09.25:727][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/BEAR/Animations/ANIM_Bear_smash.ANIM_Bear_smash
+[2017.12.08-08.09.25:736][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/BEAR/Animations/ANIM_Bear_death.ANIM_Bear_death
+[2017.12.08-08.09.25:739][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/BEAR/Animations/ANIM_Bear_attack.ANIM_Bear_attack
+[2017.12.08-08.09.25:896][  0]LogTexture: Display: Building textures: TEX_Bear_N (BC5, 2048X2048)
+[2017.12.08-08.09.25:896][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Taliah/Animations/ANIM_Taliah_fall.ANIM_Taliah_fall
+[2017.12.08-08.09.25:903][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Taliah/Animations/ANIM_Taliah_death.ANIM_Taliah_death
+[2017.12.08-08.09.26:144][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Taliah/Animations/ANIM_Taliah_run.ANIM_Taliah_run
+[2017.12.08-08.09.26:152][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Taliah/Animations/ANIM_Taliah_SwingF.ANIM_Taliah_SwingF
+[2017.12.08-08.09.26:161][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Taliah/Animations/ANIM_Taliah_sneak.ANIM_Taliah_sneak
+[2017.12.08-08.09.26:170][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Taliah/Animations/ANIM_Taliah_jumpStart.ANIM_Taliah_jumpStart
+[2017.12.08-08.09.26:173][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Taliah/Animations/ANIM_Taliah_jumpEnd.ANIM_Taliah_jumpEnd
+[2017.12.08-08.09.26:176][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Taliah/Animations/ANIM_Taliah_hookshot_start.ANIM_Taliah_hookshot_start
+[2017.12.08-08.09.26:179][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Taliah/Animations/ANIM_Taliah_hookshot_hangin.ANIM_Taliah_hookshot_hangin
+[2017.12.08-08.09.26:180][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Taliah/Animations/ANIM_Taliah_hookshot.ANIM_Taliah_hookshot
+[2017.12.08-08.09.26:268][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave TALLIAH_FS_04...
+[2017.12.08-08.09.26:306][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave TALLIAH_FS_03...
+[2017.12.08-08.09.26:321][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave TALLIAH_FS_02...
+[2017.12.08-08.09.26:335][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave TALLIAH_FS_01...
+[2017.12.08-08.09.26:350][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave TALLIAH_FS_10...
+[2017.12.08-08.09.26:370][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave TALLIAH_FS_09...
+[2017.12.08-08.09.26:386][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave TALLIAH_FS_08...
+[2017.12.08-08.09.26:414][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave TALLIAH_FS_07...
+[2017.12.08-08.09.26:425][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave TALLIAH_FS_06...
+[2017.12.08-08.09.26:435][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave TALLIAH_FS_05...
+[2017.12.08-08.09.26:453][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave TALLIAH_FS_16...
+[2017.12.08-08.09.26:470][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave TALLIAH_FS_15...
+[2017.12.08-08.09.26:480][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave TALLIAH_FS_14...
+[2017.12.08-08.09.26:509][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave TALLIAH_FS_13...
+[2017.12.08-08.09.26:526][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave TALLIAH_FS_12...
+[2017.12.08-08.09.26:555][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave TALLIAH_FS_11...
+[2017.12.08-08.09.26:576][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave Hookshot_01...
+[2017.12.08-08.09.26:618][  0]LogLinker: Warning: Can't find file '/Game/Assets/Sounds/Taliah/Hookshot/Hookshot_03'
+[2017.12.08-08.09.26:618][  0]LogLinker: Warning: Can't find file '/Game/Assets/Sounds/Taliah/Hookshot/Hookshot_03'
+[2017.12.08-08.09.26:618][  0]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Assets/Sounds/Taliah/Hookshot/Hookshot_03.Hookshot_03'
+[2017.12.08-08.09.26:619][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave TALLIAH_FS_20...
+[2017.12.08-08.09.26:641][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave TALLIAH_FS_19...
+[2017.12.08-08.09.26:656][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave TALLIAH_FS_18...
+[2017.12.08-08.09.26:679][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave TALLIAH_FS_17...
+[2017.12.08-08.09.26:742][  0]LogMaterial: Missing cached shader map for material ShadeM2, compiling. 
+[2017.12.08-08.09.30:443][  0]LogTexture: Display: Building textures: TEX_Bear_D (AutoDXT, 2048X2048)
+[2017.12.08-08.09.30:497][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave Hookshot_02...
+[2017.12.08-08.09.30:545][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Pig/Animations/ANIM_Pig_attack.ANIM_Pig_attack
+[2017.12.08-08.09.30:602][  0]LogTexture: Display: Building textures: Background_Back (AutoDXT, 5000X2000)
+[2017.12.08-08.09.30:603][  0]LogStaticMesh: Building static mesh MDL_Tree...
+[2017.12.08-08.09.30:610][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Environment/Interactables/Meshes/MDL_Tree.MDL_Tree
+[2017.12.08-08.09.30:757][  0]LogMaterial: Missing cached shader map for material PlatformMat, compiling. 
+[2017.12.08-08.09.30:822][  0]LogMaterial: Missing cached shader map for material StealthZOneMat_TEMP, compiling. 
+[2017.12.08-08.09.30:887][  0]LogMaterial: Missing cached shader map for material highlight-texture-temp, compiling. 
+[2017.12.08-08.09.31:521][  0]LogMaterial: Missing cached shader map for material MAT_Bear, compiling. 
+[2017.12.08-08.09.31:963][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Pig/Animations/ANIM_Pig_death.ANIM_Pig_death
+[2017.12.08-08.09.31:974][  0]LogAIModule: Creating AISystem for world DemoMap
+[2017.12.08-08.09.32:038][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.08-08.09.32:088][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.08-08.09.32:186][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 97.579ms to complete.
+[2017.12.08-08.09.32:186][  0]LogFileHelpers: Loading map 'DemoMap' took 16.669
+[2017.12.08-08.09.32:276][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.08-08.09.32:276][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.08-08.09.32:399][  0]LogCollectionManager: Loaded 0 collections in 0.002067 seconds
+[2017.12.08-08.09.32:502][  0]LogFileCache: Scanning file cache for directory 'C:/Users/PokeADotProductions/Documents/Programs/cyberwitch/Cyberwitch_Project/Saved/Collections/' took 0.01s
+[2017.12.08-08.09.32:502][  0]LogFileCache: Scanning file cache for directory 'C:/Users/PokeADotProductions/Documents/Programs/cyberwitch/Cyberwitch_Project/Content/Developers/PokeADotProductions/Collections/' took 0.01s
+[2017.12.08-08.09.32:502][  0]LogFileCache: Scanning file cache for directory 'C:/Users/PokeADotProductions/Documents/Programs/cyberwitch/Cyberwitch_Project/Content/Collections/' took 0.01s
+[2017.12.08-08.09.32:502][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.08-08.09.32:515][  0]LogContentBrowser: Native class hierarchy populated in 0.0133 seconds. Added 2386 classes and 500 folders.
+[2017.12.08-08.09.32:604][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.12.08-08.09.32:654][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.12.08-08.09.32:712][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.12.08-08.09.32:741][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.08-08.09.32:743][  0]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.08-08.09.32:752][  0]LogSlate: Took 0.000601 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.08-08.09.32:910][  0]LogRenderer: Reallocating scene render targets to support 932x520 Format 10 NumSamples 1 (Frame:1).
+[2017.12.08-08.09.33:417][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.12.08-08.09.33:417][  0]LogLoad: (Engine Initialization) Total time: 32.07 seconds
+[2017.12.08-08.09.33:417][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.08-08.09.33:418][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.08-08.09.33:493][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.08-08.09.33:612][  0]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.08-08.09.33:636][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/PokeADotProductions/Documents/Programs/cyberwitch/Cyberwitch_Project/Content/' took 0.16s
+[2017.12.08-08.09.33:655][  1]LogAssetRegistry: Asset discovery search completed in 27.4909 seconds
+[2017.12.08-08.09.33:658][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.08-08.09.33:658][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000081 seconds (updated 0 objects)
+[2017.12.08-08.09.34:585][ 33]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.08-08.09.40:179][310]LogAudioDerivedData: Display: Building compressed audio format OGG wave tutorial_music...
+[2017.12.08-08.10.11:638][239]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.08-08.10.12:056][239]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 113 classes and 0 folders.
+[2017.12.08-08.10.12:725][239]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.08-08.10.17:219][447]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.08-08.11.30:887][877]BlueprintLog: New page: Compile PauseMenu
+[2017.12.08-08.11.31:601][905]LogSavePackage: Save=37.04ms
+[2017.12.08-08.11.31:601][905]LogSavePackage: Moving '../../../../../../Users/PokeADotProductions/Documents/Programs/cyberwitch/Cyberwitch_Project/Saved/PauseMenu60103296402C78571FB8FDA30EB8AAB6.tmp' to '../../../../../../Users/PokeADotProductions/Documents/Programs/cyberwitch/Cyberwitch_Project/Content/Blueprints/UI/PauseMenu.uasset'
+[2017.12.08-08.11.31:604][905]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PokeADotProductions/Documents/Programs/cyberwitch/Cyberwitch_Project/Content/Blueprints/UI/PauseMenu.uasset
+[2017.12.08-08.11.44:211][492]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2017.12.08-08.11.44:211][492]LogTexture: Display: Building textures: TEX_floatingPlatform_R (AutoDXT, 2048X2048)
+[2017.12.08-08.11.44:211][492]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2017.12.08-08.11.44:211][492]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2017.12.08-08.11.44:211][492]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2017.12.08-08.11.44:211][492]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X128)
+[2017.12.08-08.11.44:211][492]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 32X32)
+[2017.12.08-08.11.44:211][492]LogTexture: Display: Building textures: TEX_floatingPlatform_NM (BC5, 2048X2048)
+[2017.12.08-08.11.44:211][492]LogTexture: Display: Building textures: TEX_floatingPlatform_D (AutoDXT, 2048X2048)
+[2017.12.08-08.11.44:451][492]LogTexture: Display: Building textures: TEX_Haybale2_R (AutoDXT, 2048X2048)
+[2017.12.08-08.11.44:451][492]LogMaterial: Missing cached shader map for material MAT_FloatingPlatform, compiling. 
+[2017.12.08-08.11.44:503][492]LogStaticMesh: Building static mesh MDL_FloatingPlatform...
+[2017.12.08-08.11.44:507][492]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Environment/Platforms/Meshes/MDL_FloatingPlatform.MDL_FloatingPlatform
+[2017.12.08-08.11.44:534][492]LogStaticMesh: Building static mesh MDL_Platform...
+[2017.12.08-08.11.44:573][492]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Environment/Platforms/Meshes/MDL_Platform.MDL_Platform
+[2017.12.08-08.11.44:579][492]LogStaticMesh: Building static mesh MDL_Crane...
+[2017.12.08-08.11.44:651][492]LogTexture: Display: Building textures: TEX_Haybale2_NM (BC5, 2048X2048)
+[2017.12.08-08.11.44:651][492]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/Environment/Static_Props/Meshes/MDL_Crane.MDL_Crane
+[2017.12.08-08.11.44:659][492]LogStaticMesh: Building static mesh MDL_Haybale2...
+[2017.12.08-08.11.44:691][492]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Environment/Interactables/Meshes/MDL_Haybale2.MDL_Haybale2
+[2017.12.08-08.11.44:884][492]LogTexture: Display: Building textures: TEX_Haybale2_D (AutoDXT, 2048X2048)
+[2017.12.08-08.11.47:774][492]LogMaterial: Missing cached shader map for material Mat_HayBale2, compiling. 
+[2017.12.08-08.11.47:796][492]LogMaterial: Missing cached shader map for material MAT_Crane, compiling. 
+[2017.12.08-08.11.47:822][492]LogAIModule: Creating AISystem for world Tutorial
+[2017.12.08-08.11.47:855][492]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.08-08.11.47:898][492]Cmd: MAP LOAD FILE="../../../../../../Users/PokeADotProductions/Documents/Programs/cyberwitch/Cyberwitch_Project/Content/Levels/Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.08-08.11.47:898][492]LightingResults: New page: Lighting Build
+[2017.12.08-08.11.47:899][492]LoadErrors: New page: Loading map: Tutorial.umap
+[2017.12.08-08.11.47:901][492]MapCheck: New page: Map Check
+[2017.12.08-08.11.47:901][492]LightingResults: New page: Lighting Build
+[2017.12.08-08.11.47:974][492]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.08-08.11.48:258][492]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.08-08.11.48:351][492]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 93.258ms to complete.
+[2017.12.08-08.11.48:352][492]LogFileHelpers: Loading map 'Tutorial' took 0.455
+[2017.12.08-08.12.23:493][173]BlueprintLog: New page: Compile Tutorial
+[2017.12.08-08.12.25:195][247]LogSavePackage: Save=234.51ms
+[2017.12.08-08.12.25:195][247]LogSavePackage: Moving '../../../../../../Users/PokeADotProductions/Documents/Programs/cyberwitch/Cyberwitch_Project/Saved/Tutorial51AB06344E625C83179E3EBD9AA1F140.tmp' to '../../../../../../Users/PokeADotProductions/Documents/Programs/cyberwitch/Cyberwitch_Project/Content/Levels/Tutorial.umap'
+[2017.12.08-08.12.25:198][247]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/PokeADotProductions/Documents/Programs/cyberwitch/Cyberwitch_Project/Content/Levels/Tutorial.umap
+[2017.12.08-08.12.25:343][247]LogFileHelpers: Saving map 'Tutorial' took 0.522
+[2017.12.08-08.12.36:023][849]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2017.12.08-08.12.36:456][853]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.218 s
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: === Handled ensure: ===
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: 
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: Ensure condition failed: Cast<APawn>(NewUpdatedComponent->GetOwner()) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Engine\Private\Components\PawnMovementComponent.cpp] [Line: 16]
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: FloatingPawnMovement must update a component owned by a Pawn
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: Stack: 
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000E5253E36
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000E4FDC2D2
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000E4FF4746
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000E1EC1F23
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000E1EA9965
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000E1A1E544
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000E1A25E21
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000E1A07E03
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000E1A2A89E
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000E235701C
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000E23573F7
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000E04C0785
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000E0CC9F7E
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000E0C5C312
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000E0939484
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000E0163A9D
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000E043D7E5
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000E043B68B
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000E0CCD646
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor.exe!0x00000000518B534A
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor.exe!0x00000000518C3970
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor.exe!0x00000000518C39EA
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor.exe!0x00000000518D02D9
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: UE4Editor.exe!0x00000000518D1C47
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: KERNEL32.DLL!0x0000000039561FE4
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: ntdll.dll!0x000000003B44EF91
+[2017.12.08-08.12.36:456][853]LogOutputDevice: Error: 
+[2017.12.08-08.12.36:463][853]LogStats:                SubmitErrorReport -  0.000 s
