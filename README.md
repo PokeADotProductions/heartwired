@@ -1,3 +1,3 @@
-![Heartwired Logo](https://raw.githubusercontent.com/sashadmitrieva96/heartwired/master/docs/logo.png)
+![Heartwired Logo](https://raw.githubusercontent.com/sashadmitrieva96/heartwired/master/docs/Logo.png)
 
 Heartwired is a puzzle-platformer game application that will allow users to control characters to maneuver a three-dimensional environment and solve a variety of logic puzzles. The player can switch between two characters, B.E.A.R. and Taliah. Each character possesses unique abilities that can impact environmental obstacles. The game was made using the Blueprints system in Unreal Engine 4. The user’s experience is informed by a Health UI and interactable 3D assets created in Maya. The programming team also worked with a team of five CG artists, a composer, a concept artist, a sound designer, and a screenwriter to create this product.
