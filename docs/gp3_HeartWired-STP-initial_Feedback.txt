@@ -1,0 +1,21 @@
+Hi, HeartWired team ----
+
+Very good work implementing a difficult document for your project type.
+
+You have captured the idea most bodaciously.
+
+Nothing to fix for this one.  I like the way you have presented the various
+activities that each character must perform, and structured it like a sort
+of "checklist".
+
+One thing that's missing is the module dependencies section.  I know it
+seems redundant, but in the industry, even if a section is empty, it still
+must be accounted for in the document.  Usually it will be the section
+header, followed by a one-liner that says, "This section is not applicable"
+or something of that nature.  Quality Assurance people *LIVE* to find that
+kind of pea-dinkly stuff and flag you on it.  Just FYI.....
+
+You have 10% out of 10% for this document, which is an A-plus.
+
+Nice work!
+
