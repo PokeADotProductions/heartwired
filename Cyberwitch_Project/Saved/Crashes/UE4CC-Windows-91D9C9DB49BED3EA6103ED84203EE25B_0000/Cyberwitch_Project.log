@@ -1,0 +1,716 @@
+﻿Log file open, 01/27/18 18:44:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Cyberwitch_Project
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-685930167) SRandInit(-685930167).
+LogTaskGraph: Started task graph with 5 named threads and 53 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.609946
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.15.0
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: E:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.28-02.44.53:483][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.28-02.44.53:483][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.28-02.44.53:546][  0]LogInit: Computer: ANM-CA308-HP05
+[2018.01.28-02.44.53:546][  0]LogInit: User: grichar6
+[2018.01.28-02.44.53:546][  0]LogInit: CPU Page size=4096, Cores=20
+[2018.01.28-02.44.53:546][  0]LogInit: High frequency timer resolution =2.533195 MHz
+[2018.01.28-02.44.53:546][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2018.01.28-02.44.53:546][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.28-02.44.53:546][  0]LogMemory: Process Physical Memory: 291.37 MB used, 291.37 MB peak
+[2018.01.28-02.44.53:546][  0]LogMemory: Process Virtual Memory: 291.29 MB used, 291.29 MB peak
+[2018.01.28-02.44.53:546][  0]LogMemory: Physical Memory: 12726.92 MB used,  52724.98 MB free, 65451.91 MB total
+[2018.01.28-02.44.53:546][  0]LogMemory: Virtual Memory: 735.12 MB used,  52724.98 MB free, 134217728.00 MB total
+[2018.01.28-02.44.53:809][  0]LogInit: Using OS detected language (en-US).
+[2018.01.28-02.44.53:809][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.28-02.44.53:813][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.28-02.44.54:760][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.28-02.44.54:801][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M4000' (Feature Level 11_0)
+[2018.01.28-02.44.54:801][  0]LogD3D11RHI:       8152/0/32725 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.28-02.44.54:803][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.28-02.44.54:803][  0]LogD3D11RHI:       0/0/32725 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.28-02.44.54:803][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.28-02.44.54:810][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.28-02.44.54:810][  0]LogD3D11RHI:     GPU DeviceId: 0x13f1 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.28-02.44.54:810][  0]LogWindows: EnumDisplayDevices:
+[2018.01.28-02.44.54:811][  0]LogWindows:    0. 'NVIDIA Quadro M4000' (P:1 D:1)
+[2018.01.28-02.44.54:811][  0]LogWindows:    1. 'NVIDIA Quadro M4000' (P:0 D:1)
+[2018.01.28-02.44.54:811][  0]LogWindows:    2. 'NVIDIA Quadro M4000' (P:0 D:0)
+[2018.01.28-02.44.54:811][  0]LogWindows:    3. 'NVIDIA Quadro M4000' (P:0 D:0)
+[2018.01.28-02.44.54:811][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.01.28-02.44.54:811][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M4000
+[2018.01.28-02.44.54:811][  0]LogD3D11RHI:   Driver Version: 385.90 (internal:22.21.13.8590, unified:385.90)
+[2018.01.28-02.44.54:811][  0]LogD3D11RHI:      Driver Date: 10-30-2017
+[2018.01.28-02.44.54:811][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.01.28-02.44.54:829][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.28-02.44.54:841][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.28-02.44.54:929][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (W:/unreal/github/heartwired/Cyberwitch_Project/Intermediate/Shaders/WorkingDirectory/19132/).
+[2018.01.28-02.44.54:929][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'E:/Users/grichar6/AppData/Local/Temp/UnrealShaderWorkingDir/0FA617424AEB2A38EA29658FCE5F4470/'.
+[2018.01.28-02.44.54:929][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.28-02.44.56:086][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.28-02.44.56:175][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.28-02.44.56:268][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.28-02.44.56:354][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.28-02.44.56:435][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.28-02.44.56:526][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.28-02.44.56:639][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.28-02.44.56:723][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.28-02.44.56:790][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.28-02.44.56:881][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.28-02.44.56:988][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.28-02.44.57:070][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.28-02.44.57:150][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.28-02.44.57:234][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.28-02.44.57:314][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.28-02.44.57:476][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.28-02.44.57:476][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.28-02.44.57:572][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.28-02.44.57:711][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.28-02.44.57:771][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.28-02.44.57:858][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.28-02.44.57:944][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.28-02.44.58:029][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.28-02.44.58:130][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.28-02.44.58:130][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.28-02.44.58:920][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.28-02.44.59:073][  0]LogDerivedDataCache: Loaded boot cache 0.15s 93MB E:/Users/grichar6/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.01.28-02.44.59:073][  0]LogDerivedDataCache: Display: Loaded Boot cache: E:/Users/grichar6/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.01.28-02.44.59:074][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file W:/unreal/github/heartwired/Cyberwitch_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.28-02.44.59:074][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.28-02.44.59:075][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file W:/unreal/github/heartwired/Cyberwitch_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.28-02.44.59:075][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.28-02.44.59:098][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.28-02.44.59:109][  0]LogDerivedDataCache: Using Local data cache path E:/Users/grichar6/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.28-02.44.59:123][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.28-02.44.59:124][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.28-02.44.59:124][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.28-02.44.59:124][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.28-02.44.59:461][  0]LogAssetRegistry: FAssetRegistry took 0.0335 seconds to start up
+[2018.01.28-02.44.59:901][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.28-02.45.00:134][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.01.28-02.45.00:591][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.28-02.45.00:658][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.28-02.45.00:658][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.28-02.45.00:658][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.28-02.45.00:658][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.28-02.45.00:658][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.28-02.45.01:223][  0]LogNetVersion: Cyberwitch_Project , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 51455869)
+[2018.01.28-02.45.02:353][  0]LogPackageLocalizationCache: Processed 6 localized package path(s) for 2 prioritized culture(s) in 0.909689 seconds
+[2018.01.28-02.45.02:359][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.01.28-02.45.02:359][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2018.01.28-02.45.02:359][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.28-02.45.02:466][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.28-02.45.06:376][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.28-02.45.06:438][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.28-02.45.06:438][  0]LogDirectoryWatcher: A directory notification failed for 'W:/unreal/github/heartwired/Cyberwitch_Project/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.01.28-02.45.07:423][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.28-02.45.08:098][  0]SourceControl: Source control is disabled
+[2018.01.28-02.45.08:098][  0]SourceControl: Source control is disabled
+[2018.01.28-02.45.08:185][  0]SourceControl: Source control is disabled
+[2018.01.28-02.45.08:269][  0]SourceControl: Source control is disabled
+[2018.01.28-02.45.09:206][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.28-02.45.09:629][  0]LogOcInput: OculusInput pre-init called
+[2018.01.28-02.45.10:052][  0]LogPython: Python VM initialized: 2.7.10 (default, Aug 21 2015, 12:07:58) [MSC v.1500 64 bit (AMD64)]
+[2018.01.28-02.45.10:052][  0]LogPython: Python Scripts search path: W:/unreal/github/heartwired/Cyberwitch_Project/Content/Scripts
+[2018.01.28-02.45.10:070][  0]LogPython: Error: No module named ue_site
+[2018.01.28-02.45.10:527][  0]LogEngine: Initializing Engine...
+[2018.01.28-02.45.10:529][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.28-02.45.10:858][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.28-02.45.10:858][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.28-02.45.11:078][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.28-02.45.11:095][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-02.45.11:119][  0]LogInit: FAudioDevice initialized.
+[2018.01.28-02.45.11:265][  0]LogDerivedDataCache: Saved boot cache 0.15s 93MB E:/Users/grichar6/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.01.28-02.45.11:297][  0]LogInit: Texture streaming: Enabled
+[2018.01.28-02.45.11:474][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.28-02.45.11:819][  0]LogInit: Transaction tracking system initialized
+[2018.01.28-02.45.12:314][  0]BlueprintLog: New page: Editor Load
+[2018.01.28-02.45.13:843][  0]LocalizationService: Localization service is disabled
+[2018.01.28-02.45.14:951][  0]LogConsoleResponse: Display: 
+[2018.01.28-02.45.15:183][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.28-02.45.15:183][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.28-02.45.15:183][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.28-02.45.15:988][  0]LogFileCache: Scanning file cache for directory 'W:/unreal/github/heartwired/Cyberwitch_Project/Content/' took 0.42s
+[2018.01.28-02.45.16:790][  0]SourceControl: Source control is disabled
+[2018.01.28-02.45.16:790][  0]Cmd: MAP LOAD FILE="W:/unreal/github/heartwired/Cyberwitch_Project/Content/Levels/DemoMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.28-02.45.16:820][  0]LightingResults: New page: Lighting Build
+[2018.01.28-02.45.16:880][  0]MapCheck: New page: Map Check
+[2018.01.28-02.45.16:881][  0]LightingResults: New page: Lighting Build
+[2018.01.28-02.45.39:450][  0]LogLinker: Warning: Can't find file '/Game/Levels/DemoMap_BuiltData'
+[2018.01.28-02.45.39:451][  0]LogLinker: Warning: Can't find file for asset '/Game/Levels/DemoMap_BuiltData' while loading W:/unreal/github/heartwired/Cyberwitch_Project/Content/Levels/DemoMap.umap.
+[2018.01.28-02.45.39:451][  0]LoadErrors: Error: /Game/Levels/DemoMap : Can't find file for asset. /Game/Levels/DemoMap_BuiltData
+[2018.01.28-02.45.40:338][  0]LogLinker: Warning: Can't find file '/Game/Levels/DemoMap_BuiltData'
+[2018.01.28-02.45.40:338][  0]LogLinker: Warning: Can't find file for asset '/Game/Levels/DemoMap_BuiltData' while loading W:/unreal/github/heartwired/Cyberwitch_Project/Content/Levels/DemoMap.umap.
+[2018.01.28-02.45.40:338][  0]LoadErrors: Error: /Game/Levels/DemoMap : Can't find file for asset. /Game/Levels/DemoMap_BuiltData
+[2018.01.28-02.45.40:403][  0]LogLinker: Warning: Can't find file '/Game/Levels/DemoMap_BuiltData'
+[2018.01.28-02.45.40:403][  0]LogLinker: Warning: Can't find file for asset '/Game/Levels/DemoMap_BuiltData' while loading NULL.
+[2018.01.28-02.45.40:404][  0]LogLinker: Warning: Can't find file '/Game/Levels/DemoMap_BuiltData'
+[2018.01.28-02.45.40:404][  0]LogLinker: Warning: Can't find file for asset '/Game/Levels/DemoMap_BuiltData' while loading NULL.
+[2018.01.28-02.45.40:440][  0]LogLinker: Warning: Can't find file '/Game/Levels/DemoMap_BuiltData'
+[2018.01.28-02.45.40:441][  0]LoadErrors: Failed to load /Game/Levels/DemoMap_BuiltData.DemoMap_BuiltData Referenced by PersistentLevel
+[2018.01.28-02.45.40:442][  0]LogLinker: Warning: Can't find file for asset '/Game/Levels/DemoMap_BuiltData' while loading NULL.
+[2018.01.28-02.45.40:442][  0]LoadErrors: Failed to load /Game/Levels/DemoMap_BuiltData.DemoMap_BuiltData Referenced by PersistentLevel
+[2018.01.28-02.45.40:647][  0]LogTexture: Display: Building textures: Button (BGRA8, 37X35)
+[2018.01.28-02.45.41:555][  0]LogAIModule: Creating AISystem for world DemoMap
+[2018.01.28-02.45.41:618][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.28-02.45.41:700][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.28-02.45.42:895][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,194.391ms to complete.
+[2018.01.28-02.45.42:896][  0]LogFileHelpers: Loading map 'DemoMap' took 26.106
+[2018.01.28-02.45.43:016][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.28-02.45.43:016][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.28-02.45.43:233][  0]LogCollectionManager: Loaded 0 collections in 0.012431 seconds
+[2018.01.28-02.45.43:407][  0]LogFileCache: Scanning file cache for directory 'W:/unreal/github/heartwired/Cyberwitch_Project/Saved/Collections/' took 0.02s
+[2018.01.28-02.45.43:407][  0]LogFileCache: Scanning file cache for directory 'W:/unreal/github/heartwired/Cyberwitch_Project/Content/Developers/grichar6/Collections/' took 0.02s
+[2018.01.28-02.45.43:407][  0]LogFileCache: Scanning file cache for directory 'W:/unreal/github/heartwired/Cyberwitch_Project/Content/Collections/' took 0.02s
+[2018.01.28-02.45.43:407][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.28-02.45.43:418][  0]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 2407 classes and 511 folders.
+[2018.01.28-02.45.43:509][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2018.01.28-02.45.43:593][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0019 seconds. Added 0 classes and 0 folders.
+[2018.01.28-02.45.43:659][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2018.01.28-02.45.43:698][  0]LogSlate: Took 0.000351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-02.45.43:703][  0]LogSlate: Took 0.000389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.28-02.45.43:716][  0]LogSlate: Took 0.000349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.28-02.45.43:861][  0]LogRenderer: Reallocating scene render targets to support 1000x652 Format 10 NumSamples 1 (Frame:1).
+[2018.01.28-02.45.44:215][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0016 seconds. Added 1 classes and 2 folders.
+[2018.01.28-02.45.44:215][  0]LogLoad: (Engine Initialization) Total time: 56.92 seconds
+[2018.01.28-02.45.44:215][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.28-02.45.44:215][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.28-02.45.44:215][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.28-02.45.44:289][  0]LogDirectoryWatcher: A directory notification failed for 'W:/unreal/github/heartwired/Cyberwitch_Project/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.01.28-02.45.44:289][  0]LogDirectoryWatcher: A directory notification failed for 'W:/unreal/github/heartwired/Cyberwitch_Project/Content/', and we were unable to create a new request.
+[2018.01.28-02.45.44:289][  0]LogDirectoryWatcher: A directory notification failed for 'W:/unreal/github/heartwired/Cyberwitch_Project/Plugins/UnrealEnginePython/Binaries/Win64' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.01.28-02.45.44:289][  0]LogDirectoryWatcher: A directory notification failed for 'W:/unreal/github/heartwired/Cyberwitch_Project/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.01.28-02.45.44:290][  0]LogDirectoryWatcher: A directory notification failed for 'W:/unreal/github/heartwired/Cyberwitch_Project/Content/Developers/grichar6/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.01.28-02.45.44:290][  0]LogDirectoryWatcher: A directory notification failed for 'W:/unreal/github/heartwired/Cyberwitch_Project/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.01.28-02.45.44:296][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.28-02.45.44:427][  0]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-02.45.44:504][  1]LogFileCache: Retrieving MD5 hashes for directory 'W:/unreal/github/heartwired/Cyberwitch_Project/Content/' took 0.26s
+[2018.01.28-02.45.44:531][  1]LogAssetRegistry: Asset discovery search completed in 45.0914 seconds
+[2018.01.28-02.45.44:533][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.28-02.45.44:533][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2018.01.28-02.45.44:533][  1]LogDirectoryWatcher: A directory notification failed for 'W:/unreal/github/heartwired/Cyberwitch_Project/Plugins/UnrealEnginePython/Binaries/Win64' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.01.28-02.45.44:534][  1]LogDirectoryWatcher: A directory notification failed for 'W:/unreal/github/heartwired/Cyberwitch_Project/Plugins/UnrealEnginePython/Binaries/Win64', and we were unable to create a new request.
+[2018.01.28-02.45.44:534][  1]LogDirectoryWatcher: A directory notification failed for 'W:/unreal/github/heartwired/Cyberwitch_Project/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.01.28-02.45.44:535][  1]LogDirectoryWatcher: A directory notification failed for 'W:/unreal/github/heartwired/Cyberwitch_Project/Saved/Collections/', and we were unable to create a new request.
+[2018.01.28-02.45.44:535][  1]LogDirectoryWatcher: A directory notification failed for 'W:/unreal/github/heartwired/Cyberwitch_Project/Content/Developers/grichar6/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.01.28-02.45.44:535][  1]LogDirectoryWatcher: A directory notification failed for 'W:/unreal/github/heartwired/Cyberwitch_Project/Content/Developers/grichar6/Collections/', and we were unable to create a new request.
+[2018.01.28-02.45.44:535][  1]LogDirectoryWatcher: A directory notification failed for 'W:/unreal/github/heartwired/Cyberwitch_Project/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.01.28-02.45.44:536][  1]LogDirectoryWatcher: A directory notification failed for 'W:/unreal/github/heartwired/Cyberwitch_Project/Content/Collections/', and we were unable to create a new request.
+[2018.01.28-02.45.45:401][ 35]LogSlate: Took 0.002519 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-02.47.04:052][244]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-02.47.04:104][244]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 W:/assets/Chars/BearBall/components/rig/unreal/RIG_BearBall.fbx)
+[2018.01.28-02.47.04:162][244]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.01.28-02.47.04:162][244]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.01.28-02.47.04:162][244]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.01.28-02.47.04:162][244]LogFbx: ItemName: NodeAttribute, ItemCount : 18
+[2018.01.28-02.47.04:162][244]LogFbx: ItemName: Model, ItemCount : 22
+[2018.01.28-02.47.04:162][244]LogFbx: ItemName: Material, ItemCount : 1
+[2018.01.28-02.47.04:162][244]LogFbx: ItemName: Geometry, ItemCount : 4
+[2018.01.28-02.47.04:162][244]LogFbx: ItemName: AnimationCurveNode, ItemCount : 36
+[2018.01.28-02.47.04:162][244]LogFbx: ItemName: AnimationCurve, ItemCount : 73
+[2018.01.28-02.47.04:162][244]LogFbx: ItemName: Pose, ItemCount : 4
+[2018.01.28-02.47.04:162][244]LogFbx: ItemName: Deformer, ItemCount : 8
+[2018.01.28-02.47.04:168][244]LogFbx: Loading FBX Scene from W:/assets/Chars/BearBall/components/rig/unreal/RIG_BearBall.fbx
+[2018.01.28-02.47.04:193][244]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.28-02.47.16:933][244]LogFbx: Loading FBX Scene from W:/assets/Chars/BearBall/components/rig/unreal/RIG_BearBall.fbx
+[2018.01.28-02.47.16:972][244]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.28-02.47.16:972][244]LogFbx: =================================================
+[2018.01.28-02.47.16:972][244]LogFbx: Dumping Node START [center_section] 
+[2018.01.28-02.47.16:973][244]LogFbx: 	Total Deformer Count -1782527824.
+[2018.01.28-02.47.16:973][244]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.47.16:973][244]LogFbx: =================================================
+[2018.01.28-02.47.16:973][244]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.47.16:973][244]LogFbx: 		[Node Attribute Child 1] center_section (Type Mesh).
+[2018.01.28-02.47.16:973][244]LogFbx: Dumping Node END [center_section]
+[2018.01.28-02.47.16:973][244]LogFbx: =================================================
+[2018.01.28-02.47.16:973][244]LogFbx: Dumping Node START [screw] 
+[2018.01.28-02.47.16:973][244]LogFbx: 	Total Deformer Count -1988973440.
+[2018.01.28-02.47.16:973][244]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.47.16:973][244]LogFbx: =================================================
+[2018.01.28-02.47.16:973][244]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.47.16:973][244]LogFbx: 		[Node Attribute Child 1] screw (Type Mesh).
+[2018.01.28-02.47.16:973][244]LogFbx: Dumping Node END [screw]
+[2018.01.28-02.47.16:973][244]LogFbx: =================================================
+[2018.01.28-02.47.16:973][244]LogFbx: Dumping Node START [cap_left] 
+[2018.01.28-02.47.16:973][244]LogFbx: 	Total Deformer Count -1798117224.
+[2018.01.28-02.47.16:973][244]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.47.16:973][244]LogFbx: =================================================
+[2018.01.28-02.47.16:973][244]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.47.16:973][244]LogFbx: 		[Node Attribute Child 1] cap_left (Type Mesh).
+[2018.01.28-02.47.16:973][244]LogFbx: Dumping Node END [cap_left]
+[2018.01.28-02.47.16:973][244]LogFbx: =================================================
+[2018.01.28-02.47.16:973][244]LogFbx: Dumping Node START [cap_right] 
+[2018.01.28-02.47.16:973][244]LogFbx: 	Total Deformer Count -555535488.
+[2018.01.28-02.47.16:973][244]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.47.16:973][244]LogFbx: =================================================
+[2018.01.28-02.47.16:973][244]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.47.16:973][244]LogFbx: 		[Node Attribute Child 1] cap_right (Type Mesh).
+[2018.01.28-02.47.16:974][244]LogFbx: Dumping Node END [cap_right]
+[2018.01.28-02.47.16:974][244]LogFbx: =================================================
+[2018.01.28-02.47.16:974][244]LogFbx: Dumping Node START [center_section] 
+[2018.01.28-02.47.16:974][244]LogFbx: 	Total Deformer Count -1782524464.
+[2018.01.28-02.47.16:974][244]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.47.16:974][244]LogFbx: =================================================
+[2018.01.28-02.47.16:974][244]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.47.16:974][244]LogFbx: 		[Node Attribute Child 1] center_section (Type Mesh).
+[2018.01.28-02.47.16:974][244]LogFbx: Dumping Node END [center_section]
+[2018.01.28-02.47.16:974][244]LogFbx: =================================================
+[2018.01.28-02.47.16:974][244]LogFbx: Dumping Node START [screw] 
+[2018.01.28-02.47.16:974][244]LogFbx: 	Total Deformer Count -1988969168.
+[2018.01.28-02.47.16:974][244]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.47.16:974][244]LogFbx: =================================================
+[2018.01.28-02.47.16:974][244]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.47.16:974][244]LogFbx: 		[Node Attribute Child 1] screw (Type Mesh).
+[2018.01.28-02.47.16:974][244]LogFbx: Dumping Node END [screw]
+[2018.01.28-02.47.16:974][244]LogFbx: =================================================
+[2018.01.28-02.47.16:974][244]LogFbx: Dumping Node START [cap_left] 
+[2018.01.28-02.47.16:974][244]LogFbx: 	Total Deformer Count -1798111288.
+[2018.01.28-02.47.16:974][244]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.47.16:974][244]LogFbx: =================================================
+[2018.01.28-02.47.16:974][244]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.47.16:974][244]LogFbx: 		[Node Attribute Child 1] cap_left (Type Mesh).
+[2018.01.28-02.47.16:974][244]LogFbx: Dumping Node END [cap_left]
+[2018.01.28-02.47.16:974][244]LogFbx: =================================================
+[2018.01.28-02.47.16:974][244]LogFbx: Dumping Node START [cap_right] 
+[2018.01.28-02.47.16:975][244]LogFbx: 	Total Deformer Count -555534144.
+[2018.01.28-02.47.16:975][244]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.47.16:975][244]LogFbx: =================================================
+[2018.01.28-02.47.16:975][244]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.47.16:975][244]LogFbx: 		[Node Attribute Child 1] cap_right (Type Mesh).
+[2018.01.28-02.47.16:975][244]LogFbx: Dumping Node END [cap_right]
+[2018.01.28-02.47.16:975][244]LogFbx: =================================================
+[2018.01.28-02.47.16:975][244]LogFbx: Dumping Node START [center_section] 
+[2018.01.28-02.47.16:975][244]LogFbx: 	Total Deformer Count -1782525984.
+[2018.01.28-02.47.16:975][244]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.47.16:975][244]LogFbx: =================================================
+[2018.01.28-02.47.16:975][244]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.47.16:975][244]LogFbx: 		[Node Attribute Child 1] center_section (Type Mesh).
+[2018.01.28-02.47.16:975][244]LogFbx: Dumping Node END [center_section]
+[2018.01.28-02.47.16:975][244]LogFbx: =================================================
+[2018.01.28-02.47.16:975][244]LogFbx: Dumping Node START [screw] 
+[2018.01.28-02.47.16:975][244]LogFbx: 	Total Deformer Count -1155254960.
+[2018.01.28-02.47.16:975][244]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.47.16:975][244]LogFbx: =================================================
+[2018.01.28-02.47.16:975][244]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.47.16:975][244]LogFbx: 		[Node Attribute Child 1] screw (Type Mesh).
+[2018.01.28-02.47.16:975][244]LogFbx: Dumping Node END [screw]
+[2018.01.28-02.47.16:975][244]LogFbx: =================================================
+[2018.01.28-02.47.16:975][244]LogFbx: Dumping Node START [cap_left] 
+[2018.01.28-02.47.16:975][244]LogFbx: 	Total Deformer Count -1798124280.
+[2018.01.28-02.47.16:975][244]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.47.16:975][244]LogFbx: =================================================
+[2018.01.28-02.47.16:975][244]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.47.16:976][244]LogFbx: 		[Node Attribute Child 1] cap_left (Type Mesh).
+[2018.01.28-02.47.16:976][244]LogFbx: Dumping Node END [cap_left]
+[2018.01.28-02.47.16:976][244]LogFbx: =================================================
+[2018.01.28-02.47.16:976][244]LogFbx: Dumping Node START [cap_right] 
+[2018.01.28-02.47.16:976][244]LogFbx: 	Total Deformer Count -555547392.
+[2018.01.28-02.47.16:976][244]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.47.16:976][244]LogFbx: =================================================
+[2018.01.28-02.47.16:976][244]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.47.16:976][244]LogFbx: 		[Node Attribute Child 1] cap_right (Type Mesh).
+[2018.01.28-02.47.16:976][244]LogFbx: Dumping Node END [cap_right]
+[2018.01.28-02.47.16:976][244]LogFbx: =================================================
+[2018.01.28-02.47.16:976][244]LogFbx: Dumping Node START [center_section] 
+[2018.01.28-02.47.16:976][244]LogFbx: 	Total Deformer Count -1783237120.
+[2018.01.28-02.47.16:976][244]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.47.16:976][244]LogFbx: =================================================
+[2018.01.28-02.47.16:976][244]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.47.16:976][244]LogFbx: 		[Node Attribute Child 1] center_section (Type Mesh).
+[2018.01.28-02.47.16:976][244]LogFbx: Dumping Node END [center_section]
+[2018.01.28-02.47.16:976][244]LogFbx: =================================================
+[2018.01.28-02.47.16:976][244]LogFbx: Dumping Node START [screw] 
+[2018.01.28-02.47.16:976][244]LogFbx: 	Total Deformer Count -1155259760.
+[2018.01.28-02.47.16:976][244]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.47.16:976][244]LogFbx: =================================================
+[2018.01.28-02.47.16:976][244]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.47.16:976][244]LogFbx: 		[Node Attribute Child 1] screw (Type Mesh).
+[2018.01.28-02.47.16:976][244]LogFbx: Dumping Node END [screw]
+[2018.01.28-02.47.16:976][244]LogFbx: =================================================
+[2018.01.28-02.47.16:977][244]LogFbx: Dumping Node START [cap_left] 
+[2018.01.28-02.47.16:977][244]LogFbx: 	Total Deformer Count -1798122656.
+[2018.01.28-02.47.16:977][244]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.47.16:977][244]LogFbx: =================================================
+[2018.01.28-02.47.16:977][244]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.47.16:977][244]LogFbx: 		[Node Attribute Child 1] cap_left (Type Mesh).
+[2018.01.28-02.47.16:977][244]LogFbx: Dumping Node END [cap_left]
+[2018.01.28-02.47.16:977][244]LogFbx: =================================================
+[2018.01.28-02.47.16:977][244]LogFbx: Dumping Node START [cap_right] 
+[2018.01.28-02.47.16:977][244]LogFbx: 	Total Deformer Count -555536960.
+[2018.01.28-02.47.16:977][244]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.47.16:977][244]LogFbx: =================================================
+[2018.01.28-02.47.16:977][244]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.47.16:977][244]LogFbx: 		[Node Attribute Child 1] cap_right (Type Mesh).
+[2018.01.28-02.47.16:977][244]LogFbx: Dumping Node END [cap_right]
+[2018.01.28-02.47.16:977][244]LogFbx: Valid bind pose for Pose (skinCluster5) - center_section
+[2018.01.28-02.47.16:978][244]LogFbx: Valid bind pose for Pose (skinCluster3) - center_section
+[2018.01.28-02.47.16:978][244]LogFbx: Valid bind pose for Pose (skinCluster2) - center_section
+[2018.01.28-02.47.16:978][244]LogFbx: Valid bind pose for Pose (skinCluster6) - center_section
+[2018.01.28-02.47.17:046][244]LogFbx: Warning: Bones digested - 4  Depth of hierarchy - 2
+[2018.01.28-02.47.17:099][244]LogSkeletalMesh: Section 0: 4715 vertices, 3 active bones
+[2018.01.28-02.47.17:102][244]LogSkeletalMesh: Section 0: Material=0, 2744 triangles
+[2018.01.28-02.47.17:110][244]LogLinker: Can't find file '/Game/Assets/Characters/BEAR/Meshes/RIG_BearBall_Skeleton'
+[2018.01.28-02.47.17:111][244]LogLinker: Can't find file '/Game/Assets/Characters/BEAR/Meshes/RIG_BearBall_Skeleton'
+[2018.01.28-02.47.17:162][244]LogLinker: Can't find file '/Game/Assets/Characters/BEAR/Meshes/RIG_BearBall_PhysicsAsset'
+[2018.01.28-02.47.17:163][244]LogLinker: Can't find file '/Game/Assets/Characters/BEAR/Meshes/RIG_BearBall_PhysicsAsset'
+[2018.01.28-02.47.21:267][403]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0025 seconds. Added 1 classes and 2 folders.
+[2018.01.28-02.47.21:452][403]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.01.28-02.47.21:630][403]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.01.28-02.47.22:082][403]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.28-02.47.22:172][403]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0016 seconds. Added 1 classes and 0 folders.
+[2018.01.28-02.47.53:693][465]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 W:/assets/Chars/BearBall/anim/charge/unreal/ANIM_BearBall_charge.fbx)
+[2018.01.28-02.47.53:743][465]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.01.28-02.47.53:743][465]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.01.28-02.47.53:743][465]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.01.28-02.47.53:743][465]LogFbx: ItemName: NodeAttribute, ItemCount : 18
+[2018.01.28-02.47.53:743][465]LogFbx: ItemName: Model, ItemCount : 22
+[2018.01.28-02.47.53:743][465]LogFbx: ItemName: Geometry, ItemCount : 4
+[2018.01.28-02.47.53:743][465]LogFbx: ItemName: Material, ItemCount : 1
+[2018.01.28-02.47.53:743][465]LogFbx: ItemName: AnimationCurveNode, ItemCount : 45
+[2018.01.28-02.47.53:743][465]LogFbx: ItemName: AnimationCurve, ItemCount : 78
+[2018.01.28-02.47.53:743][465]LogFbx: ItemName: Pose, ItemCount : 4
+[2018.01.28-02.47.53:743][465]LogFbx: ItemName: Deformer, ItemCount : 8
+[2018.01.28-02.47.53:749][465]LogFbx: Loading FBX Scene from W:/assets/Chars/BearBall/anim/charge/unreal/ANIM_BearBall_charge.fbx
+[2018.01.28-02.47.53:771][465]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.28-02.48.01:704][465]LogFbx: Loading FBX Scene from W:/assets/Chars/BearBall/anim/charge/unreal/ANIM_BearBall_charge.fbx
+[2018.01.28-02.48.01:727][465]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.28-02.48.01:728][465]LogFbx: =================================================
+[2018.01.28-02.48.01:728][465]LogFbx: Dumping Node START [RIG_BearBall:center_section] 
+[2018.01.28-02.48.01:728][465]LogFbx: 	Total Deformer Count 230408560.
+[2018.01.28-02.48.01:728][465]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.48.01:728][465]LogFbx: =================================================
+[2018.01.28-02.48.01:728][465]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.48.01:728][465]LogFbx: 		[Node Attribute Child 1] RIG_BearBall:center_section (Type Mesh).
+[2018.01.28-02.48.01:728][465]LogFbx: Dumping Node END [RIG_BearBall:center_section]
+[2018.01.28-02.48.01:728][465]LogFbx: =================================================
+[2018.01.28-02.48.01:728][465]LogFbx: Dumping Node START [RIG_BearBall:screw] 
+[2018.01.28-02.48.01:728][465]LogFbx: 	Total Deformer Count -1205407008.
+[2018.01.28-02.48.01:728][465]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.48.01:728][465]LogFbx: =================================================
+[2018.01.28-02.48.01:728][465]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.48.01:728][465]LogFbx: 		[Node Attribute Child 1] RIG_BearBall:screw (Type Mesh).
+[2018.01.28-02.48.01:728][465]LogFbx: Dumping Node END [RIG_BearBall:screw]
+[2018.01.28-02.48.01:728][465]LogFbx: =================================================
+[2018.01.28-02.48.01:728][465]LogFbx: Dumping Node START [RIG_BearBall:cap_left] 
+[2018.01.28-02.48.01:728][465]LogFbx: 	Total Deformer Count 267508640.
+[2018.01.28-02.48.01:728][465]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.48.01:728][465]LogFbx: =================================================
+[2018.01.28-02.48.01:728][465]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.48.01:728][465]LogFbx: 		[Node Attribute Child 1] RIG_BearBall:cap_left (Type Mesh).
+[2018.01.28-02.48.01:728][465]LogFbx: Dumping Node END [RIG_BearBall:cap_left]
+[2018.01.28-02.48.01:728][465]LogFbx: =================================================
+[2018.01.28-02.48.01:729][465]LogFbx: Dumping Node START [RIG_BearBall:cap_right] 
+[2018.01.28-02.48.01:729][465]LogFbx: 	Total Deformer Count 267508640.
+[2018.01.28-02.48.01:729][465]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.48.01:729][465]LogFbx: =================================================
+[2018.01.28-02.48.01:729][465]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.48.01:729][465]LogFbx: 		[Node Attribute Child 1] RIG_BearBall:cap_right (Type Mesh).
+[2018.01.28-02.48.01:729][465]LogFbx: Dumping Node END [RIG_BearBall:cap_right]
+[2018.01.28-02.48.01:729][465]LogFbx: =================================================
+[2018.01.28-02.48.01:729][465]LogFbx: Dumping Node START [RIG_BearBall:center_section] 
+[2018.01.28-02.48.01:729][465]LogFbx: 	Total Deformer Count 229666208.
+[2018.01.28-02.48.01:729][465]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.48.01:729][465]LogFbx: =================================================
+[2018.01.28-02.48.01:729][465]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.48.01:729][465]LogFbx: 		[Node Attribute Child 1] RIG_BearBall:center_section (Type Mesh).
+[2018.01.28-02.48.01:729][465]LogFbx: Dumping Node END [RIG_BearBall:center_section]
+[2018.01.28-02.48.01:729][465]LogFbx: =================================================
+[2018.01.28-02.48.01:729][465]LogFbx: Dumping Node START [RIG_BearBall:screw] 
+[2018.01.28-02.48.01:729][465]LogFbx: 	Total Deformer Count 267510464.
+[2018.01.28-02.48.01:729][465]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.48.01:729][465]LogFbx: =================================================
+[2018.01.28-02.48.01:729][465]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.48.01:729][465]LogFbx: 		[Node Attribute Child 1] RIG_BearBall:screw (Type Mesh).
+[2018.01.28-02.48.01:729][465]LogFbx: Dumping Node END [RIG_BearBall:screw]
+[2018.01.28-02.48.01:729][465]LogFbx: =================================================
+[2018.01.28-02.48.01:729][465]LogFbx: Dumping Node START [RIG_BearBall:cap_left] 
+[2018.01.28-02.48.01:729][465]LogFbx: 	Total Deformer Count 267510464.
+[2018.01.28-02.48.01:729][465]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.48.01:730][465]LogFbx: =================================================
+[2018.01.28-02.48.01:730][465]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.48.01:730][465]LogFbx: 		[Node Attribute Child 1] RIG_BearBall:cap_left (Type Mesh).
+[2018.01.28-02.48.01:730][465]LogFbx: Dumping Node END [RIG_BearBall:cap_left]
+[2018.01.28-02.48.01:730][465]LogFbx: =================================================
+[2018.01.28-02.48.01:730][465]LogFbx: Dumping Node START [RIG_BearBall:cap_right] 
+[2018.01.28-02.48.01:730][465]LogFbx: 	Total Deformer Count 267510464.
+[2018.01.28-02.48.01:730][465]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.48.01:730][465]LogFbx: =================================================
+[2018.01.28-02.48.01:730][465]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.48.01:730][465]LogFbx: 		[Node Attribute Child 1] RIG_BearBall:cap_right (Type Mesh).
+[2018.01.28-02.48.01:730][465]LogFbx: Dumping Node END [RIG_BearBall:cap_right]
+[2018.01.28-02.48.01:730][465]LogFbx: =================================================
+[2018.01.28-02.48.01:730][465]LogFbx: Dumping Node START [RIG_BearBall:center_section] 
+[2018.01.28-02.48.01:730][465]LogFbx: 	Total Deformer Count 229663632.
+[2018.01.28-02.48.01:730][465]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.48.01:730][465]LogFbx: =================================================
+[2018.01.28-02.48.01:730][465]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.48.01:730][465]LogFbx: 		[Node Attribute Child 1] RIG_BearBall:center_section (Type Mesh).
+[2018.01.28-02.48.01:730][465]LogFbx: Dumping Node END [RIG_BearBall:center_section]
+[2018.01.28-02.48.01:730][465]LogFbx: =================================================
+[2018.01.28-02.48.01:730][465]LogFbx: Dumping Node START [RIG_BearBall:screw] 
+[2018.01.28-02.48.01:730][465]LogFbx: 	Total Deformer Count 267514976.
+[2018.01.28-02.48.01:730][465]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.48.01:730][465]LogFbx: =================================================
+[2018.01.28-02.48.01:730][465]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.48.01:730][465]LogFbx: 		[Node Attribute Child 1] RIG_BearBall:screw (Type Mesh).
+[2018.01.28-02.48.01:730][465]LogFbx: Dumping Node END [RIG_BearBall:screw]
+[2018.01.28-02.48.01:731][465]LogFbx: =================================================
+[2018.01.28-02.48.01:731][465]LogFbx: Dumping Node START [RIG_BearBall:cap_left] 
+[2018.01.28-02.48.01:731][465]LogFbx: 	Total Deformer Count 267514976.
+[2018.01.28-02.48.01:731][465]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.48.01:731][465]LogFbx: =================================================
+[2018.01.28-02.48.01:731][465]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.48.01:731][465]LogFbx: 		[Node Attribute Child 1] RIG_BearBall:cap_left (Type Mesh).
+[2018.01.28-02.48.01:731][465]LogFbx: Dumping Node END [RIG_BearBall:cap_left]
+[2018.01.28-02.48.01:731][465]LogFbx: =================================================
+[2018.01.28-02.48.01:731][465]LogFbx: Dumping Node START [RIG_BearBall:cap_right] 
+[2018.01.28-02.48.01:731][465]LogFbx: 	Total Deformer Count 267514976.
+[2018.01.28-02.48.01:731][465]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.48.01:731][465]LogFbx: =================================================
+[2018.01.28-02.48.01:731][465]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.48.01:731][465]LogFbx: 		[Node Attribute Child 1] RIG_BearBall:cap_right (Type Mesh).
+[2018.01.28-02.48.01:731][465]LogFbx: Dumping Node END [RIG_BearBall:cap_right]
+[2018.01.28-02.48.01:731][465]LogFbx: =================================================
+[2018.01.28-02.48.01:731][465]LogFbx: Dumping Node START [RIG_BearBall:center_section] 
+[2018.01.28-02.48.01:731][465]LogFbx: 	Total Deformer Count 229660832.
+[2018.01.28-02.48.01:731][465]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.48.01:731][465]LogFbx: =================================================
+[2018.01.28-02.48.01:731][465]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.48.01:731][465]LogFbx: 		[Node Attribute Child 1] RIG_BearBall:center_section (Type Mesh).
+[2018.01.28-02.48.01:731][465]LogFbx: Dumping Node END [RIG_BearBall:center_section]
+[2018.01.28-02.48.01:731][465]LogFbx: =================================================
+[2018.01.28-02.48.01:731][465]LogFbx: Dumping Node START [RIG_BearBall:screw] 
+[2018.01.28-02.48.01:731][465]LogFbx: 	Total Deformer Count 266095488.
+[2018.01.28-02.48.01:731][465]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.48.01:732][465]LogFbx: =================================================
+[2018.01.28-02.48.01:732][465]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.48.01:732][465]LogFbx: 		[Node Attribute Child 1] RIG_BearBall:screw (Type Mesh).
+[2018.01.28-02.48.01:732][465]LogFbx: Dumping Node END [RIG_BearBall:screw]
+[2018.01.28-02.48.01:732][465]LogFbx: =================================================
+[2018.01.28-02.48.01:732][465]LogFbx: Dumping Node START [RIG_BearBall:cap_left] 
+[2018.01.28-02.48.01:732][465]LogFbx: 	Total Deformer Count 266095488.
+[2018.01.28-02.48.01:732][465]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.48.01:732][465]LogFbx: =================================================
+[2018.01.28-02.48.01:732][465]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.48.01:732][465]LogFbx: 		[Node Attribute Child 1] RIG_BearBall:cap_left (Type Mesh).
+[2018.01.28-02.48.01:732][465]LogFbx: Dumping Node END [RIG_BearBall:cap_left]
+[2018.01.28-02.48.01:732][465]LogFbx: =================================================
+[2018.01.28-02.48.01:732][465]LogFbx: Dumping Node START [RIG_BearBall:cap_right] 
+[2018.01.28-02.48.01:732][465]LogFbx: 	Total Deformer Count 266095488.
+[2018.01.28-02.48.01:732][465]LogFbx: 		[Node 1]  (Type Skin).
+[2018.01.28-02.48.01:732][465]LogFbx: =================================================
+[2018.01.28-02.48.01:732][465]LogFbx: 	Attribute () Type (4).
+[2018.01.28-02.48.01:732][465]LogFbx: 		[Node Attribute Child 1] RIG_BearBall:cap_right (Type Mesh).
+[2018.01.28-02.48.01:732][465]LogFbx: Dumping Node END [RIG_BearBall:cap_right]
+[2018.01.28-02.48.01:733][465]LogFbx: SortedLinks :(0) root_M_srt
+[2018.01.28-02.48.01:733][465]LogFbx: SortedLinks :(1) outerShell_M_bnd
+[2018.01.28-02.48.01:733][465]LogFbx: SortedLinks :(2) treads_M_bnd
+[2018.01.28-02.48.01:733][465]LogFbx: SortedLinks :(3) knob_M_bnd
+[2018.01.28-02.48.01:733][465]LogFbx: Parsing AnimStack Take 001
+[2018.01.28-02.48.01:737][465]LogLinker: Can't find file '/Game/Assets/Characters/BEAR/Animations/ANIM_BearBall_charge'
+[2018.01.28-02.48.01:738][465]LogLinker: Can't find file '/Game/Assets/Characters/BEAR/Animations/ANIM_BearBall_charge'
+[2018.01.28-02.48.01:749][465]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/BEAR/Animations/ANIM_BearBall_charge.ANIM_BearBall_charge
+[2018.01.28-02.48.04:088][552]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.01.28-02.48.04:137][552]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2018.01.28-02.48.04:398][552]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-02.48.04:743][552]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-02.48.26:289][252]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:343][254]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:371][255]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:396][256]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:431][257]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:459][258]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:485][259]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:511][260]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:547][261]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:573][262]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:593][263]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:610][264]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:629][265]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:648][266]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:666][267]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:683][268]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:701][269]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:718][270]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:743][271]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:768][272]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:803][273]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:823][274]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:841][275]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:859][276]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:878][277]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:898][278]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:916][279]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:934][280]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:953][281]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:972][282]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.26:992][283]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.27:029][285]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.27:049][286]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.27:067][287]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.27:085][288]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.27:103][289]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.27:122][290]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.27:142][291]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.27:159][292]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.27:178][293]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.27:261][298]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.27:279][299]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.27:297][300]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.27:316][301]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.27:336][302]LogSpawn: Warning: SpawnActor failed because class BasePlayerCharacter_C is abstract
+[2018.01.28-02.48.29:237][340]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0031 seconds. Added 113 classes and 0 folders.
+[2018.01.28-02.48.30:177][340]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.28-02.49.23:977][916]LogRenderer: Reallocating scene render targets to support 1144x1020 Format 10 NumSamples 1 (Frame:1).
+[2018.01.28-02.50.27:658][654]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-02.50.43:096][451]BlueprintLog: New page: Compile Bear
+[2018.01.28-02.51.57:197][290]BlueprintLog: New page: Compile Bear
+[2018.01.28-02.53.22:453][474]BlueprintLog: New page: Compile Bear
+[2018.01.28-02.53.25:514][530]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-02.53.26:568][530]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DemoMap.DemoMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap' with GeneratedClass '/Game/Levels/DemoMap.DemoMap_C' with ClassGeneratedBy '/Game/Levels/DemoMap.DemoMap:PersistentLevel.DemoMap'
+[2018.01.28-02.53.26:568][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-02.53.26:569][530]PIE: New page: PIE session: DemoMap (Jan 27, 2018, 10:53:26 AM)
+[2018.01.28-02.53.26:569][530]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DemoMap
+[2018.01.28-02.53.26:579][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010450s)
+[2018.01.28-02.53.26:580][530]LogAIModule: Creating AISystem for world DemoMap
+[2018.01.28-02.53.26:581][530]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2018.01.28-02.53.26:581][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DemoMap.DemoMap to /Game/Levels/UEDPIE_0_DemoMap.DemoMap (0.011907s)
+[2018.01.28-02.53.26:684][530]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-02.53.26:693][530]LogInit: FAudioDevice initialized.
+[2018.01.28-02.53.29:462][530]LogLoad: Game class is 'MainGameMode_C'
+[2018.01.28-02.53.29:539][530]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.074 s
+[2018.01.28-02.53.29:539][530]LogOutputDevice: Error: === Handled ensure: ===
+[2018.01.28-02.53.29:539][530]LogOutputDevice: Error: 
+[2018.01.28-02.53.29:539][530]LogOutputDevice: Error: Ensure condition failed: Cast<APawn>(NewUpdatedComponent->GetOwner()) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Engine\Private\Components\PawnMovementComponent.cpp] [Line: 16]
+[2018.01.28-02.53.29:539][530]LogOutputDevice: Error: FloatingPawnMovement must update a component owned by a Pawn
+[2018.01.28-02.53.29:539][530]LogOutputDevice: Error: Stack: 
+[2018.01.28-02.53.29:539][530]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000C4D33E36
+[2018.01.28-02.53.29:539][530]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000C4ABC2D2
+[2018.01.28-02.53.29:539][530]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000C4AD4746
+[2018.01.28-02.53.29:539][530]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000BFC71F23
+[2018.01.28-02.53.29:539][530]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000BFC5D8C6
+[2018.01.28-02.53.29:539][530]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000BFBCD9F3
+[2018.01.28-02.53.29:539][530]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000BFBFA85F
+[2018.01.28-02.53.29:540][530]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000BF7CDDE2
+[2018.01.28-02.53.29:540][530]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000C00416CE
+[2018.01.28-02.53.29:540][530]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000C0983837
+[2018.01.28-02.53.29:540][530]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000C09672C4
+[2018.01.28-02.53.29:540][530]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000BFF07B7D
+[2018.01.28-02.53.29:540][530]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000C34CAE6C
+[2018.01.28-02.53.29:540][530]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000C34F584E
+[2018.01.28-02.53.29:540][530]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000C3511394
+[2018.01.28-02.53.29:540][530]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000C2F7BDF8
+[2018.01.28-02.53.29:540][530]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000C380D646
+[2018.01.28-02.53.29:540][530]LogOutputDevice: Error: UE4Editor.exe!0x00000000B615534A
+[2018.01.28-02.53.29:540][530]LogOutputDevice: Error: UE4Editor.exe!0x00000000B6163970
+[2018.01.28-02.53.29:540][530]LogOutputDevice: Error: UE4Editor.exe!0x00000000B61639EA
+[2018.01.28-02.53.29:540][530]LogOutputDevice: Error: UE4Editor.exe!0x00000000B61702D9
+[2018.01.28-02.53.29:540][530]LogOutputDevice: Error: UE4Editor.exe!0x00000000B6171C47
+[2018.01.28-02.53.29:540][530]LogOutputDevice: Error: KERNEL32.DLL!0x000000002FAE8102
+[2018.01.28-02.53.29:540][530]LogOutputDevice: Error: ntdll.dll!0x000000002FBDC5B4
+[2018.01.28-02.53.29:540][530]LogOutputDevice: Error: 
+[2018.01.28-02.53.29:550][530]LogStats:                SubmitErrorReport -  0.000 s
