@@ -1,8 +1,8 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 2/3/2018, 14:30:31
-             Machine name: ANM-CA301-HP09
+      Time of this report: 2/18/2018, 11:48:40
+             Machine name: ANM-CA308-HP03
          Operating System: Windows 10 Pro 64-bit (10.0, Build 10586) (10586.th2_release_sec.170913-1848)
                  Language: English (Regional Setting: English)
       System Manufacturer: Hewlett-Packard
@@ -11,9 +11,9 @@ System Information
                 Processor: Intel(R) Xeon(R) CPU E5-2660 v3 @ 2.60GHz (40 CPUs), ~2.6GHz
                    Memory: 65536MB RAM
       Available OS Memory: 65452MB RAM
-                Page File: 14975MB used, 60204MB available
+                Page File: 11526MB used, 63653MB available
               Windows Dir: C:\windows
-          DirectX Version: 12
+          DirectX Version: 
       DX Setup Parameters: Not found
          User DPI Setting: Using System DPI
        System DPI Setting: 96 DPI (100 percent)
@@ -21,11 +21,13 @@ System Information
                  Miracast: Available, with HDCP
 Microsoft Graphics Hybrid: Not Supported
            DxDiag Version: 10.00.10586.0000 64bit Unicode
+  DxDiag Previously: Crashed in Direct3D (stage 2). Re-running DxDiag with "dontskip" command line parameter or choosing not to bypass information gathering when prompted might result in DxDiag successfully obtaining this information
 
 ------------
 DxDiag Notes
 ------------
       Display Tab 1: No problems found.
+      Display Tab 2: No problems found.
         Sound Tab 1: No problems found.
         Sound Tab 2: No problems found.
           Input Tab: No problems found.
@@ -45,25 +47,25 @@ DirectShow:  0/6 (retail)
 Display Devices
 ---------------
           Card name: NVIDIA Quadro M4000
-       Manufacturer: NVIDIA
-          Chip type: Quadro M4000
-           DAC type: Integrated RAMDAC
+       Manufacturer: 
+          Chip type: 
+           DAC type: 
         Device Type: Full Device
          Device Key: Enum\PCI\VEN_10DE&DEV_13F1&SUBSYS_1153103C&REV_A1
-     Display Memory: 40878 MB
-   Dedicated Memory: 8152 MB
-      Shared Memory: 32725 MB
-       Current Mode: 3840 x 1600 (32 bit) (60Hz)
-       Monitor Name: Generic PnP Monitor
-      Monitor Model: HP Z38c
-         Monitor Id: HPN3411
-        Native Mode: 3840 x 1600(p) (59.994Hz)
-        Output Type: Displayport External
-        Driver Name: nvd3dumx.dll,nvwgf2umx.dll,nvwgf2umx.dll,nvwgf2umx.dll,nvd3dum,nvwgf2um,nvwgf2um,nvwgf2um
-Driver File Version: 22.21.0013.8590 (English)
-     Driver Version: 22.21.13.8590
-        DDI Version: 12
-     Feature Levels: 12.1,12.0,11.1,11.0,10.1,10.0,9.3,9.2,9.1
+     Display Memory: 
+   Dedicated Memory: n/a
+      Shared Memory: n/a
+       Current Mode: 1920 x 1200 (32 bit) (59Hz)
+       Monitor Name: HP LP2475w Wide LCD Monitor
+      Monitor Model: 
+         Monitor Id: 
+        Native Mode: 
+        Output Type: 
+        Driver Name: 
+Driver File Version:  ()
+     Driver Version: 
+        DDI Version: 
+     Feature Levels: 
        Driver Model: WDDM 2.0
 Graphics Preemption: DMA
  Compute Preemption: DMA
@@ -71,67 +73,78 @@ Graphics Preemption: DMA
 Hybrid Graphics GPU: Not Supported
      Power P-states: Not Supported
   Driver Attributes: Final Retail
-   Driver Date/Size: 10/30/2017 12:00:00 AM, 18298240 bytes
-        WHQL Logo'd: Yes
-    WHQL Date Stamp: 
-  Device Identifier: {D7B71E3E-50B1-11CF-0252-5E311BC2DB35}
-          Vendor ID: 0x10DE
-          Device ID: 0x13F1
-          SubSys ID: 0x1153103C
-        Revision ID: 0x00A1
- Driver Strong Name: oem160.inf:0f066de3ae8508a0:Section097:22.21.13.8590:pci\ven_10de&dev_13f1
+   Driver Date/Size: , 0 bytes
+        WHQL Logo'd: n/a
+    WHQL Date Stamp: n/a
+  Device Identifier: 
+          Vendor ID: 
+          Device ID: 
+          SubSys ID: 
+        Revision ID: 
+ Driver Strong Name: oem162.inf:0f066de3ae8508a0:Section097:22.21.13.8590:pci\ven_10de&dev_13f1
      Rank Of Driver: 00D12001
         Video Accel: 
-        DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
-   Deinterlace Caps: {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-       D3D9 Overlay: Supported
-            DXVA-HD: Supported
-       DDraw Status: Enabled
-         D3D Status: Enabled
-         AGP Status: Enabled
-           MPO Caps: Not Supported
-        MPO Stretch: Not Supported
-    MPO Media Hints: Not Supported
-        MPO Formats: Not Supported
+        DXVA2 Modes: 
+      Deinterlace Caps: n/a
+       D3D9 Overlay: 
+            DXVA-HD: 
+       DDraw Status: Disabled
+         D3D Status: Not Available
+         AGP Status: Not Available
+           MPO Caps: 
+        MPO Stretch: 
+    MPO Media Hints: 
+        MPO Formats: 
+
+          Card name: NVIDIA Quadro M4000
+       Manufacturer: 
+          Chip type: 
+           DAC type: 
+        Device Type: Full Device
+         Device Key: Enum\PCI\VEN_10DE&DEV_13F1&SUBSYS_1153103C&REV_A1
+     Display Memory: 
+   Dedicated Memory: n/a
+      Shared Memory: n/a
+       Current Mode: 2560 x 1440 (32 bit) (59Hz)
+       Monitor Name: HP DreamColor Z27x Professional Display
+      Monitor Model: 
+         Monitor Id: 
+        Native Mode: 
+        Output Type: 
+        Driver Name: 
+Driver File Version:  ()
+     Driver Version: 
+        DDI Version: 
+     Feature Levels: 
+       Driver Model: WDDM 2.0
+Graphics Preemption: DMA
+ Compute Preemption: DMA
+           Miracast: Not Supported
+Hybrid Graphics GPU: Not Supported
+     Power P-states: Not Supported
+  Driver Attributes: Final Retail
+   Driver Date/Size: , 0 bytes
+        WHQL Logo'd: n/a
+    WHQL Date Stamp: n/a
+  Device Identifier: 
+          Vendor ID: 
+          Device ID: 
+          SubSys ID: 
+        Revision ID: 
+ Driver Strong Name: oem162.inf:0f066de3ae8508a0:Section097:22.21.13.8590:pci\ven_10de&dev_13f1
+     Rank Of Driver: 00D12001
+        Video Accel: 
+        DXVA2 Modes: 
+      Deinterlace Caps: n/a
+       D3D9 Overlay: 
+            DXVA-HD: 
+       DDraw Status: Disabled
+         D3D Status: Not Available
+         AGP Status: Not Available
+           MPO Caps: 
+        MPO Stretch: 
+    MPO Media Hints: 
+        MPO Formats: 
 
 -------------
 Sound Devices
@@ -161,7 +174,7 @@ Static/Strm HW Mix Bufs: 1, 0
    I3DL2(tm) Listen/Src: No, No
 Sensaura(tm) ZoomFX(tm): No
 
-            Description: HP Z38c-8 (NVIDIA High Definition Audio)
+            Description: HP Z27x-4 (NVIDIA High Definition Audio)
  Default Sound Playback: No
  Default Voice Playback: No
             Hardware ID: HDAUDIO\FUNC_01&VEN_10DE&DEV_0071&SUBSYS_103C1153&REV_1001
@@ -189,16 +202,6 @@ Sensaura(tm) ZoomFX(tm): No
 ---------------------
 Sound Capture Devices
 ---------------------
-            Description: Stereo Mix (Realtek High Definition Audio)
-  Default Sound Capture: Yes
-  Default Voice Capture: Yes
-            Driver Name: RTKVHD64.sys
-         Driver Version: 6.00.0001.7592 (English)
-      Driver Attributes: Final Retail
-          Date and Size: 8/27/2015 13:33:22, 4589312 bytes
-              Cap Flags: 0x1
-           Format Flags: 0xFFFFF
-
 ---------------------
 Video Capture Devices
 Number of Devices: 0
@@ -218,34 +221,34 @@ Vendor/Product ID: n/a
 Vendor/Product ID: n/a
         FF Driver: n/a
 
+      Device Name: Wacom Tablet
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x056A, 0x0027
+        FF Driver: n/a
+
+      Device Name: Wacom Tablet
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x056A, 0x0027
+        FF Driver: n/a
+
+      Device Name: Wacom Tablet
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x056A, 0x0027
+        FF Driver: n/a
+
       Device Name: HP USB Keyboard
          Attached: 1
     Controller ID: 0x0
-Vendor/Product ID: 0x03F0, 0x064A
+Vendor/Product ID: 0x03F0, 0x0D4A
         FF Driver: n/a
 
       Device Name: HP USB Keyboard
          Attached: 1
     Controller ID: 0x0
-Vendor/Product ID: 0x03F0, 0x064A
-        FF Driver: n/a
-
-      Device Name: Wacom Tablet
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x056A, 0x0026
-        FF Driver: n/a
-
-      Device Name: Wacom Tablet
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x056A, 0x0026
-        FF Driver: n/a
-
-      Device Name: Wacom Tablet
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x056A, 0x0026
+Vendor/Product ID: 0x03F0, 0x0D4A
         FF Driver: n/a
 
 Poll w/ Interrupt: No
@@ -259,9 +262,51 @@ USB Devices
 | Service: USBHUB3
 | Driver: USBHUB3.SYS, 4/22/2016 20:56:52, 534872 bytes
 | 
++-+ Wacom Tablet
+| | Vendor/Product ID: 0x056A, 0x0027
+| | Location: Port_#0003.Hub_#0003
+| | Matching Device ID: USB\VID_056A&PID_0027
+| | Upper Filters: mshidkmdf
+| | Service: WacHidRouterPro
+| | Driver: wachidrouter.sys, 11/21/2017 13:36:55, 115192 bytes
+| | Driver: wdfcoinstaller01011.dll, 11/21/2017 13:36:55, 1804680 bytes
+| | 
+| +-+ HID-Compliant Mouse
+| | | Vendor/Product ID: 0x056A, 0x0027
+| | | Matching Device ID: HID\VID_056A&PID_0027&Col01
+| | | Upper Filters: wacomrouterfilter
+| | | Service: mouhid
+| | | Driver: wacomrouterfilter.sys, 11/21/2017 13:36:55, 17912 bytes
+| | | Driver: mouhid.sys, 10/29/2015 23:17:23, 32256 bytes
+| | | Driver: mouclass.sys, 10/29/2015 23:17:23, 59232 bytes
+| | | Driver: wdfcoinstaller01009.dll, 3/30/2015 17:38:00, 1721576 bytes
+| | 
++-+ USB Composite Device
+| | Vendor/Product ID: 0x03F0, 0x0D4A
+| | Location: Port_#0006.Hub_#0003
+| | Matching Device ID: USB\COMPOSITE
+| | Service: usbccgp
+| | Driver: usbccgp.sys, 10/29/2015 23:17:23, 159072 bytes
+| | 
+| +-+ USB Input Device
+| | | Vendor/Product ID: 0x03F0, 0x0D4A
+| | | Location: 0000.0014.0000.006.000.000.000.000.000
+| | | Matching Device ID: USB\Class_03&SubClass_01
+| | | Service: HidUsb
+| | | Driver: hidusb.sys, 10/29/2015 23:17:23, 38400 bytes
+| | | Driver: hidclass.sys, 5/27/2016 20:23:26, 155136 bytes
+| | | Driver: hidparse.sys, 10/29/2015 23:17:23, 40448 bytes
+| | | 
+| | +-+ HID Keyboard Device
+| | | | Vendor/Product ID: 0x03F0, 0x0D4A
+| | | | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
+| | | | Service: kbdhid
+| | | | Driver: kbdhid.sys, 10/29/2015 23:17:23, 36864 bytes
+| | | | Driver: kbdclass.sys, 10/29/2015 23:17:23, 62304 bytes
+| | 
 +-+ USB Input Device
 | | Vendor/Product ID: 0x03F0, 0x134A
-| | Location: Port_#0006.Hub_#0003
+| | Location: Port_#0005.Hub_#0003
 | | Matching Device ID: USB\Class_03&SubClass_01
 | | Service: HidUsb
 | | Driver: hidusb.sys, 10/29/2015 23:17:23, 38400 bytes
@@ -274,48 +319,6 @@ USB Devices
 | | | Service: mouhid
 | | | Driver: mouhid.sys, 10/29/2015 23:17:23, 32256 bytes
 | | | Driver: mouclass.sys, 10/29/2015 23:17:23, 59232 bytes
-| | 
-+-+ USB Composite Device
-| | Vendor/Product ID: 0x03F0, 0x064A
-| | Location: Port_#0011.Hub_#0003
-| | Matching Device ID: USB\COMPOSITE
-| | Service: usbccgp
-| | Driver: usbccgp.sys, 10/29/2015 23:17:23, 159072 bytes
-| | 
-| +-+ USB Input Device
-| | | Vendor/Product ID: 0x03F0, 0x064A
-| | | Location: 0000.0014.0000.011.000.000.000.000.000
-| | | Matching Device ID: USB\Class_03&SubClass_01
-| | | Service: HidUsb
-| | | Driver: hidusb.sys, 10/29/2015 23:17:23, 38400 bytes
-| | | Driver: hidclass.sys, 5/27/2016 20:23:26, 155136 bytes
-| | | Driver: hidparse.sys, 10/29/2015 23:17:23, 40448 bytes
-| | | 
-| | +-+ HID Keyboard Device
-| | | | Vendor/Product ID: 0x03F0, 0x064A
-| | | | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
-| | | | Service: kbdhid
-| | | | Driver: kbdhid.sys, 10/29/2015 23:17:23, 36864 bytes
-| | | | Driver: kbdclass.sys, 10/29/2015 23:17:23, 62304 bytes
-| | 
-+-+ Wacom Tablet
-| | Vendor/Product ID: 0x056A, 0x0026
-| | Location: Port_#0005.Hub_#0003
-| | Matching Device ID: USB\VID_056A&PID_0026
-| | Upper Filters: mshidkmdf
-| | Service: WacHidRouterPro
-| | Driver: wachidrouter.sys, 11/21/2017 13:36:55, 115192 bytes
-| | Driver: wdfcoinstaller01011.dll, 11/21/2017 13:36:55, 1804680 bytes
-| | 
-| +-+ HID-Compliant Mouse
-| | | Vendor/Product ID: 0x056A, 0x0026
-| | | Matching Device ID: HID\VID_056A&PID_0026&Col01
-| | | Upper Filters: wacomrouterfilter
-| | | Service: mouhid
-| | | Driver: wacomrouterfilter.sys, 11/21/2017 13:36:55, 17912 bytes
-| | | Driver: mouhid.sys, 10/29/2015 23:17:23, 32256 bytes
-| | | Driver: mouclass.sys, 10/29/2015 23:17:23, 59232 bytes
-| | | Driver: wdfcoinstaller01009.dll, 3/30/2015 17:38:00, 1721576 bytes
 
 ----------------
 Gameport Devices
@@ -340,7 +343,7 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
- Free Space: 25.6 GB
+ Free Space: 25.7 GB
 Total Space: 229.7 GB
 File System: NTFS
       Model: NVMe SAMSUNG MZVPV256
@@ -352,16 +355,10 @@ File System: NTFS
       Model: NVMe SAMSUNG MZVPV256
 
       Drive: E:
- Free Space: 877.2 GB
+ Free Space: 827.5 GB
 Total Space: 953.7 GB
 File System: NTFS
       Model: WDC WD10EZEX-60WN4A0
-
-      Drive: J:
- Free Space: 1383.2 GB
-Total Space: 1907.4 GB
-File System: HFSJ
-      Model: WD easystore 25FC USB Device
 
       Drive: G:
       Model: hp DVDRW  DU8A6SH
@@ -532,7 +529,7 @@ Device ID: PCI\VEN_8086&DEV_2FD0&SUBSYS_2FD08086&REV_02\3&1C6B4348&0&B8
 
      Name: Intel(R) Management Engine Interface 
 Device ID: PCI\VEN_8086&DEV_8D3A&SUBSYS_212A103C&REV_05\3&11583659&1&B0
-   Driver: C:\windows\system32\DRIVERS\TeeDriverW8x64.sys, 11.00.0000.1157 (English), 7/7/2015 21:45:12, 184608 bytes
+   Driver: C:\windows\system32\DRIVERS\TeeDriverW8x64.sys, 11.07.0000.1040 (English), 7/27/2017 08:47:50, 206496 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Hot Plug - 2F29
 Device ID: PCI\VEN_8086&DEV_2F29&SUBSYS_00000000&REV_02\3&11583659&1&29
@@ -576,7 +573,7 @@ Device ID: PCI\VEN_10DE&DEV_13F1&SUBSYS_1153103C&REV_A1\4&39804BF4&0&0010
    Driver: C:\Program Files\NVIDIA Corporation\Drs\nvdrsdb.bin, 10/30/2017 16:23:03, 1434216 bytes
    Driver: C:\windows\System32\DriverStore\FileRepository\nv_dispwi.inf_amd64_9996cf372360b237\NvContainerSetup.exe, 1.00.0007.0000 (English), 10/30/2017 16:23:03, 4178400 bytes
    Driver: C:\windows\System32\DriverStore\FileRepository\nv_dispwi.inf_amd64_9996cf372360b237\NvCplSetupInt.exe, 1.00.0007.0000 (English), 10/30/2017 16:23:03, 100731736 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\license.txt, 10/30/2017 16:23:03, 27203 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\license.txt, 9/16/2017 11:27:07, 27203 bytes
    Driver: C:\Program Files\NVIDIA Corporation\NVSMI\MCU.exe, 1.01.5204.20580 (English), 10/30/2017 16:23:03, 848320 bytes
    Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvdebugdump.exe, 6.14.0013.8590 (English), 10/30/2017 16:23:03, 415168 bytes
    Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvidia-smi.1.pdf, 10/30/2017 16:23:03, 101856 bytes
@@ -588,7 +585,7 @@ Device ID: PCI\VEN_10DE&DEV_13F1&SUBSYS_1153103C&REV_A1\4&39804BF4&0&0010
    Driver: C:\windows\system32\NvFBC64.dll, 6.14.0013.8590 (English), 10/30/2017 16:23:03, 1068152 bytes
    Driver: C:\windows\system32\NvIFR64.dll, 6.14.0013.8590 (English), 10/30/2017 16:23:03, 972736 bytes
    Driver: C:\windows\system32\NvIFROpenGL.dll, 22.21.0013.8590 (English), 10/30/2017 16:23:03, 609912 bytes
-   Driver: C:\windows\system32\nv-vk64.json, 10/30/2017 16:23:03, 669 bytes
+   Driver: C:\windows\system32\nv-vk64.json, 9/16/2017 11:27:07, 669 bytes
    Driver: C:\windows\system32\nvDecMFTMjpeg.dll, 22.21.0013.8590 (English), 10/30/2017 16:23:03, 724928 bytes
    Driver: C:\windows\system32\nvEncMFTH264.dll, 22.21.0013.8590 (English), 10/30/2017 16:23:03, 1292096 bytes
    Driver: C:\windows\system32\nvEncMFThevc.dll, 22.21.0013.8590 (English), 10/30/2017 16:23:03, 1289840 bytes
@@ -611,7 +608,7 @@ Device ID: PCI\VEN_10DE&DEV_13F1&SUBSYS_1153103C&REV_A1\4&39804BF4&0&0010
    Driver: C:\windows\SysWow64\NvFBC.dll, 6.14.0013.8590 (English), 10/30/2017 16:23:03, 1005176 bytes
    Driver: C:\windows\SysWow64\NvIFR.dll, 6.14.0013.8590 (English), 10/30/2017 16:23:03, 924096 bytes
    Driver: C:\windows\SysWow64\NvIFROpenGL.dll, 22.21.0013.8590 (English), 10/30/2017 16:23:03, 499136 bytes
-   Driver: C:\windows\SysWow64\nv-vk32.json, 10/30/2017 16:23:03, 669 bytes
+   Driver: C:\windows\SysWow64\nv-vk32.json, 9/16/2017 11:27:07, 669 bytes
    Driver: C:\windows\SysWow64\nvDecMFTMjpeg.dll, 22.21.0013.8590 (English), 10/30/2017 16:23:03, 584128 bytes
    Driver: C:\windows\SysWow64\nvEncMFTH264.dll, 22.21.0013.8590 (English), 10/30/2017 16:23:03, 1008816 bytes
    Driver: C:\windows\SysWow64\nvEncMFThevc.dll, 22.21.0013.8590 (English), 10/30/2017 16:23:03, 1007096 bytes
@@ -642,6 +639,14 @@ Device ID: PCI\VEN_10DE&DEV_0FBB&SUBSYS_1153103C&REV_A1\4&39804BF4&0&0110
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Buffered Ring Agent - 2FFA
 Device ID: PCI\VEN_8086&DEV_2FFA&SUBSYS_00000000&REV_02\3&103A9D54&0&7A
    Driver: n/a
+
+     Name: Intel(R) Ethernet Converged Network Adapter X540-T1
+Device ID: PCI\VEN_8086&DEV_1528&SUBSYS_00028086&REV_01\4&4A3FA99&0&0018
+   Driver: C:\windows\system32\DRIVERS\ixt65x64.sys, 3.10.0162.0001 (English), 5/28/2015 20:42:38, 409384 bytes
+   Driver: C:\windows\system32\ixtmsg.dll, 10.00.0403.0000 (English), 5/28/2015 20:42:38, 84024 bytes
+   Driver: C:\windows\system32\ixt65x64.din, 4/24/2015 16:28:28, 3066 bytes
+   Driver: C:\windows\system32\NicCo4.dll, 4.02.0003.0000 (English), 4/18/2014 12:17:32, 125728 bytes
+   Driver: C:\windows\system32\NicInIXT.dll, 9.12.0010.0000 (English), 5/28/2015 20:45:54, 98600 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 QPI Link 0 - 2F83
 Device ID: PCI\VEN_8086&DEV_2F83&SUBSYS_2F838086&REV_02\3&103A9D54&0&43
@@ -1250,9 +1255,6 @@ CCITT A-Law,0x00200000,1,1,quartz.dll,10.00.10586.0873
 CCITT u-Law,0x00200000,1,1,quartz.dll,10.00.10586.0873
 MPEG Layer-3,0x00200000,1,1,quartz.dll,10.00.10586.0873
 
-Audio Capture Sources:
-Stereo Mix (Realtek High Definition Audio),0x00200000,0,0,qcap.dll,10.00.10586.0000
-
 PBDA CP Filters:
 PBDA DTFilter,0x00600000,1,1,CPFilters.dll,10.00.10586.0589
 PBDA ETFilter,0x00200000,0,0,CPFilters.dll,10.00.10586.0589
@@ -1300,8 +1302,8 @@ Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.10586.0
 Default DirectSound Device,0x00800000,1,0,quartz.dll,10.00.10586.0873
 Default WaveOut Device,0x00200000,1,0,quartz.dll,10.00.10586.0873
 DirectSound: Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.10586.0873
-DirectSound: HP Z38c-8 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.10586.0873
-HP Z38c-8 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.10586.0873
+DirectSound: HP Z27x-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.10586.0873
+HP Z27x-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.10586.0873
 
 
 ----------------------------
@@ -1691,7 +1693,7 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
-Fault bucket 1591838273279181538, type 5
+Fault bucket 1837228901769710183, type 5
 Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
@@ -1699,7 +1701,7 @@ Cab Id: 0
 Problem signature:
 P1: 10.0.10586.1176
 P2: 80070002
-P3: 61A9C52E-D561-4587-B4D6-B51EBA593069
+P3: 35364906-D03C-475D-BB4C-42DBFEF8C205
 P4: Install
 P5: 1
 P6: 0
@@ -1711,59 +1713,59 @@ P10: 0
 
 +++ WER1 +++:
 Fault bucket , type 0
-Event Name: APPCRASH
+Event Name: Crash
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: UE4-MyProject2
-P2: 4.12.5
-P3: 577d03a6
-P4: UE4Editor-Core.dll
-P5: 4.12.5
-P6: 577d01ba
+P1: UE4-The_Lunchbox
+P2: 4.13.0
+P3: 57c6052c
+P4: UE4Editor-CoreUObject.dll
+P5: 4.13.0
+P6: 57c6040b
 P7: c0000005
-P8: 00000000004F4628
-P9: !"E:/Users/grichar6/Documents/Unreal Projects/MyProject2/MyProject2.uproject"-EpicPortal !AssertLog=""
-P10: ++UE4+Release-4.12!C:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/!Editor!3039270
+P8: 00000000002C143E
+P9: !"\\olympia\lunchbox\GITHUB_REPO\The_Lunchbox_UE\The_Lunchbox.uproject" !AssertLog=""
+P10: ++UE4+Release-4.13!C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/!Editor!3106830
 
 
 +++ WER2 +++:
 Fault bucket , type 0
-Event Name: APPCRASH
+Event Name: Ensure
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: UE4-MyProject2
-P2: 4.12.5
-P3: 577d03a6
+P1: UE4-VR_Pluralsight
+P2: 4.13.0
+P3: 57c6052c
 P4: KERNELBASE.dll
 P5: 10.0.10586
 P6: 5632d1de
 P7: 00000001
 P8: 0000000000071F08
-P9: !"E:/Users/grichar6/Documents/Unreal Projects/MyProject2/MyProject2.uproject"-EpicPortal !AssertLog="Ensure condition failed: !bCapturing [File:D:\Build\++UE4+Release-4.12+Compile\Sync\Engine\Source\Runtime\MovieSceneCapture\Private\MovieSceneCapture.cpp] [Li
-P10: ++UE4+Release-4.12!C:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/!Editor!3039270
+P9: !"E:/Users/jgamman1/Documents/Unreal Projects/VR_Pluralsight/VR_Pluralsight.uproject"!AssertLog="Ensure condition failed: Component != nullptr [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\LevelViewportClickHandlers.cpp]
+P10: ++UE4+Release-4.13!C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/!Editor!3106830
 
 
 +++ WER3 +++:
 Fault bucket , type 0
-Event Name: WindowsUpdateFailure3
+Event Name: APPCRASH
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 10.0.10586.1176
-P2: 80070002
-P3: 61A9C52E-D561-4587-B4D6-B51EBA593069
-P4: Install
-P5: 1
-P6: 0
-P7: 0
-P8: WSAutoUpdate
-P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
-P10: 0
+P1: UE4-Henry
+P2: 4.9.1
+P3: 57e1b88c
+P4: UE4Editor-UnrealEd.dll
+P5: 4.9.1
+P6: 57e1b88f
+P7: c0000005
+P8: 00000000004A60E8
+P9: !"E:/unrealHenry/UnrealEngine-release/Henry/Henry.uproject"!AssertLog=""
+P10: ++depot+UE4-Releases+4.9!E:/unrealHenry/UnrealEngine-release/Engine/Binaries/Win64/!Editor!0
 
 
 +++ WER4 +++:
@@ -1775,7 +1777,7 @@ Cab Id: 0
 Problem signature:
 P1: 10.0.10586.1176
 P2: 80070002
-P3: 61A9C52E-D561-4587-B4D6-B51EBA593069
+P3: 35364906-D03C-475D-BB4C-42DBFEF8C205
 P4: Install
 P5: 1
 P6: 0
@@ -1786,6 +1788,25 @@ P10: 0
 
 
 +++ WER5 +++:
+Fault bucket , type 0
+Event Name: WindowsUpdateFailure3
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: 10.0.10586.1176
+P2: 80070002
+P3: 35364906-D03C-475D-BB4C-42DBFEF8C205
+P4: Install
+P5: 1
+P6: 0
+P7: 0
+P8: WSAutoUpdate
+P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
+P10: 0
+
+
++++ WER6 +++:
 Fault bucket 128045403535, type 5
 Event Name: AppxDeploymentFailureBlue
 Response: Not available
@@ -1804,79 +1825,60 @@ P9:
 P10: 
 
 
-+++ WER6 +++:
-Fault bucket , type 0
-Event Name: APPCRASH
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: UE4-MyProject2
-P2: 4.12.5
-P3: 577d03a6
-P4: UE4Editor-Core.dll
-P5: 4.12.5
-P6: 577d01ba
-P7: c0000005
-P8: 00000000004F4628
-P9: !"E:/Users/grichar6/Documents/Unreal Projects/MyProject2/MyProject2.uproject"-EpicPortal !AssertLog=""
-P10: ++UE4+Release-4.12!C:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/!Editor!3039270
-
-
 +++ WER7 +++:
 Fault bucket , type 0
-Event Name: APPCRASH
+Event Name: Crash
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: UE4-MyProject2
-P2: 4.12.5
-P3: 577d03a6
+P1: UE4-The_Lunchbox
+P2: 4.13.0
+P3: 57c6052c
+P4: UE4Editor-CoreUObject.dll
+P5: 4.13.0
+P6: 57c6040b
+P7: c0000005
+P8: 00000000002C143E
+P9: !"\\olympia\lunchbox\GITHUB_REPO\The_Lunchbox_UE\The_Lunchbox.uproject" !AssertLog=""
+P10: ++UE4+Release-4.13!C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/!Editor!3106830
+
+
++++ WER8 +++:
+Fault bucket , type 0
+Event Name: Ensure
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: UE4-VR_Pluralsight
+P2: 4.13.0
+P3: 57c6052c
 P4: KERNELBASE.dll
 P5: 10.0.10586
 P6: 5632d1de
 P7: 00000001
 P8: 0000000000071F08
-P9: !"E:/Users/grichar6/Documents/Unreal Projects/MyProject2/MyProject2.uproject"-EpicPortal !AssertLog="Ensure condition failed: !bCapturing [File:D:\Build\++UE4+Release-4.12+Compile\Sync\Engine\Source\Runtime\MovieSceneCapture\Private\MovieSceneCapture.cpp] [Li
-P10: ++UE4+Release-4.12!C:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/Win64/!Editor!3039270
-
-
-+++ WER8 +++:
-Fault bucket , type 0
-Event Name: AppxDeploymentFailureBlue
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: 80070002
-P2: 15
-P3: 0
-P4: NONE
-P5: 10.0.10586.1176
-P6: 401
-P7: 
-P8: 
-P9: 
-P10: 
+P9: !"E:/Users/jgamman1/Documents/Unreal Projects/VR_Pluralsight/VR_Pluralsight.uproject"!AssertLog="Ensure condition failed: Component != nullptr [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\LevelViewportClickHandlers.cpp]
+P10: ++UE4+Release-4.13!C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/!Editor!3106830
 
 
 +++ WER9 +++:
-Fault bucket 128045403485, type 5
-Event Name: StoreAgentInstallFailure1
+Fault bucket , type 0
+Event Name: APPCRASH
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: WSAutoUpdate
-P2: 80070002
-P3: 10586
-P4: 1176
-P5: Windows.Desktop
-P6: T
-P7: 
-P8: 
-P9: 
-P10: 
+P1: UE4-Henry
+P2: 4.9.1
+P3: 57e1b88c
+P4: UE4Editor-UnrealEd.dll
+P5: 4.9.1
+P6: 57e1b88f
+P7: c0000005
+P8: 00000000004A60E8
+P9: !"E:/unrealHenry/UnrealEngine-release/Henry/Henry.uproject"!AssertLog=""
+P10: ++depot+UE4-Releases+4.9!E:/unrealHenry/UnrealEngine-release/Engine/Binaries/Win64/!Editor!0
 
 
