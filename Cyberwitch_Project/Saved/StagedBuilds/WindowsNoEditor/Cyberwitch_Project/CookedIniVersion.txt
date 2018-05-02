@@ -1307,6 +1307,7 @@ Windows.Engine:/Script/HardwareTargeting.HardwareTargetingSettings:TargetedHardw
 Windows.Engine:/Script/HardwareTargeting.HardwareTargetingSettings:AppliedTargetedHardwareClass:0=Desktop
 Windows.Engine:/Script/HardwareTargeting.HardwareTargetingSettings:DefaultGraphicsPerformance:0=Maximum
 Windows.Engine:/Script/HardwareTargeting.HardwareTargetingSettings:AppliedDefaultGraphicsPerformance:0=Maximum
+Windows.Engine:/Script/Engine.RendererSettings:r.AllowOcclusionQueries:0=False
 Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Game/Blueprints/MainGameInstance.MainGameInstance_C
 Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/Levels/CS1.CS1
 Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
@@ -1542,7 +1543,7 @@ Windows.Input:/Script/EngineSettings.ConsoleSettings:HistoryColor:0=(R=180,G=180
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCommandColor:0=(B=185,G=109,R=144,A=255)
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCVarColor:0=(B=86,G=158,R=86,A=255)
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteFadedColor:0=(R=100,G=100,B=100,A=255)
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="E/Users/admitrie/Desktop/Builds")
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="E/Users/admitrie/Desktop/Builds/test4")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
@@ -1714,6 +1715,30 @@ Windows.Editor:/Script/UnrealEd.UnrealEdOptions:NewAssetDefaultClasses:3=(ClassN
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:NewAssetDefaultClasses:4=(ClassName="/Script/Engine.GameModeBase", AssetClass="/Script/Engine.Blueprint")
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:NewAssetDefaultClasses:5=(ClassName="/Script/Engine.ActorComponent", AssetClass="/Script/Engine.Blueprint")
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:NewAssetDefaultClasses:6=(ClassName="/Script/Engine.SceneComponent", AssetClass="/Script/Engine.Blueprint")
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:bCreateLevelSequence:0=True
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:bImmersiveMode:0=False
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:SequenceLength:0=60.000000
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:RecordingDelay:0=4.000000
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:SequenceName:0=TestSequence_001
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:SequenceRecordingBasePath:0=(Path="/Game/Cinematics/Sequences")
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:AnimationSubDirectory:0=Animations
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:AudioSubDirectory:0=Audio
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:RecordAudio:0=AudioTrack
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:AudioGain:0=0.000000
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:AudioInputBufferSize:0=4048
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:bRecordNearbySpawnedActors:0=True
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:NearbyActorRecordingProximity:0=5000.000000
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:bRecordWorldSettingsActor:0=True
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:bReduceKeys:0=True
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:ActorFilter:0=(ActorClassesToRecord=(BlueprintGeneratedClass'/Game/Blueprints/Character/Player/BaseController.BaseController_C',BlueprintGeneratedClass'/Game/Blueprints/Character/BaseCharacter.BaseCharacter_C',BlueprintGeneratedClass'/Game/Blueprints/Character/Player/Talia/TaliaController.TaliaController_C'))
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:DefaultAnimationSettings:0=(bRecordInWorldSpace=True,bRemoveRootAnimation=True,bAutoSaveAsset=False,SampleRate=30.000000,Length=60.000000)
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:bRecordSequencerSpawnedActors:0=False
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:ClassesAndPropertiesToRecord:0=(Class=Class'/Script/Engine.SkeletalMeshComponent',Properties=)
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:ClassesAndPropertiesToRecord:1=(Class=Class'/Script/Engine.StaticMeshComponent',Properties=)
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:ClassesAndPropertiesToRecord:2=(Class=Class'/Script/Engine.ParticleSystemComponent',Properties=)
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:ClassesAndPropertiesToRecord:3=(Class=Class'/Script/Engine.LightComponent',Properties=)
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:ClassesAndPropertiesToRecord:4=(Class=Class'/Script/Engine.CameraComponent',Properties=)
+Windows.Editor:/Script/SequenceRecorder.SequenceRecorderSettings:ClassesAndPropertiesToRecord:5=(Class=Class'/Script/CinematicCamera.CineCameraComponent',Properties=)
 Windows.Editor:Internationalization:LocalizationPaths:0=../../../Engine/Content/Localization/Editor
 Windows.Editor:Internationalization:LocalizationPaths:1=../../../Engine/Content/Localization/EditorTutorials
 Windows.Editor:Internationalization:LocalizationPaths:2=../../../Engine/Content/Localization/Keywords
