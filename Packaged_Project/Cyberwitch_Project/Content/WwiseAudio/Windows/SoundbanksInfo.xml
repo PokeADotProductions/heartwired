@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="128">
+	<RootPaths>
+		<ProjectRoot>C:\Users\leetgamer\Documents\Heartwired_Final_Build\Heartwired_Final_Build_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\leetgamer\Documents\Heartwired_Final_Build\Heartwired_Final_Build_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\leetgamer\Documents\Heartwired_Final_Build\Content\WwiseAudio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\leetgamer\Documents\Heartwired_Final_Build\Heartwired_Final_Build_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2066514019" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\AkBank</ObjectPath>
+			<ShortName>AkBank</ShortName>
+			<Path>AkBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2802868670" Name="Bear_Attack" ObjectPath="\Events\Default Work Unit\Bear_Attack"/>
+				<Event Id="258611422" Name="Bear_CharSwitch" ObjectPath="\Events\Default Work Unit\Bear_CharSwitch"/>
+				<Event Id="1562461120" Name="Bear_Die" ObjectPath="\Events\Default Work Unit\Bear_Die"/>
+				<Event Id="2832009476" Name="Bear_GrowlsMisc" ObjectPath="\Events\Default Work Unit\Bear_GrowlsMisc"/>
+				<Event Id="3184222161" Name="Bear_hurt" ObjectPath="\Events\Default Work Unit\Bear_hurt"/>
+				<Event Id="3654767010" Name="Bear_Jump" ObjectPath="\Events\Default Work Unit\Bear_Jump"/>
+				<Event Id="492839589" Name="Bear_Land" ObjectPath="\Events\Default Work Unit\Bear_Land"/>
+				<Event Id="2483233575" Name="Bear_RockSmash" ObjectPath="\Events\Default Work Unit\Bear_RockSmash"/>
+				<Event Id="83889919" Name="Box_FallOff" ObjectPath="\Events\Default Work Unit\Box_FallOff"/>
+				<Event Id="3852940495" Name="Box_HitGround" ObjectPath="\Events\Default Work Unit\Box_HitGround"/>
+				<Event Id="1552732279" Name="Box_Push" ObjectPath="\Events\Default Work Unit\Box_Push"/>
+				<Event Id="1027451792" Name="FS_Bear_Switch" ObjectPath="\Events\Default Work Unit\FS_Bear_Switch"/>
+				<Event Id="455240557" Name="FS_Jackboots" ObjectPath="\Events\Default Work Unit\FS_Jackboots"/>
+				<Event Id="3299340191" Name="FS_Talliah_Switch" ObjectPath="\Events\Default Work Unit\FS_Talliah_Switch"/>
+				<Event Id="2438861650" Name="Jackboots_Attack" ObjectPath="\Events\Default Work Unit\Jackboots_Attack"/>
+				<Event Id="2769173864" Name="Jackboots_CharNoise" ObjectPath="\Events\Default Work Unit\Jackboots_CharNoise"/>
+				<Event Id="2178057420" Name="Jackboots_Die" ObjectPath="\Events\Default Work Unit\Jackboots_Die"/>
+				<Event Id="1815151523" Name="Mechanics_Lever" ObjectPath="\Events\Default Work Unit\Mechanics_Lever"/>
+				<Event Id="1942613624" Name="Mechanics_Platform" ObjectPath="\Events\Default Work Unit\Mechanics_Platform"/>
+				<Event Id="1165063166" Name="Mechanics_Platform_End" ObjectPath="\Events\Default Work Unit\Mechanics_Platform_End"/>
+				<Event Id="966384020" Name="Misc_BearServos" ObjectPath="\Events\Default Work Unit\Misc_BearServos"/>
+				<Event Id="2611049506" Name="Misc_BodyFalls" ObjectPath="\Events\Default Work Unit\Misc_BodyFalls"/>
+				<Event Id="96223115" Name="Misc_ElectricSparks" ObjectPath="\Events\Default Work Unit\Misc_ElectricSparks"/>
+				<Event Id="2501075725" Name="Misc_Impacts" ObjectPath="\Events\Default Work Unit\Misc_Impacts"/>
+				<Event Id="4216917174" Name="Misc_Whooshes" ObjectPath="\Events\Default Work Unit\Misc_Whooshes"/>
+				<Event Id="2177735725" Name="Music_Level" ObjectPath="\Events\Default Work Unit\Music_Level"/>
+				<Event Id="2268668044" Name="Pig_Die" ObjectPath="\Events\Default Work Unit\Pig_Die"/>
+				<Event Id="1431359015" Name="Pig_FS" ObjectPath="\Events\Default Work Unit\Pig_FS"/>
+				<Event Id="1625043141" Name="Pig_Hurt" ObjectPath="\Events\Default Work Unit\Pig_Hurt"/>
+				<Event Id="3680356900" Name="Pig_Idle" ObjectPath="\Events\Default Work Unit\Pig_Idle"/>
+				<Event Id="730363469" Name="Pig_Sniffs" ObjectPath="\Events\Default Work Unit\Pig_Sniffs"/>
+				<Event Id="4284671387" Name="Rock_Smash" ObjectPath="\Events\Default Work Unit\Rock_Smash"/>
+				<Event Id="3818120362" Name="Take_Damage_Generic" ObjectPath="\Events\Default Work Unit\Take_Damage_Generic"/>
+				<Event Id="2458983097" Name="Taliah_CharSwitch" ObjectPath="\Events\Default Work Unit\Taliah_CharSwitch"/>
+				<Event Id="234328097" Name="Talliah_Efforts_Die" ObjectPath="\Events\Default Work Unit\Talliah_Efforts_Die"/>
+				<Event Id="4150137294" Name="Talliah_Efforts_Hurt" ObjectPath="\Events\Default Work Unit\Talliah_Efforts_Hurt"/>
+				<Event Id="587518341" Name="Talliah_Efforts_Jump" ObjectPath="\Events\Default Work Unit\Talliah_Efforts_Jump"/>
+				<Event Id="2916701194" Name="Talliah_Efforts_Land" ObjectPath="\Events\Default Work Unit\Talliah_Efforts_Land"/>
+				<Event Id="3768788184" Name="Talliah_Hookshot" ObjectPath="\Events\Default Work Unit\Talliah_Hookshot"/>
+				<Event Id="1841953440" Name="Talliah_Slide" ObjectPath="\Events\Default Work Unit\Talliah_Slide"/>
+				<Event Id="434410878" Name="UI_CharSwitch" ObjectPath="\Events\Default Work Unit\UI_CharSwitch"/>
+				<Event Id="4144331488" Name="UI_Checkpoint" ObjectPath="\Events\Default Work Unit\UI_Checkpoint"/>
+				<Event Id="1094303138" Name="UI_GameOver" ObjectPath="\Events\Default Work Unit\UI_GameOver"/>
+				<Event Id="2991413273" Name="UI_Indicator" ObjectPath="\Events\Default Work Unit\UI_Indicator"/>
+				<Event Id="3017890412" Name="User_Interface" ObjectPath="\Events\Default Work Unit\User_Interface"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="12341623" Language="SFX">
+					<ShortName>Emily Tallliah 1 24_04 Efforts.wav</ShortName>
+					<Path>SFX\Emily Tallliah 1 24_04 Efforts_607066C2.wem</Path>
+				</File>
+				<File Id="13048526" Language="SFX">
+					<ShortName>Jackboots_Swtnr_ST_02.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_ST_02_C16D744D.wem</Path>
+				</File>
+				<File Id="16284939" Language="SFX">
+					<ShortName>Emily Tallliah 1 24_04 Efforts.wav</ShortName>
+					<Path>SFX\Emily Tallliah 1 24_04 Efforts_AD27E157.wem</Path>
+				</File>
+				<File Id="18886559" Language="SFX">
+					<ShortName>Bear Hit Rock With Head.wav</ShortName>
+					<Path>SFX\Bear Hit Rock With Head_71B17414.wem</Path>
+				</File>
+				<File Id="22024544" Language="SFX">
+					<ShortName>4-97 Hard wood hit and shatter (2) _ heavy wood hit (2) _ bulb horn_ short toot.wav</ShortName>
+					<Path>SFX\4-97 Hard wood hit and shatter (2) _ heavy wood hit (2) _ bulb horn_ short toot_BD6EFB52.wem</Path>
+				</File>
+				<File Id="25454825" Language="SFX">
+					<ShortName>Bear_FS_Apr21_Dry.wav</ShortName>
+					<Path>SFX\Bear_FS_Apr21_Dry_CCBE28E7.wem</Path>
+				</File>
+				<File Id="28057680" Language="SFX">
+					<ShortName>PIG_04.wav</ShortName>
+					<Path>SFX\PIG_04_DDA16BEC.wem</Path>
+				</File>
+				<File Id="40121947" Language="SFX">
+					<ShortName>4-97 Hard wood hit and shatter (2) _ heavy wood hit (2) _ bulb horn_ short toot.wav</ShortName>
+					<Path>SFX\4-97 Hard wood hit and shatter (2) _ heavy wood hit (2) _ bulb horn_ short toot_14E7721D.wem</Path>
+				</File>
+				<File Id="42664192" Language="SFX">
+					<ShortName>TALLIAH FS_09.wav</ShortName>
+					<Path>SFX\TALLIAH FS_09_545BD06E.wem</Path>
+				</File>
+				<File Id="58611266" Language="SFX">
+					<ShortName>UI_Test_CharSwitch_March4_5.wav</ShortName>
+					<Path>SFX\UI_Test_CharSwitch_March4_5_1C9C67B2.wem</Path>
+				</File>
+				<File Id="58901376" Language="SFX">
+					<ShortName>Hydraulic_Platform.wav</ShortName>
+					<Path>SFX\Hydraulic_Platform_81BCC40A.wem</Path>
+				</File>
+				<File Id="61784516" Language="SFX">
+					<ShortName>DIRT BODY FALLS GMO-D-13# 38.wav</ShortName>
+					<Path>SFX\DIRT BODY FALLS GMO-D-13# 38_EED3E36D.wem</Path>
+				</File>
+				<File Id="66752652" Language="SFX">
+					<ShortName>Emily Tallliah 1 24_04 Efforts.wav</ShortName>
+					<Path>SFX\Emily Tallliah 1 24_04 Efforts_FE7DD26C.wem</Path>
+				</File>
+				<File Id="69332044" Language="SFX">
+					<ShortName>BEAR_FS_SWTNER_APR22_01.wav</ShortName>
+					<Path>SFX\BEAR_FS_SWTNER_APR22_01_FB085430.wem</Path>
+				</File>
+				<File Id="73727229" Language="SFX">
+					<ShortName>DIRT BODY FALLS GMO-D-13# 38.wav</ShortName>
+					<Path>SFX\DIRT BODY FALLS GMO-D-13# 38_95D623B5.wem</Path>
+				</File>
+				<File Id="78838955" Language="SFX">
+					<ShortName>Bear Hit Rock with Head 2.wav</ShortName>
+					<Path>SFX\Bear Hit Rock with Head 2_9D61CF03.wem</Path>
+				</File>
+				<File Id="81298535" Language="SFX">
+					<ShortName>whoosh_swish_high_fast_01.wav</ShortName>
+					<Path>SFX\whoosh_swish_high_fast_01_1C9C67B2.wem</Path>
+				</File>
+				<File Id="85465996" Language="SFX">
+					<ShortName>Metal_FS_Bear_01.wav</ShortName>
+					<Path>SFX\Metal_FS_Bear_01_1C9C67B2.wem</Path>
+				</File>
+				<File Id="97990617" Language="SFX">
+					<ShortName>PIG_04.wav</ShortName>
+					<Path>SFX\PIG_04_0F81FBE0.wem</Path>
+				</File>
+				<File Id="122270772" Language="SFX">
+					<ShortName>Jackboots_Swtnr_Mono_05.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_Mono_05_213409C1.wem</Path>
+				</File>
+				<File Id="126382800" Language="SFX">
+					<ShortName>TALLIAH FS_05.wav</ShortName>
+					<Path>SFX\TALLIAH FS_05_1C9C67B2.wem</Path>
+				</File>
+				<File Id="144051495" Language="SFX">
+					<ShortName>Metal_FS_Bear_04.wav</ShortName>
+					<Path>SFX\Metal_FS_Bear_04_1C9C67B2.wem</Path>
+				</File>
+				<File Id="147273234" Language="SFX">
+					<ShortName>Bear_FS_Apr21_Dry.wav</ShortName>
+					<Path>SFX\Bear_FS_Apr21_Dry_65CA9E12.wem</Path>
+				</File>
+				<File Id="150308069" Language="SFX">
+					<ShortName>Jackboots_Swtnr_ST_04.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_ST_04_36E97237.wem</Path>
+				</File>
+				<File Id="150328875" Language="SFX">
+					<ShortName>punch_low_deep_impact_02.wav</ShortName>
+					<Path>SFX\punch_low_deep_impact_02_1C9C67B2.wem</Path>
+				</File>
+				<File Id="152166297" Language="SFX">
+					<ShortName>62 Electricity,Spark High Voltage Spark.L.wav</ShortName>
+					<Path>SFX\62 Electricity,Spark High Voltage Spark.L_0101BBFC.wem</Path>
+				</File>
+				<File Id="156935236" Language="SFX">
+					<ShortName>DIRT BODY FALLS GMO-D-13# 38.wav</ShortName>
+					<Path>SFX\DIRT BODY FALLS GMO-D-13# 38_D68B439E.wem</Path>
+				</File>
+				<File Id="165341868" Language="SFX">
+					<ShortName>Jackboots_Swtnr_ST_01.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_ST_01_BEFD2F5D.wem</Path>
+				</File>
+				<File Id="179486829" Language="SFX">
+					<ShortName>Robot_Textures_008.R.wav</ShortName>
+					<Path>SFX\Robot_Textures_008.R_2BF0024B.wem</Path>
+				</File>
+				<File Id="182453470" Language="SFX">
+					<ShortName>Bear_FS_Apr21_Dry.wav</ShortName>
+					<Path>SFX\Bear_FS_Apr21_Dry_0DECE671.wem</Path>
+				</File>
+				<File Id="186308763" Language="SFX">
+					<ShortName>Bear_Punch_02.wav</ShortName>
+					<Path>SFX\Bear_Punch_02_1C9C67B2.wem</Path>
+				</File>
+				<File Id="186667528" Language="SFX">
+					<ShortName>Bear_Punch-01.wav</ShortName>
+					<Path>SFX\Bear_Punch-01_218F79CD.wem</Path>
+				</File>
+				<File Id="189885842" Language="SFX">
+					<ShortName>Metal_FS_Talliah_01.wav</ShortName>
+					<Path>SFX\Metal_FS_Talliah_01_1C9C67B2.wem</Path>
+				</File>
+				<File Id="191290273" Language="SFX">
+					<ShortName>Robot_Servo-Dk_14.wav</ShortName>
+					<Path>SFX\Robot_Servo-Dk_14_7153504D.wem</Path>
+				</File>
+				<File Id="202329960" Language="SFX">
+					<ShortName>Jackboots_Swtnr_Mono_04.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_Mono_04_9AABA147.wem</Path>
+				</File>
+				<File Id="206122807" Language="SFX">
+					<ShortName>Emily Tallliah 1 24_04 Efforts.wav</ShortName>
+					<Path>SFX\Emily Tallliah 1 24_04 Efforts_D6F6E341.wem</Path>
+				</File>
+				<File Id="206617160" Language="SFX">
+					<ShortName>pig_sniff_03.L.wav</ShortName>
+					<Path>SFX\pig_sniff_03.L_61D871EC.wem</Path>
+				</File>
+				<File Id="213227226" Language="SFX">
+					<ShortName>Bear_FS_Apr21_Dry.wav</ShortName>
+					<Path>SFX\Bear_FS_Apr21_Dry_54C3807A.wem</Path>
+				</File>
+				<File Id="217070015" Language="SFX">
+					<ShortName>Robot_Servo-LttlAlB_15.wav</ShortName>
+					<Path>SFX\Robot_Servo-LttlAlB_15_4430E4FE.wem</Path>
+				</File>
+				<File Id="241748779" Language="SFX">
+					<ShortName>Robot_Servo-Dk_15.wav</ShortName>
+					<Path>SFX\Robot_Servo-Dk_15_F7C12A1E.wem</Path>
+				</File>
+				<File Id="252539510" Language="SFX">
+					<ShortName>rock_smashable_hit_impact_large_03.L.wav</ShortName>
+					<Path>SFX\rock_smashable_hit_impact_large_03.L_BD75959C.wem</Path>
+				</File>
+				<File Id="253184092" Language="SFX">
+					<ShortName>Bear Hit Rock With Head.wav</ShortName>
+					<Path>SFX\Bear Hit Rock With Head_C4914A5A.wem</Path>
+				</File>
+				<File Id="260220170" Language="SFX">
+					<ShortName>Hookshot_01.wav</ShortName>
+					<Path>SFX\Hookshot_01_1FCF9BB3.wem</Path>
+				</File>
+				<File Id="261196610" Language="SFX">
+					<ShortName>punch_blocked_04.wav</ShortName>
+					<Path>SFX\punch_blocked_04_1C9C67B2.wem</Path>
+				</File>
+				<File Id="265115454" Language="SFX">
+					<ShortName>Metal_FS_Bear_03.wav</ShortName>
+					<Path>SFX\Metal_FS_Bear_03_1C9C67B2.wem</Path>
+				</File>
+				<File Id="265541669" Language="SFX">
+					<ShortName>UI_START_01.wav</ShortName>
+					<Path>SFX\UI_START_01_E5162C6B.wem</Path>
+				</File>
+				<File Id="269290268" Language="SFX">
+					<ShortName>Robot_Textures_008.R.wav</ShortName>
+					<Path>SFX\Robot_Textures_008.R_7EC13C7A.wem</Path>
+				</File>
+				<File Id="279222901" Language="SFX">
+					<ShortName>Bear Growls_03.wav</ShortName>
+					<Path>SFX\Bear Growls_03_1C9C67B2.wem</Path>
+				</File>
+				<File Id="287816379" Language="SFX">
+					<ShortName>TALLIAH FS_08.wav</ShortName>
+					<Path>SFX\TALLIAH FS_08_1C9C67B2.wem</Path>
+				</File>
+				<File Id="288171514" Language="SFX">
+					<ShortName>BEAR_FS_SWTNER_APR22_01.wav</ShortName>
+					<Path>SFX\BEAR_FS_SWTNER_APR22_01_9856D82F.wem</Path>
+				</File>
+				<File Id="304321392" Language="SFX">
+					<ShortName>Jackboots_Swtnr_Mono_05.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_Mono_05_C84BC398.wem</Path>
+				</File>
+				<File Id="314960518" Language="SFX">
+					<ShortName>Bear Hit Rock with Head 2.wav</ShortName>
+					<Path>SFX\Bear Hit Rock with Head 2_301B1BE3.wem</Path>
+				</File>
+				<File Id="325746875" Language="SFX">
+					<ShortName>4-97 Hard wood hit and shatter (2) _ heavy wood hit (2) _ bulb horn_ short toot.wav</ShortName>
+					<Path>SFX\4-97 Hard wood hit and shatter (2) _ heavy wood hit (2) _ bulb horn_ short toot_1F44674E.wem</Path>
+				</File>
+				<File Id="331454125" Language="SFX">
+					<ShortName>Hydraulic_Platform.wav</ShortName>
+					<Path>SFX\Hydraulic_Platform_644BABB1.wem</Path>
+				</File>
+				<File Id="335115754" Language="SFX">
+					<ShortName>Bear_Jump_NoSurface_01.wav</ShortName>
+					<Path>SFX\Bear_Jump_NoSurface_01_04977FB8.wem</Path>
+				</File>
+				<File Id="347663011" Language="SFX">
+					<ShortName>Emily Tallliah 1 24_04 Efforts.wav</ShortName>
+					<Path>SFX\Emily Tallliah 1 24_04 Efforts_384C9755.wem</Path>
+				</File>
+				<File Id="359269742" Language="SFX">
+					<ShortName>Jackboots_Swtnr_Mono_04.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_Mono_04_A3C0D8A9.wem</Path>
+				</File>
+				<File Id="364937686" Language="SFX">
+					<ShortName>foley_soldier_gear_equipment_metal_cloth_heavy_movement_light_05.R.wav</ShortName>
+					<Path>SFX\foley_soldier_gear_equipment_metal_cloth_heavy_movement_light_05.R_6ED80E8E.wem</Path>
+				</File>
+				<File Id="369835183" Language="SFX">
+					<ShortName>54 Bear Growls-MndMdSt_03.R.wav</ShortName>
+					<Path>SFX\54 Bear Growls-MndMdSt_03.R_6BC9F729.wem</Path>
+				</File>
+				<File Id="381568152" Language="SFX">
+					<ShortName>UI INTERACTION-Duplict_06.wav</ShortName>
+					<Path>SFX\UI INTERACTION-Duplict_06_79A8DEB2.wem</Path>
+				</File>
+				<File Id="386098125" Language="SFX">
+					<ShortName>Hydraulic_Platform.wav</ShortName>
+					<Path>SFX\Hydraulic_Platform_7347B71B.wem</Path>
+				</File>
+				<File Id="387445657" Language="SFX">
+					<ShortName>61 Electricity,Spark High Voltage Spark-Reverse_01.L.wav</ShortName>
+					<Path>SFX\61 Electricity,Spark High Voltage Spark-Reverse_01.L_E885761E.wem</Path>
+				</File>
+				<File Id="391601285" Language="SFX">
+					<ShortName>Emily Tallliah 1 24_04 Efforts.wav</ShortName>
+					<Path>SFX\Emily Tallliah 1 24_04 Efforts_7C4091CB.wem</Path>
+				</File>
+				<File Id="401065964" Language="SFX">
+					<ShortName>4-56 Small spark _ high arcing and sparking _ electric hash _ pulsing, buzzing hum-PitchII_01.L.wav</ShortName>
+					<Path>SFX\4-56 Small spark _ high arcing and sparking _ electric hash _ pulsing, buzzing hum-PitchII_01.L_09689884.wem</Path>
+				</File>
+				<File Id="429382643" Language="SFX">
+					<ShortName>PIG_03.wav</ShortName>
+					<Path>SFX\PIG_03_5B1B0134.wem</Path>
+				</File>
+				<File Id="429845735" Language="SFX">
+					<ShortName>PIG_03.wav</ShortName>
+					<Path>SFX\PIG_03_CD97BDB4.wem</Path>
+				</File>
+				<File Id="431465720" Language="SFX">
+					<ShortName>whoosh_swish_high_big_01.wav</ShortName>
+					<Path>SFX\whoosh_swish_high_big_01_1C9C67B2.wem</Path>
+				</File>
+				<File Id="432288034" Language="SFX">
+					<ShortName>whoosh_swish_high_big_04.wav</ShortName>
+					<Path>SFX\whoosh_swish_high_big_04_1C9C67B2.wem</Path>
+				</File>
+				<File Id="438302350" Language="SFX">
+					<ShortName>Jackboots_Swtnr_Mono_04.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_Mono_04_EE71302A.wem</Path>
+				</File>
+				<File Id="445216950" Language="SFX">
+					<ShortName>TALLIAH FS_03.wav</ShortName>
+					<Path>SFX\TALLIAH FS_03_1C9C67B2.wem</Path>
+				</File>
+				<File Id="446982251" Language="SFX">
+					<ShortName>Jackboots_Swtnr_Mono_05.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_Mono_05_083E3B8A.wem</Path>
+				</File>
+				<File Id="457683919" Language="SFX">
+					<ShortName>Emily Tallliah 1 24_04 Efforts.wav</ShortName>
+					<Path>SFX\Emily Tallliah 1 24_04 Efforts_76CB566A.wem</Path>
+				</File>
+				<File Id="460802414" Language="SFX">
+					<ShortName>Emily Tallliah 1 24_04 Efforts.wav</ShortName>
+					<Path>SFX\Emily Tallliah 1 24_04 Efforts_D9B09EB1.wem</Path>
+				</File>
+				<File Id="467522492" Language="SFX">
+					<ShortName>Metal_FS_Talliah_04.wav</ShortName>
+					<Path>SFX\Metal_FS_Talliah_04_1C9C67B2.wem</Path>
+				</File>
+				<File Id="477101344" Language="SFX">
+					<ShortName>UI_Test_CharSwitch_March4_3.wav</ShortName>
+					<Path>SFX\UI_Test_CharSwitch_March4_3_1C9C67B2.wem</Path>
+				</File>
+				<File Id="488329484" Language="SFX">
+					<ShortName>Rock_Drag_01.wav</ShortName>
+					<Path>SFX\Rock_Drag_01_F59D13E2.wem</Path>
+				</File>
+				<File Id="497634644" Language="SFX">
+					<ShortName>Jackboots_Swtnr_Mono_01-01.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_Mono_01-01_3A49EBC0.wem</Path>
+				</File>
+				<File Id="508809852" Language="SFX">
+					<ShortName>Robot_Textures_008.L.wav</ShortName>
+					<Path>SFX\Robot_Textures_008.L_84A14569.wem</Path>
+				</File>
+				<File Id="509642269" Language="SFX">
+					<ShortName>Jackboots_Swtnr_ST_04.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_ST_04_E7F87708.wem</Path>
+				</File>
+				<File Id="510765806" Language="SFX">
+					<ShortName>Jackboots_Swtnr_ST_07.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_ST_07_640009EA.wem</Path>
+				</File>
+				<File Id="514385136" Language="SFX">
+					<ShortName>BEAR_FS_SWTNER_APR22_01.wav</ShortName>
+					<Path>SFX\BEAR_FS_SWTNER_APR22_01_7B8E586C.wem</Path>
+				</File>
+				<File Id="516903342" Language="SFX">
+					<ShortName>54 Bear Growls-MndMdSt_03.L.wav</ShortName>
+					<Path>SFX\54 Bear Growls-MndMdSt_03.L_01E6A03B.wem</Path>
+				</File>
+				<File Id="522450308" Language="SFX">
+					<ShortName>UI_Test_CharSwitch_March4_5 (1).wav</ShortName>
+					<Path>SFX\UI_Test_CharSwitch_March4_5 (1)_1C9C67B2.wem</Path>
+				</File>
+				<File Id="549528332" Language="SFX">
+					<ShortName>Emily Tallliah 1 24_04 Efforts.wav</ShortName>
+					<Path>SFX\Emily Tallliah 1 24_04 Efforts_A6C5BC49.wem</Path>
+				</File>
+				<File Id="558175045" Language="SFX">
+					<ShortName>404747__owlstorm__retro-video-game-sfx-ouch.wav</ShortName>
+					<Path>SFX\404747__owlstorm__retro-video-game-sfx-ouch_1C9C67B2.wem</Path>
+				</File>
+				<File Id="560400757" Language="SFX">
+					<ShortName>TALLIAH FS_06.wav</ShortName>
+					<Path>SFX\TALLIAH FS_06_1C9C67B2.wem</Path>
+				</File>
+				<File Id="572915579" Language="SFX">
+					<ShortName>Jackboots_Swtnr_ST_01.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_ST_01_9E18B374.wem</Path>
+				</File>
+				<File Id="577065999" Language="SFX">
+					<ShortName>Emily Tallliah 1 24_04 Efforts.wav</ShortName>
+					<Path>SFX\Emily Tallliah 1 24_04 Efforts_A743392E.wem</Path>
+				</File>
+				<File Id="582093467" Language="SFX">
+					<ShortName>Emily Tallliah 1 24_04 Efforts.wav</ShortName>
+					<Path>SFX\Emily Tallliah 1 24_04 Efforts_115834C4.wem</Path>
+				</File>
+				<File Id="602092058" Language="SFX">
+					<ShortName>BEAR_FS_SWTNER_APR22_01.wav</ShortName>
+					<Path>SFX\BEAR_FS_SWTNER_APR22_01_DC9B642E.wem</Path>
+				</File>
+				<File Id="606231004" Language="SFX">
+					<ShortName>Jackboots_Swtnr_Mono_01-01.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_Mono_01-01_81615097.wem</Path>
+				</File>
+				<File Id="606923028" Language="SFX">
+					<ShortName>54 Bear Growls-MndMdSt_03.R.wav</ShortName>
+					<Path>SFX\54 Bear Growls-MndMdSt_03.R_036E9193.wem</Path>
+				</File>
+				<File Id="608169145" Language="SFX">
+					<ShortName>Hydraulic_Platform.wav</ShortName>
+					<Path>SFX\Hydraulic_Platform_FA284FC6.wem</Path>
+				</File>
+				<File Id="612620003" Language="SFX">
+					<ShortName>UI_START_01.wav</ShortName>
+					<Path>SFX\UI_START_01_0E676D63.wem</Path>
+				</File>
+				<File Id="621104268" Language="SFX">
+					<ShortName>foley_cloth_sports_glove_catch_07.L.wav</ShortName>
+					<Path>SFX\foley_cloth_sports_glove_catch_07.L_CAED46FA.wem</Path>
+				</File>
+				<File Id="623941413" Language="SFX">
+					<ShortName>Music Stem-Crystlz_03-25.wav</ShortName>
+					<Path>SFX\Music Stem-Crystlz_03-25_C508D71D.wem</Path>
+				</File>
+				<File Id="630302270" Language="SFX">
+					<ShortName>54 Bear Growls-MndMdSt_03.R.wav</ShortName>
+					<Path>SFX\54 Bear Growls-MndMdSt_03.R_B32E4C21.wem</Path>
+				</File>
+				<File Id="635758122" Language="SFX">
+					<ShortName>UI_Test_CharSwitch_March4_6.wav</ShortName>
+					<Path>SFX\UI_Test_CharSwitch_March4_6_1C9C67B2.wem</Path>
+				</File>
+				<File Id="645198656" Language="SFX">
+					<ShortName>Metal_FS_Talliah_05.wav</ShortName>
+					<Path>SFX\Metal_FS_Talliah_05_1C9C67B2.wem</Path>
+				</File>
+				<File Id="652753684" Language="SFX">
+					<ShortName>Bear_Jump_NoSurface_01.wav</ShortName>
+					<Path>SFX\Bear_Jump_NoSurface_01_EDECA081.wem</Path>
+				</File>
+				<File Id="657953921" Language="SFX">
+					<ShortName>Emily Tallliah 1 24_04 Efforts.wav</ShortName>
+					<Path>SFX\Emily Tallliah 1 24_04 Efforts_5234EC77.wem</Path>
+				</File>
+				<File Id="658702641" Language="SFX">
+					<ShortName>Music Stem-Crystlz_03-25.wav</ShortName>
+					<Path>SFX\Music Stem-Crystlz_03-25_8D665903.wem</Path>
+				</File>
+				<File Id="669146875" Language="SFX">
+					<ShortName>Emily Tallliah 1 24_04 Efforts.wav</ShortName>
+					<Path>SFX\Emily Tallliah 1 24_04 Efforts_D1DD1527.wem</Path>
+				</File>
+				<File Id="670866865" Language="SFX">
+					<ShortName>Bear_FS_Apr21_Dry.wav</ShortName>
+					<Path>SFX\Bear_FS_Apr21_Dry_031AF878.wem</Path>
+				</File>
+				<File Id="681322295" Language="SFX">
+					<ShortName>PIG_04.wav</ShortName>
+					<Path>SFX\PIG_04_EF9275E0.wem</Path>
+				</File>
+				<File Id="682646107" Language="SFX">
+					<ShortName>kick_heavy_impact_05.wav</ShortName>
+					<Path>SFX\kick_heavy_impact_05_1C9C67B2.wem</Path>
+				</File>
+				<File Id="687038416" Language="SFX">
+					<ShortName>Metal_FS_Talliah_02.wav</ShortName>
+					<Path>SFX\Metal_FS_Talliah_02_1C9C67B2.wem</Path>
+				</File>
+				<File Id="698927759" Language="SFX">
+					<ShortName>UI_Test_CharSwitch_March4_2.wav</ShortName>
+					<Path>SFX\UI_Test_CharSwitch_March4_2_1C9C67B2.wem</Path>
+				</File>
+				<File Id="710545548" Language="SFX">
+					<ShortName>whoosh_swish_high_big_05.wav</ShortName>
+					<Path>SFX\whoosh_swish_high_big_05_1C9C67B2.wem</Path>
+				</File>
+				<File Id="711839714" Language="SFX">
+					<ShortName>Bear_Punch_03.wav</ShortName>
+					<Path>SFX\Bear_Punch_03_CEF9FD02.wem</Path>
+				</File>
+				<File Id="712454358" Language="SFX">
+					<ShortName>TALLIAH FS_02.wav</ShortName>
+					<Path>SFX\TALLIAH FS_02_1C9C67B2.wem</Path>
+				</File>
+				<File Id="728388541" Language="SFX">
+					<ShortName>Robot_Servo-LttlAlB_15.wav</ShortName>
+					<Path>SFX\Robot_Servo-LttlAlB_15_F2DC542C.wem</Path>
+				</File>
+				<File Id="728700720" Language="SFX">
+					<ShortName>Hydraulic_Platform.wav</ShortName>
+					<Path>SFX\Hydraulic_Platform_C84E668A.wem</Path>
+				</File>
+				<File Id="751887451" Language="SFX">
+					<ShortName>Jackboots_Swtnr_ST_04.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_ST_04_F28BB475.wem</Path>
+				</File>
+				<File Id="755982237" Language="SFX">
+					<ShortName>Jackboots_Swtnr_Mono_01-01.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_Mono_01-01_F0B34ACC.wem</Path>
+				</File>
+				<File Id="760879687" Language="SFX">
+					<ShortName>rock_smashable_hit_impact_01.R.wav</ShortName>
+					<Path>SFX\rock_smashable_hit_impact_01.R_BA7E6A42.wem</Path>
+				</File>
+				<File Id="765868087" Language="SFX">
+					<ShortName>BEAR_FS_SWTNER_APR22_01.wav</ShortName>
+					<Path>SFX\BEAR_FS_SWTNER_APR22_01_7F84C251.wem</Path>
+				</File>
+				<File Id="772670412" Language="SFX">
+					<ShortName>Rock_Drag_01.wav</ShortName>
+					<Path>SFX\Rock_Drag_01_F17FB28C.wem</Path>
+				</File>
+				<File Id="775034510" Language="SFX">
+					<ShortName>Foley Stem_01.wav</ShortName>
+					<Path>SFX\Foley Stem_01_DD065FC4.wem</Path>
+				</File>
+				<File Id="787712781" Language="SFX">
+					<ShortName>DIRT BODY FALLS GMO-D-13# 38.wav</ShortName>
+					<Path>SFX\DIRT BODY FALLS GMO-D-13# 38_4D74E984.wem</Path>
+				</File>
+				<File Id="791194972" Language="SFX">
+					<ShortName>54 Bear Growls-DVerb_03.L.wav</ShortName>
+					<Path>SFX\54 Bear Growls-DVerb_03.L_7150F78F.wem</Path>
+				</File>
+				<File Id="793190492" Language="SFX">
+					<ShortName>Emily Tallliah 1 24_04 Efforts.wav</ShortName>
+					<Path>SFX\Emily Tallliah 1 24_04 Efforts_52BF4630.wem</Path>
+				</File>
+				<File Id="809945835" Language="SFX">
+					<ShortName>TALLIAH FS_04.wav</ShortName>
+					<Path>SFX\TALLIAH FS_04_1C9C67B2.wem</Path>
+				</File>
+				<File Id="814183645" Language="SFX">
+					<ShortName>PIG_02.wav</ShortName>
+					<Path>SFX\PIG_02_8A4A2450.wem</Path>
+				</File>
+				<File Id="827685696" Language="SFX">
+					<ShortName>whoosh_swish_high_big_03.wav</ShortName>
+					<Path>SFX\whoosh_swish_high_big_03_1C9C67B2.wem</Path>
+				</File>
+				<File Id="830587681" Language="SFX">
+					<ShortName>54 Bear Growls-MndMdSt_03.R.wav</ShortName>
+					<Path>SFX\54 Bear Growls-MndMdSt_03.R_0E04E462.wem</Path>
+				</File>
+				<File Id="843145901" Language="SFX">
+					<ShortName>whoosh_swish_small_08.wav</ShortName>
+					<Path>SFX\whoosh_swish_small_08_1C9C67B2.wem</Path>
+				</File>
+				<File Id="844466202" Language="SFX">
+					<ShortName>Jackboots_Swtnr_ST_07.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_ST_07_46C6FCF4.wem</Path>
+				</File>
+				<File Id="865839675" Language="SFX">
+					<ShortName>Metal_FS_Bear_02.wav</ShortName>
+					<Path>SFX\Metal_FS_Bear_02_1C9C67B2.wem</Path>
+				</File>
+				<File Id="891439480" Language="SFX">
+					<ShortName>PIG_01.wav</ShortName>
+					<Path>SFX\PIG_01_60578943.wem</Path>
+				</File>
+				<File Id="895801283" Language="SFX">
+					<ShortName>whoosh_swish_high_fast_02.wav</ShortName>
+					<Path>SFX\whoosh_swish_high_fast_02_1C9C67B2.wem</Path>
+				</File>
+				<File Id="897073540" Language="SFX">
+					<ShortName>Jackboots_Swtnr_Mono_04.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_Mono_04_BC1ADFDB.wem</Path>
+				</File>
+				<File Id="897698879" Language="SFX">
+					<ShortName>Rock_Push_Off_02.wav</ShortName>
+					<Path>SFX\Rock_Push_Off_02_1C9C67B2.wem</Path>
+				</File>
+				<File Id="907408061" Language="SFX">
+					<ShortName>Jackboots_Swtnr_Mono_01-01.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_Mono_01-01_2E3C122C.wem</Path>
+				</File>
+				<File Id="911083003" Language="SFX">
+					<ShortName>4-56 Small spark _ high arcing and sparking _ electric hash _ pulsing, buzzing hum.wav</ShortName>
+					<Path>SFX\4-56 Small spark _ high arcing and sparking _ electric hash _ pulsing, buzzing hum_916558F2.wem</Path>
+				</File>
+				<File Id="914954071" Language="SFX">
+					<ShortName>Jackboots_Swtnr_Mono_04.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_Mono_04_D37EA226.wem</Path>
+				</File>
+				<File Id="943666402" Language="SFX">
+					<ShortName>Bear_FS_Apr21_Dry.wav</ShortName>
+					<Path>SFX\Bear_FS_Apr21_Dry_7FF947B4.wem</Path>
+				</File>
+				<File Id="944991123" Language="SFX">
+					<ShortName>Jackboots_Swtnr_ST_04.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_ST_04_2A7C5634.wem</Path>
+				</File>
+				<File Id="962091107" Language="SFX">
+					<ShortName>UI_Test_CharSwitch_March4_4.wav</ShortName>
+					<Path>SFX\UI_Test_CharSwitch_March4_4_1C9C67B2.wem</Path>
+				</File>
+				<File Id="962921966" Language="SFX">
+					<ShortName>Bear_Text Speech Tone01.wav</ShortName>
+					<Path>SFX\Bear_Text Speech Tone01_C95F7186.wem</Path>
+				</File>
+				<File Id="962980956" Language="SFX">
+					<ShortName>Level_Music_Mastered.wav</ShortName>
+					<Path>SFX\Level_Music_Mastered_F17FB28C.wem</Path>
+				</File>
+				<File Id="970280572" Language="SFX">
+					<ShortName>Jackboots_Swtnr_ST_04.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_ST_04_CC7CA9BA.wem</Path>
+				</File>
+				<File Id="970549453" Language="SFX">
+					<ShortName>TALLIAH FS_01.wav</ShortName>
+					<Path>SFX\TALLIAH FS_01_1C9C67B2.wem</Path>
+				</File>
+				<File Id="974847623" Language="SFX">
+					<ShortName>Jackboots_Swtnr_Mono_05.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_Mono_05_739F5E4A.wem</Path>
+				</File>
+				<File Id="985297344" Language="SFX">
+					<ShortName>Emily Tallliah 1 24_04 Efforts.wav</ShortName>
+					<Path>SFX\Emily Tallliah 1 24_04 Efforts_16DE1D15.wem</Path>
+				</File>
+				<File Id="991130126" Language="SFX">
+					<ShortName>PIG_02.wav</ShortName>
+					<Path>SFX\PIG_02_DAC344A6.wem</Path>
+				</File>
+				<File Id="992554059" Language="SFX">
+					<ShortName>Hydraulic_Platform.wav</ShortName>
+					<Path>SFX\Hydraulic_Platform_143261E4.wem</Path>
+				</File>
+				<File Id="996337494" Language="SFX">
+					<ShortName>UI INTERACTION-Duplict_06.wav</ShortName>
+					<Path>SFX\UI INTERACTION-Duplict_06_6BBC5FEA.wem</Path>
+				</File>
+				<File Id="1008992386" Language="SFX">
+					<ShortName>425347__soundholder__8bit-hit-14.wav</ShortName>
+					<Path>SFX\425347__soundholder__8bit-hit-14_C2211BD5.wem</Path>
+				</File>
+				<File Id="1012513100" Language="SFX">
+					<ShortName>Jackboots_Swtnr_ST_01.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_ST_01_C34FA531.wem</Path>
+				</File>
+				<File Id="1018001081" Language="SFX">
+					<ShortName>Lever_Pull_01.wav</ShortName>
+					<Path>SFX\Lever_Pull_01_1C9C67B2.wem</Path>
+				</File>
+				<File Id="1020783252" Language="SFX">
+					<ShortName>Metal_FS_Talliah_03.wav</ShortName>
+					<Path>SFX\Metal_FS_Talliah_03_1C9C67B2.wem</Path>
+				</File>
+				<File Id="1032817569" Language="SFX">
+					<ShortName>TALLIAH FS_07.wav</ShortName>
+					<Path>SFX\TALLIAH FS_07_1C9C67B2.wem</Path>
+				</File>
+				<File Id="1038870342" Language="SFX">
+					<ShortName>pig_sniff_deep_02.L.wav</ShortName>
+					<Path>SFX\pig_sniff_deep_02.L_1C9C67B2.wem</Path>
+				</File>
+				<File Id="1041485087" Language="SFX">
+					<ShortName>PIG_05.wav</ShortName>
+					<Path>SFX\PIG_05_1C9C67B2.wem</Path>
+				</File>
+				<File Id="1041648707" Language="SFX">
+					<ShortName>Emily Tallliah 1 24_04 Efforts.wav</ShortName>
+					<Path>SFX\Emily Tallliah 1 24_04 Efforts_071EDEEA.wem</Path>
+				</File>
+				<File Id="1047641596" Language="SFX">
+					<ShortName>sci-fi_electric_pulse_power_down_03.wav</ShortName>
+					<Path>SFX\sci-fi_electric_pulse_power_down_03_CA7D54DD.wem</Path>
+				</File>
+				<File Id="1060920845" Language="SFX">
+					<ShortName>Jackboots_Swtnr_ST_01.wav</ShortName>
+					<Path>SFX\Jackboots_Swtnr_ST_01_CCE21DD6.wem</Path>
+				</File>
+				<File Id="1061105688" Language="SFX">
+					<ShortName>54 Bear Growls-VariFi_03.L.wav</ShortName>
+					<Path>SFX\54 Bear Growls-VariFi_03.L_1C9C67B2.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
